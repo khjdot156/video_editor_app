@@ -1,13 +1,16 @@
 buildscript {
     ext.kotlin_version = '1.7.10'
+    ext.vesdk_version = '10.4.1'
     repositories {
         google()
         mavenCentral()
+        maven { url "https://artifactory.img.ly/artifactory/imgly" }
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.2.0'
+        classpath 'com.android.tools.build:gradle:7.0.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "ly.img.android.sdk:plugin:$vesdk_version"
     }
 }
 
@@ -28,4 +31,10 @@ subprojects {
 
 task clean(type: Delete) {
     delete rootProject.buildDir
+}
+
+allprojects {
+    repositories {
+        maven { url 'https://artifactory.img.ly/artifactory/imgly' }
+    }
 }

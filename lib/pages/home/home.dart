@@ -5,6 +5,9 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:imgly_sdk/imgly_sdk.dart';
 import 'package:video_editor_app/helper/get_audio.dart';
+import 'package:video_editor_app/helper/utils.dart';
+import 'package:video_editor_app/pages/inapp/inapp_screen.dart';
+import 'package:video_editor_app/pages/settings/settings_screen.dart';
 import 'package:video_editor_sdk/video_editor_sdk.dart';
 
 import 'create_element.dart';
@@ -64,13 +67,40 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
-        title: Text('Inshot'),
-        centerTitle: false,
-        actions: const [
-          InkWell(
-            child: Icon(Icons.settings),
+        title: Text(
+          'Inshot',
+          style: GoogleFonts.poppins(
+            fontSize: 18,
+            fontWeight: FontWeight.bold,
+            color: Colors.white,
           ),
-          SizedBox(width: 16)
+        ),
+        centerTitle: false,
+        actions: [
+          InkWell(
+            onTap: () => Utils().showProScreen(context),
+            child: Icon(
+              Icons.storefront_outlined,
+              color: Colors.amber[300],
+            ),
+          ),
+          const SizedBox(width: 10),
+          InkWell(
+            onTap: () {
+              showModalBottomSheet(
+                context: context,
+                useSafeArea: true,
+                useRootNavigator: true,
+                enableDrag: false,
+                isScrollControlled: true,
+                builder: (context) {
+                  return const SettingsScreen();
+                },
+              );
+            },
+            child: const Icon(Icons.settings),
+          ),
+          const SizedBox(width: 16)
         ],
       ),
       body: Padding(
@@ -79,7 +109,7 @@ class _HomeState extends State<Home> {
           children: [
             FutureBuilder(
               future: Future.delayed(Duration(seconds: 10), () {
-                GetAudios().loadData();
+                // GetAudios().loadData();
               }),
               builder: (context, snapshot) {
                 final List<FileSystemEntity> entities =

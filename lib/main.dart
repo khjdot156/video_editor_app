@@ -1,11 +1,26 @@
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import 'package:status_bar_control/status_bar_control.dart';
 
 import 'pages/home/home.dart';
-import 'pages/inapp/inapp_screen.dart';
+import 'package:flutter/services.dart' show rootBundle;
 
-void main() {
-  runApp(const MyApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await EasyLocalization.ensureInitialized();
+  await StatusBarControl.setHidden(true, animation: StatusBarAnimation.SLIDE);
+
+  await loadAsset();
+
+  runApp(
+    const MyApp(),
+  );
+}
+
+Future<void> loadAsset() async {
+  final text = await rootBundle.loadString('assets/translations/en-US.xml');
+
+  final regex = RegExp(r'<string');
 }
 
 class MyApp extends StatelessWidget {
@@ -14,12 +29,11 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return GetMaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: const Home(),
+    return EasyLocalization(
+      supportedLocales: const [Locale('en', 'US')],
+      path: 'assets/translations',
+      fallbackLocale: const Locale('en', 'US'),
+      child: const Home(),
     );
   }
 }

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:share_plus/share_plus.dart';
+import 'package:video_editor_app/helper/const.dart';
 import 'package:video_editor_app/helper/utils.dart';
 
 import 'item_setting.dart';
@@ -161,21 +163,27 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   icon: 'assets/icons/icon_setting_youtube.png',
                   title: 'Youtube',
                   isMore: false,
-                  onTap: () {},
+                  onTap: () {
+                    Utils.openUrl(Const.urlYoutube);
+                  },
                 ),
                 const SizedBox(height: 20),
                 ItemSettings(
                   icon: 'assets/icons/icon_setting_tiktok.png',
                   title: 'Tiktok',
                   isMore: false,
-                  onTap: () {},
+                  onTap: () {
+                    Utils.openUrl(Const.urlTiktok);
+                  },
                 ),
                 const SizedBox(height: 20),
                 ItemSettings(
                   icon: 'assets/icons/icon_setting_share.png',
                   title: 'Invite Friends',
                   isMore: false,
-                  onTap: () {},
+                  onTap: () {
+                    Share.shareUri(Uri.parse(Const.storeAppAndroid));
+                  },
                 ),
               ],
             ),

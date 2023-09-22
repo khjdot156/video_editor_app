@@ -89,6 +89,8 @@ class _HomeState extends State<Home> {
             onTap: () {
               showModalBottomSheet(
                 context: context,
+                backgroundColor: Colors.transparent,
+                barrierColor: Colors.redAccent[400],
                 useSafeArea: true,
                 useRootNavigator: true,
                 enableDrag: false,

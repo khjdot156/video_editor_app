@@ -18,9 +18,14 @@ void main() async {
 }
 
 Future<void> loadAsset() async {
-  final text = await rootBundle.loadString('assets/translations/en-US.xml');
+  // final text = await rootBundle.loadString('assets/translations/en-US.xml');
+  const tsst = '<string name="InShot_detail">InShot Pro details</string>';
+  final regExp = RegExp(r'".*"');
+//https://200lab.io/blog/regex-trong-ngon-ngu-dart/
+//https://stackoverflow.com/questions/53239702/how-to-remove-only-symbols-from-string-in-dart
 
-  final regex = RegExp(r'<string');
+  final maths = regExp.firstMatch(tsst);
+  print('maths: ${maths?.group(0)?..replaceAll("\"", "")}');
 }
 
 class MyApp extends StatelessWidget {
@@ -33,7 +38,9 @@ class MyApp extends StatelessWidget {
       supportedLocales: const [Locale('en', 'US')],
       path: 'assets/translations',
       fallbackLocale: const Locale('en', 'US'),
-      child: const Home(),
+      child: MaterialApp(
+        home: const Home(),
+      ),
     );
   }
 }

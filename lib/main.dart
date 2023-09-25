@@ -1,9 +1,11 @@
+import 'dart:io';
+
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:status_bar_control/status_bar_control.dart';
 
 import 'pages/home/home.dart';
-import 'package:flutter/services.dart' show rootBundle;
+import 'package:flutter/services.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -18,14 +20,28 @@ void main() async {
 }
 
 Future<void> loadAsset() async {
-  // final text = await rootBundle.loadString('assets/translations/en-US.xml');
-  const tsst = '<string name="InShot_detail">InShot Pro details</string>';
-  final regExp = RegExp(r'".*"');
-//https://200lab.io/blog/regex-trong-ngon-ngu-dart/
-//https://stackoverflow.com/questions/53239702/how-to-remove-only-symbols-from-string-in-dart
+  var text = await rootBundle.loadString('assets/raw/en-US.xml');
+  //find keys
+  final regExpKeys = RegExp(r'(?<=(<string name="))(.*?)(?=")');
+  final keyMaths = regExpKeys.allMatches(text);
+  //find value
+  final regExpValues = RegExp(r'(?:>)((.+?|\n)*?)(?=</string>)');
+  final valueMaths = regExpValues.allMatches(text);
 
-  final maths = regExp.firstMatch(tsst);
-  print('maths: ${maths?.group(0)?..replaceAll("\"", "")}');
+  print(keyMaths.length);
+  print(valueMaths.length);
+// translations
+  for (var i = 0; i < keyMaths.length; i++) {
+    final key = keyMaths.elementAt(i).group(0);
+    final value = valueMaths.elementAt(i).group(0)?.replaceAll(RegExp('>'), "");
+    final oldText = "<string name=\"$key\">$value</string>";
+    final newText = "<$key>$value</$key>";
+    text = text.replaceAll(oldText, newText);
+  }
+  print(text);
+  final File file = File('/Users/admins/Documents/FlutterProjects/video_editor_app/assets/translations/en-US.xml');
+  await file.create();
+  await file.writeAsString(text);
 }
 
 class MyApp extends StatelessWidget {

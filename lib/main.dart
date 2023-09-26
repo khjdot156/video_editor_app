@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
+import 'package:path_provider/path_provider.dart';
 import 'package:status_bar_control/status_bar_control.dart';
 
 import 'pages/home/home.dart';
@@ -20,29 +21,42 @@ void main() async {
 }
 
 Future<void> loadAsset() async {
-  var text = await rootBundle.loadString('assets/raw/en-US.xml');
-  //find keys
-  final regExpKeys = RegExp(r'(?<=(<string name="))(.*?)(?=")');
-  final keyMaths = regExpKeys.allMatches(text);
-  //find value
-  final regExpValues = RegExp(r'(?:>)((.+?|\n)*?)(?=</string>)');
-  final valueMaths = regExpValues.allMatches(text);
+    
 
-  print(keyMaths.length);
-  print(valueMaths.length);
-// translations
-  for (var i = 0; i < keyMaths.length; i++) {
-    final key = keyMaths.elementAt(i).group(0);
-    final value = valueMaths.elementAt(i).group(0)?.replaceAll(RegExp('>'), "");
-    final oldText = "<string name=\"$key\">$value</string>";
-    final newText = "<$key>$value</$key>";
-    text = text.replaceAll(oldText, newText);
-  }
-  print(text);
-  final File file = File('/Users/admins/Documents/FlutterProjects/video_editor_app/assets/translations/en-US.xml');
-  await file.create();
-  await file.writeAsString(text);
+
+
+
+
+
+//   var text = await rootBundle.loadString('assets/raw/en-US.xml');
+//   //find keys
+//   final regExpKeys = RegExp(r'(?<=(<string name="))(.*?)(?=")');
+//   final keyMaths = regExpKeys.allMatches(text);
+//   //find value
+//   final regExpValues = RegExp(r'(?:>)((.+?|\n)*?)(?=</string>)');
+//   final valueMaths = regExpValues.allMatches(text);
+
+//   print(keyMaths.length);
+//   print(valueMaths.length);
+// // translations
+//   for (var i = 0; i < keyMaths.length; i++) {
+//     final key = keyMaths.elementAt(i).group(0);
+//     final value = valueMaths.elementAt(i).group(0)?.replaceAll(RegExp('>'), "");
+//     final oldText = "<string name=\"$key\">$value</string>";
+//     final newText = "<$key>$value</$key>";
+//     text = text.replaceAll(oldText, newText);
+//   }
+//   print(text);
+   
+//   final File file = File('/Users/admins/Documents/FlutterProjects/video_editor_app/assets/translations/en-US.xml');
+//   file.createSync();
+//   await file.writeAsString(text);
 }
+
+ Future<String> get _localPath async {
+    final directory = await getApplicationDocumentsDirectory();
+    return directory.path;
+  }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

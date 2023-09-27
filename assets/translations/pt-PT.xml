@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <abc_action_bar_home_description>Navegar para a página inicial</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Navegar para cima</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Mais opções</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Concluído</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Ver tudo</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Selecionar um app</abc_activitychooserview_choose_application>
+    <abc_capital_off>DESATIVADO</abc_capital_off>
+    <abc_capital_on>ATIVADO</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>espaço</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>Pesquisar…</abc_search_hint>
+    <abc_searchview_description_clear>Limpar consulta</abc_searchview_description_clear>
+    <abc_searchview_description_query>Consulta de pesquisa</abc_searchview_description_query>
+    <abc_searchview_description_search>Pesquisar</abc_searchview_description_search>
+    <abc_searchview_description_submit>Enviar consulta</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Pesquisa por voz</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Compartilhar com</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Compartilhar com %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Recolher</abc_toolbar_collapse_description>
+    <continue_text>Continuar</continue_text>
+    <exo_controls_cc_disabled_description>Ativar legendas</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Desativar legendas</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Avançar</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Entrar no modo de tela cheia</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Sair do modo de tela cheia</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Ocultar controles do player</exo_controls_hide>
+    <exo_controls_next_description>Próxima</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Ocultar configurações extras</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Exibir configurações extras</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Pausar</exo_controls_pause_description>
+    <exo_controls_play_description>Reproduzir</exo_controls_play_description>
+    <exo_controls_playback_speed>Velocidade</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Normal</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Anterior</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Repetir tudo</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Não repetir</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Repetir uma</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Retroceder</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Andamento da reprodução</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Configurações</exo_controls_settings_description>
+    <exo_controls_show>Mostrar controles do player</exo_controls_show>
+    <exo_controls_shuffle_off_description>Ordem aleatória desativada</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Ordem aleatória ativada</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Parar</exo_controls_stop_description>
+    <exo_controls_vr_description>Modo RV</exo_controls_vr_description>
+    <exo_download_completed>Download concluído</exo_download_completed>
+    <exo_download_description>Fazer o download</exo_download_description>
+    <exo_download_downloading>Fazendo o download</exo_download_downloading>
+    <exo_download_failed>Falha no download</exo_download_failed>
+    <exo_download_notification_channel_name>Downloads</exo_download_notification_channel_name>
+    <exo_download_removing>Removendo downloads</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Mono</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Alternativa</exo_track_role_alternate>
+    <exo_track_role_closed_captions>CC</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Comentários</exo_track_role_commentary>
+    <exo_track_role_supplementary>Complementar</exo_track_role_supplementary>
+    <exo_track_selection_auto>Automática</exo_track_selection_auto>
+    <exo_track_selection_none>Nenhuma</exo_track_selection_none>
+    <exo_track_selection_title_audio>Áudio</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Texto</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Vídeo</exo_track_selection_title_video>
+    <exo_track_stereo>Estéreo</exo_track_stereo>
+    <exo_track_surround>Sistema surround</exo_track_surround>
+    <exo_track_surround_5_point_1>Sistema surround 5.1</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>Sistema surround 7.1</exo_track_surround_7_point_1>
+    <exo_track_unknown>Desconhecido</exo_track_unknown>
+    <gdpr_consent>"We never stop trying to provide a higher quality user experience in every detail. The privacy policy is updated to adapt to the EU General Data Protection Regulation (GDPR). You can read it in “Settings” - “Privacy policy”.
+
+Please click “Continue” to agree to the policy and use this app. If you don’t want personal data to be collected by the advertising providers, please go to “setting” - “Privacy Policy” page and Click “I don’t agree”."</gdpr_consent>
+    <search_menu_title>Pesquisar</search_menu_title>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+</resources>

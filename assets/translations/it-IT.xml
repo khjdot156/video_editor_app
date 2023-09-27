@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>Dettagli di InShot Pro</InShot_detail>
+    <abc_action_bar_home_description>Portami a casa</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Torna indietro</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Altre opzioni</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Fine</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Mostra tutto</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>"Scelta di un'app"</abc_activitychooserview_choose_application>
+    <abc_capital_off>OFF</abc_capital_off>
+    <abc_capital_on>ON</abc_capital_on>
+    <abc_menu_alt_shortcut_label>ALT +</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>CTRL +</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>CANC</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>INVIO</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>FUNZIONE +</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>META +</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>MAIUSC +</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>SPAZIO</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>SYM +</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>MENU +</abc_prepend_shortcut_label>
+    <abc_search_hint>Cerca…</abc_search_hint>
+    <abc_searchview_description_clear>Cancella query</abc_searchview_description_clear>
+    <abc_searchview_description_query>Query di ricerca</abc_searchview_description_query>
+    <abc_searchview_description_search>Cerca</abc_searchview_description_search>
+    <abc_searchview_description_submit>Invia query</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Ricerca vocale</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Condividi con</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Condividi tramite %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Comprimi</abc_toolbar_collapse_description>
+    <account>Account</account>
+    <acknowledge>Ringraziamenti</acknowledge>
+    <action_settings>impostazioni</action_settings>
+    <actual_price_year_format>Acquistare per %s/anno</actual_price_year_format>
+    <ad_personalization>Personalizzazione inserzioni</ad_personalization>
+    <ad_personalization_tip>"I cookie sono file di testo creati sul tuo dispositivo dal server web. Al fine di fornire un servizio migliore, potremmo utilizzare tecnologie correlate per inviare uno o più cookie al tuo dispositivo per raccogliere e archiviare informazioni sull'utilizzo di questo prodotto.
+
+Admob, Mopub, Vungle, Facebook, Smaato, myTarget come inserzionisti di InShot, possono raccogliere informazioni generate durante l'utilizzo dei nostri prodotti e servizi, estrarre le tue preferenze e utilizzarle per mostrarti annunci più in linea con le tue esigenze individuali. Non condividiamo i dati degli utenti con Facebook o altre parti (verificato da BBC &amp; Privacy International).
+
+Utilizzeremo mezzi tecnici per anonimizzare i dati e le informazioni anonime non saranno in grado di identificare il soggetto. Se non sei interessato alla visualizzazione personalizzata, puoi scegliere di disattivare la visualizzazione dei contenuti personalizzati tramite Impostazioni-Personalizzazione degli annunci. Tieni presente che potresti ancora visualizzare annunci dopo aver disattivato questa opzione, ma la pertinenza degli annunci verrà ridotta."</ad_personalization_tip>
+    <add>Aggiungere</add>
+    <add_favorite>Aggiungi ai tuoi preferiti</add_favorite>
+    <adjust>Regola</adjust>
+    <agree>Accetto</agree>
+    <album>ALBUM</album>
+    <album_sleepless_desc>Assicurati di aggiungere le seguenti informazioni alla descrizione del video quando condividi il pubblico.</album_sleepless_desc>
+    <all>Tutti</all>
+    <all_inclusive>Tutto incluso</all_inclusive>
+    <all_original_files_miss_in_draft>"La bozza è danneggiata perché mancano tutti i file originali. 
+
+Recuperare i file originali da [Eliminati di recente/Cestino] potrebbe correggerla."</all_original_files_miss_in_draft>
+    <all_premium>Accesso a tutti i filtri, effetti, adesivi, caratteri Premium. Nessuna filigrana, nessun annuncio.</all_premium>
+    <all_premium_1>Accesso a tutti i filtri, effetti, adesivi, caratteri Premium. Nessun annuncio.</all_premium_1>
+    <allow_camera_access>"Consentire l'accesso alla Videocamera"</allow_camera_access>
+    <allow_record_access>"Consenti l'accesso al microfono"</allow_record_access>
+    <allow_record_access_hint>"InShot richiede l'autorizzazione del microfono per registrare l'audio."</allow_record_access_hint>
+    <allow_storage_access>Consenti accesso di memoria</allow_storage_access>
+    <allow_storage_access_hint>"Per creare splendidi video e foto, InShot ha bisogno dell'accesso alla tua libreria di foto."</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>"Per creare splendidi video e foto, InShot ha bisogno dell'accesso alla tua libreria di foto e fotocamera."</allow_storage_camera_access_hint>
+    <already_InShot_pro>Sei già un membro InShot Pro</already_InShot_pro>
+    <already_purchased>Già acquistato?</already_purchased>
+    <angle>Angolo</angle>
+    <animation_in>IN ENTRATA</animation_in>
+    <animation_out>IN USCITA</animation_out>
+    <animation_stickers>Adesivi animati</animation_stickers>
+    <app_latest_version_available_title>"L'ultima versione è disponibile (%s)"</app_latest_version_available_title>
+    <app_latest_version_title>"Hai l'ultima versione!"</app_latest_version_title>
+    <app_not_installed_content>Scaricare %s o condividere con altre applicazioni</app_not_installed_content>
+    <app_not_installed_download_app>SCARICA %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>CONDIVIDI</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s non installata</app_not_installed_title>
+    <app_wall_entrance_action>CHECK-OUT</app_wall_entrance_action>
+    <app_wall_entrance_title>App più popolari di oggi</app_wall_entrance_title>
+    <apply_to_all>Applicare a tutto</apply_to_all>
+    <apply_to_all_clips>Applica a tutte le clip</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>"La durata dell'audio è troppo breve."</audio_too_short_after_cut_hint>
+    <authorization>Autorizzazione</authorization>
+    <background>Sfondo</background>
+    <background_color>Colore sfondo</background_color>
+    <basic>DI BASE</basic>
+    <basic_animation>DI BASE</basic_animation>
+    <beats>Ritmo</beats>
+    <billing_unavailable>Non hai impostato alcun account Google Play.</billing_unavailable>
+    <billing_unavailable_hw>Non hai impostato un account Huawei.</billing_unavailable_hw>
+    <blank>Vuoto</blank>
+    <blend>Mescola</blend>
+    <blocked>Bloccato</blocked>
+    <blur>Sfocatura</blur>
+    <blur_background>Sfocatura sfondo</blur_background>
+    <blur_bg>Sfocatura</blur_bg>
+    <blur_bg_custom_hint>Utilizza la tua foto come sfondo</blur_bg_custom_hint>
+    <blur_bg_options_merged>Le opzioni Sfocatura e sfondo sono unite</blur_bg_options_merged>
+    <blur_off>Assente</blur_off>
+    <blur_on>Su</blur_on>
+    <border>CONTORNO</border>
+    <brush>usa pennello</brush>
+    <buy>Acquistare</buy>
+    <can_not_add_more_tracks>Impossibile aggiungere altre tracce</can_not_add_more_tracks>
+    <can_not_add_tracks>Impossibile aggiungere qui le tracce</can_not_add_tracks>
+    <cancel>Annulla</cancel>
+    <cancel_save_video_dlg_btn_no>No</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>Sì</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Vuoi annullare la conversione video?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Attenzione</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Questa clip è troppo corta per applicare la transizione.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>Impossibile salvare GIF di durata superiore a 1 minuto. Modifica il formato oppure riduci la durata della GIF.</cannot_save_gif_over_one_minute>
+    <canvas>Tela</canvas>
+    <celebrate>Celebrare</celebrate>
+    <change_beginning_too_short>"La durata è troppo corta per andare all'inizio del video/clip"</change_beginning_too_short>
+    <change_end_too_short>La durata è troppo corta per andare alla fine del video/clip</change_end_too_short>
+    <change_language_title>Scegli la lingua</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Se il caricamento del video su Instagram non va a buon fine e non è dovuto ad assenza di rete, prova con il formato MPEG-4. Il formato predefinito è H.264, per una migliore qualità e dimensioni ridotte.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Modifica Video Codec</change_video_codec_dialog_title>
+    <character>Carattere</character>
+    <check>Controllalo</check>
+    <choose_pay_method>Scegli il metodo di pagamento</choose_pay_method>
+    <choose_video_quality_hint>Qualità</choose_video_quality_hint>
+    <chroma>Chroma</chroma>
+    <classic>classico</classic>
+    <clear>Pulisci</clear>
+    <string name="clear_cache_content">Dopo la pulizia verrà salvato &lt;b>%s&lt;/b> di spazio di memoria. Non avrà effetti sulla tua bozza. Vuoi continuare?</string>
+    <clearing>Pulisci…</clearing>
+    <click_here>Cliccami</click_here>
+    <click_track_tip>Clicca la timeline per modificare la musica e regolare il volume del video.</click_track_tip>
+    <clip_beginning>Inizio clip</clip_beginning>
+    <clip_end>Fine clip</clip_end>
+    <clip_mute_adjust_volume_retry>"Attiva l'audio e riprova"</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>La durata totale sarà ridotta e la timeline cambierà di conseguenza.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>La nuova clip è più corta di quella attuale.</clip_replace_shorter_title>
+    <clip_reversed>Cip invertita</clip_reversed>
+    <clip_video_tip>Agganciare il video alla lunghezza dovete importare.</clip_video_tip>
+    <collage>Collage</collage>
+    <collage_long_press_swap_photo>Premere a lungo per scambiare le foto.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>È possibile selezionare al massimo 9 foto!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Fare clic su una foto per scambiare con</collage_swap_photo>
+    <color>Colore</color>
+    <color_palette>Tavolozza dei colori</color_palette>
+    <common_google_play_services_enable_button>Attiva</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>%1$s non funzionerà se non attivi Google Play Services.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Attiva Google Play Services</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Installa</common_google_play_services_install_button>
+    <common_google_play_services_install_text>"L'app %1$s non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Installa Google Play Services</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Disponibilità di Google Play Services</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Errore Google Play Services</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s sta riscontrando problemi con Google Play Services. Riprova.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s non funzionerà senza Google Play Services, non supportati dal tuo dispositivo.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Aggiorna</common_google_play_services_update_button>
+    <common_google_play_services_update_text>%1$s non funzionerà se non aggiorni Google Play Services.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Aggiorna Google Play Services</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>%1$s non funzionerà senza Google Play Services, attualmente in fase di aggiornamento.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>"È richiesta una nuova versione di Google Play Services. L'aggiornamento automatico verrà eseguito a breve."</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Apri sul telefono</common_open_on_phone>
+    <common_signin_button_text>Accedi</common_signin_button_text>
+    <common_signin_button_text_long>Accedi con Google</common_signin_button_text_long>
+    <contact_creator>Contatta il creatore</contact_creator>
+    <continue_buy>Dopo il rinnovo per un anno, InShot Pro sarà esteso a %s.</continue_buy>
+    <continue_text>Continua</continue_text>
+    <continue_title>Continua</continue_title>
+    <contrast>Contrasto</contrast>
+    <convert_failed>conversione non riuscita</convert_failed>
+    <copied>Copiato</copied>
+    <copy>Copia</copy>
+    <crop>Ritaglio</crop>
+    <curve>Curve</curve>
+    <custom_background>Personalizza lo sfondo</custom_background>
+    <custom_sticker>Sovrapponi le immagini sul video</custom_sticker>
+    <cut>Monta</cut>
+    <cut_both_ends>Taglia</cut_both_ends>
+    <cut_import>Importare</cut_import>
+    <cut_video>Taglio video</cut_video>
+    <cutout>Ritagliare</cutout>
+    <day_free_trial>%s giorni di prova gratuita</day_free_trial>
+    <days_left>%d giorni rimanenti</days_left>
+    <delete>Cancellare</delete>
+    <delete_confirm_dialog_content>Vuoi eliminare?</delete_confirm_dialog_content>
+    <delete_drafts_note>Tieni presente che le bozze eliminate non possono essere recuperate!</delete_drafts_note>
+    <delete_material_tip>"L'eliminazione del materiale inciderà sulle bozze!"</delete_material_tip>
+    <denoise>Riduzione del Rumore</denoise>
+    <detail>dettaglio</detail>
+    <detail_mosaic>Dettaglio</detail_mosaic>
+    <directories>Directory</directories>
+    <disable_follow>Disabilita</disable_follow>
+    <discard_edit_dlg_confirm>ANNULLARE</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Annullare la modifica?</discard_edit_dlg_title>
+    <discount>Sconto</discount>
+    <discount_format>%s di sconto</discount_format>
+    <dissolve>DISSOLVENZA</dissolve>
+    <distort>Distorsione</distort>
+    <do_not_use_tags>Non utilizzare i tag?</do_not_use_tags>
+    <donate>DONA</donate>
+    <done>Fatto</done>
+    <double_click_reset_zoom>Fai doppio clic per ripristinare</double_click_reset_zoom>
+    <download>il Download</download>
+    <download_failed>Scaricamento fallito!</download_failed>
+    <download_video_progress_title>Loading video dal server…</download_video_progress_title>
+    <draft>BOZZA</draft>
+    <draft_clip_missing_tip>Impossibile caricare alcune clip nella bozza perché i file originali non sono più disponibili.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Prova a sostituire con altre risorse per continuare.</draft_clip_missing_tip1>
+    <draft_corrupted>Mancano alcuni elementi nella bozza.</draft_corrupted>
+    <draft_delete_video_hint>"L'eliminazione del video originale danneggerà il file di bozza."</draft_delete_video_hint>
+    <draft_load_err>Errore di caricamento</draft_load_err>
+    <draft_open_hint>Una volta avviato un nuovo progetto video, la bozza verrà sostituita.</draft_open_hint>
+    <draft_saved>Bozza salvata</draft_saved>
+    <drafts>%s BOZZE</drafts>
+    <drafts_not_backward_compatible>"La versione dell'app è troppo bassa per aprire le bozze."</drafts_not_backward_compatible>
+    <drag_to_swap>Trascina per scambiare</drag_to_swap>
+    <duplicate>Duplicare</duplicate>
+    <duration>Durata</duration>
+    <edit>Modifica</edit>
+    <edit_music_dialog_music_volume>Volume audio</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Volume video</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Modifica il volume</edit_music_dialog_title>
+    <edit_volume_fade_out>Dissolvenza</edit_volume_fade_out>
+    <edit_with_inshot>Modifica con InShot:</edit_with_inshot>
+    <effect>Effetti</effect>
+    <effect_count>%d EFFETTI</effect_count>
+    <effects>Effetti</effects>
+    <emoji_activity_category>ATTIVITÀ</emoji_activity_category>
+    <emoji_animals_category>ANIMALI</emoji_animals_category>
+    <emoji_celebration_category>FESTA</emoji_celebration_category>
+    <emoji_dialy_category>QUOTIDIANO</emoji_dialy_category>
+    <emoji_emotion_category>EMOZIONE</emoji_emotion_category>
+    <emoji_food_category>CUCINA</emoji_food_category>
+    <emoji_gesture_category>GESTO</emoji_gesture_category>
+    <emoji_nature_category>NATURA</emoji_nature_category>
+    <emoji_objects_category>OGGETTI</emoji_objects_category>
+    <emoji_people_category>GENTE</emoji_people_category>
+    <emoji_recent_category>RECENTE</emoji_recent_category>
+    <emoji_smile_category>SMILYES</emoji_smile_category>
+    <emoji_symbols_category>SIMBOLI</emoji_symbols_category>
+    <emoji_transit_category>TRANSITO</emoji_transit_category>
+    <erase>cancella</erase>
+    <error>Impossibile! Per favore riprova!</error>
+    <examine_result>%d clip non possono essere importati.</examine_result>
+    <exit>Uscita</exit>
+    <exit_app_discard_edit_warn>Premere nuovamente per uscire senza salvare</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>USCITA</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Premere il pulsante SALVA per salvare e condividere i tuoi media.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Uscire prima di salvare?</exit_before_save_dlg_title>
+    <exit_tip>Premere di nuovo per uscire</exit_tip>
+    <exo_controls_cc_disabled_description>Attiva i sottotitoli</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Disattiva i sottotitoli</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Avanti veloce</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Attiva schermo intero</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Esci da schermo intero</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Nascondi i controlli del player</exo_controls_hide>
+    <exo_controls_next_description>Avanti</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Nascondi impostazioni aggiuntive</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Mostra impostazioni aggiuntive</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Pausa</exo_controls_pause_description>
+    <exo_controls_play_description>Riproduci</exo_controls_play_description>
+    <exo_controls_playback_speed>Velocità</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Normale</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Indietro</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Ripeti tutto</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Non ripetere nulla</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Ripeti uno</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Riavvolgi</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Avanzamento della riproduzione</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Impostazioni</exo_controls_settings_description>
+    <exo_controls_show>Mostra i controlli del player</exo_controls_show>
+    <exo_controls_shuffle_off_description>Disattiva riproduzione casuale</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Attiva riproduzione casuale</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Interrompi</exo_controls_stop_description>
+    <exo_controls_vr_description>Modalità VR</exo_controls_vr_description>
+    <exo_download_completed>Download completato</exo_download_completed>
+    <exo_download_description>Scarica</exo_download_description>
+    <exo_download_downloading>Download…</exo_download_downloading>
+    <exo_download_failed>Download non riuscito</exo_download_failed>
+    <exo_download_notification_channel_name>Download</exo_download_notification_channel_name>
+    <exo_download_removing>Rimozione dei download…</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Mono</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Versione alternativa</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Sottotitoli</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Commenti</exo_track_role_commentary>
+    <exo_track_role_supplementary>Contenuti supplementari</exo_track_role_supplementary>
+    <exo_track_selection_auto>Auto</exo_track_selection_auto>
+    <exo_track_selection_none>Nessuno</exo_track_selection_none>
+    <exo_track_selection_title_audio>Audio</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Testo</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Video</exo_track_selection_title_video>
+    <exo_track_stereo>Stereo</exo_track_stereo>
+    <exo_track_surround>Audio surround</exo_track_surround>
+    <exo_track_surround_5_point_1>Audio surround 5.1</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>Audio surround 7.1</exo_track_surround_7_point_1>
+    <exo_track_unknown>Sconosciuta</exo_track_unknown>
+    <extract>Estrarre</extract>
+    <extract_audio>Estrai audio</extract_audio>
+    <extract_audio_from_video>"Estrai l'audio dal video"</extract_audio_from_video>
+    <extract_failed>Estrazione non riuscita</extract_failed>
+    <fade>Dissolvenza</fade>
+    <fade_in>Dissolvenza in</fade_in>
+    <fade_new>Sfuma</fade_new>
+    <failed_to_load_blur_image>"Impossibile caricare l'immagine selezionata, selezionala di nuovo!"</failed_to_load_blur_image>
+    <failed_to_load_image>"Ops! Impossibile caricare l'immagine"</failed_to_load_image>
+    <fast_motion>MOVIMENTO VELOCE</fast_motion>
+    <favourite>Preferito</favourite>
+    <featured>RACCOMANDATO</featured>
+    <feedback_and_suggestion_hint>Risposte e suggerimento</feedback_and_suggestion_hint>
+    <feedback_not_now>NON ADESSO</feedback_not_now>
+    <feedback_subject>Feedback per InShot</feedback_subject>
+    <feedback_submit>PRESENTARE</feedback_submit>
+    <festival>Festival</festival>
+    <file_corrupted_description>Il file è danneggiato, si prega di reinstallare InShot da app store ufficiale.</file_corrupted_description>
+    <file_corrupted_note>Il file è danneggiato, si prega di reinstallare InShot da Google Play</file_corrupted_note>
+    <file_corrupted_title>Gentile utente</file_corrupted_title>
+    <file_not_support>Questo tipo di file non è supportato da InShot.</file_not_support>
+    <film>Film</film>
+    <film_grain>Grana PELLICOLA</film_grain>
+    <filter>FILTRI</filter>
+    <filter_manage>Gestisci filtri</filter_manage>
+    <filter_not_supported_in_photo>Il pacchetto di effetti correnti non è disponibile per le foto.</filter_not_supported_in_photo>
+    <filters>Filtri</filters>
+    <first_month>Primo mese</first_month>
+    <first_year>Primo anno</first_year>
+    <fit>Ritaglio</fit>
+    <fit_bottom>Inferiore</fit_bottom>
+    <fit_fit>Adattarsi</fit_fit>
+    <fit_full>Completo</fit_full>
+    <fit_left>Sinistra</fit_left>
+    <fit_original>Originale</fit_original>
+    <fit_right>Diritto</fit_right>
+    <fit_top>Superiore</fit_top>
+    <flip>Inverti</flip>
+    <folder_cannot_write>"Impossibile scrivere nella cartella! Selezionare un'altra cartella."</folder_cannot_write>
+    <follow_ins_to_unlock>Segui InShot su Instagram per</follow_ins_to_unlock>
+    <follow_setting_title>Elementi fissi nel video</follow_setting_title>
+    <follow_tiktok_to_unlock>Iscriviti al canale InShot TikTok per</follow_tiktok_to_unlock>
+    <follow_toggle_tip>Dopo aver tagliato o eliminato la clip, gli elementi (registrazione, effetti sonori, PIP, sticker, testi, effetti) rimarranno fissati al video originale.</follow_toggle_tip>
+    <follow_toggle_tip_2>Dopo aver tagliato o eliminato la clip, gli elementi (PIP, sticker, testi...) rimarranno fissati al video originale.</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>"Seguici su social media per ottenere l'ultime notizie su InShot."</follow_us_fun_media_tip>
+    <follow_us_to>Segui noi per</follow_us_to>
+    <follow_youtube_to_unlock>Iscriviti al canale YouTube di InShot per</follow_youtube_to_unlock>
+    <font>Font</font>
+    <font_color>Colore carattere</font_color>
+    <font_copyright_des>Questo font è solo per uso personale (non commerciale).</font_copyright_des>
+    <fonts>Font</fonts>
+    <for_you>Per te</for_you>
+    <format>Formato</format>
+    <frame>telaio</frame>
+    <frame_rate>Frequenza dei fotogrammi</frame_rate>
+    <free>GRATUITO</free>
+    <free_download>DOWNLOAD GRATUITO</free_download>
+    <free_unlock>Sbloccare Gratis</free_unlock>
+    <freeze>Congelare</freeze>
+    <full_park_emoji>Confezione completa di emoticon</full_park_emoji>
+    <gallery>Galleria</gallery>
+    <gdpr_consent>"We never stop trying to provide a higher quality user experience in every detail. The privacy policy is updated to adapt to the EU General Data Protection Regulation (GDPR). You can read it in “Settings” - “Privacy policy”.
+
+Please click “Continue” to agree to the policy and use this app. If you don’t want personal data to be collected by the advertising providers, please go to “setting” - “Privacy Policy” page and Click “I don’t agree”."</gdpr_consent>
+    <get>Ottieni</get>
+    <gif_compress>Compressione gif</gif_compress>
+    <string name="gif_compress_description" formatted="false">Le gif superiore a %s saranno compresse automaticamente a %s.</string>
+    <gif_supported_tip>Ora le GIF sono supportate.</gif_supported_tip>
+    <give_5star>Dacci 5 stelle</give_5star>
+    <glitch>GLITCH</glitch>
+    <go_setting>Vai alle Impostazioni</go_setting>
+    <go_to_logout>"Elimina l'account InShot in modo permanente"</go_to_logout>
+    <go_to_the_shop>vai allo shop</go_to_the_shop>
+    <gps_not_installed>"Controlla di aver installato l'ultima versione del servizio Google Play."</gps_not_installed>
+    <gradient>Gradiente</gradient>
+    <grain>GRANATURA</grain>
+    <has_no_photo_hint>Scegliere 1-9 foto per creare bellissimo collage.</has_no_photo_hint>
+    <have_purchased>Hai acquistato!</have_purchased>
+    <help>Guida</help>
+    <help_Keyframe_desc>"Aggiungi fotogramma chiave nella timeline per contrassegnare facilmente l'inizio e la fine dell'animazione (zoom/movimento/rotazione/trasparenza) per adesivo/testo/PIP."</help_Keyframe_desc>
+    <help_Keyframe_title>Keyframe</help_Keyframe_title>
+    <help_Keyframe_youtube_des>"Come utilizzare il fotogramma chiave per aggiungere l'animazione per lo strato"</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Entra nel menù sticker, importa immagini da album o cartelle.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Ora supportiamo anche le GIF.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Aggiungi sticker personalizzati</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Entra nel menù musica.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Clicca la timeline della musica per regolare il volume di musica/effetti speciali/registrazione;
+Clicca la clip video per regolare il volume video originale."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>"Regola il volume dell'audio"</help_adjust_audio_volume_title>
+    <help_adjust_volume>Fai clic sulla timeline per regolare il volume del video.</help_adjust_volume>
+    <help_animation_desc>Seleziona le animazioni in entrata e in uscita per testi e adesivi.</help_animation_desc>
+    <help_animation_title>Seleziona le animazioni in entrata e in uscita</help_animation_title>
+    <help_apply_to_all_desc>"UUsa l'opzione Applica a tutti per applicare filtro, larghezza bordo, sfondo o volume a tutte le clip."</help_apply_to_all_desc>
+    <help_apply_to_all_title>Applica la modifica a tutte le clip</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>I materiali atmosferici e gli effetti mescola sono i migliori abbinamenti.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Materiali atmosferici</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Come aggiungere overlay gratuiti</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Come regolare il volume audio originale</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Entra nel menu Ritaglio, imposta il rapporto di sfondo per il video o rimuovi lo sfondo del video.</help_background_ratio_desc>
+    <help_background_ratio_title>Modifica le dimensioni dello sfondo video</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Come impostare lo sfondo del video</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Seleziona una traccia da modificare.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Clicca qui per modificare il volume del video</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Entra nelle impostazioni InShot
+Tocca \"Impostazioni video\" e disabilita l'opzione \"Elementi fissi nel video\"."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Perché sticker/testo/effetti/PIPs/registrazioni/effetti sonori vengono rimossi una volta eliminata una clip?</help_disable_stick_frame_title>
+    <help_edit_music>Clicca per modificare la musica.</help_edit_music>
+    <help_edit_music_desc>Clicca sulla musica inserita per modificarla.</help_edit_music_desc>
+    <help_edit_music_title>Modifica musica</help_edit_music_title>
+    <help_extract_audio_desc>"Tocca [Estrai l'audio dal video] nella scheda Musica e importa un video per estrarre l'audio."</help_extract_audio_desc>
+    <help_extract_audio_title>"Estrai l'audio dal video"</help_extract_audio_title>
+    <help_extract_audio_youtube_des>"Come estrarre l'audio dai video"</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Tutta la musica incorporata ha firmato accordi di licenza con i musicisti.
+
+Se ricevi una notifica di copyright o il tuo video viene rimosso da Instagram, tocca \"Accetto\", firma con il tuo nome e tocca Ricorso."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>"Non preoccuparti, il musicista ti supporterà attivamente nell'appello e il tuo video verrà recuperato in 2–3 minuti."</help_faq_album_desc_2>
+    <help_faq_album_title>Cosa devo fare se il mio video musicale viene rimosso da Instagram?</help_faq_album_title>
+    <help_faq_auto_update_dest>"Vai sulla gestione dell'account Google Play, tocca Impostazioni, quindi \"Aggiornamento automatico app\" sotto \"Preferenze di rete\"."</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>"Come tenere aggiornata InShot all'ultima versione?"</help_faq_auto_update_title>
+    <help_faq_four_desc>"Purtroppo le bozze eliminate non posso essere recuperate. Conformemente all'Informativa sulla privacy, non archiviamo i file degli utenti."</help_faq_four_desc>
+    <help_faq_four_title>Posso ripristinare una bozza dopo averla eliminata?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>Durante il processo di salvataggio video, verranno generati tanti file intermedi; questi file verranno eliminati automaticamente una volta completato il processo di salvataggio. Per risolvere il problema, libera più spazio sul tuo dispositivo (NON memoria scheda SD).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Perché il mio telefono dispone di spazio ma risulta memoria insufficente?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Tutti i font dispongono della relativa licenza, controlla attentamente prima di utilizzarli. Alcuni font sono solo per uso personale.</help_faq_one_desc>
+    <help_faq_one_title>Posso utilizzare i font incorporati per scopi commerciali?</help_faq_one_title>
+    <help_faq_three_desc>"Se elimini i file originali nella galleria, le relative bozze andranno perse e non potranno essere aperte. Prova a recuperare i file dall'album Eliminati di recente."</help_faq_three_desc>
+    <help_faq_three_title>"Perché il messaggio d'errore \"Bozza danneggiata\" o \"I file originali nella bozza sono mancanti\"?"</help_faq_three_title>
+    <help_faq_two_desc>"Le rivendicazioni di Content ID non comportano avvertimenti per copyright, sospensione del canale o chiusura del canale. Solitamente, la richiesta prevede soltanto il tracciamento o la monetizzazione del video, non il blocco. Quindi, il video rimane disponibile con queste rivendicazioni (ma potrebbero essere inseriti degli annunci pubblicitari) e potrai ancora condividerlo.
+
+Per ulteriori informazioni sul Content ID, vai su https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Perché ho ricevuto da YouTube reclami per violazione del copyright in riferimento alla musica?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Editing</help_group_video_edit_title>
+    <help_import_fonts_desc>Assicurati che siano presenti file di font nel telefono. Tocca il pulsante di importazione per importare i font.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Utenti con Android 11 e successive: clicca su Importa font, salta a pagina selezione file
+1.Clicca sul pulsante in alto a sinistra, seleziona la tua SDcard e scegli la directory del file."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Clicca sulla barra di ricerca in alto, cerca per nome del font o file TTF/OTF.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Importa font</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Come importare font in InShot Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>"Vai nel Google Play Store. Accedi al menu Abbonamenti, seleziona l'abbonamento che desideri annullare."</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Come posso gestire/annullare il mio abbonamento?</help_manager_subscribe_title>
+    <help_mask_desc>Aggiungi una maschera di forma al livello PIP.</help_mask_desc>
+    <help_mask_title>Maschera PIP</help_mask_title>
+    <help_mask_youtube_des>Come utilizzare lo strumento Maschera per il Livello PIP.</help_mask_youtube_des>
+    <help_merge_video_desc>Clicca sul pulsante \"+\" per scegliere i video da unire.</help_merge_video_desc>
+    <help_merge_video_title>Unisci video</help_merge_video_title>
+    <help_move_music>Premi a lungo e trascina per impostare la posizione.</help_move_music>
+    <help_one_time_purchase_des>"Effettuando un acquisto una tantum puoi ottenere una versione Premium illimitata di InShot. Non saranno necessari ulteriori acquisti in futuro, anche nel caso di pubblicazione su InShot di nuove funzioni e materiali per l'editing esclusivi."</help_one_time_purchase_des>
+    <help_one_time_purchase_title>"Cosa è l'Acquisto una Tantum?"</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Tocca \"SFONDO\" per aggiungere uno sfondo al tuo ritaglio</help_photo_cutout_desc>
+    <help_photo_cutout_title>Ritagli di Foto</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Campiona qualsiasi colore e rimuovilo.
+1. Usa lo strumento di selezione, seleziona il colore che vuoi rimuovere.
+2. Regola la forza e l'ombra per migliorarlo"</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP Crominanza</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Come eliminare lo sfondo green screen con Crominanza (Esercitazione InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>"1. Vai su Google Play e clicca sull'icona dell'account in alto a destra."</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>"3. Elimina gli account che non siano quello acquistato temporaneamente e prova a ripristinare nuovamente l'acquisto dalle Impostazioni InShot."</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>"2. In caso d'accesso da più account Google account, clicca Gestisci account."</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>"Perché non funziona il ripristino dell'acquisto malgrado aver effettuato l'accesso dall'account Google Play corretto?"</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Prova a cancellare i dati di InShot nelle impostazioni del dispositivo, quindi clicca su \"Ripristinare gli acquisti\" nelle impostazioni di InShot.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>"Assicurati di aver effettuato l'accesso SOLO a UN account Google Play corretto, non a più account. Per ora Google Play non riconosce più account."</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Come posso ripristinare il mio acquisto?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Se vuoi mantenere il progetto corrente, seleziona \"Bozza\" quando clicchi per tornare.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Puoi gestire (eliminare/copiare/rinominare) le bozze sulla homepage.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Salva/annulla bozza</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Aggiungi transizioni</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Regola la durata della foto</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Importa immagini da album e file</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Tocca per passare a video o foto</help_slideshow_reminder>
+    <help_slideshow_title>Crea una presentazione</help_slideshow_title>
+    <help_slideshow_youtube_des>Come realizzare una presentazione musicale</help_slideshow_youtube_des>
+    <help_smooth_des>Usa lo strumento \"Fluida\" per creare un video slow motion perfettamente fluido (velocità&lt;1.0X)</help_smooth_des>
+    <help_smooth_title>Slow Motion Fluida</help_smooth_title>
+    <help_speed_ramp_des_one>Modifica i nodi di velocità. Tocca il pulsante \"Add\"/\"Elimina\" per aggiungere/eliminare nodi sulla curva.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Regola la rampa di velocità. Seleziona i nodi di velocità e trascinali verticalmente per regolare la velocità del video, trascinali orizzontalmente per regolare la durata della velocità.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Rampa di velocità | Crea un effetto rampa di velocità uniforme con InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Rampa di velocità (curva)</help_speed_ramp_title>
+    <help_swap_clip>Tieni premuto per scambiare</help_swap_clip>
+    <help_timeline_desc>Clicca sul punto di controllo del cursore per spostare rapidamente a fine clip o fine video.</help_timeline_desc>
+    <help_timeline_title>Navigazione rapida di adesivi e testi</help_timeline_title>
+    <help_transition_desc>Importa almeno 2 videoclip, quindi clicca sul pulsante tra le anteprime delle 2 clip per aggiungere transizioni.</help_transition_desc>
+    <help_transition_title>Transizione video</help_transition_title>
+    <help_translate_content>Vorrei contribuire alla traduzione di InShot. Si prega di contattarmi. Lingua:</help_translate_content>
+    <help_translate_subject>Traduzione</help_translate_subject>
+    <help_volume_adjust_desc>Clicca le anteprime video per aprire il menu rapido e trascina il cursore per regolare il volume del video.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Regolazione volume video</help_volume_adjust_title>
+    <help_youtube_title>Tutorial YouTube</help_youtube_title>
+    <help_zoom_drag>Trascina la maniglia per tagliare il video.</help_zoom_drag>
+    <help_zoom_timeline>"Ingrandisci la timeline per un editing più preciso.
+Riduci per vedere l'anteprima di tutta la timeline."</help_zoom_timeline>
+    <help_zoom_title>Editing video</help_zoom_title>
+    <hide>Nascondere</hide>
+    <highlight>Momenti salienti</highlight>
+    <hint_install_googleplay>Acquisto non è riuscita perché ha bisogno di Google Play Services, che non è supportata dal dispositivo.</hint_install_googleplay>
+    <hint_items_to_frame>"Vai a impostazioni video, puoi abilitare/disabilitare l'opzione"</hint_items_to_frame>
+    <hot>Popolari</hot>
+    <hua_wei_login_error>Accesso a HUAWEI non riuscito</hua_wei_login_error>
+    <hua_wei_login_success>Accedi a HUAWEI con successo</hua_wei_login_success>
+    <hue>Hué</hue>
+    <i_receive_effect_success>Salvato con successo nella cartella \"Effetti - Importata\".</i_receive_effect_success>
+    <i_receive_music_success>Salvato con successo nella cartella \"Raccomandato - Importata\".</i_receive_music_success>
+    <import_font>Font di importazione</import_font>
+    <import_video_failed_content>La risoluzione video supera il limite le prestazioni del telefono.</import_video_failed_content>
+    <import_video_failed_title>Importazione non riuscita</import_video_failed_title>
+    <imported>Importata</imported>
+    <imported_effect>Effetto importato</imported_effect>
+    <imported_music>Musica importata</imported_music>
+    <improvement_plan_desc>"Avremmo bisogno delle informazioni sull'ID del dispositivo per migliorare l'esperienza utente di InShot. Grazie."</improvement_plan_desc>
+    <improvement_plan_title>"Piano di miglioramento dell'esperienza utente"</improvement_plan_title>
+    <index_create_new>Crea nuovo</index_create_new>
+    <index_more_take_photo>Scatta una foto</index_more_take_photo>
+    <index_more_take_video>Gira un video</index_more_take_video>
+    <index_more_use_recent>Usa recente</index_more_use_recent>
+    <info_code>Info Codice:</info_code>
+    <ins_crop_hint_1>"Su Instagram l'immagine potrebbe essere tagliata."</ins_crop_hint_1>
+    <ins_crop_hint_2>Le proporzioni su Instagram sono comprese tra 1.91:1 e 4:5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Si prega di concedere <b>"l'autorizzazione"</b> di <b>stoccaggio</b> di a <b>Instagram</b> per caricare la tua foto.</string>
+    <install>Installare</install>
+    <installed>INSTALLATO</installed>
+    <interval>Intervallo</interval>
+    <invalid_delete>"L'ultima clip non può essere eliminata."</invalid_delete>
+    <invalid_position>La posizione selezionata non è valida.</invalid_position>
+    <invalidate_name>Simboli speciali non supportati.</invalidate_name>
+    <item_already_owned>"Fare clic su Ripristina per riattivare l'acquisto in-app."</item_already_owned>
+    <items>Articoli</items>
+    <join_inshot_pro>Unisciti a InShot Pro</join_inshot_pro>
+    <jump_to_font_language>Salta a %s</jump_to_font_language>
+    <keep_draft>Mantieni bozza</keep_draft>
+    <keep_on>Tieni attiva</keep_on>
+    <keyframe>KEYFRAME</keyframe>
+    <label>ETICHETTA</label>
+    <label_quick_selection>SELEZIONE RAPIDA DELLE ETICHETTE</label_quick_selection>
+    <last_draft>"L'ULTIMA BOZZA"</last_draft>
+    <layout>Layout</layout>
+    <letter_animation>Lettera singola</letter_animation>
+    <lib_rate_btn_go_market>Valuta su Google Play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>Il meglio che possiamo ottenere :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Lascia un commento.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Anche a noi piaci tu!</lib_rate_like_you>
+    <lib_rate_oh_no>Oh, no!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Grazie per la tua opinione.</lib_rate_thanks_feedback>
+    <license>Licenza</license>
+    <light>LUCE</light>
+    <lightness>Luminosità</lightness>
+    <loading>Caricamento…</loading>
+    <loading_progress_title>Caricamento in corso…</loading_progress_title>
+    <login_tip>"Si prega di vincolare l'account per
+ continuare a pagare o ripristinare gli acquisti"</login_tip>
+    <login_with>Accedi con %s</login_with>
+    <login_with_wechat>Accesso effettuato con WeChat</login_with_wechat>
+    <logout>Elimina</logout>
+    <logout_hint>"Se ti sei iscritto a InShot Pro, l'eliminazione del tuo account eliminerà anche Inshot Pro e non potrà essere ripristinato !!!"</logout_hint>
+    <logout_success>Elimina con successo</logout_success>
+    <long_press_delete>Tieni premuto a lungo per eliminare</long_press_delete>
+    <long_press_preview>"Premere a lungo per l'anteprima."</long_press_preview>
+    <looking_for_music_content_1>Visita la YouTube Audio Library da PC o Mac per scaricare musica gratuita.</looking_for_music_content_1>
+    <looking_for_music_content_2>Quindi, invia i file musicali al tuo telefono Android.</looking_for_music_content_2>
+    <looking_for_music_title>Stai cercando della musica per i tuoi video?</looking_for_music_title>
+    <loop_animation>CAPPIO</loop_animation>
+    <low_storage_space>Spazio di archiviazione insufficiente</low_storage_space>
+    <luminance>Luminosità</luminance>
+    <manage>Gestire</manage>
+    <manage_subscription>Gestisci abbonamento</manage_subscription>
+    <mask>Maschera</mask>
+    <material>Materiali</material>
+    <material_selected_hint>Contiene materiale Pro.</material_selected_hint>
+    <max_hash_tags_num>Instagram consente al massimo 29 #hashtags per foto/video</max_hash_tags_num>
+    <merge_video_hint>Unire video professionalmente</merge_video_hint>
+    <message>Messaggio</message>
+    <modern>moderno</modern>
+    <month>Mese</month>
+    <mood>Umore</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>Dettagli di InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000+ più</more_emoji>
+    <string name="more_info"><u>Ulteriori informazioni</u>:</string>
+    <mosaic>Mosaico</mosaic>
+    <multi_cut>CONTINUA A MONTARE</multi_cut>
+    <multi_split>CONTINUA A DIVIDERE</multi_split>
+    <music>Musica</music>
+    <music_limit>Limite di durata della musica</music_limit>
+    <musician>Musicista</musician>
+    <my_filter>Il mio filtro</my_filter>
+    <my_material>Il mio materiale</my_material>
+    <my_music>LA MIA MUSICA</my_music>
+    <new_>NUOVO</new_>
+    <new_album>Nuovo album</new_album>
+    <new_five_stars_rate>"Lavoriamo duramente per migliorare l'esperienza di utilizzo. Ti saremmo molto grati se lasciassi una valutazione."</new_five_stars_rate>
+    <next>IL PROSSIMO</next>
+    <no>No</no>
+    <no_actionable_items>Nessun articolo selezionabile per azioni</no_actionable_items>
+    <no_audio>Audio disattivato</no_audio>
+    <no_audio_files>Nessun file audio.</no_audio_files>
+    <no_draft_profile>Nessun profilo di bozza</no_draft_profile>
+    <no_fonts_found>Nessun carattere trovato</no_fonts_found>
+    <no_network>Nessuna rete</no_network>
+    <no_photos_or_videos>Nessuna foto o video</no_photos_or_videos>
+    <note_if_you_clear>"Nota se svuoti la cache, perderai l'impostazione di disattivazione."</note_if_you_clear>
+    <off>Disattiva</off>
+    <offline_notification_text>"Tocca per aprire l'annuncio"</offline_notification_text>
+    <offline_notification_title>"Visualizza l'annuncio salvato quando eri offline"</offline_notification_title>
+    <offline_opt_in_confirm>OK</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Riceverai una notifica con il link quando sarai di nuovo online</offline_opt_in_confirmation>
+    <offline_opt_in_decline>No, grazie</offline_opt_in_decline>
+    <offline_opt_in_message>"Ti invieremo una notifica con un link che rimanda al sito dell'inserzionista."</offline_opt_in_message>
+    <offline_opt_in_title>"Apri l'annuncio quando sarai di nuovo online."</offline_opt_in_title>
+    <ok>OK</ok>
+    <on>Attiva</on>
+    <only_support_effects>Supporta solo il tipo di \"Effetti\"</only_support_effects>
+    <oom_tip>Memoria esaurita, riprova!</oom_tip>
+    <opacity>OPACITÀ</opacity>
+    <open_font_failed>Il file font non è valido.</open_font_failed>
+    <open_from>APERTO DAL</open_from>
+    <open_from_photos>Aperto da Foto</open_from_photos>
+    <open_image_failed_hint>"Impossibile aprire il file immagine. Riprovare o selezionare un'altro file"</open_image_failed_hint>
+    <open_music_failed_hint>Impossibile aprire il file audio. Riprovare o selezionare un altro file</open_music_failed_hint>
+    <open_settings_0>1.Aprire Impostazioni</open_settings_0>
+    <open_settings_1>APRIRE IMPOSTAZIONI</open_settings_1>
+    <open_video_failed_hint>Impossibile aprire il file video. Riprovare o selezionare un altro file</open_video_failed_hint>
+    <origin_pitch>Pitch originale</origin_pitch>
+    <original>Originale</original>
+    <original_image_not_found>Il file immagine originale non esiste più, ti preghiamo di ricontrollare.</original_image_not_found>
+    <original_music_not_found>File musicale originale non esiste più, si prega di doppio controllo.</original_music_not_found>
+    <original_video_not_found>File video originale non esiste più, si prega di doppio controllo.</original_video_not_found>
+    <other_app_recording>La registrazione vocale non è al momento disponibile, poiché viene utilizzata da altre app.</other_app_recording>
+    <outline>Contorno</outline>
+    <page>CARTA STRAPPATA</page>
+    <parent_directory>Cartella superiore</parent_directory>
+    <part_original_files_miss_in_draft>"Mancano uno o più file originali, continuare a modificare？ 
+
+Continuare a modificare potrebbe causare lo spostamento dei materiali nella bozza. 
+
+Recuperare i file originali da [Eliminati di recente/Cestino] potrebbe correggerla."</part_original_files_miss_in_draft>
+    <pattern>Modello</pattern>
+    <pay_success>Acquistato con successo!</pay_success>
+    <permission_read_external_storage>Hai bisogno di autorizzazione di archiviazione.</permission_read_external_storage>
+    <photo>Foto</photo>
+    <pinch_zoom_in>Pizzica per ingrandire.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Supera il numero massimo.</pip_track_reach_max>
+    <play_video_via>Riprodurre video tramite</play_video_via>
+    <popular>Popolare</popular>
+    <precode>PRECODIFICA</precode>
+    <precode_failed>Precodifica non riuscita</precode_failed>
+    <precut>Pretaglio</precut>
+    <preset>Preset</preset>
+    <string name="privacy_policy_content" formatted="false">"Benvenuto in InShot!&lt;br>&lt;br> Ci impegniamo a fornire agli utenti una migliore esperienza in tutti gli aspetti e le &lt;a href=%s>Condizioni di utilizzo &lt;/a> e l'&lt;a href=%s>Informativa sulla privacy&lt;/a> &lt;br>&lt;br>Per acconsentire, fai clic su \"Accetto\" e inizia a utilizzare InShot."</string>
+    <string name="privacy_policy_content_gdpr">Quando usi InShot, riceverai pubblicità personalizzate. Per non riceverle, vai sulla pagina &lt;a href=%s>Informativa sulla privacy&lt;/a> e clicca su \"I don’t agree\".&lt;br>&lt;br></string>
+    <privacy_policy_title>"Condizioni di utilizzo e l'Informativa sulla privacy"</privacy_policy_title>
+    <pro_detail>Dettagli di InShot Pro</pro_detail>
+    <pro_expire_time_format>Scade il %s</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro è scaduto il %s.</pro_expired_tip>
+    <pro_one_time_purchase>Acquisto una tantum</pro_one_time_purchase>
+    <pro_purchase_new_desc>Accesso a tutte le transizioni, effetti, adesivi a pagamento e altro ancora. Nessun logo InShot, nessuna pubblicità.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Accesso a tutte le transizioni, effetti, adesivi a pagamento e altro ancora. Nessuna pubblicità.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Sei già un membro di InShot Pro.</pro_purchased_info>
+    <pro_restore_not_purchased>Ripristino completato ma non sei ancora un membro di InShot Pro.</pro_restore_not_purchased>
+    <pro_subscription_details>DETTAGLI SOTTOSCRIZIONE</pro_subscription_details>
+    <pro_unavailable>Pro non disponibile</pro_unavailable>
+    <pro_unavailable_detail>"Verifica di aver effettuato l'accesso a un solo e corretto account Google Play. Puoi leggere la pagina di Q&amp;A per ulteriore assistenza."</pro_unavailable_detail>
+    <processing_error>Errore di elaborazione</processing_error>
+    <processing_progress_title>Elaborazione in corso…</processing_progress_title>
+    <procode_progress>Precodifica...</procode_progress>
+    <promotion_subscribe_title>Offerta speciale Holi</promotion_subscribe_title>
+    <purchase_failed>Acquisto non riuscito, riprovare?</purchase_failed>
+    <purchase_failed_tile>Acquisto non riuscito</purchase_failed_tile>
+    <range>Range</range>
+    <rate>Dai un voto</rate>
+    <rate_feedback_message>Potresti lasciarci un feedback?</rate_feedback_message>
+    <rate_later>Più tardi</rate_later>
+    <rate_like>Sì!</rate_like>
+    <rate_main_message>Ti piace usare InShot?</rate_main_message>
+    <rate_not_like>Non molto</rate_not_like>
+    <rate_review_message>Potresti lasciarci una bella recensione? Ci sarebbe molto utile.</rate_review_message>
+    <ratio>Proporzione</ratio>
+    <recent>recente</recent>
+    <recommend>consigliati</recommend>
+    <record>Registra</record>
+    <redo>Ripeti</redo>
+    <refresh_state>Ripristinare acquisto</refresh_state>
+    <reject>No,grazie</reject>
+    <remove_ads>RIMUOVI LOGHI E ANNUNCI</remove_ads>
+    <remove_ads_1>RIMUOVI ANNUNCI</remove_ads_1>
+    <remove_ads_1_desc>Elimina definitivamente la banner pubblicitari.</remove_ads_1_desc>
+    <remove_ads_desc>Elimina definitivamente la filigrana e i banner pubblicitari. Non dovrai più rimuovere manualmente la filigrana.</remove_ads_desc>
+    <remove_all_ads>Rimuovere gli annunci</remove_all_ads>
+    <remove_all_split_marks>Rimuovere tutti i segni di divisione che hai aggiunto?</remove_all_split_marks>
+    <remove_pro_materials>Elimina materiale Pro</remove_pro_materials>
+    <remove_watermark>Rimuovi il logo</remove_watermark>
+    <remove_watermark_ad>RIMUOVERE QUESTA VOLTA</remove_watermark_ad>
+    <remove_watermark_ad_2>RIMUOVA GRATUITO</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Rimuovi Filigrana e Annunci</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Rimuovi Annunci</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Rimuovi il annunci in modo permanente.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Rimuovi il logo e gli annunci in modo permanente.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>RIMUOVERE IN MODO PERMANENTE</remove_watermark_buy>
+    <rename>Rinomina</rename>
+    <renew_pro>Rinnova InShot Pro</renew_pro>
+    <replace>sostituisci</replace>
+    <replace_draft_des>Scarta la bozza e inizia un nuovo progetto?</replace_draft_des>
+    <report>Relazione</report>
+    <report_fix_description>Inviaci file di log e audio per aiutarci a risolvere questo problema.</report_fix_description>
+    <report_fix_ok>INVIA FILE DI REGISTRO E AUDIO</report_fix_ok>
+    <report_fix_title>Elaborazione audio fallita</report_fix_title>
+    <request_record_rationale>Consenti a InShot di utilizzare il microfono sul tuo dispositivo.</request_record_rationale>
+    <request_storage_rationale>Lasciare InShot di accedere a foto e mediale sul dispositivo.</request_storage_rationale>
+    <reselect>Riselezionare</reselect>
+    <reset>Ripristina</reset>
+    <reset_adjust>Ripristina Regola</reset_adjust>
+    <reset_all>Ripristina tutto</reset_all>
+    <reset_hue>Ripristina hué</reset_hue>
+    <reset_luminance>Ripristina luminosità</reset_luminance>
+    <reset_saturation>Ripristina saturazione</reset_saturation>
+    <reset_speed>Ripristina la velocità</reset_speed>
+    <resolution>Risoluzione</resolution>
+    <restore>RIPRISTINA</restore>
+    <restore_failed>Ripristino fallito!</restore_failed>
+    <restore_ok_Pro>Ripristina correttamente e sei già un membro InShot Pro.</restore_ok_Pro>
+    <restore_ok_not_Pro>Ripristina correttamente ma non sei ancora un membro di InShot Pro.</restore_ok_not_Pro>
+    <restore_pro_assets>Ripristina risorse Pro</restore_pro_assets>
+    <restore_success>Ripristinare con successo</restore_success>
+    <restore_trim_message>Annulla tutte le operazioni di taglio, torna al video originale?</restore_trim_message>
+    <results_page_save_complete>Salvataggio completato</results_page_save_complete>
+    <results_page_share_other>Altro</results_page_share_other>
+    <results_page_wait_video_transcoding>Attendere la conversione video</results_page_wait_video_transcoding>
+    <retro>Retrò</retro>
+    <retry_save_title>Ultima esportazione del video non riuscita. Riprovare?</retry_save_title>
+    <returnapp_tip>Premere RETURN per InShot.</returnapp_tip>
+    <reverse>Inverso</reverse>
+    <rewarded_unlock_content>Guarda un annuncio video per sbloccare tutte le funzionalità gratuitamente(%s)</rewarded_unlock_content>
+    <rewinding>Riavvolgimento</rewinding>
+    <rotate>Ruota</rotate>
+    <rotate90>Ruota</rotate90>
+    <s1>Salva immagine</s1>
+    <s2>"Consentire ad AdMob di memorizzare l'immagine nella galleria Immagini?"</s2>
+    <s3>Accetto</s3>
+    <s4>Rifiuto</s4>
+    <s5>Crea evento di calendario</s5>
+    <s6>Consentire ad AdMob di creare un evento di calendario?</s6>
+    <s7>Annuncio di testo</s7>
+    <saturation>Saturazione</saturation>
+    <save>Salva</save>
+    <save_extracted_audio>Salva audio estratto</save_extracted_audio>
+    <save_fail>Salva il fallimento</save_fail>
+    <save_image_failed_hint>Salvataggio immagine fallito</save_image_failed_hint>
+    <save_imported_sticker>"Salva l'adesivo importato"</save_imported_sticker>
+    <save_success_hint>Salvato con successo %s</save_success_hint>
+    <save_type_description>Salva i file importati come</save_type_description>
+    <save_video_failed_dlg_btn_retry>Riprova</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Scegli risoluzione</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Scegliere una risoluzione inferiore o Riprovare!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Salvataggio fallito</save_video_failed_dlg_title>
+    <save_video_failed_hint>Video non supportato a causa del codec video o audio. Selezionare un altro file</save_video_failed_hint>
+    <saved>Salvato</saved>
+    <scanning>Scansione…</scanning>
+    <string name="sd_card_error">Percorso/SDcard non accessibile. Scegliere un altro percorso/SDcard in Impostazioni -> %s.</string>
+    <sd_card_full_tip>Spazio di archiviazione insufficiente. Libera spazio e riprova.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>Scheda SD non montata!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Sono necessari circa %dM di spazio!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>È necessario più spazio cache per salvare il video. Libera spazio o riduci la risoluzione e riprova.</sd_card_space_not_enough_hint>
+    <search_menu_title>Cerca</search_menu_title>
+    <see_all_material>Vedi tutto</see_all_material>
+    <select>Seleziona</select>
+    <select_all>Seleziona tutto</select_all>
+    <select_one_to_edit>Seleziona uno da modificare.</select_one_to_edit>
+    <select_one_track_to_edit>Seleziona traccia da editare</select_one_track_to_edit>
+    <select_photo>Selezionare Foto</select_photo>
+    <selfie_ad_desc>Cattura la tua naturale bellezza con Effetti Sbiancanti e Filtri Live.</selfie_ad_desc>
+    <selfie_ad_title>Selfie Camera - Love Selfie</selfie_ad_title>
+    <send_feedback>Manda feedback</send_feedback>
+    <setting_addtags_title>Aggiungi tag</setting_addtags_title>
+    <setting_clear_cache_title>Pulisci cache</setting_clear_cache_title>
+    <setting_faq_title>FAQ</setting_faq_title>
+    <setting_feedback_title>Feedback</setting_feedback_title>
+    <setting_follow_us>Seguici (Ottenere più tutorial)</setting_follow_us>
+    <setting_general_title>Generale</setting_general_title>
+    <setting_language_title>Lingua</setting_language_title>
+    <setting_legal_title>Legale</setting_legal_title>
+    <setting_localization_des>Aiutaci a tradurre InShot nella tua lingua</setting_localization_des>
+    <setting_localization_title>Traduzione</setting_localization_title>
+    <setting_others>Altri</setting_others>
+    <setting_privacypolicy_title>Informativa sulla privacy</setting_privacypolicy_title>
+    <setting_rate5star_des>Dai 5 stelle a InShot su Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Vota 5 Stelle</setting_rate5star_title>
+    <setting_restore>Ripristinare gli acquisti</setting_restore>
+    <setting_savepath_title>Percorso di salvataggio</setting_savepath_title>
+    <setting_share_title>Invita gli amici</setting_share_title>
+    <setting_thankyou_title>Grazie</setting_thankyou_title>
+    <shadow>Ombre</shadow>
+    <shadow_off>Assente</shadow_off>
+    <shadow_on>Su</shadow_on>
+    <share>Condividi</share>
+    <share_content>Semplifica la modifica di video e foto sul tuo telefono. Scarica gratis InShot ora:https://inshotapp.page.link/invite</share_content>
+    <share_subject>Eccellente editor di foto e video per Instagram. Consigliato!</share_subject>
+    <sharpen>NITIDEZZA</sharpen>
+    <shop>Negozio</shop>
+    <short_preview>Mostra anteprima</short_preview>
+    <show_read_video_ad_dlg_content>Guarda un annuncio video per rimuovere filigrana gratuitamente.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Guarda un annuncio video per rimuovere filigrana per questo tempo</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Copia e quota</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>Storia</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Tag per più ama</show_tags_dlg_title>
+    <sign_out>Disconnettersi</sign_out>
+    <sign_out_account>"Esci dall'account"</sign_out_account>
+    <signout_current_account>"Esci dall'account corrente"</signout_current_account>
+    <signout_tip_common>"Sei sicuro di voler uscire dall'account WeChat corrente?"</signout_tip_common>
+    <signout_tip_pro>"InShot Pro non sarà accessibile quando ti disconnetti dall'account."</signout_tip_pro>
+    <size>dimensione:%s</size>
+    <size_only>Dimensioni stimate</size_only>
+    <slice>FETTA</slice>
+    <slow_motion>RALLENTATORE</slow_motion>
+    <smooth>Fluida</smooth>
+    <smooth_applied>Slow motion fluida applicata</smooth_applied>
+    <smooth_cancelled>Slow motion fluida cancellata</smooth_cancelled>
+    <smooth_click_preview>"Clicca sulla casella con la spunta per vedere l'anteprima della slow motion fluida"</smooth_click_preview>
+    <smooth_preview_effect>"Anteprima dell'effetto fluido"</smooth_preview_effect>
+    <smooth_slow_speed_available>Disponibile solo quando la velocità è &lt; %sx</smooth_slow_speed_available>
+    <sorry>Scusate</sorry>
+    <string name="space_not_enough_content">Sono necessari &lt;b>%1$dM&lt;/b> di spazio di archiviazione interno (NON memoria scheda SD) in più per salvare il %2$s, liberare spazio sul telefono e riprovare.</string>
+    <space_not_enough_title>Libera spazio sul tuo telefono</space_not_enough_title>
+    <special_offer>Offerta speciale</special_offer>
+    <speed>Velocità</speed>
+    <speed_adjusts_precode_hint>Le modifiche della velocità maggiori di %sx richiedono la precodifica.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>La velocità superiore a 10 volte può causare la perdita di audio originale.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>Non è necessario precodificare di nuovo nella parte verde</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Non bloccare lo schermo e non cambiare app.</speed_precode_warning_hint>
+    <split>Dividere</split>
+    <spring_festival_pro_title>Capodanno lunare 50% di sconto</spring_festival_pro_title>
+    <standard>Standard</standard>
+    <start_over>RICOMINCIARE</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>non hai scaricato lo sticker</sticker_empty>
+    <sticker_text>STICKER</sticker_text>
+    <stickers>Adesivi</stickers>
+    <strength>Forza</strength>
+    <style>Stile</style>
+    <subscription_detail>"
+
+- Con un abbonamento InShot Unlimited avrai accesso a tutte le funzioni e i materiali di modifica a pagamento, compresi adesivi, filtri, ecc. I loghi e i contenuti pubblicitari verranno eliminati automaticamente. 
+
+- I costi dell’abbonamento InShot Unlimited vengono addebitati mensilmente o annualmente, in base al piano selezionato. Inoltre, se necessario, è disponibile un pagamento unico, diverso dal piano di abbonamento. 
+
+- L’abbonameto InShot Unlimited verrà rinnovato automaticamente alla data di acquisto. È possibile disattivare il rinnovo automatico entro 24 ore dalla scadenza del periodo in vigore. Il costo dell’abbonamento verrà addebitato dallo store di Google Play alla conferma dell’acquisto. L’opzione di rinnovo automatico può essere disattivata dalla sezione Gestione account dopo l’acquisto."</subscription_detail>
+    <subscription_detail_1>"
+
+- Con un abbonamento InShot Unlimited avrai accesso a tutte le funzioni e i materiali di modifica a pagamento, compresi adesivi, filtri, ecc. I contenuti pubblicitari verranno eliminati automaticamente. 
+
+- I costi dell’abbonamento InShot Unlimited vengono addebitati mensilmente o annualmente, in base al piano selezionato. Inoltre, se necessario, è disponibile un pagamento unico, diverso dal piano di abbonamento. 
+
+- L’abbonameto InShot Unlimited verrà rinnovato automaticamente alla data di acquisto. È possibile disattivare il rinnovo automatico entro 24 ore dalla scadenza del periodo in vigore. Il costo dell’abbonamento verrà addebitato dallo store di Google Play alla conferma dell’acquisto. L’opzione di rinnovo automatico può essere disattivata dalla sezione Gestione account dopo l’acquisto."</subscription_detail_1>
+    <subscription_terms>"Questo acquisto può essere utilizzato solo su sistema Android. Il pagamento è addebitato tramite Google Play Store alla conferma dell'acquisto. L'iscrizione di rinnova automaticamente prima della fine del periodo corrente, a meno che non venga annullata con 24 ore di anticipo, e la cancellazione ha effetto alla fine del periodo corrente. Puoi gestire le tue iscrizioni e disattivare il rinnovo automatico dalle impostazioni del tuo account Google Play Store. L'iscrizione annullata durante il periodo di prova non sarà addenitata."</subscription_terms>
+    <subscription_terms_cn>"Iscriviti a InShot Pro, puoi utilizzare tutte le funzionalità e i materiali di modifica. Filigrana e annunci verranno rimossi automaticamente. InShot Pro non si rinnova automaticamente, si prega di rinnovare manualmente prima della fine del periodo corrente. L'abbonamento non può essere trasferito tra dispositivi Android e iOS. Se l'hai acquistato su dispositivi iOS, devi comunque acquistarlo su dispositivi Android. Dopo esserti abbonato a InShot Pro, non ci saranno cancellazioni o rimborsi, ti preghiamo di decidere attentamente prima dell'acquisto."</subscription_terms_cn>
+    <subscription_terms_cn_1>"Iscriviti a InShot Pro, puoi utilizzare tutte le funzionalità e i materiali di modifica. Annunci verranno rimossi automaticamente. InShot Pro non si rinnova automaticamente, si prega di rinnovare manualmente prima della fine del periodo corrente. L'abbonamento non può essere trasferito tra dispositivi Android e iOS. Se l'hai acquistato su dispositivi iOS, devi comunque acquistarlo su dispositivi Android. Dopo esserti abbonato a InShot Pro, non ci saranno cancellazioni o rimborsi, ti preghiamo di decidere attentamente prima dell'acquisto."</subscription_terms_cn_1>
+    <subscription_terms_hw>"L'acquisto su AppGallery può essere effettuato solo tramite HUAWEI IAP. Il pagamento verrà addebitato sul tuo conto alla conferma dell'acquisto. Gli abbonamenti si rinnovano automaticamente dopo la fine del periodo corrente e identificano il costo del rinnovo. Puoi gestire i tuoi abbonamenti e disattivare il rinnovo automatico dalle impostazioni del tuo account AppGallery. L'abbonamento annullato durante la prova gratuita non verrà addebitato."</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>"L'acquisto su AppGallery può essere effettuato solo tramite HUAWEI IAP. Il pagamento verrà addebitato sul tuo conto alla conferma dell'acquisto. È possibile contattare il servizio clienti Huawei per annullare l'acquisto entro 14 giorni in cui si riceve la conferma dell'ordine. L'abbonamento si rinnova automaticamente dopo la fine del periodo corrente. Puoi gestire i tuoi abbonamenti e disattivare il rinnovo automatico dalle impostazioni del tuo account AppGallery."</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>"L'acquisto su AppGallery può essere effettuato solo tramite HUAWEI IAP. Il pagamento verrà addebitato sul tuo conto alla conferma dell'acquisto. È possibile contattare il servizio clienti Huawei per annullare l'acquisto entro 7 giorni in cui si riceve la conferma dell'ordine. L'abbonamento si rinnova automaticamente dopo la fine del periodo corrente. Puoi gestire i tuoi abbonamenti e disattivare il rinnovo automatico dalle impostazioni del tuo account AppGallery."</subscription_terms_hw_ru>
+    <subscription_title>Abbonamento InShot Unlimited</subscription_title>
+    <super1>SUPER</super1>
+    <support_musician>Per supportare il musicista, aggiungi un riconoscimento nella descrizione del tuo video.</support_musician>
+    <sure>OK</sure>
+    <swap>scambiare</swap>
+    <swap_order_hint>"Premere a lungo e trascinare per cambiare l'ordine"</swap_order_hint>
+    <switch_account>Cambia account</switch_account>
+    <tags>Tag</tags>
+    <tags_policies>Abbiamo rimosso tutti i tag irrilevanti a causa di alcune norme.</tags_policies>
+    <take_video>Acquisisci video</take_video>
+    <tap_permissions>2.Permessi Tap</tap_permissions>
+    <template>Template</template>
+    <terms_of_use>"Termini d'uso"</terms_of_use>
+    <text>Testo</text>
+    <text_spacing>Spaziatura del testo</text_spacing>
+    <then>In seguito</then>
+    <time_24_hours>Solo %s ore</time_24_hours>
+    <time_limited_offer>Offerta limitata</time_limited_offer>
+    <tint>Tinta</tint>
+    <tip>Suggerimento</tip>
+    <tip_close_ad_personalization>"Dopo aver disabilitato l'opzione, potresti visualizzare inserzioni non rilevanti."</tip_close_ad_personalization>
+    <title_optout_ads>Disattivare gli annunci basati sugli interessi</title_optout_ads>
+    <too_many_pip_tip>Troppi livelli possono causare ritardi o errori di salvataggio.</too_many_pip_tip>
+    <total>Totale</total>
+    <track_count>%d TRACCE</track_count>
+    <tracks>Tracce</tracks>
+    <transition>Transizioni</transition>
+    <transition_prompt>"La lunghezza del video cambierà dopo l'applicazione delle transizioni."</transition_prompt>
+    <trim>Taglia</trim>
+    <trim_clip_help_tip>Tagliare video e regolare la durata foto.</trim_clip_help_tip>
+    <trim_music>Musica Trim</trim_music>
+    <turn_off>Disattiva</turn_off>
+    <turn_off_tags_context>Disattivare le opzioni tag, ed è possibile attivarlo nel menu delle impostazioni.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Disattiva</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3.Attiva il microfono</turn_on_microphone>
+    <turn_on_storage>3. Attiva Memoria e Fotocamera</turn_on_storage>
+    <type_something>Inserire testo…</type_something>
+    <un_select>Deseleziona</un_select>
+    <undo>Annulla</undo>
+    <undo_reversed>Annulla inversione</undo_reversed>
+    <unlock>Sblocca</unlock>
+    <unlock_all_features>Sblocca tutte le funzioni</unlock_all_features>
+    <unlock_for_free>Sbloccare Gratis</unlock_for_free>
+    <unlock_for_sticker_tip>Guarda un annuncio video per ottenere questo pacchetto gratuitamente</unlock_for_sticker_tip>
+    <unlock_the_features>Sblocca la funzione</unlock_the_features>
+    <unsupported_file_format>Formato file non supportato</unsupported_file_format>
+    <update>Aggiornamento</update>
+    <update_files>Aggiornamento dei file</update_files>
+    <use>UTILIZZARE</use>
+    <user_cancel>Annullato</user_cancel>
+    <valid_for>Valido per %s</valid_for>
+    <valid_for_days>valido per %s giorni</valid_for_days>
+    <valid_for_hours>valido per %s ore</valid_for_hours>
+    <value>Valore</value>
+    <video>Video di</video>
+    <video_background_convert_finished_hint>Conversione video completata!</video_background_convert_finished_hint>
+    <video_beginning>Inizio video</video_beginning>
+    <video_compress>Compressione video</video_compress>
+    <string name="video_compress_description" formatted="false">I video più grandi di %s saranno compressi automaticamente a %s.</string>
+    <video_continue_convert_hint>InShot sta elaborando la conversione…</video_continue_convert_hint>
+    <video_conversion_failure>Conversione video fallita</video_conversion_failure>
+    <video_convert_failed_hint>Conversione video fallita. Riprovare!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Impossibile convertire il video. Selezionare un altro file!</video_convert_failed_hint2>
+    <video_cut_bar_duration>totale:</video_cut_bar_duration>
+    <video_end>Fine video</video_end>
+    <video_less_than_one_second_not_allow>Impossibile caricare video inferiori a %s.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Fare clic sulla miniatura per ulteriori opzioni</video_more_option_hint2>
+    <video_not_support>Video non supportato su questo dispositivo. È possibile continuare a utilizzare le funzioni fotografiche.</video_not_support>
+    <video_not_support_detail>Caratteristiche video non disponibili su questo dispositivo perché il %s. È possibile continuare a utilizzare le funzionalità fotografiche.</video_not_support_detail>
+    <video_not_support_reasons_one>Versione di Android inferiore a 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU ARM V7 non compatibile con Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>Video non compatibili</video_not_support_title_one>
+    <video_not_support_title_two>Hardware non compatibili</video_not_support_title_two>
+    <video_only>Solo Video</video_only>
+    <video_quality_customize>Personalizzato</video_quality_customize>
+    <video_quality_normal>Normale</video_quality_normal>
+    <video_quality_recommend>Raccomandato</video_quality_recommend>
+    <video_replace_trim_info>Trascina per selezionare una sezione.</video_replace_trim_info>
+    <video_resolution>Risoluzione video</video_resolution>
+    <video_setting>Impostazioni video</video_setting>
+    <video_sharing_progress_title1>Inizializzazione…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>Conversione video in corso…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>Annullamento in corso…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>È possibile aggiungere fino a 20 elementi di testo.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">Supporta solo video più lunghi di %s(>%s)</string>
+    <video_too_short_after_cut_hint>Durata del video troppo breve.</video_too_short_after_cut_hint>
+    <vignette>VIGNETTA</vignette>
+    <voice_effect>Effetto voce</voice_effect>
+    <voice_effect_support>Supporta solo audio registrati/importati</voice_effect_support>
+    <volume>Volume</volume>
+    <warmth>Calore</warmth>
+    <warning>Avvertimento</warning>
+    <watch>guarda</watch>
+    <what_new_audio_draft>SALVA LA BOZZA DEL VIDEO</what_new_audio_draft>
+    <what_new_audio_track>PIÙ BRANI MUSICALI</what_new_audio_track>
+    <what_new_crop_video>RITAGLIA IL VIDEO</what_new_crop_video>
+    <what_new_cut>Taglia e divide video</what_new_cut>
+    <what_new_music>MUSICA POPOLARE DI VLOG</what_new_music>
+    <what_new_special_effects_filters_vol1>FILTRI SPECIALI EFFETTI VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>MIGLIORE MODALITÀ COLLAGE</what_news_collage>
+    <what_news_filter>FILTRI PER MODALITÀ VIDEO</what_news_filter>
+    <what_news_thanksgiving>FELICE RINGRAZIAMENTO</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Aggiungi schermo vuoto</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Pattern di sfondo</whats_new_background_pattern>
+    <whats_new_beats_effects>Effetti di ritmo</whats_new_beats_effects>
+    <whats_new_blend>PIP - Mescola</whats_new_blend>
+    <whats_new_brand_music>Nuova Interfaccia Musicale</whats_new_brand_music>
+    <whats_new_create_gifs>Crea GIF</whats_new_create_gifs>
+    <whats_new_customer_color>Colore personalizzato</whats_new_customer_color>
+    <whats_new_cutout>Ritaglio di adesivi personalizzati</whats_new_cutout>
+    <whats_new_cutout_outline>Ritaglio e contorno della foto</whats_new_cutout_outline>
+    <whats_new_effect>Effetto linea temporale</whats_new_effect>
+    <whats_new_effect_retro2>Nuovi effetti - Retro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Nuovi Effetti_Dividere</whats_new_effect_split>
+    <whats_new_fade_base>Nuovi effetti-Di base,Sfuma</whats_new_fade_base>
+    <whats_new_filter_fresh>Nuovi Filtri_Fresco</whats_new_filter_fresh>
+    <whats_new_frame_rate>Nuovo frame rate</whats_new_frame_rate>
+    <whats_new_freeze_tool>Effetto congelamento</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>Regolazione HSL</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Elementi fissi nel video</whats_new_item_frame>
+    <whats_new_magnifier>"Adesivo Lente d'ingrandimento"</whats_new_magnifier>
+    <whats_new_mask>Maschera per PIP</whats_new_mask>
+    <whats_new_material>Nuova libreria di materiali</whats_new_material>
+    <whats_new_music_fade_in_and_out>Musica fade in &amp; out</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Nuovo Album</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Nuovi effetti e transizioni</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Nuovi effetti - Film</whats_new_new_effect_film>
+    <whats_new_new_filters>Nuovo Filtro</whats_new_new_filters>
+    <whats_new_new_transition>Nuove Transizioni - Carta strappata</whats_new_new_transition>
+    <whats_new_pip>PIP - Sovrapposizione video</whats_new_pip>
+    <whats_new_smooth>Slow Motion Fluida per la Regolazione della Velocità</whats_new_smooth>
+    <whats_new_speed_curve>Curva velocità</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Curva di Velocità Preset</whats_new_speed_curve_preset>
+    <whats_new_store>Nuovissimo negozio dei materiali</whats_new_store>
+    <whats_new_text_animation>Nuova animazione di testo</whats_new_text_animation>
+    <whats_new_transition_film>Nuove transizioni - Film</whats_new_transition_film>
+    <whats_new_video_full_screen>Anteprima dei video a schermo intero</whats_new_video_full_screen>
+    <whats_new_voice_effect>Effetti Voce</whats_new_voice_effect>
+    <whatsnew_advance_timeline>CRONOLOGIA AVANZATA</whatsnew_advance_timeline>
+    <whatsnew_christmas>MUSICA PER NATALE</whatsnew_christmas>
+    <whatsnew_color_pallette>Nuova tavolozza dei colori</whatsnew_color_pallette>
+    <whatsnew_font_style>NUOVO STILE DI CARATTERE</whatsnew_font_style>
+    <whatsnew_loop_animation>Animazione Cappio</whatsnew_loop_animation>
+    <whatsnew_music>NUOVA MUSICA</whatsnew_music>
+    <whatsnew_recording>Registra</whatsnew_recording>
+    <whatsnew_slide>MESCOLARE I VIDEO CON LE FOTO</whatsnew_slide>
+    <whatsnew_sound_effects>Effetti sonori</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Dividere Musica, Testo e Adesivo</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>ADESIVI ANIMATI</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>ANIMAZIONE DI VIGNETTE E TESTO</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>ANIMAZIONE DEL TESTO</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Bozze illimitate</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot foto</widgetphoto>
+    <widgetvideo>InShot video</widgetvideo>
+    <year>Anno</year>
+    <yes>Sì</yes>
+    <you_are_not_login>"Non hai effettuato l'accesso."</you_are_not_login>
+    <you_will_still_see_ads>Continuerai a vedere gli annunci, ma potrebbero non essere basati sui tuoi interessi.</you_will_still_see_ads>
+    <zoom>Zoom</zoom>
+    <zoom_selection>SELEZIONE DELLO ZOOM</zoom_selection>
+</resources>

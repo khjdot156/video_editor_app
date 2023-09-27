@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro подробнее</InShot_detail>
+    <abc_action_bar_home_description>Перейти на главный экран</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Перейти вверх</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Ещё</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Готово</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Показать все</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Выберите приложение</abc_activitychooserview_choose_application>
+    <abc_capital_off>ВЫКЛ</abc_capital_off>
+    <abc_capital_on>ВКЛ</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt +</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl +</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>Delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>Ввод</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Fn +</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta +</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift +</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>Пробел</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym +</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Меню +</abc_prepend_shortcut_label>
+    <abc_search_hint>Введите запрос</abc_search_hint>
+    <abc_searchview_description_clear>Удалить запрос</abc_searchview_description_clear>
+    <abc_searchview_description_query>Поисковый запрос</abc_searchview_description_query>
+    <abc_searchview_description_search>Поиск</abc_searchview_description_search>
+    <abc_searchview_description_submit>Отправить запрос</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Голосовой поиск</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Поделиться с помощью</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Поделиться с помощью %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Свернуть</abc_toolbar_collapse_description>
+    <account>Аккаунта</account>
+    <acknowledge>Подтверждения</acknowledge>
+    <action_settings>Настройки</action_settings>
+    <actual_price_year_format>Купить за %s/год</actual_price_year_format>
+    <ad_personalization>Персонализация рекламы</ad_personalization>
+    <ad_personalization_tip>"Файлы cookie - это текстовые файлы, созданные на вашем устройстве веб-сервером. Чтобы обеспечить лучший сервис, мы можем использовать связанные технологии для отправки одного или нескольких файлов cookie на ваше устройство для сбора и хранения информации об использовании этого продукта.
+
+Admob, Mopub, Vungle, Facebook, Smaato, myTarget, как рекламодатели InShot, могут собирать информацию, полученную во время использования вами наших продуктов и услуг, извлекать ваши предпочтения и использовать их для показа вам рекламы, которая больше соответствует вашим индивидуальным потребностям. Мы не передаем данные пользователей Facebook или другим сторонам (проверено BBC и Privacy International).
+
+Мы будем использовать технические средства для анонимизации данных, и анонимная информация не сможет идентифицировать субъект. Если вас не интересует персонализированный показ, вы можете отключить показ персонализированного контента через «Настройки» - «Персонализация рекламы». Обратите внимание, что после отключения этой опции вы все равно можете видеть рекламу, но ее релевантность будет снижена."</ad_personalization_tip>
+    <add>Добавить</add>
+    <add_favorite>Добавьте в избранное</add_favorite>
+    <adjust>Регулировка</adjust>
+    <agree>Принимаю</agree>
+    <album>АЛЬБОМ</album>
+    <album_sleepless_desc>Обязательно добавьте следующую информацию к описанию видео, когда вы публикуете общий доступ.</album_sleepless_desc>
+    <all>Все</all>
+    <all_inclusive>Все включено</all_inclusive>
+    <all_original_files_miss_in_draft>"Черновик поврежден, так как отсутствуют все оригинальные файлы. 
+
+Восстановление оригинальных файлов из папок [Недавно удаленные / Корзина] может исправить проблему."</all_original_files_miss_in_draft>
+    <all_premium>Доступ ко всем премиальным фильтрам, эффектам, стикерам, шрифтам. Нет водяных знаков, нет рекламы.</all_premium>
+    <all_premium_1>Доступ ко всем премиальным фильтрам, эффектам, стикерам, шрифтам. Нет рекламы.</all_premium_1>
+    <allow_camera_access>Разрешить доступ к Камере</allow_camera_access>
+    <allow_record_access>Разрешить доступ к микрофону</allow_record_access>
+    <allow_record_access_hint>InShot требует разрешения микрофона для записи звука.</allow_record_access_hint>
+    <allow_storage_access>Разрешить доступ к хранилищу</allow_storage_access>
+    <allow_storage_access_hint>Чтобы делать красивые видео и фотографии, InShot нуждается в доступе к вашей фотобиблиотеке.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>Чтобы делать красивые видео и фотографии, InShot нуждается в доступе к вашей фотобиблиотеке и камеру.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Вы уже являетесь участником InShot Pro</already_InShot_pro>
+    <already_purchased>Уже купили?</already_purchased>
+    <angle>Угол</angle>
+    <animation_in>ВХОД</animation_in>
+    <animation_out>ВЫХОД</animation_out>
+    <animation_stickers>Анимированные наклейки</animation_stickers>
+    <app_latest_version_available_title>Доступна новая версия (%s)</app_latest_version_available_title>
+    <app_latest_version_title>У вас последняя версия!</app_latest_version_title>
+    <app_lumii_desc>Эксклюзивные фильтры, кривые и HSL</app_lumii_desc>
+    <app_lumii_name>фильтры для фотографий — Lumii</app_lumii_name>
+    <app_not_installed_content>Загрузите %s или делитесь файлами через другие приложения</app_not_installed_content>
+    <app_not_installed_download_app>ЗАГРУЗИТЬ %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>ДЕЛИТЬСЯ ЧЕРЕЗ ДРУГИЕ</app_not_installed_share_with_other_app>
+    <app_not_installed_title>Приложение %s не установлено</app_not_installed_title>
+    <app_wall_entrance_action>ОТСТРОИТЬСЯ</app_wall_entrance_action>
+    <app_wall_entrance_title>Самые популярные приложения сегодня</app_wall_entrance_title>
+    <apply_to_all>Применить ко всему</apply_to_all>
+    <apply_to_all_clips>Применить ко всем клипам</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>Продолжительность аудио слишком коротка.</audio_too_short_after_cut_hint>
+    <authorization>Авторизация</authorization>
+    <background>Задний фон</background>
+    <background_color>Цвет заднего фона</background_color>
+    <basic>ОСНОВНОЙ</basic>
+    <basic_animation>ОСНОВНОЙ</basic_animation>
+    <beats>Бить</beats>
+    <billing_unavailable>Вы не создали учетную запись Google Play.</billing_unavailable>
+    <billing_unavailable_hw>Вы не создали учетную запись Huawei.</billing_unavailable_hw>
+    <blank>Пустой</blank>
+    <blend>Смешать</blend>
+    <blocked>блокированный</blocked>
+    <blur>Размытие</blur>
+    <blur_background>Размытие заднего фона</blur_background>
+    <blur_bg>фон</blur_bg>
+    <blur_bg_custom_hint>Используйте фотографию как задний фон</blur_bg_custom_hint>
+    <blur_bg_options_merged>Параметры размытия и фона слиты</blur_bg_options_merged>
+    <blur_off>Выкл.</blur_off>
+    <blur_on>Вкл</blur_on>
+    <border>Граница</border>
+    <brush>кисть</brush>
+    <buy>Купить</buy>
+    <can_not_add_more_tracks>Нельзя добавить больше дорожек.</can_not_add_more_tracks>
+    <can_not_add_tracks>Здесь нельзя добавлять дорожки</can_not_add_tracks>
+    <cancel>Отмена</cancel>
+    <cancel_save_video_dlg_btn_no>НЕТ</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>ДА</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Хотите отменить конвертацию видео?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Внимание</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Этот клип слишком короткий, чтобы применить переход.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>Не удается сохранить файл GIF продолжительностью более 1 минуты. Измените формат или сократите продолжительность файла GIF.</cannot_save_gif_over_one_minute>
+    <canvas>Холст</canvas>
+    <celebrate>Праздновать</celebrate>
+    <change_beginning_too_short>Слой слишком короткий, чтобы перейти к началу видео/клипа</change_beginning_too_short>
+    <change_end_too_short>Слой слишком короткий, чтобы перейти к концу видео/клипа</change_end_too_short>
+    <change_language_title>Выберите язык</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Если при передаче видео в Instagram произошел сбой, а сеть работает нормально, попробуйте использовать кодек MPEG-4. По умолчанию используется кодек H.264 – более высокое качество и меньший размер файла.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Сменить видеокодек</change_video_codec_dialog_title>
+    <character>Персонаж</character>
+    <check>Проверять</check>
+    <choose_pay_method>Выберите способ оплаты</choose_pay_method>
+    <choose_video_quality_hint>Качество</choose_video_quality_hint>
+    <chroma>Хромакей</chroma>
+    <classic>классика</classic>
+    <clear>Очистить</clear>
+    <string name="clear_cache_content">После очистки освободится &lt;b>%s&lt;/b> места. Это никак не затронет ваш эскиз. Продолжить?</string>
+    <clearing>Очищает…</clearing>
+    <click_here>Нажми на меня</click_here>
+    <click_track_tip>Щелкните временную шкалу, чтобы редактировать музыку и изменить громкость видео.</click_track_tip>
+    <clip_beginning>Начало клипа</clip_beginning>
+    <clip_end>Конец клипа</clip_end>
+    <clip_mute_adjust_volume_retry>Включите звук и повторите попытку.</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>Общая продолжительность будет сокращена и временная шкала изменится соответственно.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Новый клип короче, чем текущий.</clip_replace_shorter_title>
+    <clip_reversed>Реверс клипа выполнен</clip_reversed>
+    <clip_video_tip>Клип видео к длине вам нужно импортировать.</clip_video_tip>
+    <collage>Коллаж</collage>
+    <collage_long_press_swap_photo>Длительное нажатие для обмена фотографиями.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>Вы можете выбрать не более 9 фотографий!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Нажмите на фотографию, чтобы заменить его</collage_swap_photo>
+    <color>Цвет</color>
+    <color_palette>Цветовая палитра</color_palette>
+    <common_google_play_services_enable_button>Включить</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>Для работы приложения \"%1$s\" требуется включить сервисы Google Play.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Включите сервисы Google Play</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Установить</common_google_play_services_install_button>
+    <common_google_play_services_install_text>Для работы приложения \"%1$s\" требуется установить сервисы Google Play.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Установите сервисы Google Play</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Доступность сервисов Google Play</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Ошибка сервисов Google Play</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>Приложению \"%1$s\" не удается подключиться к сервисам Google Play. Повторите попытку.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>Для работы с приложением \"%1$s\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Обновить</common_google_play_services_update_button>
+    <common_google_play_services_update_text>Чтобы запустить приложение \"%1$s\", обновите сервисы Google Play.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Обновите сервисы Google Play</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>Сервисы Google Play, необходимые для работы приложения \"%1$s\", в настоящий момент обновляются.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Открыть на телефоне</common_open_on_phone>
+    <common_signin_button_text>Войти</common_signin_button_text>
+    <common_signin_button_text_long>Войти через аккаунт Google</common_signin_button_text_long>
+    <contact_creator>Связаться с создателем</contact_creator>
+    <continue_buy>После продления на один год InShot Pro будет продлен до %s.</continue_buy>
+    <continue_title>Продолжить</continue_title>
+    <contrast>Контраст</contrast>
+    <convert_failed>не удалось преобразовать</convert_failed>
+    <copied>Скопированный</copied>
+    <copy>Копировать</copy>
+    <crop>Вырежьте</crop>
+    <curve>Кривая</curve>
+    <custom_background>Настройка фона</custom_background>
+    <custom_sticker>Наложение изображений на видео</custom_sticker>
+    <cut>Вырезать</cut>
+    <cut_both_ends>Обрезать</cut_both_ends>
+    <cut_import>Импортировать</cut_import>
+    <cut_video>Обрезать видео</cut_video>
+    <cutout>Вырезать</cutout>
+    <day_free_trial>%s дня бесплатной пробной версии</day_free_trial>
+    <days_left>Осталось %d дня</days_left>
+    <delete>Удалить</delete>
+    <delete_confirm_dialog_content>Хотите удалить?</delete_confirm_dialog_content>
+    <delete_drafts_note>Обратите внимание, удаленные черновики не подлежат восстановлению!</delete_drafts_note>
+    <delete_material_tip>Удаление материала повлияет на черновики!</delete_material_tip>
+    <denoise>Шумопонижение</denoise>
+    <detail>Детали</detail>
+    <detail_mosaic>Деталь</detail_mosaic>
+    <directories>Каталог</directories>
+    <disable_follow>Отключить</disable_follow>
+    <discard_edit_dlg_confirm>Удалить</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>ОТМЕНИТЬ ИЗМЕНЕНИЯ</discard_edit_dlg_title>
+    <discount>Скидка</discount>
+    <discount_format>%s скидка</discount_format>
+    <dissolve>РАСТВОРЯТЬ</dissolve>
+    <distort>Искажение</distort>
+    <do_not_use_tags>Не использовать теги?</do_not_use_tags>
+    <donate>ЖЕРТВОВАТЬ</donate>
+    <done>Готово</done>
+    <double_click_reset_zoom>Свернуть можно двойным нажатием</double_click_reset_zoom>
+    <download>Скачать</download>
+    <download_failed>Ошибка загрузки!</download_failed>
+    <download_video_progress_title>Загрузка видео из сервера…</download_video_progress_title>
+    <draft>ПРОЕКТ</draft>
+    <draft_clip_missing_tip>Не удалось загрузить некоторые клипы в черновике, так как оригинальные файлы больше недоступны.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Для продолжения попробуйте выполнить замену на другие ресурсы.</draft_clip_missing_tip1>
+    <draft_corrupted>Некоторые элементы в проекте отсутствуют.</draft_corrupted>
+    <draft_delete_video_hint>Удаление исходного видео приведет к повреждению файла черновика.</draft_delete_video_hint>
+    <draft_load_err>Ошибка загрузки</draft_load_err>
+    <draft_open_hint>После запуска нового видеопроекта ваш проект будет заменен.</draft_open_hint>
+    <draft_saved>Черновик сохранен</draft_saved>
+    <drafts>%s ПРОЕКТОВ</drafts>
+    <drafts_not_backward_compatible>Версия приложения слишком низкая, чтобы открыть черновики.</drafts_not_backward_compatible>
+    <drag_to_swap>Тащите, чтобы поменять</drag_to_swap>
+    <duplicate>Дублировать</duplicate>
+    <duration>Bpeмя</duration>
+    <edit>Редактировать</edit>
+    <edit_music_dialog_music_volume>Громкость аудио</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Громкость видео</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Изменить громкость</edit_music_dialog_title>
+    <edit_volume_fade_out>Затухание</edit_volume_fade_out>
+    <edit_with_inshot>Редактировать в InShot:</edit_with_inshot>
+    <effect>Эффект</effect>
+    <effect_count>%d ЭФФЕКТОВ</effect_count>
+    <effects>Звук. эффекты</effects>
+    <emoji_activity_category>АКТИВНОСТЬ</emoji_activity_category>
+    <emoji_animals_category>ЖИВОТНЫЕ</emoji_animals_category>
+    <emoji_celebration_category>ПРАЗДНИК</emoji_celebration_category>
+    <emoji_dialy_category>ЕЖЕДНЕВНО</emoji_dialy_category>
+    <emoji_emotion_category>Эмоции</emoji_emotion_category>
+    <emoji_food_category>ЕДА</emoji_food_category>
+    <emoji_gesture_category>ЖЕСТ</emoji_gesture_category>
+    <emoji_nature_category>ПРИРОДА</emoji_nature_category>
+    <emoji_objects_category>ОБЪЕКТЫ</emoji_objects_category>
+    <emoji_people_category>ЛЮДИ</emoji_people_category>
+    <emoji_recent_category>ПОСЛЕДНЕЕ</emoji_recent_category>
+    <emoji_smile_category>СМАЙЛИКОВ</emoji_smile_category>
+    <emoji_symbols_category>СИМВОЛЫ</emoji_symbols_category>
+    <emoji_transit_category>ТРАНЗИТ</emoji_transit_category>
+    <erase>стереть</erase>
+    <error>Не смогли! Пожалуйста, повторите попытку!</error>
+    <examine_result>%d клип(а) не могут быть импортированы.</examine_result>
+    <exit>Выход</exit>
+    <exit_app_discard_edit_warn>Нажмите повторно для отмены</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>ВЫХОД</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Нажмите кнопку «Сохранить», чтобы сохранить свои работы и поделиться ими.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Выйти, не сохраняя?</exit_before_save_dlg_title>
+    <exit_tip>Нажмите еще раз чтобы выйти</exit_tip>
+    <exo_controls_cc_disabled_description>Включить субтитры</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Выключить субтитры</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Перемотать вперед</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Полноэкранный режим</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Выйти из полноэкранного режима</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Скрыть панель управления</exo_controls_hide>
+    <exo_controls_next_description>Следующий трек</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Скрыть дополнительные настройки</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Показать дополнительные настройки</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Приостановить</exo_controls_pause_description>
+    <exo_controls_play_description>Воспроизвести</exo_controls_play_description>
+    <exo_controls_playback_speed>Скорость</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Стандартная</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Предыдущий трек</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Повторять все</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Не повторять</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Повторять трек</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Перемотать назад</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Полоса прокрутки воспроизведения</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Настройки</exo_controls_settings_description>
+    <exo_controls_show>Показать панель управления</exo_controls_show>
+    <exo_controls_shuffle_off_description>Перемешивание отключено</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Перемешивание включено</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Остановить</exo_controls_stop_description>
+    <exo_controls_vr_description>VR-режим</exo_controls_vr_description>
+    <exo_download_completed>Скачивание завершено</exo_download_completed>
+    <exo_download_description>Скачать</exo_download_description>
+    <exo_download_downloading>Скачивание…</exo_download_downloading>
+    <exo_download_failed>Ошибка скачивания</exo_download_failed>
+    <exo_download_notification_channel_name>Скачивания</exo_download_notification_channel_name>
+    <exo_download_removing>Удаление скачанных файлов…</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Мбит/сек</exo_track_bitrate>
+    <exo_track_mono>Моно</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Другая запись</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Субтитры</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Комментарии</exo_track_role_commentary>
+    <exo_track_role_supplementary>Дополнительные материалы</exo_track_role_supplementary>
+    <exo_track_selection_auto>Авто</exo_track_selection_auto>
+    <exo_track_selection_none>Нет</exo_track_selection_none>
+    <exo_track_selection_title_audio>Аудио</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Текст</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Видео</exo_track_selection_title_video>
+    <exo_track_stereo>Стерео</exo_track_stereo>
+    <exo_track_surround>Объемный звук</exo_track_surround>
+    <exo_track_surround_5_point_1>Система объемного звука 5.1</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>Система объемного звука 7.1</exo_track_surround_7_point_1>
+    <exo_track_unknown>Неизвестный трек</exo_track_unknown>
+    <extract>Извлекать</extract>
+    <extract_audio>Извлечь аудио</extract_audio>
+    <extract_audio_from_video>Извлечь аудио из видео</extract_audio_from_video>
+    <extract_failed>Не удалось извлечь</extract_failed>
+    <extract_music_from_video>Извлекайте музыку из видео</extract_music_from_video>
+    <fade>Деград. цвета</fade>
+    <fade_in>Усиление</fade_in>
+    <fade_new>Исчезать</fade_new>
+    <failed_to_load_blur_image>Не удалось загрузить выбранное изображение, выберите еще раз!</failed_to_load_blur_image>
+    <failed_to_load_image>Ой! Не удалось загрузить изображение</failed_to_load_image>
+    <fast_motion>ВЫСОКАЯ СКОРОСТЬ</fast_motion>
+    <favourite>Любимый</favourite>
+    <featured>Рекоменд.</featured>
+    <feedback_and_suggestion_hint>Обратная связь и предложения</feedback_and_suggestion_hint>
+    <feedback_not_now>НЕ СЕЙЧАС</feedback_not_now>
+    <feedback_subject>Отзыв об InShot</feedback_subject>
+    <feedback_submit>ПОДАТЬ</feedback_submit>
+    <festival>Фестиваль</festival>
+    <file_corrupted_description>Файл поврежден, переустановите InShot с официальный магазин приложений.</file_corrupted_description>
+    <file_corrupted_note>Файл поврежден, переустановите InShot с Google Play.</file_corrupted_note>
+    <file_corrupted_title>Уважаемый пользователь!</file_corrupted_title>
+    <file_not_support>Этот тип файла не поддерживается InShot.</file_not_support>
+    <film>фильм</film>
+    <film_grain>Зернистость пленки</film_grain>
+    <filter>ФИЛЬТР</filter>
+    <filter_manage>Управление фильтром</filter_manage>
+    <filter_not_supported_in_photo>Текущий пакет эффектов недоступен для фотографий.</filter_not_supported_in_photo>
+    <filters>фильтры</filters>
+    <first_month>Первый месяц</first_month>
+    <first_year>Первый год</first_year>
+    <fit>Подогнать</fit>
+    <fit_bottom>Снизу</fit_bottom>
+    <fit_fit>Подогнать</fit_fit>
+    <fit_full>Полное</fit_full>
+    <fit_left>Слева</fit_left>
+    <fit_original>Оригинал</fit_original>
+    <fit_right>Справа</fit_right>
+    <fit_top>Сверху</fit_top>
+    <flip>флип</flip>
+    <folder_cannot_write>Папка закрыта для записи! Выберите другую папку.</folder_cannot_write>
+    <follow_ins_to_unlock>Подпишитесь на InShot в Instagram, чтобы</follow_ins_to_unlock>
+    <follow_setting_title>Элементы прикрепляются к рамке</follow_setting_title>
+    <follow_tiktok_to_unlock>Подпишитесь на канал InShot в TikTok, чтобы</follow_tiktok_to_unlock>
+    <follow_toggle_tip>После обрезки или удаления клипа элементы (запись, звуковые эффекты, PIP, наклейки, тексты и эффекты) останутся в изначальной рамке.</follow_toggle_tip>
+    <follow_toggle_tip_2>После обрезки или удаления клипа элементы (PIP, наклейки, тексты...) останутся в изначальной рамке.</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Следуйте за нами в социальных сетях, чтобы получить последние новости о InShot.</follow_us_fun_media_tip>
+    <follow_us_to>Подписывайтесь на нас</follow_us_to>
+    <follow_youtube_to_unlock>Подпишитесь на канал InShot в YouTube, чтобы</follow_youtube_to_unlock>
+    <font>Шрифт</font>
+    <font_color>Цвет шрифта</font_color>
+    <font_copyright_des>Этот шрифт для личного (некоммерческого) использования только.</font_copyright_des>
+    <fonts>шрифты</fonts>
+    <for_you>Для вас</for_you>
+    <format>Формат</format>
+    <frame>рамка</frame>
+    <frame_rate>Частота кадров</frame_rate>
+    <free>СВОБОДНО</free>
+    <free_download>БЕСПЛАТНАЯ ЗАГРУЗКА</free_download>
+    <free_unlock>Открой бесплатно</free_unlock>
+    <freeze>Заморозить</freeze>
+    <full_park_emoji>Полный пакет смайликов</full_park_emoji>
+    <gallery>Галерея</gallery>
+    <get>Скачать</get>
+    <gif_compress>Сжатие файлов GIF</gif_compress>
+    <string name="gif_compress_description" formatted="false">Файлы GIF, размер которых превышает %s, будут автоматически сжаты до %s.</string>
+    <gif_supported_tip>Добавлена поддержка формата GIF.</gif_supported_tip>
+    <give_5star>Оценить в 5 звёзд</give_5star>
+    <glitch>ГЛЮК</glitch>
+    <go_setting>Перейти к Настройки</go_setting>
+    <go_to_logout>Удалить InShot аккаунт навсегда</go_to_logout>
+    <go_to_the_shop>перейти в магазин</go_to_the_shop>
+    <gps_not_installed>Проверьте, установлена ли у вас последняя версия Google Play.</gps_not_installed>
+    <gradient>Градиент</gradient>
+    <grain>Шумы</grain>
+    <has_no_photo_hint>Выберите 1-9 фотографий для создания красивого коллажа.</has_no_photo_hint>
+    <have_purchased>Вы купили!</have_purchased>
+    <help>Справка</help>
+    <help_Keyframe_desc>Добавьте опорный кадр на временной шкале, позволяющий с легкостью отмечать начало и конец анимации (масштабирование, движение, поворот, прозрачность) для стикера, текста или картинки.</help_Keyframe_desc>
+    <help_Keyframe_title>Точка</help_Keyframe_title>
+    <help_Keyframe_youtube_des>Как использовать опорный кадр при добавлении анимации для слоя</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Войдите в меню «Стикеры» и импортируйте изображения из альбомов или папок.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Теперь с поддержкой GIF.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Добавить свои стикеры</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Войдите в меню «Музыка».</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Нажмите на график музыки, чтобы изменить громкость музыки/звуковых эффектов/записи;
+Нажмите на видеоклип, чтобы изменить громкость исходного видео."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Изменить громкость звука</help_adjust_audio_volume_title>
+    <help_adjust_volume>Нажмите на шкалу времени, чтобы отрегулировать громкость видео.</help_adjust_volume>
+    <help_animation_desc>Выберите входную/выходную анимацию для текста и стикера.</help_animation_desc>
+    <help_animation_title>Выберите входную/выходную анимацию</help_animation_title>
+    <help_apply_to_all_desc>Для применения фильтры, ширины рамки, фона или громкости ко всем клипам используйте опцию \"Применить ко всему\".</help_apply_to_all_desc>
+    <help_apply_to_all_title>Применить редактирование ко всем клипам</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Атмосферные материалы и эффекты смешать — лучший вариант.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Атмосферные материалы</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Как наложить эффекты на видео бесплатно</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Как настроить исходную громкость звука</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Откройте меню \"Подогнать\", установите формат для фона видео или удалите фон видео.</help_background_ratio_desc>
+    <help_background_ratio_title>Сменить формат фона для видео</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Как настроить фон видео</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Выберите объект для редактирования.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Нажмите сюда, чтобы изменить громкость в видео</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Войдите в настройки InShot
+Нажмите на «Параметры видео» и отключите «Элементы прикрепляются к рамке»."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Почему стикер/текст/эффекты/PIPs/записи/Звуковые эффекты пропадают, когда я удаляю клип?</help_disable_stick_frame_title>
+    <help_edit_music>Нажмите, чтобы изменить музыку.</help_edit_music>
+    <help_edit_music_desc>Нажмите на вставленную музыку для редактирования</help_edit_music_desc>
+    <help_edit_music_title>Редактировать музыку</help_edit_music_title>
+    <help_extract_audio_desc>Нажмите [Извлечь аудио из видео] на вкладке \"Музыка\" и импортируйте видео, чтобы извлечь аудио.</help_extract_audio_desc>
+    <help_extract_audio_title>Извлечь аудио из видео</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Как извлечь аудио из видео</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Для всей встроенной музыки подписаны лицензионные соглашения с музыкантами.
+
+Если вы получили уведомление об авторском праве, либо ваше видео было удалено администрацией Instagram, нажмите «Принимаю», укажите свое имя и нажмите «Обжаловать»."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Не беспокойтесь, музыкант активно поддержит ваше обращение, а ваше видео будет восстановлено через 2–3 мин.</help_faq_album_desc_2>
+    <help_faq_album_title>Что делать, если мое музыкальное видео удаляется администрацией Instagram?</help_faq_album_title>
+    <help_faq_auto_update_dest>Перейдите в управление учетной записью Google Play, нажмите «Настройки», нажмите «Автообновление приложений» в «Параметрах сети».</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>Что нужно сделать, чтобы всегда использовать последнюю версию InShot?</help_faq_auto_update_title>
+    <help_faq_four_desc>К сожалению, удаленные черновики восстановить нельзя. Мы полностью соблюдаем политику конфиденциальности и не храним файлы пользователей.</help_faq_four_desc>
+    <help_faq_four_title>Можно ли восстановить удаленный черновик?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>При сохранении видео создаются промежуточные файлы, которые удаляются по завершении процесса. Чтобы решить эту проблему, освободите больше места на устройстве (а НЕ в SD-карта).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Почему я получаю сообщение о нехватке места на телефоне, хотя оно еще есть?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>У каждого шрифта своя лицензия, не забывайте ее проверять. Некоторые шрифты можно использовать только в личных целях.</help_faq_one_desc>
+    <help_faq_one_title>Я могу использовать встроенные шрифты в коммерческих целях?</help_faq_one_title>
+    <help_faq_three_desc>В случае удаления из галереи исходных файлов связанные с ними черновики будут утрачены, и их нельзя будет открыть. Попробуйте восстановить файлы из альбома «Недавно удаленные».</help_faq_three_desc>
+    <help_faq_three_title>Почему появляется сообщение об ошибке «Черновик поврежден» или «Отсутствуют исходные файлы черновика»?</help_faq_three_title>
+    <help_faq_two_desc>"Жалобы Content ID не приводят к получению предупреждения о нарушении авторских прав, заморозке или удалению канала. Обычно жалоба нацелена на отслеживание или монетизацию видео, а не его блокировку. В итоге ваше видео остается активным с данными жалобами (но может содержать рекламу), а вы по-прежнему сможете делиться им с другими людьми.
+
+Подробнее о жалобах Content ID см. по ссылке https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Почему мне пришла претензия YouTube об авторских правах на музыку?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Функции</help_group_video_edit_title>
+    <help_import_fonts_desc>Убедитесь, что на вашем смартфоне есть файлы шрифтов. Нажмите кнопку \"Импорт\", чтобы импортировать шрифты.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Пользователям с версией Android выше 11 следует нажать на кнопку «Импорт шрифта» для перехода на страницу выбора файла.
+1.Нажмите на кнопку в левой верхней части экрана, выберите SD-карту, затем выберите папку с файлом."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Нажмите на панель поиска вверху экрана и выполните поиск названия шрифта или файлов TTF/OTF.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Импорт шрифтов</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Как импортировать шрифты в приложение InShot для Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Перейдите в магазин Google Play. Войдите в меню «Подписки» и выберите подписку, которую хотите отменить.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Как управлять подпиской или отменить ее?</help_manager_subscribe_title>
+    <help_mask_desc>Добавьте маску формы для слоя PIP.</help_mask_desc>
+    <help_mask_title>Маска PIP</help_mask_title>
+    <help_mask_youtube_des>Как использовать инструмент Маска для слоя PIP</help_mask_youtube_des>
+    <help_merge_video_desc>Для выбора видео для объединения коснитесь кнопки \"+\".</help_merge_video_desc>
+    <help_merge_video_title>Объединить видео</help_merge_video_title>
+    <help_move_music>Для синхронизации с видео удерживайте и потяните</help_move_music>
+    <help_one_time_purchase_des>Совершая единовременную покупку, вы навсегда получаете премиум-версию InShot. В будущем вам больше не потребуется покупать что-либо, даже если в InShot будут добавляться новые функции или эксклюзивные материалы для редактора.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Что такое Одноразовая Покупка?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Нажмите «ФОН», чтобы добавить фон к вырезанному изображению.</help_photo_cutout_desc>
+    <help_photo_cutout_title>Вырезание фотографии</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Выберите любой цвет и удалите его.
+1. С помощью селектора цвета выберите цвет, который требуется удалить.
+2. Настройте интенсивность и тень для достижения оптимального результата."</help_pip_chroma_desc>
+    <help_pip_chroma_title>Хромакей PIP</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Как убрать зеленый фон с помощью хромакея (Учебное пособие по InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Откройте Google Play и нажмите на значок аккаунта в правом верхнем углу.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Временно удалите все аккаунты, кроме того, с которого совершена покупка, и снова попробуйте восстановить покупку в настройках InShot.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. Если выполнен вход в несколько аккаунтов Google, нажмите «Настройки аккаунтов».</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Почему мне не удалось восстановить покупку после входа в верный аккаунт Google Play?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Попробуйте очистить данные по InShot в настройках устройства, а затем нажмите «Восстановить покупки» в настройках InShot.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Убедитесь, что вы вошли только в ОДНУ правильную учетную запись Google Play, а не в несколько. На текущий момент Google Play не распознает множественные учетные записи.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Как восстановить покупку?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Если вы хотите сохранить текущий проект, выберите «Черновик», когда выходите из него.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Управлять (удалить/копировать/переименовать) проектами можно на главной странице.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Сохранить/удалить черновик</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Добавьте переходы</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Настройте длительность фотографий</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Импортируйте изображения из альбома и файлов</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Нажмите, чтобы выбрать видео или фото</help_slideshow_reminder>
+    <help_slideshow_title>Сделайте слайд-шоу</help_slideshow_title>
+    <help_slideshow_youtube_des>Как создать музыкальную презентацию</help_slideshow_youtube_des>
+    <help_smooth_des>Используйте инструмент Сгладить для создания идеально плавного замедленного видео (скорость &lt; x1,0)</help_smooth_des>
+    <help_smooth_title>Сглаживание Замедленной Съемки</help_smooth_title>
+    <help_speed_ramp_des_one>Изменение точек скорости. Нажмите кнопку «Добавить»/«Удалить», чтобы добавлять или удалять точки на кривой скорости.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Регулировка кривой скорости. Выберите точки скорости и потяните вверх или вниз, чтобы отрегулировать скорость видео. Потяните из стороны в сторону, чтобы изменить длительность фрагмента.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Кривая скорости | Плавно меняйте скорость с помощью InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Изменение (кривая) скорости</help_speed_ramp_title>
+    <help_swap_clip>Зажмите, чтобы поменять</help_swap_clip>
+    <help_timeline_desc>Потяните за ручку, чтобы переместить стикер на протяжении клипа или видео</help_timeline_desc>
+    <help_timeline_title>Быстрая навигация по стикерам и текстам</help_timeline_title>
+    <help_transition_desc>Для добавления переходов импортируйте не менее 2 видеоклипов и нажмите на кнопку между миниатюрами 2 клипов.</help_transition_desc>
+    <help_transition_title>Видеопереход</help_transition_title>
+    <help_translate_content>Я хотел бы помочь вам перевести InShot. Обращайтесь! Язык:</help_translate_content>
+    <help_translate_subject>Локализация</help_translate_subject>
+    <help_volume_adjust_desc>Нажмите на миниатюры видео, чтобы открыть быстрое меню, и передвиньте ползунок, чтобы отрегулировать громкость видео.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Регулировка громкости видео</help_volume_adjust_title>
+    <help_youtube_title>Обучающие видео на YouTube</help_youtube_title>
+    <help_zoom_drag>Перетащите ручку, чтобы обрезать видео.</help_zoom_drag>
+    <help_zoom_timeline>"Увеличьте график видео для точного редактирования.
+Уменьшите, чтобы просмотреть весь график видео."</help_zoom_timeline>
+    <help_zoom_title>Редактирование видео</help_zoom_title>
+    <hide>Спрятать</hide>
+    <highlight>выделение</highlight>
+    <hint_install_googleplay>Покупка удалось, потому что он нуждается в Google Play Услуг, который не поддерживается вашим устройством.</hint_install_googleplay>
+    <hint_items_to_frame>Перейдите на страницу параметры видео, чтобы включить/отключить эту опцию</hint_items_to_frame>
+    <hot>Популярно</hot>
+    <hua_wei_login_error>Не удалось войти в HUAWEI</hua_wei_login_error>
+    <hua_wei_login_success>Вход в HUAWEI выполнен успешно</hua_wei_login_success>
+    <hue>Оттенок</hue>
+    <i_receive_effect_success>Успешно сохранено в папке «Звук. эффекты - Импортированная».</i_receive_effect_success>
+    <i_receive_music_success>Успешно сохранено в папке «Рекоменд. - Импортированная».</i_receive_music_success>
+    <import_font>Импорт шрифтов</import_font>
+    <import_video_failed_content>Разрешение видео превышает предел производительности вашего телефона.</import_video_failed_content>
+    <import_video_failed_title>Не удалось выполнить импорт</import_video_failed_title>
+    <imported>Импортированная</imported>
+    <imported_effect>Импортированный эффект</imported_effect>
+    <imported_music>Импортированная музыка</imported_music>
+    <improvement_plan_desc>Нам потребуется информация об идентификаторе вашего устройства, чтобы улучшить взаимодействие с пользователем InShot Благодарю.</improvement_plan_desc>
+    <improvement_plan_title>План улучшения взаимодействия с пользователем</improvement_plan_title>
+    <index_create_new>Создать новое</index_create_new>
+    <index_more_take_photo>Снять фото</index_more_take_photo>
+    <index_more_take_video>Снять видео</index_more_take_video>
+    <index_more_use_recent>Использовать последнее</index_more_use_recent>
+    <info_code>Информация Код:</info_code>
+    <ins_crop_hint_1>Instagram может обрезать ваше изображение.</ins_crop_hint_1>
+    <ins_crop_hint_2>Соотношение сторон в Instagram: от 1,91:1 до 4:5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Пожалуйста, дать <b>разрешение</b> для <b>хранения</b> для <b>Instagram</b>, чтобы загрузить свою фотографию.</string>
+    <install>Установить</install>
+    <installed>УСТАНОВЛЕН</installed>
+    <interval>Интервал</interval>
+    <invalid_delete>Последний клип не может быть удален.</invalid_delete>
+    <invalid_position>Выбранная позиция недействительна.</invalid_position>
+    <invalidate_name>Специальные символы не поддерживаются.</invalidate_name>
+    <item_already_owned>Нажмите «Восстановить», чтобы повторно активировать покупку в приложении.</item_already_owned>
+    <items>Предметы</items>
+    <join_inshot_pro>Присоединяйтесь к InShot Pro</join_inshot_pro>
+    <jump_to_font_language>Перейти на %s</jump_to_font_language>
+    <keep_draft>Держите проект</keep_draft>
+    <keep_on>Не выключать</keep_on>
+    <keyframe>ТОЧКА</keyframe>
+    <label>ЭТИКЕТКА</label>
+    <label_quick_selection>БЫСТРЫЙ ВЫБОР МЕТКИ</label_quick_selection>
+    <last_draft>ПОСЛЕДНИЙ ПРОЕКТ</last_draft>
+    <layout>макет</layout>
+    <letter_animation>Один символ</letter_animation>
+    <lib_rate_btn_go_market>Оценить в Google Play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>О большем мы и не мечтали :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Пожалуйста, оцените наше приложение.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Вы нам тоже нравитесь!</lib_rate_like_you>
+    <lib_rate_oh_no>О нет!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Спасибо за отзыв!</lib_rate_thanks_feedback>
+    <license>Лицензия</license>
+    <light>СВЕТЛЫЙ</light>
+    <lightness>Яркость</lightness>
+    <loading>Загрузка…</loading>
+    <loading_progress_title>Загрузка…</loading_progress_title>
+    <login_tip>"Пожалуйста, привяжите аккаунт, 
+ чтобы продолжить оплачивать или восстанавливать покупки"</login_tip>
+    <login_with>Войти через %s</login_with>
+    <login_with_wechat>Войти через WeChat</login_with_wechat>
+    <logout>Удалять</logout>
+    <logout_hint>Если вы подписались на InShot Pro, удаление вашей учетной записи также приведет к удалению Inshot Pro и его невозможно будет восстановить !!!</logout_hint>
+    <logout_success>Удалить успешно</logout_success>
+    <long_press_delete>Зажмите, чтобы удалить</long_press_delete>
+    <long_press_preview>Длительное нажатие для предварительного просмотра.</long_press_preview>
+    <looking_for_music_content_1>Зайдите в YouTube Audio Library со своего ПК или Mac и загрузите бесплатную музыку.</looking_for_music_content_1>
+    <looking_for_music_content_2>Затем отправьте музыкальные файлы на свой телефон Android.</looking_for_music_content_2>
+    <looking_for_music_title>Ищите музыку для своих видео?</looking_for_music_title>
+    <loop_animation>ПЕТЛЯ</loop_animation>
+    <low_storage_space>Не хватает памяти</low_storage_space>
+    <luminance>Яркость</luminance>
+    <manage>Управлять</manage>
+    <manage_subscription>Управление подпиской</manage_subscription>
+    <mask>Маска</mask>
+    <material>Материал</material>
+    <material_selected_hint>Содержит материалы для версии Pro.</material_selected_hint>
+    <max_hash_tags_num>Instagram позволяет максимально 29 #hashtags за фото/видео</max_hash_tags_num>
+    <merge_video_hint>Профессионально объединить видео</merge_video_hint>
+    <message>Сообщение</message>
+    <modern>современное</modern>
+    <month>Месяц</month>
+    <mood>Настроение</mood>
+    <morandi>моранди</morandi>
+    <more_about_inshot_pro>Подробнее о InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000+ больше</more_emoji>
+    <string name="more_info"><u>Подробнее</u>:</string>
+    <mosaic>Мозаика</mosaic>
+    <multi_cut>Повторно вырезать</multi_cut>
+    <multi_split>Повторно разделить</multi_split>
+    <music>Музыка</music>
+    <music_limit>Ограничение продолжительности музыки</music_limit>
+    <musician>Музыкант</musician>
+    <my_filter>Мой фильтр</my_filter>
+    <my_material>Мой материал</my_material>
+    <my_music>МОЯ МУЗЫКА</my_music>
+    <new_>НОВЫЙ</new_>
+    <new_album>Новый альбом</new_album>
+    <new_five_stars_rate>Мы стараемся сделать приложение еще удобнее для пользователей и будем очень признательны, если вы оцените его.</new_five_stars_rate>
+    <next>СЛЕДУЮЩАЯ</next>
+    <no>Нет</no>
+    <no_actionable_items>Нет элементов с действиями</no_actionable_items>
+    <no_audio>Без звука</no_audio>
+    <no_audio_files>Нет звуковых файлов.</no_audio_files>
+    <no_draft_profile>Нет профиля сквозняков</no_draft_profile>
+    <no_fonts_found>Шрифтов не найдено</no_fonts_found>
+    <no_network>Нет сети</no_network>
+    <no_photos_or_videos>Нет фотографий или видео</no_photos_or_videos>
+    <note_if_you_clear>обратите внимание , что если вы очистите кеш то персонализация рекламы будет снова включена .</note_if_you_clear>
+    <off>Выключить</off>
+    <offline_notification_text>Чтобы открыть его, нажмите на уведомление.</offline_notification_text>
+    <offline_notification_title>Вы хотели посмотреть объявление, когда были офлайн</offline_notification_title>
+    <offline_opt_in_confirm>ОК</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Вы получите уведомление со ссылкой, когда появится подключение к Интернету.</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Нет, спасибо</offline_opt_in_decline>
+    <offline_opt_in_message>Когда вы подключитесь к Интернету, мы отправим вам уведомление со ссылкой на сайт рекламодателя.</offline_opt_in_message>
+    <offline_opt_in_title>Посмотрите объявление, когда будете в Сети</offline_opt_in_title>
+    <ok>ОК</ok>
+    <on>Включить</on>
+    <only_support_effects>Поддерживает только тип \"Эффекты\"</only_support_effects>
+    <oom_tip>Недостаточно памяти, попробуйте еще раз!</oom_tip>
+    <opacity>ПРОЗРАЧ.</opacity>
+    <open_font_failed>Файл шрифта недействителен.</open_font_failed>
+    <open_from>ОТКРЫВАТЬ</open_from>
+    <open_from_photos>Открыт с фотографией</open_from_photos>
+    <open_image_failed_hint>Не удалось открыть изображения, попробуйте еще раз или откройте другое изображение.</open_image_failed_hint>
+    <open_music_failed_hint>Не удалось открыть файл аудио. Повторите попытку или выберите другой файл аудио.</open_music_failed_hint>
+    <open_settings_0>1.Откройте настройки</open_settings_0>
+    <open_settings_1>ОТКРОЙТЕ НАСТРОЙКИ</open_settings_1>
+    <open_video_failed_hint>Не удалось открыть файл видео. Повторите попытку или выберите другое видео.</open_video_failed_hint>
+    <origin_pitch>Оригинальный тон</origin_pitch>
+    <original>Оригинал</original>
+    <original_image_not_found>Исходный файл изображения больше не существует, пожалуйста, дважды проверьте.</original_image_not_found>
+    <original_music_not_found>Оригинальная музыка не файл больше не существует, пожалуйста, проверьте.</original_music_not_found>
+    <original_video_not_found>Не оригинальный видеофайл больше существует, нет, пожалуйста, проверьте.</original_video_not_found>
+    <other_app_recording>Запись голоса в настоящее время недоступна, так как она используется другими приложениями.</other_app_recording>
+    <outline>Контур</outline>
+    <page>РВАНАЯ БУМАГА</page>
+    <parent_directory>Родительский каталог</parent_directory>
+    <part_original_files_miss_in_draft>"Отсутствует один или более оригинальных файлов. Продолжить редактирование? 
+
+Если продолжить, материалы в черновике могут быть размещены неправильно. 
+
+Восстановление оригинальных файлов из папок [Недавно удаленные / Корзина] может исправить проблему."</part_original_files_miss_in_draft>
+    <pattern>Шаблон</pattern>
+    <pay_success>Куплен успешно!</pay_success>
+    <permission_read_external_storage>Требуется разрешение на хранение.</permission_read_external_storage>
+    <photo>Фото</photo>
+    <pinch_zoom_in>Зажмите для увеличения.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Превышено макс. число объектов.</pip_track_reach_max>
+    <play_video_via>Воспроизвести видео через</play_video_via>
+    <popular>Популярный</popular>
+    <precode>ПРЕДВ. КОДИРОВАНИЕ</precode>
+    <precode_failed>Предв. кодирование не удалось.</precode_failed>
+    <precut>Обрезка</precut>
+    <preset>Пресет</preset>
+    <string name="privacy_policy_content" formatted="false">Добро пожаловать в InShot!&lt;br>&lt;br> Мы стремимся предоставить пользователям лучшее обслуживание во всех аспектах и по мере необходимости будем обновлять &lt;a href=%s>Условия использования&lt;/a> и &lt;a href=%s>Правила конфиденциальности&lt;/a>.&lt;br>&lt;br>Если вы согласны, нажмите «Принимаю» и начните пользоваться InShot.</string>
+    <string name="privacy_policy_content_gdpr">При использовании InShot вам будет показываться индивидуальная реклама. Чтобы отказаться от просмотра такой рекламы, перейдите на страницу &lt;a href=%s>«Правила конфиденциальности»&lt;/a> и нажмите «I don’t agree».&lt;br>&lt;br></string>
+    <privacy_policy_title>Условия использования и Политику конфиденциальности</privacy_policy_title>
+    <pro_detail>InShot Pro подробнее</pro_detail>
+    <pro_expire_time_format>Истекает в %s</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro истек в %s.</pro_expired_tip>
+    <pro_one_time_purchase>Одноразовая покупка</pro_one_time_purchase>
+    <pro_purchase_new_desc>Доступ ко всем платным переходам, эффектам, стикерам и многому другому. Нет логотипа InShot, нет рекламы.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Доступ ко всем платным переходам, эффектам, стикерам и многому другому. Нет рекламы.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Вы уже являетесь участником InShot Pro.</pro_purchased_info>
+    <pro_restore_not_purchased>Восстановление завершено, но вы еще не являетесь участником InShot Pro.</pro_restore_not_purchased>
+    <pro_subscription_details>СВЕДЕНИЯ О ПОДПИСКЕ</pro_subscription_details>
+    <pro_unavailable>Версия Pro недоступна</pro_unavailable>
+    <pro_unavailable_detail>Убедитесь, что вы вошли только в один действительный аккаунт Google Play. Если вам требуется помощь, см. дополнительную информацию на странице вопросов и ответов.</pro_unavailable_detail>
+    <processing_error>Ошибка обработки</processing_error>
+    <processing_progress_title>Обработка…</processing_progress_title>
+    <procode_progress>Предв. кодирование...</procode_progress>
+    <promotion_lumii_title>Настроить отдельные цвета</promotion_lumii_title>
+    <promotion_subscribe_title>Холи специальное предложение</promotion_subscribe_title>
+    <purchase_failed>Покупка не удалась, попробуете еще раз?</purchase_failed>
+    <purchase_failed_tile>Покупка не удалось</purchase_failed_tile>
+    <range>Диапазон</range>
+    <rate>Оценить</rate>
+    <rate_feedback_message>Не хотите написать что-нибудь о нашем приложении?</rate_feedback_message>
+    <rate_later>Позже</rate_later>
+    <rate_like>Да</rate_like>
+    <rate_main_message>Вам нравится InShot?</rate_main_message>
+    <rate_not_like>Нет</rate_not_like>
+    <rate_review_message>Вы не могли бы написать хороший отзыв? Нам это нужно!</rate_review_message>
+    <ratio>Пропорция</ratio>
+    <recent>Последнее</recent>
+    <recommend>рекомендуется</recommend>
+    <record>Запись</record>
+    <redo>Вернуть</redo>
+    <refresh_state>Восстановить покупку</refresh_state>
+    <reject>Спасибо, не хочу</reject>
+    <remove_ads>Удаление водяных символов и объявлений</remove_ads>
+    <remove_ads_1>Удаление объявлений</remove_ads_1>
+    <remove_ads_1_desc>Навсегда удалите рекламный баннер.</remove_ads_1_desc>
+    <remove_ads_desc>Навсегда удалите водяные знаки и рекламный баннер. Больше вам не придется удалять водяные знаки вручную.</remove_ads_desc>
+    <remove_all_ads>Убрать рекламу</remove_all_ads>
+    <remove_all_split_marks>Удалить все разрезные знаки, которые вы добавили?</remove_all_split_marks>
+    <remove_pro_materials>Удалить материалы для версии Pro</remove_pro_materials>
+    <remove_watermark>Удалить водяной знак</remove_watermark>
+    <remove_watermark_ad>REMOVE В ЭТОТ РАЗ</remove_watermark_ad>
+    <remove_watermark_ad_2>БЕСПЛАТНО СНЯТЬ</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Удалить водяной знак и рекламу</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Удалить рекламу</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Удалить рекламу постоянно.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Удалить водяной знак и рекламу постоянно.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>УДАЛЕНИЕ НЕУСТРАНИМЫМ</remove_watermark_buy>
+    <rename>Переименовать</rename>
+    <renew_pro>Обновить InShot Pro</renew_pro>
+    <replace>заменить</replace>
+    <replace_draft_des>Отменить проект и начать новый проект?</replace_draft_des>
+    <report>Отчет</report>
+    <report_fix_description>Пожалуйста, отправьте нам файлы журнала и аудио, чтобы помочь нам решить эту проблему.</report_fix_description>
+    <report_fix_ok>ОТПРАВИТЬ ЖУРНАЛ И АУДИО ФАЙЛЫ</report_fix_ok>
+    <report_fix_title>Обработка аудио не удалась</report_fix_title>
+    <request_record_rationale>Разрешить InShot использовать микрофон на вашем устройстве.</request_record_rationale>
+    <request_storage_rationale>Разрешить InShot доступ к фотографиям и мультимедиа на вашем устройстве.</request_storage_rationale>
+    <reselect>Замена</reselect>
+    <reset>Сбросить</reset>
+    <reset_adjust>Сбросить Регулировка</reset_adjust>
+    <reset_all>Сбросить все</reset_all>
+    <reset_hue>Сбросить оттенок</reset_hue>
+    <reset_luminance>Сбросить яркость</reset_luminance>
+    <reset_saturation>Сбросить насыщенность</reset_saturation>
+    <reset_speed>Сбросить скорость</reset_speed>
+    <resolution>Разрешение</resolution>
+    <restore>Восстановить</restore>
+    <restore_failed>Восстановление не удалось!</restore_failed>
+    <restore_ok_Pro>Восстановление успешно, и вы уже являетесь участником InShot Pro.</restore_ok_Pro>
+    <restore_ok_not_Pro>Восстановление успешно, но вы еще не являетесь участником InShot Pro.</restore_ok_not_Pro>
+    <restore_pro_assets>Восстановить ресурсы Pro</restore_pro_assets>
+    <restore_success>Восстановление успешно</restore_success>
+    <restore_trim_message>Отменить все операции обрезки и вырезания, вернуться к исходному видео?</restore_trim_message>
+    <results_page_save_complete>Сохранение завершено</results_page_save_complete>
+    <results_page_share_other>Другое</results_page_share_other>
+    <results_page_wait_video_transcoding>Ожидайте, идет перекодировка видео</results_page_wait_video_transcoding>
+    <retro>Ретро</retro>
+    <retry_save_title>Не удалось экспортировать последнее видео. Попробуйте еще раз?</retry_save_title>
+    <returnapp_tip>Нажмите назад чтобы вернуться к InShot</returnapp_tip>
+    <reverse>Обратное</reverse>
+    <rewarded_unlock_content>Посмотрите видеообъявление, чтобы разблокировать все функции бесплатно (%s)</rewarded_unlock_content>
+    <rewinding>Перемотка назад…</rewinding>
+    <rotate>вращение</rotate>
+    <rotate90>Повернуть 90°</rotate90>
+    <s1>Сохранить изображение</s1>
+    <s2>Разрешить объявлению сохранить изображение в галерее?</s2>
+    <s3>Разрешить</s3>
+    <s4>Отклонить</s4>
+    <s5>Создать мероприятие</s5>
+    <s6>Разрешить объявлению создать мероприятие в календаре?</s6>
+    <s7>Тестовое объявление</s7>
+    <saturation>Насыщение</saturation>
+    <save>СОХРАНИТЬ</save>
+    <save_extracted_audio>Сохранить извлеченное аудио</save_extracted_audio>
+    <save_fail>Сохранить ошибку</save_fail>
+    <save_image_failed_hint>Ошибка сохранения изображения.</save_image_failed_hint>
+    <save_imported_sticker>Сохранить импортированную наклейку</save_imported_sticker>
+    <save_success_hint>Сохранено в %s</save_success_hint>
+    <save_type_description>Сохранить импортированные файлы как</save_type_description>
+    <save_video_failed_dlg_btn_retry>Повторить</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Выбрать другое разрешение</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Выберите более низкое разрешение или повторите попытку!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Ошибка сохранения</save_video_failed_dlg_title>
+    <save_video_failed_hint>Это видео не поддерживается из-за используемого видео- или аудиокодека. Выберите другое видео.</save_video_failed_hint>
+    <saved>Сохраненный</saved>
+    <scanning>Сканирование…</scanning>
+    <string name="sd_card_error">Этот путь/sd-карта недоступны. Выберите другой путь/хранилище данных в меню «Настройки -> %s».</string>
+    <sd_card_full_tip>Недостаточно места в памяти, освободите место в памяти и повторите попытку.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>Карта памяти не установлена!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Требуется примерно %dM свободного места!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Чтобы сохранить видео, нужно больше места для кэша. Освободите место или понизьте разрешение и повторите попытку.</sd_card_space_not_enough_hint>
+    <search_menu_title>Поиск</search_menu_title>
+    <see_all_material>Просмотреть всеl</see_all_material>
+    <select>Выбрать</select>
+    <select_all>Выбрать все</select_all>
+    <select_one_to_edit>Выберите один для редактирования.</select_one_to_edit>
+    <select_one_track_to_edit>Выберите объект для редакт.</select_one_track_to_edit>
+    <select_photo>Выберите Фото</select_photo>
+    <selfie_ad_desc>Захватите естественную красоту с отбеливающими эффектами &amp; живыми фильтрами</selfie_ad_desc>
+    <selfie_ad_title>Селфи Kамера - Love Selfie</selfie_ad_title>
+    <send_feedback>Оставить отзыв</send_feedback>
+    <setting_addtags_title>Добавить теги</setting_addtags_title>
+    <setting_clear_cache_title>Очистить кэш</setting_clear_cache_title>
+    <setting_faq_title>Вопросы и ответы</setting_faq_title>
+    <setting_feedback_title>Отзыв</setting_feedback_title>
+    <setting_follow_us>Следуйте за нами (Получить больше руководств)</setting_follow_us>
+    <setting_general_title>Общие</setting_general_title>
+    <setting_language_title>Язык</setting_language_title>
+    <setting_legal_title>Правовое утверждение</setting_legal_title>
+    <setting_localization_des>Помогите нам перевести InShot на ваш язык</setting_localization_des>
+    <setting_localization_title>Локализация</setting_localization_title>
+    <setting_more_app_title>Другие приложения от %s</setting_more_app_title>
+    <setting_others>Другие</setting_others>
+    <setting_privacypolicy_title>Правила конфиденциальности</setting_privacypolicy_title>
+    <setting_rate5star_des>Поставить InShot оценку «5 звезд» на Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Поставить оценку «5 звезд»</setting_rate5star_title>
+    <setting_restore>Восстановить покупки</setting_restore>
+    <setting_savepath_title>Путь для сохранения</setting_savepath_title>
+    <setting_share_title>Пригласить друзей</setting_share_title>
+    <setting_thankyou_title>Благодарности</setting_thankyou_title>
+    <shadow>Тень</shadow>
+    <shadow_off>Выкл.</shadow_off>
+    <shadow_on>Вкл</shadow_on>
+    <share>Поделиться</share>
+    <share_content>Упростите редактирование видео и фотографий на своем телефоне. Бесплатная загрузка InShot сейчас:https://inshotapp.page.link/invite</share_content>
+    <share_subject>Отличный видео/фоторедактор для instagram, рекомендую! &amp;</share_subject>
+    <sharpen>Резкость</sharpen>
+    <shop>Магазин</shop>
+    <short_preview>Предпросмотр</short_preview>
+    <show_read_video_ad_dlg_content>Просмотрите видео，чтобы удалить водяной знак в этот раз бесплатно.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Смотреть видео объявление, чтобы удалить водяной знак на это время</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Скопируйте и доля</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>история</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>теги для более любит</show_tags_dlg_title>
+    <sign_out>Выйти</sign_out>
+    <sign_out_account>Выйти из аккаунта</sign_out_account>
+    <signout_current_account>Выйти из текущего аккаунта</signout_current_account>
+    <signout_tip_common>Вы уверены, что хотите выйти из текущей учетной записи WeChat?</signout_tip_common>
+    <signout_tip_pro>InShot Pro не будет доступен при выходе из учетной записи.</signout_tip_pro>
+    <size>размер:%s</size>
+    <size_only>Расчетный размер</size_only>
+    <slice>ЛОМТИК</slice>
+    <slow_motion>МЕДЛЕННАЯ СКОРОСТЬ</slow_motion>
+    <smooth>Сгладить</smooth>
+    <smooth_applied>Сглаживание замедленной съемки применено</smooth_applied>
+    <smooth_cancelled>Сглаживание замедленной съемки отменено</smooth_cancelled>
+    <smooth_click_preview>Нажмите «галочку» для предпросмотра сглаженной замедленной съемки</smooth_click_preview>
+    <smooth_preview_effect>Предпросмотр эффекта плавного замедленного движения</smooth_preview_effect>
+    <smooth_slow_speed_available>Доступно только при скорости &lt; %sx</smooth_slow_speed_available>
+    <sorry>Простите</sorry>
+    <string name="space_not_enough_content">Для сохранения %2$s требуется на &lt;b>%1$dM&lt;/b> больше внутренней памяти (а НЕ в SD-карта). Освободите место на телефоне и повторите попытку.</string>
+    <space_not_enough_title>Освободите место на вашем телефоне</space_not_enough_title>
+    <special_offer>Специальное предложение</special_offer>
+    <speed>скорость</speed>
+    <speed_adjusts_precode_hint>Для изменения скорости больше, чем на x%s, требуется предварительное кодирование.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>Скорость больше 10х может привести к потере исходного звука.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>В зеленой зоне повторное предв. кодирование не требуется.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Не блокируйте экран и не переключайтесь на другие приложения.</speed_precode_warning_hint>
+    <split>раскол</split>
+    <spring_festival_pro_title>Лунный новый год скидка 50%</spring_festival_pro_title>
+    <standard>Стандарт</standard>
+    <start_over>НАЧАТЬ СНАЧАЛА</start_over>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <sticker_empty>нет загруженного стикера</sticker_empty>
+    <sticker_text>Стикер</sticker_text>
+    <stickers>Наклейки</stickers>
+    <strength>Прочность</strength>
+    <style>Стиль</style>
+    <subscription_detail>"
+
+- Неограниченная подписка на InShot Unlimited позволяет пользоваться всеми возможностями и платными материалами для редактирования, включая стикеры, пакеты фильтров и т.д. Водяные знаки и реклама будут удаляться автоматически. 
+
+- Плата за подписку на InShot взимается раз в месяц или в год по ставке, зависящей от выбранного плана. Кроме того, при необходимости можно осуществить разовый платеж, не предусмотренный планом подписки. 
+
+- Неограниченная подписка на InShot продлевается автоматически в следующую дату выставления счета. Автоматическое продление можно отключить за 24 часа до окончания текущего периода. Плата за подписку взимается Google Play вместе с подтверждением подписки. Автоматическое продление можно отключить после покупки в настройках аккаунта."</subscription_detail>
+    <subscription_detail_1>"
+
+- Неограниченная подписка на InShot Unlimited позволяет пользоваться всеми возможностями и платными материалами для редактирования, включая стикеры, пакеты фильтров и т.д. Реклама будут удаляться автоматически. 
+
+- Плата за подписку на InShot взимается раз в месяц или в год по ставке, зависящей от выбранного плана. Кроме того, при необходимости можно осуществить разовый платеж, не предусмотренный планом подписки. 
+
+- Неограниченная подписка на InShot продлевается автоматически в следующую дату выставления счета. Автоматическое продление можно отключить за 24 часа до окончания текущего периода. Плата за подписку взимается Google Play вместе с подтверждением подписки. Автоматическое продление можно отключить после покупки в настройках аккаунта."</subscription_detail_1>
+    <subscription_terms>Эту покупку можно использовать только в системе Android. Платеж списывается через Google Play Store после подтверждения покупки. Подписка автоматически продляется по окончании текущего периода, если ее не отменить не позже чем за 24 часа до момента окончания, и отмена вступает в силу в конце текущего периода. Управлять подписками и отключить автоматическое продление можно в настройках учетной записи Google Play Store. За подписку, отмененную в ходе пробного периода, средства списываться не будут.</subscription_terms>
+    <subscription_terms_cn>Подписавшись на InShot Pro, вы можете использовать все функции и материалы для редактирования. Водяной знак и реклама будут удалены автоматически. InShot Pro не выполняет автоматическое обновление, обновите его вручную до конца текущего периода. Подписка не может быть передана между устройствами Android и iOS. Если вы подписались на устройства iOS, вам все равно придется покупать на устройствах Android. После того, как вы подпишетесь на InShot Pro, отмены или возврата средств не будет, пожалуйста, тщательно примите решение перед покупкой.</subscription_terms_cn>
+    <subscription_terms_cn_1>Подписавшись на InShot Pro, вы можете использовать все функции и материалы для редактирования. Реклама будут удалены автоматически. InShot Pro не выполняет автоматическое обновление, обновите его вручную до конца текущего периода. Подписка не может быть передана между устройствами Android и iOS. Если вы подписались на устройства iOS, вам все равно придется покупать на устройствах Android. После того, как вы подпишетесь на InShot Pro, отмены или возврата средств не будет, пожалуйста, тщательно примите решение перед покупкой.</subscription_terms_cn_1>
+    <subscription_terms_hw>Покупки в AppGallery могут быть сделаны только через HUAWEI IAP. Оплата будет снята с вашего счета после подтверждения покупки. Подписка продлевается автоматически после окончания текущего периода и определяет стоимость продления. Вы можете управлять своими подписками и отключить автоматическое продление в настройках своего аккаунта AppGallery. Подписка отменена во время бесплатной пробной версии не будет взиматься.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>Покупку в AppGallery можно сделать только через HUAWEI IAP. Оплата будет снята с вашего счета при подтверждении покупки. Вы можете связаться со службой поддержки Huawei, чтобы отменить покупку в течение 14 дней после получения подтверждения заказа. Подписки обновляются автоматически после окончания текущего периода. Вы можете управлять своими подписками и отключить автоматическое продление в настройках своего аккаунта AppGallery.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>Покупку в AppGallery можно сделать только через HUAWEI IAP. Оплата будет снята с вашего счета при подтверждении покупки. Вы можете связаться со службой поддержки Huawei, чтобы отменить покупку в течение 7 дней после получения подтверждения заказа. Подписки обновляются автоматически после окончания текущего периода. Вы можете управлять своими подписками и отключить автоматическое продление в настройках своего аккаунта AppGallery.</subscription_terms_hw_ru>
+    <subscription_title>Неограниченная подписка на InShot</subscription_title>
+    <super1>СУПЕР</super1>
+    <support_musician>Чтобы поддержать музыканта, укажите его имя в описании вашего видео.</support_musician>
+    <sure>OK</sure>
+    <swap>замена</swap>
+    <swap_order_hint>Длительное нажатие и перетаскивание, чтобы поменять порядок</swap_order_hint>
+    <switch_account>Сменить аккаунт</switch_account>
+    <tags>Теги</tags>
+    <tags_policies>Из-за некоторых политик мы удалили все ненужные теги.</tags_policies>
+    <take_video>Видео</take_video>
+    <tap_permissions>2.Нажмите «Разрешения»</tap_permissions>
+    <template>Шаблон</template>
+    <terms_of_use>Условия использования</terms_of_use>
+    <text>текст</text>
+    <text_spacing>Интервал между текстами</text_spacing>
+    <then>Затем</then>
+    <time_24_hours>Только %s часа</time_24_hours>
+    <time_limited_offer>Ограниченное по времени предложение</time_limited_offer>
+    <tint>Краска</tint>
+    <tip>Совет</tip>
+    <tip_close_ad_personalization>После выключения этой функции может отображаться нерелевантная реклама.</tip_close_ad_personalization>
+    <title_optout_ads>Отключить подбор рекламы</title_optout_ads>
+    <too_many_pip_tip>Избыток слоев может привести к задержкам или ошибкам сохранения.</too_many_pip_tip>
+    <total>Длина видео</total>
+    <track_count>%d ПЕСНИ</track_count>
+    <tracks>Песни</tracks>
+    <transition>Переходы</transition>
+    <transition_prompt>Длина видео будет изменяться после применения переходов.</transition_prompt>
+    <trim>Обрезать</trim>
+    <trim_clip_help_tip>Обрезать видео и отрегулировать длительность фото.</trim_clip_help_tip>
+    <trim_music>Обрезка музыка</trim_music>
+    <turn_off>Выключить</turn_off>
+    <turn_off_tags_context>Выключите теги варианты, и вы можете повернуть его на в меню настроек.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Выключить</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. Включите микрофон</turn_on_microphone>
+    <turn_on_storage>3. Включите Хранение и Камеру</turn_on_storage>
+    <type_something>Добавить текст</type_something>
+    <un_select>Снять выделение</un_select>
+    <undo>Отменить</undo>
+    <undo_reversed>Отменить реверс</undo_reversed>
+    <unlock>Разблокировать</unlock>
+    <unlock_all_features>Разблокируйте все функции</unlock_all_features>
+    <unlock_for_free>Открой бесплатно</unlock_for_free>
+    <unlock_for_sticker_tip>Смотреть видео объявление, чтобы получить этот пакет бесплатно</unlock_for_sticker_tip>
+    <unlock_the_features>разблокировать эту функцию</unlock_the_features>
+    <unsupported_file_format>Неподдерживаемый формат файла</unsupported_file_format>
+    <update>Обновить</update>
+    <update_files>Обновляем файлы</update_files>
+    <use>ИСПОЛЬЗУЙТЕ</use>
+    <user_cancel>Отменен</user_cancel>
+    <valid_for>Действителен в течение %s</valid_for>
+    <valid_for_days>действует %s дней</valid_for_days>
+    <valid_for_hours>действует %s часов</valid_for_hours>
+    <value>Значение</value>
+    <video>Видео</video>
+    <video_background_convert_finished_hint>Конвертация видео выполнена!</video_background_convert_finished_hint>
+    <video_beginning>Начало видео</video_beginning>
+    <video_compress>Сжатие видео</video_compress>
+    <string name="video_compress_description" formatted="false">Видео разрешением выше %s будет автоматически сжато до %s.</string>
+    <video_continue_convert_hint>InShot продолжает конвертировать…</video_continue_convert_hint>
+    <video_conversion_failure>Сбой конвертации видео</video_conversion_failure>
+    <video_convert_failed_hint>Не удалось конвертировать видео, повторите попытку!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Не удалось конвертировать видео, выберите другое видео!</video_convert_failed_hint2>
+    <video_cut_bar_duration>Всего:</video_cut_bar_duration>
+    <video_end>Конец видео</video_end>
+    <video_less_than_one_second_not_allow>Не могу загружать видео менее %s.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Нажмите на миниатюру для получения дополнительной опции.</video_more_option_hint2>
+    <video_not_support>Видео не поддерживается на этом устройстве. Вы можете продолжать пользоваться функциями для работы с фото.</video_not_support>
+    <video_not_support_detail>Функции работы с видео недоступны на этом устройстве, причина: %s. Вы можете продолжать пользоваться функциями для работы с фото.</video_not_support_detail>
+    <video_not_support_reasons_one>используется версия Android ниже 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>процессор несовместим с ARM V7 (Neon)</video_not_support_reasons_two>
+    <video_not_support_title_one>Видео не поддерживается</video_not_support_title_one>
+    <video_not_support_title_two>Аппаратное средство не поддерживается</video_not_support_title_two>
+    <video_only>Только Видео</video_only>
+    <video_quality_customize>Настроить</video_quality_customize>
+    <video_quality_normal>Нормальное</video_quality_normal>
+    <video_quality_recommend>Рекомендуемое</video_quality_recommend>
+    <video_replace_trim_info>Перетащите, чтобы выбрать раздел.</video_replace_trim_info>
+    <video_resolution>Разрешение видео</video_resolution>
+    <video_setting>Параметры видео</video_setting>
+    <video_sharing_progress_title1>Инициализация…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>Конвертация видео…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>Отмена…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>Вы можете добавить только до 20 текстовых элементов.</video_text_quantity_limit_hint>
+    <video_to_mp3_converter>Конвертер видео в MP3</video_to_mp3_converter>
+    <string name="video_too_short" formatted="false">Поддерживает только видео продолжительностью более %s(>%s)</string>
+    <video_too_short_after_cut_hint>Слишком короткое видео.</video_too_short_after_cut_hint>
+    <vignette>Виньетка</vignette>
+    <voice_effect>Эффект голоса</voice_effect>
+    <voice_effect_support>Поддерживается только запись / импортированные аудио</voice_effect_support>
+    <volume>Объем</volume>
+    <warmth>Тепло</warmth>
+    <warning>Предупреждение</warning>
+    <watch>Смотреть</watch>
+    <what_new_audio_draft>СОХРАНИТЬ ВИДЕО ПРОЕКТ</what_new_audio_draft>
+    <what_new_audio_track>НЕСКОЛЬКО МУЗЫКАЛЬНЫХ ТРЕКОВ</what_new_audio_track>
+    <what_new_crop_video>ОБРЕЗАТЬ ВИДЕО</what_new_crop_video>
+    <what_new_cut>Вырезать и разделить видео</what_new_cut>
+    <what_new_music>ПОПУЛЯРНЫЙ ВИДЕОБЛОГ МУЗЫКА</what_new_music>
+    <what_new_special_effects_filters_vol1>ФИЛЬТРЫ СПЕЦИАЛЬНЫХ ЭФФЕКТОВ ТОМ 1</what_new_special_effects_filters_vol1>
+    <what_news_collage>ЛУЧШЕ РЕЖИМ КОЛЛАЖ</what_news_collage>
+    <what_news_filter>ФИЛЬТРЫ ДЛЯ РЕЖИМА ВИДЕО</what_news_filter>
+    <what_news_thanksgiving>СЧАСТЛИВОЕ БЛАГОДАРЕНИЕ</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Добавить пустой экран</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Фоновый узор</whats_new_background_pattern>
+    <whats_new_beats_effects>Бить эффекты</whats_new_beats_effects>
+    <whats_new_blend>PIP - Смешать</whats_new_blend>
+    <whats_new_brand_music>Новый музыкальный интерфейс</whats_new_brand_music>
+    <whats_new_create_gifs>Создать Гифку</whats_new_create_gifs>
+    <whats_new_customer_color>Пользовательские цвета</whats_new_customer_color>
+    <whats_new_cutout>Пользовательские вырезки наклеек</whats_new_cutout>
+    <whats_new_cutout_outline>Вырезание и контур фотографии</whats_new_cutout_outline>
+    <whats_new_effect>Хронология Эффекта</whats_new_effect>
+    <whats_new_effect_retro2>Новые эффекты — Retro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Новые Эффекты_Раскол</whats_new_effect_split>
+    <whats_new_fade_base>Новые эффекты-Основной,Estompare</whats_new_fade_base>
+    <whats_new_filter_fresh>Новые Фильтры_Свежий</whats_new_filter_fresh>
+    <whats_new_frame_rate>Новая частота кадров</whats_new_frame_rate>
+    <whats_new_freeze_tool>Заморозить инструмент</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>Регулировка HSL</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Элементы прикрепляются к рамке</whats_new_item_frame>
+    <whats_new_magnifier>Наклейка с Лупой</whats_new_magnifier>
+    <whats_new_mask>Маска для PIP</whats_new_mask>
+    <whats_new_material>Новая библиотека материалов</whats_new_material>
+    <whats_new_music_fade_in_and_out>Музыка затухание &amp; усиление</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Новый Альбом</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Новые эффекты и переходы</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Новые эффекты — Фильм</whats_new_new_effect_film>
+    <whats_new_new_filters>Новый Фильтр</whats_new_new_filters>
+    <whats_new_new_transition>Новые Переходы - Рваная бумага</whats_new_new_transition>
+    <whats_new_pip>PIP - Видео оверлей</whats_new_pip>
+    <whats_new_smooth>Сглаживание Замедленной Съемки для Регулировки Скорости</whats_new_smooth>
+    <whats_new_speed_curve>Кривая скорости</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Пресет Кривая Скорости</whats_new_speed_curve_preset>
+    <whats_new_store>Магазин новейших материалов</whats_new_store>
+    <whats_new_text_animation>Новая текстовая анимация</whats_new_text_animation>
+    <whats_new_transition_film>Новые переходы - Формат</whats_new_transition_film>
+    <whats_new_video_full_screen>Предварительный просмотр видео во весь экран</whats_new_video_full_screen>
+    <whats_new_voice_effect>Голосовые Эффекты</whats_new_voice_effect>
+    <whatsnew_advance_timeline>РАСШИРЕННЫЙ ГРАФИК</whatsnew_advance_timeline>
+    <whatsnew_christmas>МУЗЫКА НА РОЖДЕСТВО</whatsnew_christmas>
+    <whatsnew_color_pallette>Новая цветовая палитра</whatsnew_color_pallette>
+    <whatsnew_font_style>НОВЫЙ СТИЛЬ ШРИФТА</whatsnew_font_style>
+    <whatsnew_loop_animation>Анимация цикла</whatsnew_loop_animation>
+    <whatsnew_music>НОВАЯ МУЗЫКА</whatsnew_music>
+    <whatsnew_recording>Запись</whatsnew_recording>
+    <whatsnew_slide>СМЕШИВАТЬ ВИДЕО С ФОТОГРАФИЯМИ</whatsnew_slide>
+    <whatsnew_sound_effects>Звуковые эффекты</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Сплит музыка, текст и стикер</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>АНИМАЦИЯ СТИКЕРОВ</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>СТИКЕР И ТЕКСТОВАЯ АНИМАЦИЯ</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>ТЕКСТОВАЯ АНИМАЦИЯ</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Неограниченные проекты</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot Фото</widgetphoto>
+    <widgetvideo>InShot Видео</widgetvideo>
+    <year>Год</year>
+    <yes>Да</yes>
+    <you_are_not_login>Вы не вошли в систему.</you_are_not_login>
+    <you_will_still_see_ads>Вы по-прежнему будете видеть рекламу но она не будет учитывать ваши интересы</you_will_still_see_ads>
+    <zoom>Увеличить</zoom>
+    <zoom_selection>ВЫБОР ЗУМА</zoom_selection>
+</resources>

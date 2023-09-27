@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro részletek</InShot_detail>
+    <abc_action_bar_home_description>Ugrás a főoldalra</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Fel</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>További lehetőségek</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Kész</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Az összes megtekintése</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Válasszon alkalmazást</abc_activitychooserview_choose_application>
+    <abc_capital_off>KI</abc_capital_off>
+    <abc_capital_on>BE</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>Delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>Enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>Szóköz</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>Keresés…</abc_search_hint>
+    <abc_searchview_description_clear>Lekérdezés törlése</abc_searchview_description_clear>
+    <abc_searchview_description_query>Keresési lekérdezés</abc_searchview_description_query>
+    <abc_searchview_description_search>Keresés</abc_searchview_description_search>
+    <abc_searchview_description_submit>Lekérdezés küldése</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Hangalapú keresés</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Megosztás a következővel:</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Megosztás a következő alkalmazással: %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Összecsukás</abc_toolbar_collapse_description>
+    <account>Fiók</account>
+    <acknowledge>Elismeréseink</acknowledge>
+    <action_settings>Beállítások</action_settings>
+    <actual_price_year_format>Vásárolja meg %s/év</actual_price_year_format>
+    <ad_personalization>Személyre szabott hirdetések</ad_personalization>
+    <ad_personalization_tip>"A cookie -k szöveges fájlok, amelyeket a webszerver hozott létre az eszközén. Annak érdekében, hogy jobb szolgáltatást nyújtsunk, kapcsolódó technológiákat használhatunk arra, hogy egy vagy több cookie -t küldjünk eszközére, hogy információkat gyűjtsünk és tároljunk a termék használatával kapcsolatban.
+
+Az AdMob, a Mopub, a Vungle, a Facebook, a Smaato, a MyTarget, mint az InShot hirdetői, összegyűjthetik a termékeink és szolgáltatásaink használata során keletkezett információkat, kinyerhetik preferenciáikat, és felhasználhatják azokat, hogy az Ön egyéni igényeinek jobban megfelelő hirdetéseket jelenítsenek meg. Nem osztjuk meg a felhasználók adatait a Facebook -lal vagy más felekkel (a BBC &amp; Privacy International ellenőrzi).
+
+Technikai eszközöket fogunk használni az adatok anonimizálására, és az anonimizált információk nem tudják azonosítani a témát. Ha nem érdekli a személyre szabott megjelenítés, akkor a „Beállítások”-„Hirdetés személyre szabása” menüpontban kikapcsolhatja a személyre szabott tartalom megjelenítését. Kérjük, vegye figyelembe, hogy a beállítás kikapcsolása után is láthat hirdetéseket, de a hirdetések relevanciája csökken."</ad_personalization_tip>
+    <add>Hozzáadás</add>
+    <add_favorite>Adja hozzá a kedvencét</add_favorite>
+    <adjust>Beállítások</adjust>
+    <agree>Elfogadom</agree>
+    <album>ALBUM</album>
+    <album_sleepless_desc>Kérjük, ügyeljen arra, hogy a videó leírásában feltünteti az alábbi információkat, amikor nyilvánosságra hozza azt.</album_sleepless_desc>
+    <all>Összes</all>
+    <all_inclusive>Tartalmazza az összes</all_inclusive>
+    <all_original_files_miss_in_draft>"A piszkozat sérült, mert mindegyik eredeti fájl hiányzik.
+
+A piszkozat helyreállításához állítsa vissza az eredeti fájlokat innen: [Nemrég törölt/Lomtár]."</all_original_files_miss_in_draft>
+    <all_premium>Hozzáférés minden prémium szűrőhöz, effektekhez, matricákhoz, betűtípusokhoz. Nincs vízjel, nincs hirdetés.</all_premium>
+    <all_premium_1>Hozzáférés minden prémium szűrőhöz, effektekhez, matricákhoz, betűtípusokhoz. Nincs hirdetés.</all_premium_1>
+    <allow_camera_access>Hozzáférés engedélyezése a Kamerához</allow_camera_access>
+    <allow_record_access>A mikrofon elérésének engedélyezése</allow_record_access>
+    <allow_record_access_hint>InShot igényel mikrofon engedélyt hang rögzítése.</allow_record_access_hint>
+    <allow_storage_access>Tárolási hozzáférés engedélyezése</allow_storage_access>
+    <allow_storage_access_hint>Gyönyörű videók és fotók készítéséhez az InShotnak hozzáférést kell biztosítania a fotóalbumhoz.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>Gyönyörű videók és fotók készítéséhez az InShotnak hozzáférést kell biztosítania a fotóalbumhoz és a kamera.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Ön már egy InShot Pro tag</already_InShot_pro>
+    <already_purchased>Már megvásároltad?</already_purchased>
+    <angle>Szög</angle>
+    <animation_in>BE</animation_in>
+    <animation_out>KI</animation_out>
+    <animation_stickers>Animált matricák</animation_stickers>
+    <app_latest_version_available_title>Már hozzáférhető a legújabb verzió (%s)</app_latest_version_available_title>
+    <app_latest_version_title>Ön a legújabb verziót használja.</app_latest_version_title>
+    <app_not_installed_content>Letöltés %s, vagy megosztani a többi apps</app_not_installed_content>
+    <app_not_installed_download_app>LETÖLTHETŐ %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>Oszd meg másokkal</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s nincs telepítve</app_not_installed_title>
+    <app_wall_entrance_action>NÉZD MEG</app_wall_entrance_action>
+    <app_wall_entrance_title>A ma legnépszerűbb alkalmazások!</app_wall_entrance_title>
+    <apply_to_all>Jelentkezzen mindenkinek</apply_to_all>
+    <apply_to_all_clips>Alkalmaz az összes klipre</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>A hang időtartama túl rövid.</audio_too_short_after_cut_hint>
+    <authorization>Meghatalmazás</authorization>
+    <background>Háttér</background>
+    <background_color>a Háttérszín</background_color>
+    <basic>ALAP</basic>
+    <basic_animation>ALAPVETŐ</basic_animation>
+    <beats>Ütem</beats>
+    <billing_unavailable>Nem állítottál be semmilyen Google Play-fiókot.</billing_unavailable>
+    <billing_unavailable_hw>Még nem hozott létre Huawei-fiókot.</billing_unavailable_hw>
+    <blank>Üres</blank>
+    <blend>Keverék</blend>
+    <blocked>Blokkolt</blocked>
+    <blur>Elhomályosít</blur>
+    <blur_background>Elmosódott háttér</blur_background>
+    <blur_bg>Homály</blur_bg>
+    <blur_bg_custom_hint>Használja saját fotóját háttérként</blur_bg_custom_hint>
+    <blur_bg_options_merged>Az elmosódás és háttér lehetőségek összevonva</blur_bg_options_merged>
+    <blur_off>Ki</blur_off>
+    <blur_on>Be</blur_on>
+    <border>Határ</border>
+    <brush>ecset</brush>
+    <buy>Vétel</buy>
+    <can_not_add_more_tracks>Nem adható hozzá több szám</can_not_add_more_tracks>
+    <can_not_add_tracks>Itt nem lehet számokat hozzáadni</can_not_add_tracks>
+    <cancel>Mégsem</cancel>
+    <cancel_save_video_dlg_btn_no>nincs</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>igen</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Szeretné, hogy megszünteti a video konvertáló?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>figyelmeztetés</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>A klip túl rövid ahhoz, hogy átmenetet lehessen alkalmazni.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>1 percnél hosszabb GIF mentésére nincs lehetőség. Kérjük, váltson át másik formátumra, vagy csökkentse a GIF időtartamát.</cannot_save_gif_over_one_minute>
+    <canvas>Vászon</canvas>
+    <celebrate>Ünneplés</celebrate>
+    <change_beginning_too_short>Túl rövid időtartam a videó/klip elejére való navigáláshoz</change_beginning_too_short>
+    <change_end_too_short>Túl rövid időtartam a videó/klip végéhez való navigáláshoz</change_end_too_short>
+    <change_language_title>Válasszon nyelvet</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Ha Videó feltöltése Instagram nem sikerült, és ez nem okozott hálózati, próbáld MPEG-4. Alapértelmezett a H.264, jobb minőséget és kisebb méretű.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Change Video Codec</change_video_codec_dialog_title>
+    <character>Karakter</character>
+    <check>CJelölje be</check>
+    <choose_pay_method>Válassza a Fizetési mód lehetőséget</choose_pay_method>
+    <choose_video_quality_hint>Minőség</choose_video_quality_hint>
+    <chroma>Bluebox technika</chroma>
+    <classic>klasszikus</classic>
+    <clear>Ürítés</clear>
+    <string name="clear_cache_content">Az ürítés után &lt;b>%s&lt;/b> tárhely szabadul fel, ami nem lesz hatással a piszkozatra. Folytatja?</string>
+    <clearing>Törlés…</clearing>
+    <click_here>Kattints ide</click_here>
+    <click_track_tip>Kattintson az idővonalra a zene szerkesztéséhez és a videó hangerejének beállításához.</click_track_tip>
+    <clip_beginning>A klip kezdete</clip_beginning>
+    <clip_end>A klip vége</clip_end>
+    <clip_mute_adjust_volume_retry>Szüntesse meg a hang elnémítását, és próbálkozzon újra</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>A teljes időtartam lecsökken és az idővonal ennek megfelelően fog változni.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Az új klip rövidebb, mint a jelenlegi.</clip_replace_shorter_title>
+    <clip_reversed>Klip lejátszása visszafelé</clip_reversed>
+    <clip_video_tip>Vágja le a videót az importálandó hosszra.</clip_video_tip>
+    <collage>Kollázs</collage>
+    <collage_long_press_swap_photo>Hosszan nyomja meg a fényképek cseréjéhez.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>Megadhatja legfeljebb 9 fotók!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Kattintson egy fotó, hogy a csere a</collage_swap_photo>
+    <color>Szín</color>
+    <color_palette>Szín paletta</color_palette>
+    <common_google_play_services_enable_button>Engedélyezés</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>A(z) %1$s alkalmazás csak akkor működik, ha engedélyezi a Google Play-szolgáltatásokat.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Google Play-szolgáltatások engedélyezése</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Telepítés</common_google_play_services_install_button>
+    <common_google_play_services_install_text>A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>A Google Play-szolgáltatások beszerzése</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Google Play-szolgáltatások elérhetősége</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Google Play-szolgáltatások – hiba</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Frissítés</common_google_play_services_update_button>
+    <common_google_play_services_update_text>A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>A Google Play-szolgáltatások frissítése</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Megnyitás a telefonon</common_open_on_phone>
+    <common_signin_button_text>Bejelentkezés</common_signin_button_text>
+    <common_signin_button_text_long>Bejelentkezés Google-fiókkal</common_signin_button_text_long>
+    <contact_creator>Lépjen kapcsolatba az alkotóval</contact_creator>
+    <continue_buy>Az egyéves megújítást követően az InShot Pro meghosszabbításra kerül %s-re</continue_buy>
+    <continue_title>Folytatás</continue_title>
+    <contrast>Kontraszt</contrast>
+    <convert_failed>az átalakítás sikertelen volt</convert_failed>
+    <copied>Másolt</copied>
+    <copy>Másolat</copy>
+    <crop>Vágás</crop>
+    <curve>Ív</curve>
+    <custom_background>A háttér testreszabása</custom_background>
+    <custom_sticker>Képek átfedése videón</custom_sticker>
+    <cut>Elvág</cut>
+    <cut_both_ends>vág</cut_both_ends>
+    <cut_import>Importálás</cut_import>
+    <cut_video>vág Videó</cut_video>
+    <cutout>Kivágás</cutout>
+    <day_free_trial>%s napos ingyenes próbaverzió</day_free_trial>
+    <days_left>%d nap van hátra</days_left>
+    <delete>Töröl</delete>
+    <delete_confirm_dialog_content>Szeretné törölni?</delete_confirm_dialog_content>
+    <delete_drafts_note>Felhívjuk figyelmét, hogy a törölt piszkozatokat nem lehet helyreállítani!</delete_drafts_note>
+    <delete_material_tip>Az anyag törlése hatással lesz a piszkozatokra is!</delete_material_tip>
+    <denoise>Zajcsökkentés</denoise>
+    <detail>részlet</detail>
+    <detail_mosaic>Részlet</detail_mosaic>
+    <directories>Könyvtár</directories>
+    <disable_follow>Letiltás</disable_follow>
+    <discard_edit_dlg_confirm>VISSZADOBÁSI</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Dobja szerkesztés?</discard_edit_dlg_title>
+    <discount>Kedvezmény</discount>
+    <discount_format>%s kedvezmény</discount_format>
+    <dissolve>FELOLDÓDÁS</dissolve>
+    <distort>Torzítás</distort>
+    <do_not_use_tags>Ne használjon a címkék?</do_not_use_tags>
+    <donate>ADOMÁNYOZ</donate>
+    <done>Kész</done>
+    <double_click_reset_zoom>Visszaállítás dupla kattintással</double_click_reset_zoom>
+    <download>Letöltés</download>
+    <download_failed>Sikertelen letöltés!</download_failed>
+    <download_video_progress_title>Videó betöltése a kiszolgálóról…</download_video_progress_title>
+    <draft>TERVEZET</draft>
+    <draft_clip_missing_tip>Nem sikerült betölteni néhány klipet a piszkozatban, mert az eredeti fájlok már nem állnak rendelkezésre.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Kérjük, a folytatáshoz próbáld meg más eszközökkel helyettesíteni.</draft_clip_missing_tip1>
+    <draft_corrupted>A vázlat egyes elemei hiányoznak.</draft_corrupted>
+    <draft_delete_video_hint>Az eredeti videó törlése károsítja a fájlt.</draft_delete_video_hint>
+    <draft_load_err>Hiba betöltése</draft_load_err>
+    <draft_open_hint>Ha új videóprojektet indít, akkor a tervezet cserélni fog.</draft_open_hint>
+    <draft_saved>Vázlat mentve</draft_saved>
+    <drafts>%s TERVEZETEK</drafts>
+    <drafts_not_backward_compatible>Az alkalmazás verziója túl alacsony a vázlatok megnyitásához.</drafts_not_backward_compatible>
+    <drag_to_swap>Húzza el a felcseréléshez</drag_to_swap>
+    <duplicate>Ismétlés</duplicate>
+    <duration>Időtartama</duration>
+    <edit>szerkesztése</edit>
+    <edit_music_dialog_music_volume>Music Volume</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Videó Volume</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Szerkesztés volumene</edit_music_dialog_title>
+    <edit_volume_fade_out>Elájulni</edit_volume_fade_out>
+    <edit_with_inshot>Szerkesztés az InShot-tal:</edit_with_inshot>
+    <effect>Effektek</effect>
+    <effect_count>%d EFFEKTUS</effect_count>
+    <effects>Hanghatások</effects>
+    <emoji_activity_category>TEVÉKENYSÉG</emoji_activity_category>
+    <emoji_animals_category>ÁLLATOK</emoji_animals_category>
+    <emoji_celebration_category>ÜNNEPE</emoji_celebration_category>
+    <emoji_dialy_category>NAPI</emoji_dialy_category>
+    <emoji_emotion_category>érzelem</emoji_emotion_category>
+    <emoji_food_category>ÉLELMISZER</emoji_food_category>
+    <emoji_gesture_category>GESZTUS</emoji_gesture_category>
+    <emoji_nature_category>TERMÉSZET</emoji_nature_category>
+    <emoji_objects_category>TÁRGYAK</emoji_objects_category>
+    <emoji_people_category>EMBEREK</emoji_people_category>
+    <emoji_recent_category>Újabb</emoji_recent_category>
+    <emoji_smile_category>HANGULATJELEK</emoji_smile_category>
+    <emoji_symbols_category>JELEK</emoji_symbols_category>
+    <emoji_transit_category>TRANZIT</emoji_transit_category>
+    <erase>törlés</erase>
+    <error>Nem sikerült! Kérjük, próbálkozzon újra!</error>
+    <examine_result>%d klip nem importálható.</examine_result>
+    <exit>Kilépés</exit>
+    <exit_app_discard_edit_warn>Nyomja meg ismét megválni</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>Kilépés</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Nyomja meg a mentés gombot és ossza meg a munkáját.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Biztosan kilép mentés nélkül?</exit_before_save_dlg_title>
+    <exit_tip>Nyomja meg újra kilépéshez</exit_tip>
+    <exo_controls_cc_disabled_description>Feliratok bekapcsolása</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Feliratok kikapcsolása</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Előretekerés</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Teljes képernyő</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Kilépés a teljes képernyős módból</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Lejátszásvezérlők elrejtése</exo_controls_hide>
+    <exo_controls_next_description>Következő</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>További beállítások elrejtése</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>További beállítások megjelenítése</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Szüneteltetés</exo_controls_pause_description>
+    <exo_controls_play_description>Lejátszás</exo_controls_play_description>
+    <exo_controls_playback_speed>Sebesség</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Normál</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Előző</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Összes szám ismétlése</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Nincs ismétlés</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Egy szám ismétlése</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Visszatekerés</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Lejátszási folyamat</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Beállítások</exo_controls_settings_description>
+    <exo_controls_show>Lejátszásvezérlők mutatása</exo_controls_show>
+    <exo_controls_shuffle_off_description>Keverés kikapcsolva</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Keverés bekapcsolva</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Leállítás</exo_controls_stop_description>
+    <exo_controls_vr_description>VR-mód</exo_controls_vr_description>
+    <exo_download_completed>A letöltés befejeződött</exo_download_completed>
+    <exo_download_description>Letöltés</exo_download_description>
+    <exo_download_downloading>Letöltés folyamatban</exo_download_downloading>
+    <exo_download_failed>Nem sikerült a letöltés</exo_download_failed>
+    <exo_download_notification_channel_name>Letöltések</exo_download_notification_channel_name>
+    <exo_download_removing>Letöltések törlése folyamatban</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Monó</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Alternatív</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Felirat</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Kommentár</exo_track_role_commentary>
+    <exo_track_role_supplementary>Kiegészítő</exo_track_role_supplementary>
+    <exo_track_selection_auto>Automatikus</exo_track_selection_auto>
+    <exo_track_selection_none>Nincs</exo_track_selection_none>
+    <exo_track_selection_title_audio>Hang</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Szöveg</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Videó</exo_track_selection_title_video>
+    <exo_track_stereo>Sztereó</exo_track_stereo>
+    <exo_track_surround>Térhatású hangzás</exo_track_surround>
+    <exo_track_surround_5_point_1>5.1-es térhatású hangzás</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1-es térhatású hangzás</exo_track_surround_7_point_1>
+    <exo_track_unknown>Ismeretlen</exo_track_unknown>
+    <extract>Kivonat</extract>
+    <extract_audio>Hang kivonása</extract_audio>
+    <extract_audio_from_video>Hang kivonása a videóból</extract_audio_from_video>
+    <extract_failed>Kivonat nem sikerült</extract_failed>
+    <fade>Halványítás</fade>
+    <fade_in>Fokozatos átúsztatás</fade_in>
+    <fade_new>Elhalványítás</fade_new>
+    <failed_to_load_blur_image>A kiválasztott kép betöltése sikertelen, válasszon újra!</failed_to_load_blur_image>
+    <failed_to_load_image>Hoppá! Nem sikerült betölteni a képet</failed_to_load_image>
+    <fast_motion>GYORS MOZGÁS</fast_motion>
+    <favourite>Kedvenc</favourite>
+    <featured>KIEMELT</featured>
+    <feedback_and_suggestion_hint>Visszajelzés és javaslat</feedback_and_suggestion_hint>
+    <feedback_not_now>NEM MOST</feedback_not_now>
+    <feedback_subject>Visszajelzés a InShot</feedback_subject>
+    <feedback_submit>ELKÜLD</feedback_submit>
+    <festival>Fesztivál</festival>
+    <file_corrupted_description>A fájl sérült, kérjük, telepítse újra az InShot alkalmazást a hivatalos alkalmazásboltból.</file_corrupted_description>
+    <file_corrupted_note>Sérült fájl, telepítse újra InShot Google Play</file_corrupted_note>
+    <file_corrupted_title>Tisztelt Felhasználó</file_corrupted_title>
+    <file_not_support>Ez a fajta a fájl nem támogatja InShot</file_not_support>
+    <film>film</film>
+    <film_grain>FILM szemcsézettség</film_grain>
+    <filter>Szűrők</filter>
+    <filter_manage>Szűrő kezelése</filter_manage>
+    <filter_not_supported_in_photo>A jelenlegi effektusok nem érhetők el fotóknál.</filter_not_supported_in_photo>
+    <filters>Szűrők</filters>
+    <first_month>Első hónap</first_month>
+    <first_year>Első év</first_year>
+    <fit>Illeszt</fit>
+    <fit_bottom>alul</fit_bottom>
+    <fit_fit>illő</fit_fit>
+    <fit_full>teli</fit_full>
+    <fit_left>bal</fit_left>
+    <fit_original>eredeti</fit_original>
+    <fit_right>jobbra</fit_right>
+    <fit_top>felső</fit_top>
+    <flip>Tükrözés</flip>
+    <folder_cannot_write>mappa nem tud írni! Válasszon egy másikat.</folder_cannot_write>
+    <follow_ins_to_unlock>Kövesse az InShotot az Instagramon, és</follow_ins_to_unlock>
+    <follow_setting_title>Kerethez rögzített elemek</follow_setting_title>
+    <follow_tiktok_to_unlock>Iratkozzon fel az InShot TikTok csatornára</follow_tiktok_to_unlock>
+    <follow_toggle_tip>A klip vágása vagy törlése után az elemek (felvétel, hangeffektusok, PIP, matricák, szövegek, effektek) az eredeti keretben kerülnek rögzítésre</follow_toggle_tip>
+    <follow_toggle_tip_2>A klip vágása vagy törlése után az elemek (PIP, matricák, szövegek...) az eredeti keretben kerülnek rögzítésre</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Kövess minket a közösségi média a legfrissebb híreket InShot.</follow_us_fun_media_tip>
+    <follow_us_to>Kövessen minket</follow_us_to>
+    <follow_youtube_to_unlock>Iratkozzon fel az InShot YouTube csatornára, és</follow_youtube_to_unlock>
+    <font>Betűtípus</font>
+    <font_color>betűszín</font_color>
+    <font_copyright_des>Ez a betűtípus csak egyéni (nem kommersz) felhasználóknak készült.</font_copyright_des>
+    <fonts>Betűtípusok</fonts>
+    <for_you>Önnek</for_you>
+    <format>Formátum</format>
+    <frame>keret</frame>
+    <frame_rate>Képsebesség</frame_rate>
+    <free>INGYENES</free>
+    <free_download>INGYENES LETÖLTÉS</free_download>
+    <free_unlock>Kinyit ingyen</free_unlock>
+    <freeze>Fagyasztó</freeze>
+    <full_park_emoji>Teljes emoji csomag</full_park_emoji>
+    <gallery>Galéria</gallery>
+    <get>Igénylés</get>
+    <gif_compress>Gif tömörítése</gif_compress>
+    <string name="gif_compress_description" formatted="false">Ha a Gif nagyobb, mint %s, automatikusan %s méretűre tömörítjük.</string>
+    <gif_supported_tip>A GIF már támogatott.</gif_supported_tip>
+    <give_5star>Adjon 5 csillagot</give_5star>
+    <glitch>GLITCH</glitch>
+    <go_setting>Menj a Beállítások</go_setting>
+    <go_to_logout>Az InShot fiók végleges törlése</go_to_logout>
+    <go_to_the_shop>ugrás az áruházra</go_to_the_shop>
+    <gps_not_installed>Ellenőrizze, hogy telepítette-e a Google Play-szolgáltatás legújabb verzióját.</gps_not_installed>
+    <gradient>Gradient</gradient>
+    <grain>Szemcse</grain>
+    <has_no_photo_hint>Válasszon 1-9 fotót a szép kollázs.</has_no_photo_hint>
+    <have_purchased>Ön megvásárolta!</have_purchased>
+    <help>Segítség</help>
+    <help_Keyframe_desc>Adjon kulcskockát az idővonalra, és jelölje meg a matrica/szöveg/PIP animációja (nagyítás/mozgás/elforgatás/átlátszóság) kezdetét és végét.</help_Keyframe_desc>
+    <help_Keyframe_title>Kulcskocka</help_Keyframe_title>
+    <help_Keyframe_youtube_des>A kulcskockák használata a réteg animációjának hozzáadásához</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Lépjen be a „Matrica” menübe, importáljon képet albumból vagy mappából.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Most már a GIF-formátumot is támogatjuk.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Adjon hozzá egyedi matricát</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Lépjen be a „Zene” menübe.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Kattintson a zene idővonalára a zene/hanghatás/felvétel hangerejének beállításához;
+Kattintson a videoklipre az eredeti videó hangerejének beállításához."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Hangerő beállítása</help_adjust_audio_volume_title>
+    <help_adjust_volume>Kattintson az idővonal állítsa video hangerőt.</help_adjust_volume>
+    <help_animation_desc>Válassza ki a szöveg és matrica animációjának ki/be irányát</help_animation_desc>
+    <help_animation_title>Animáció ki/be irányának kiválasztása</help_animation_title>
+    <help_apply_to_all_desc>Az Jelentkezzen mindenkinek lehetőséggel az szűrők, keretek, háttér vagy hangerő az összes klipre érvényes lesz.</help_apply_to_all_desc>
+    <help_apply_to_all_title>Szerkesztés alkalmazása az összes klipre</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Az atmoszféra anyagok és a keverék effektek a legjobb párosítás.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Atmoszféra anyagok</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Így adhatsz hozzá ingyenes rétegeket</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Eredeti hangerősség módosítása</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Nyissa meg a Illeszt menüt, állítsa be a videó hátterének oldalarányát, vagy távolítsa el a hátteret.</help_background_ratio_desc>
+    <help_background_ratio_title>Videoháttér képarányának módosítása</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Videó hátterének beállítása</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Válassza ki a szerkeszteni kívánt számot.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Ide kattintva módosíthatja a videó hangerejét</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Írja be a következőt: InShot-beállítások; 
+Koppintson a „Videó beállításai” elemre, és tiltsa le az „Kerethez rögzített elemek” lehetőséget."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Klip törlésekor miért törlődnek a matricáim/szövegeim/effektjeim/PIPs/felvevőim/hangeffektjeim?</help_disable_stick_frame_title>
+    <help_edit_music>Kattints a zene szerkesztéséhez.</help_edit_music>
+    <help_edit_music_desc>A beszúrt zene szerkesztéséhez kattintson rá.</help_edit_music_desc>
+    <help_edit_music_title>Zene szerkesztése</help_edit_music_title>
+    <help_extract_audio_desc>Koppintson a zenei fül [Hang kivonata a videóból] elemére, és importáljon egy videót, amelyből ki kívánja vonni a hangot.</help_extract_audio_desc>
+    <help_extract_audio_title>Hang kivonata a videóból</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Hogyan vonjuk ki a hangot a videókból</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Minden beépített zene aláírt licencszerződéssel rendelkezik a zenészekkel.
+
+Ha szerzői jogi értesítést kapsz, vagy az Instagram eltávolítja a videódat, koppints a „Beleegyezem” lehetőségre, írd alá a neved, majd koppints a Fellebbezés lehetőségre."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Kérjük, ne aggódj, a zenész aktívan támogatni fog a fellebbezésben, és a videód 2–3 percen belül helyreáll.</help_faq_album_desc_2>
+    <help_faq_album_title>Mi a teendő, ha az Instagram eltávolítja a klipemet?</help_faq_album_title>
+    <help_faq_auto_update_dest>Menjen a Google Play fiókkezelő oldalára, koppintson a Beállítások lehetőségre, majd a Hálózati beállítások alatt az Alkalmazások automatikus frissítése lehetőségre.</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>Hogyan tarthat lépést az InShot a legújabb verzióval?</help_faq_auto_update_title>
+    <help_faq_four_desc>A törölt vázlatokat sajnos nem lehet visszaállítani. Teljes mértékben betartjuk az adatvédelmi szabályokat, ezért nem tárolunk felhasználói fájlokat.</help_faq_four_desc>
+    <help_faq_four_title>Vissza lehet állítani egy vázlatot törlés után?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>A videómentés folyamata során sok átmeneti fájlt hoz létre, ezek a fájlok automatikusan törlődnek, miután a mentési folyamat befejeződött. A probléma elhárításához szabadítson fel több helyet az eszközében (NEM az SD-kártyán).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Miért jelenti a telefonom, hogy kevés a memóriája, mikor van benne szabad tárhely?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Minden betűtípusnak saját licence van, használat előtt gondosan ellenőrizze. Néhány betűtípus kizárólag személyes használatra van.</help_faq_one_desc>
+    <help_faq_one_title>Használhatok beépített betűtípust kereskedelmi célra?</help_faq_one_title>
+    <help_faq_three_desc>Ha eredeti fájlokat törölsz a galériádból, a hozzájuk tartozó vázlatok elvesznek, és azokat nem lehet megnyitni. Próbáld meg visszaállítani a fájlokat a „Nemrég törölve” albumból.</help_faq_three_desc>
+    <help_faq_three_title>Miért jelenik meg a „Vázlat sérült” vagy „A vázlatból hiányoznak az eredeti fájlok” hibaüzenet?</help_faq_three_title>
+    <help_faq_two_desc>"A tartalomazonosítással kapcsolatos követelések nem eredményeznek szerzői jogi sztrájkot, a csatorna felfüggesztését vagy megszüntetését. A követelés általában csak a videó nyomon követésére vagy számszerűsítésére terjed ki, nem a letiltására. Ezért a videó ezekkel a követelésekkel tovább fennmarad (esetleg reklámokkal együtt), és a továbbiakban is megosztható lesz másokkal.
+
+A tartalomazonosítással kapcsolatos követelésekre vonatkozó további információ itt található: https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Miért kaptam YouTube zenei szerzőijog-igényt?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Funkció</help_group_video_edit_title>
+    <help_import_fonts_desc>Győződjön meg róla, hogy vannak betűtípus-fájlok a telefonjában. A betűtípusok importálásához koppintson az importálás gombjára.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Ha Android 11-nél újabb rendszert használ, kattintson a betűtípus importálására, és ugorjon a fájlkiválasztás oldalára
+1.Kattintson a bal felső sarokban lévő gombra, válassza aki az SD-kártyáját, majd válassza ki a fájlt tartalmazó könyvtárat."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Kattintson a fenti keresősorra, és keresse meg a betűtípus nevét vagy a TTF/OTF-fájlt.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Betűtípusok importálása</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Hogyan importáljunk betűtípusokat InShot Androidban</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Keresse fel a Google Play Áruházat. Lépjen be az „Előfizetések” menübe, és válassza ki a törölni kívánt előfizetést.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Hogyan kezelhetem/törölhetem az előfizetésemet?</help_manager_subscribe_title>
+    <help_mask_desc>Adjon hozzá alakmaszkot a PIP rétegekhez.</help_mask_desc>
+    <help_mask_title>PIP maszk</help_mask_title>
+    <help_mask_youtube_des>A maszkeszköz használata a PIP rétegekhez.</help_mask_youtube_des>
+    <help_merge_video_desc>A „+” gombbal válassza ki az egyesíteni kívánt videókat.</help_merge_video_desc>
+    <help_merge_video_title>Videók egyesítése</help_merge_video_title>
+    <help_move_music>Hosszan nyomja meg és húzza a pozíció beállításához.</help_move_music>
+    <help_one_time_purchase_des>Az egyszeri vásárlást követően Önnek állandó hozzáférése lesz az InShot prémium verziójához. A jövőben nem szükséges újra megvásárolnia, még akkor sem, ha az InShot új exkluzív szerkesztőanyagokat vagy funkciókat kínál benne.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Mi az az Egyszeri Vásárlás?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Koppints a „HÁTTÉR” gombra a kivágás hátterének hozzáadásához</help_photo_cutout_desc>
+    <help_photo_cutout_title>Fotó Kivágás</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Vegyen mintát bármilyen színről, és távolítsa el.
+1. Használja a színválasztó eszközt, válassza ki az eltávolítani kívánt színt.
+2. Javítsa fel a színerősség és az árnyék szabályozásával"</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP Bluebox technika</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Hogyan távolítsuk el a zöld vásznat a Bluebox technika technológia segítségével (InShot oktatóanyag)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Látogasson el a Google Play-re és kattintson a fiók ikonra a jobb felső sarokban.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Ideiglenesen távolítsa el az összes fiókot a megvásárolt fiók kivételével, és próbálja meg újra visszaállítani a vásárlást az InShot beállításokban.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. Ha több Google fiókkal is be van jelentkezve, kattintson a „Fiókok kezelése” lehetőségre.</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Miért nem tudtam visszaállítani a vásárlást, miután bejelentkeztem a megfelelő Google Play fiókba?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Próbálja meg törölni az InShot adatait az eszközbeállításokban, majd az InShot beállításaiban kattintson a „Vásárlások visszaállítása” gombra.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Győződjön meg róla, hogy CSAK EGY és a helyes Google Play-fiókba van bejelentkezve, és nem többe. A Google Play egyelőre nem ismer fel több fiókot.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Hogyan állíthatom vissza a vásárlásomat?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Ha meg akarja tartani az aktuális projektet, válassza a „Piszkozat” lehetőséget, amikor kattintással visszatér.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>A piszkozatokat a kezdőlapon kezelheti (törlés/másolás/átnevezés).</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Piszkozat mentése/elvetése</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Átmenet hozzáadása</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Fénykép időtartamának beállítása</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Képek importálása albumból és fájlokból</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Videó és fotó váltása koppintással</help_slideshow_reminder>
+    <help_slideshow_title>Diavetítés készítése</help_slideshow_title>
+    <help_slideshow_youtube_des>Zenés diavetítés készítése</help_slideshow_youtube_des>
+    <help_smooth_des>A Zökkenőmentes segítségével tökéletesen sima mozgású lassított videót készíthet (sebesség &lt; 1,0x)</help_smooth_des>
+    <help_smooth_title>Zökkenőmentes Lassított Felvétel</help_smooth_title>
+    <help_speed_ramp_des_one>Sebesség-csomópontok szerkesztése. Az íven csomópont elhelyezéséhez/törléséhez koppintson a Hozzáadás/Törlés gombra.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Lépcsős sebességszabályozás beállítása. A videó sebességének beállításához jelölje ki és húzza függőlegesen a sebesség-csomópontokat. A sebesség időtartamának beállításához húzza vízszintesen.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Sebességszabályozási lépcső | Sima lépcsős sebességszabályozási hatás létrehozása az InShot segítségével</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Lépcsős sebességszabályozás (ív)</help_speed_ramp_title>
+    <help_swap_clip>Hosszan nyomja meg a cseréhez</help_swap_clip>
+    <help_timeline_desc>A kezelőpontra kattintva gyorsan a klip vagy videó végére navigálhat.</help_timeline_desc>
+    <help_timeline_title>Matricák és szövegek gyorsnavigációja</help_timeline_title>
+    <help_transition_desc>Importáljon legalább 2 videoklipet, és kattintson a 2 klip bélyegképe közti gombra az átmenet hozzáadásához.</help_transition_desc>
+    <help_transition_title>Video átmenet</help_transition_title>
+    <help_translate_content>Szeretném, hogy segítsen lefordítani az InShot. Kérjük, lépjen kapcsolatba velem. Nyelv:</help_translate_content>
+    <help_translate_subject>lokalizációja</help_translate_subject>
+    <help_volume_adjust_desc>A videó bélyegképére kattintva megnyílik a gyorsmenü, ahol a csúszka húzásával szabályozhatja a videó hangerejét.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Videó hangerejének a szabályozása</help_volume_adjust_title>
+    <help_youtube_title>YouTube-segédanyagok</help_youtube_title>
+    <help_zoom_drag>Húzza el a csúszkát a videó vágásához.</help_zoom_drag>
+    <help_zoom_timeline>"A pontosabb szerkesztéshez zoomoljon rá az idővonalra.
+Zoomoljon ki a teljes idővonal áttekintéséhez."</help_zoom_timeline>
+    <help_zoom_title>Videó szerkesztése</help_zoom_title>
+    <hide>Elrejt</hide>
+    <highlight>Kiemelés</highlight>
+    <hint_install_googleplay>Vásárlási nem sikerült, mert szüksége van a Google Play szolgáltatások, amelyek nem támasztják alá a készüléket.</hint_install_googleplay>
+    <hint_items_to_frame>Ugorj az videó beállításai-re az opció engedélyezéséhez/letiltásához</hint_items_to_frame>
+    <hot>Szenvedélyes</hot>
+    <hua_wei_login_error>Nem sikerült bejelentkezni a HUAWEI-be</hua_wei_login_error>
+    <hua_wei_login_success>Sikeresen jelentkezzen be a HUAWEI-be</hua_wei_login_success>
+    <hue>Színárnyalat</hue>
+    <i_receive_effect_success>Sikeresen elmentve az „Hanghatások – Importálva” mappába.</i_receive_effect_success>
+    <i_receive_music_success>Sikeresen elmentve a „Kiemelt – Importálva” mappába.</i_receive_music_success>
+    <import_font>Fontok importálása</import_font>
+    <import_video_failed_content>A videó felbontása meghaladja a teljesítmény korlát a telefon.</import_video_failed_content>
+    <import_video_failed_title>Az importálás nem sikerült</import_video_failed_title>
+    <imported>Importálva</imported>
+    <imported_effect>Importált effektus</imported_effect>
+    <imported_music>Importált zene</imported_music>
+    <improvement_plan_desc>Az InShot felhasználói élményének javítása érdekében szükségünk lenne az eszközazonosító információira. Kösz.</improvement_plan_desc>
+    <improvement_plan_title>Felhasználói élményfejlesztési terv</improvement_plan_title>
+    <index_create_new>új</index_create_new>
+    <index_more_take_photo>Fotózni</index_more_take_photo>
+    <index_more_take_video>Vegyünk egy videó</index_more_take_video>
+    <index_more_use_recent>Használja Legújabb</index_more_use_recent>
+    <info_code>Info kód:</info_code>
+    <ins_crop_hint_1>A munkát a kivágandó által Instagram.</ins_crop_hint_1>
+    <ins_crop_hint_2>Instagram arány között 1,91: 1 és 4: 5 közötti</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Kérjük, adhatnak <b>Storage engedélye</b> nak nek <b>Instagram</b> feltölteni a fotót.</string>
+    <install>Telepítse</install>
+    <installed>TELEPÍTHETI</installed>
+    <interval>Intervallum</interval>
+    <invalid_delete>Az utolsó klip nem törölhető.</invalid_delete>
+    <invalid_position>A kiválasztott pozíció érvénytelen.</invalid_position>
+    <invalidate_name>A speciális szimbólumok nem támogatottak.</invalidate_name>
+    <item_already_owned>Kattintson az „Visszaállítás” gombra az alkalmazáson belüli vásárlás újbóli aktiválásához.</item_already_owned>
+    <items>Tételek</items>
+    <join_inshot_pro>Csatlakozzon az InShot Pro-hoz</join_inshot_pro>
+    <jump_to_font_language>Ugrás erre: %s</jump_to_font_language>
+    <keep_draft>Tartsd tervezetet</keep_draft>
+    <keep_on>Maradjon bekapcsolva</keep_on>
+    <keyframe>KULCSKOCKA</keyframe>
+    <label>CÍMKE</label>
+    <label_quick_selection>CÍMKE GYORS KIJELÖLÉSE</label_quick_selection>
+    <last_draft>UTOLSÓ TERVEZET</last_draft>
+    <layout>elrendezés</layout>
+    <letter_animation>Egyetlen betű</letter_animation>
+    <lib_rate_btn_go_market>Értékelés a Google Play oldalán</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>A lehető legjobb :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Küldjön nekünk visszajelzést.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Nekünk is tetszik Ön!</lib_rate_like_you>
+    <lib_rate_oh_no>Ó, nem!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Köszönjük a visszajelzést!</lib_rate_thanks_feedback>
+    <license>Engedély</license>
+    <light>FÉNY</light>
+    <lightness>fényesség</lightness>
+    <loading>Betöltés…</loading>
+    <loading_progress_title>Loading…</loading_progress_title>
+    <login_tip>"Kérjük, kösse a fiókot a vásárlások folytatásához
+vagy visszaállításához"</login_tip>
+    <login_with>Jelentkezzen be a %s-on</login_with>
+    <login_with_wechat>Bejelentkezés a WeChat-tal</login_with_wechat>
+    <logout>Töröl</logout>
+    <logout_hint>Ha feliratkozott az InShot Pro programra, akkor a fiók törlésével az Inshot Pro is törlődik, és nem állítható vissza !!!</logout_hint>
+    <logout_success>Törlés sikeresen</logout_success>
+    <long_press_delete>Hosszan nyomja meg a törléshez</long_press_delete>
+    <long_press_preview>Hosszan nyomja meg az előnézethez.</long_press_preview>
+    <looking_for_music_content_1>Látogasson el PC vagy Mac számítógépéből a YouTube Audio Library hangtárába, és töltsön le ingyenes zenét.</looking_for_music_content_1>
+    <looking_for_music_content_2>Ezután küldje a zenefájlokat az Android telefonjába.</looking_for_music_content_2>
+    <looking_for_music_title>Zenét keres videóihoz?</looking_for_music_title>
+    <loop_animation>HUROK</loop_animation>
+    <low_storage_space>Nincs elég tárhely</low_storage_space>
+    <luminance>Fényereje</luminance>
+    <manage>Kezel</manage>
+    <manage_subscription>Előfizetés kezelése</manage_subscription>
+    <mask>Maszk</mask>
+    <material>Áruház</material>
+    <material_selected_hint>Nem tartalmaz pro anyagokat.</material_selected_hint>
+    <max_hash_tags_num>Instagram lehetővé teszi a maximális 29 #hashtags per fotó/videó</max_hash_tags_num>
+    <merge_video_hint>Egyesítése videók szakmailag</merge_video_hint>
+    <message>Üzenet</message>
+    <modern>korszerű</modern>
+    <month>Hónap</month>
+    <mood>Hangulat</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>Az InShot Pro részletei</more_about_inshot_pro>
+    <more_emoji>1000+ Több</more_emoji>
+    <string name="more_info"><u>Több információ</u>:</string>
+    <mosaic>Mozaik</mosaic>
+    <multi_cut>Több vágás</multi_cut>
+    <multi_split>Több osztott</multi_split>
+    <music>Zene</music>
+    <music_limit>Zeneidőtartam korlátja</music_limit>
+    <musician>Zenész</musician>
+    <my_filter>Saját szűrő</my_filter>
+    <my_material>Saját anyagok</my_material>
+    <my_music>Saját zenék</my_music>
+    <new_>ÚJ</new_>
+    <new_album>Új album</new_album>
+    <new_five_stars_rate>Kemény munkával fejlesztjük a felhasználói élményt. Nagyra tartanánk, ha értékelne bennünket!</new_five_stars_rate>
+    <next>KÖVETKEZŐ</next>
+    <no>nincs</no>
+    <no_actionable_items>Nincs végrehajtandó elem</no_actionable_items>
+    <no_audio>Nincs audio</no_audio>
+    <no_audio_files>Nincs audiofájl.</no_audio_files>
+    <no_draft_profile>Nincs profilprofil</no_draft_profile>
+    <no_fonts_found>Nem található betűtípus</no_fonts_found>
+    <no_network>Nincs hálózat</no_network>
+    <no_photos_or_videos>Nincsenek fényképek vagy videók</no_photos_or_videos>
+    <note_if_you_clear>Megjegyzés: ha törli a gyorsítótárat, elveszíti a leiratkozási beállítást.</note_if_you_clear>
+    <off>Kikapcs.</off>
+    <offline_notification_text>Koppintson a hirdetés megnyitásához</offline_notification_text>
+    <offline_notification_title>Az offline mentett hirdetés megtekintése</offline_notification_title>
+    <offline_opt_in_confirm>OK</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Linket tartalmazó értesítést kap, amikor újra online lesz</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Nem</offline_opt_in_decline>
+    <offline_opt_in_message>Értesítést küldünk, amelyben a hirdető webhelyére mutató link szerepel.</offline_opt_in_message>
+    <offline_opt_in_title>Megnyithatja a hirdetést akkor, amikor újra online lesz.</offline_opt_in_title>
+    <ok>OK</ok>
+    <on>Bekapcs.</on>
+    <only_support_effects>Csak az „Effekt” típusát támogatja</only_support_effects>
+    <oom_tip>Elfogyott a memória, próbáld újra!</oom_tip>
+    <opacity>ÁTLÁTHATÓSÁG</opacity>
+    <open_font_failed>A betűtípus-fájl érvénytelen.</open_font_failed>
+    <open_from>Megnyitás</open_from>
+    <open_from_photos>Nyisd a Fotó</open_from_photos>
+    <open_image_failed_hint>Nem sikerült megnyitni a képfájlt, próbálja újra, vagy próbálja egy másik képet</open_image_failed_hint>
+    <open_music_failed_hint>Nem sikerült megnyitni a zenei fájl, kérjük, próbálja újra, vagy próbálja másik zenei fájlt</open_music_failed_hint>
+    <open_settings_0>1.Nyissa meg a beállításokat</open_settings_0>
+    <open_settings_1>NYISSA MEG A BEÁLLÍTÁSOKAT</open_settings_1>
+    <open_video_failed_hint>Nem sikerült megnyitni videófájl, kérjük, próbálja újra, vagy próbálja más video</open_video_failed_hint>
+    <origin_pitch>Eredeti hangmagasság</origin_pitch>
+    <original>Eredeti</original>
+    <original_image_not_found>Az eredeti képfájl már nem létezik, kérjük, kétszer ellenőrizze.</original_image_not_found>
+    <original_music_not_found>Eredeti zenei fájl már nem létezik, kérjük ellenőrizze.</original_music_not_found>
+    <original_video_not_found>Eredeti videót már nem létezik, kérjük ellenőrizze.</original_video_not_found>
+    <other_app_recording>A hangfelvétel jelenleg nem érhető el, mert más alkalmazások ezt használják.</other_app_recording>
+    <outline>Körberajzolás</outline>
+    <page>SZAKADT PAPÍR</page>
+    <parent_directory>Szülő Könyvtár</parent_directory>
+    <part_original_files_miss_in_draft>"Legalább egy eredeti fájl hiányzik, folytatja a szerkesztést 
+
+A szerkesztés folytatása adatvesztést okozhat a piszkozatában. 
+
+A piszkozat helyreállításához állítsa vissza az eredeti fájlokat innen: [Nemrég törölt/Lomtár]."</part_original_files_miss_in_draft>
+    <pattern>Minta</pattern>
+    <pay_success>Sikeresen vásárolt!</pay_success>
+    <permission_read_external_storage>Szükség van tárolási engedélyre.</permission_read_external_storage>
+    <photo>Fotó</photo>
+    <pinch_zoom_in>Kétujjas nagyítás.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Meghaladja a felső határértékeket.</pip_track_reach_max>
+    <play_video_via>Videó lejátszása keresztül</play_video_via>
+    <popular>Népszerű</popular>
+    <precode>ELŐKÓDOLÁS</precode>
+    <precode_failed>Előkódolás sikertelen.</precode_failed>
+    <precut>Előrevágás</precut>
+    <preset>Előbeállítás</preset>
+    <string name="privacy_policy_content" formatted="false">Üdvözli az InShot!&lt;br>&lt;br> Elkötelezettek vagyunk amellett, hogy minden szempontból jobb élményt nyújtsunk a felhasználóknak, és időről időre frissíteni fogjuk a &lt;a href=%s>Felhasználási feltételeket&lt;/a> és az &lt;a href=%s>Adatvédelmi szabályzat&lt;/a>.&lt;br>&lt;br>Ha elfogadja, kattintson az „Elfogadom” gombra, és elkezdheti használni InShot.</string>
+    <string name="privacy_policy_content_gdpr">Az InShot használata során testre szabott reklámokat fog látni. Ha ki kíván jelentkezni, ugorjon az &lt;a href=%s>„Adatvédelmi szabályzat”&lt;/a> oldalra, és kattintson a „I don’t agree” elemre.&lt;br>&lt;br></string>
+    <privacy_policy_title>Felhasználási feltételeket és az Adatvédelmi szabályzatot</privacy_policy_title>
+    <pro_detail>InShot Pro részletek</pro_detail>
+    <pro_expire_time_format>Lejár: %s</pro_expire_time_format>
+    <pro_expired_tip>Az InShot Pro %s-én lejárt</pro_expired_tip>
+    <pro_one_time_purchase>Egyszeri vásárlás</pro_one_time_purchase>
+    <pro_purchase_new_desc>Hozzáférés az összes fizetett átmenethez, effektushoz, matricához és így tovább. Nincs InShot logó, nincs hirdetés.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Hozzáférés az összes fizetett átmenethez, effektushoz, matricához és így tovább. Nincs hirdetés.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Ön már egy InShot Pro tag.</pro_purchased_info>
+    <pro_restore_not_purchased>A visszaállítás befejeződött, de Ön még nem az InShot Pro tagja.</pro_restore_not_purchased>
+    <pro_subscription_details>FELIRATKOZÁSI RÉSZLETEK</pro_subscription_details>
+    <pro_unavailable>Pro nem elérhető</pro_unavailable>
+    <pro_unavailable_detail>Kérjük, ellenőrizd, hogy csak egy megfelelő Google Play-fióknál vagy bejelentkezve. További segítségért lásd GYIK oldal.</pro_unavailable_detail>
+    <processing_error>Feldolgozási hiba</processing_error>
+    <processing_progress_title>Feldolgozás…</processing_progress_title>
+    <procode_progress>Előkódolás…</procode_progress>
+    <promotion_subscribe_title>Holi különleges ajánlat</promotion_subscribe_title>
+    <purchase_failed>Vásárlás nem sikerült, próbáld újra?</purchase_failed>
+    <purchase_failed_tile>vásárlás nem sikerült</purchase_failed_tile>
+    <range>Tartomány</range>
+    <rate>Arány</rate>
+    <rate_feedback_message>Kaphatnánk valamilyen visszajelzést?</rate_feedback_message>
+    <rate_later>Később</rate_later>
+    <rate_like>Igen</rate_like>
+    <rate_main_message>Tetszik a InShot?</rate_main_message>
+    <rate_not_like>Nem igazán</rate_not_like>
+    <rate_review_message>Értékelne bennünket? Nagy segítséget jelentene.</rate_review_message>
+    <ratio>Arány</ratio>
+    <recent>Legutóbbiak</recent>
+    <recommend>ajánlás</recommend>
+    <record>Rögzítése</record>
+    <redo>Ismét</redo>
+    <refresh_state>Vásárlás visszaállítása</refresh_state>
+    <reject>Köszönöm, nem</reject>
+    <remove_ads>TÁVOLÍTSA VÍZJEL ÉS ADS</remove_ads>
+    <remove_ads_1>TÁVOLÍTSA ADS</remove_ads_1>
+    <remove_ads_1_desc>Végleg eltávolítja a szalaghirdetéseket.</remove_ads_1_desc>
+    <remove_ads_desc>Végleg eltávolítja a vízjelet és a szalaghirdetéseket; ezt Önnek már nem kell manuálisan megtennie.</remove_ads_desc>
+    <remove_all_ads>Hirdetések eltávolítása</remove_all_ads>
+    <remove_all_split_marks>Eltávolítja az Ön által hozzáadott osztásjeleket?</remove_all_split_marks>
+    <remove_pro_materials>Pro anyagok eltávolítása</remove_pro_materials>
+    <remove_watermark>Vegye ki a vízjel</remove_watermark>
+    <remove_watermark_ad>TÁVOLÍTSA EL EZT A ONCE</remove_watermark_ad>
+    <remove_watermark_ad_2>INGYENES ELTÁVOLÍTÁS</remove_watermark_ad_2>
+    <remove_watermark_and_ads>A vízjel és a hirdetések eltávolítása</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>A hirdetések eltávolítása</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Vegye ki a hirdetések véglegesen.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Vegye ki a vízjel és a hirdetések véglegesen.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>VÉGLEGES ELTÁVOLÍTÁSA</remove_watermark_buy>
+    <rename>Átnevezés</rename>
+    <renew_pro>Az InShot Pro megújítása</renew_pro>
+    <replace>lecserél</replace>
+    <replace_draft_des>Elveti a vázlatot, és új projektet kezd?</replace_draft_des>
+    <report>Jelentés</report>
+    <report_fix_description>Kérjük, küldje el nekünk log &amp; audio fájlokat, hogy segítsen a probléma megoldása.</report_fix_description>
+    <report_fix_ok>LOG &amp; AUDIO FÁJLOK KÜLDÉSE</report_fix_ok>
+    <report_fix_title>Az audiofeldolgozás sikertelen</report_fix_title>
+    <request_record_rationale>Engedélyezze, hogy az InShot használja a mikrofont a készüléken.</request_record_rationale>
+    <request_storage_rationale>Hagyjuk InShot eléréséhez fotókat és a média a készüléken.</request_storage_rationale>
+    <reselect>Választ</reselect>
+    <reset>Visszaállítás</reset>
+    <reset_adjust>Beállítások alaphelyzetbe</reset_adjust>
+    <reset_all>Minden visszaállítása</reset_all>
+    <reset_hue>Visszaállítása színárnyalat</reset_hue>
+    <reset_luminance>Visszaállítása fényereje</reset_luminance>
+    <reset_saturation>Visszaállítása telítettség</reset_saturation>
+    <reset_speed>Sebesség visszaállítása</reset_speed>
+    <resolution>Felbontás</resolution>
+    <restore>VISSZAÁLLÍTÁS</restore>
+    <restore_failed>A visszaállítás sikertelen!</restore_failed>
+    <restore_ok_Pro>A sikeres visszaállítás és máris az InShot Pro tagja vagy.</restore_ok_Pro>
+    <restore_ok_not_Pro>A visszaállítás sikeres, de Ön még nem az InShot Pro tagja.</restore_ok_not_Pro>
+    <restore_pro_assets>Pro tartalmak visszaállítása</restore_pro_assets>
+    <restore_success>Visszaállítása sikeresen</restore_success>
+    <restore_trim_message>Törölje az összes vágási műveletet, vissza az eredeti videóhoz?</restore_trim_message>
+    <results_page_save_complete>Mentsd befejezett</results_page_save_complete>
+    <results_page_share_other>Megosztás</results_page_share_other>
+    <results_page_wait_video_transcoding>Kérjük, várjon video átkódolni</results_page_wait_video_transcoding>
+    <retro>Retró</retro>
+    <retry_save_title>Az utolsó videó exportálása sikertelen. Próbáld újra?</retry_save_title>
+    <returnapp_tip>Nyomja meg a RETURN a InShot .</returnapp_tip>
+    <reverse>Visszafelé lejátszás</reverse>
+    <rewarded_unlock_content>Nézzen meg egy videohirdetést az összes funkció ingyenes feloldásáhozn(%s)</rewarded_unlock_content>
+    <rewinding>Visszatekerés…</rewinding>
+    <rotate>Forog</rotate>
+    <rotate90>Forgatás</rotate90>
+    <s1>Kép mentése</s1>
+    <s2>Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?</s2>
+    <s3>Elfogadás</s3>
+    <s4>Elutasítás</s4>
+    <s5>Naptáresemény létrehozása</s5>
+    <s6>Engedélyezi a hirdetés számára naptáresemény létrehozását?</s6>
+    <s7>Teszthirdetés</s7>
+    <saturation>Telítettség</saturation>
+    <save>Mentés</save>
+    <save_extracted_audio>Beolvasott hang mentése</save_extracted_audio>
+    <save_fail>Mentése sikertelen</save_fail>
+    <save_image_failed_hint>Nem sikerült menteni a képfájl</save_image_failed_hint>
+    <save_imported_sticker>Mentse az importált matricát</save_imported_sticker>
+    <save_success_hint>Mentett a %s</save_success_hint>
+    <save_type_description>Importált fájlok mentése másként</save_type_description>
+    <save_video_failed_dlg_btn_retry>próbálja újra</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Válasszon másik felbontást</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Kérjük, válasszon kisebb felbontást vagy próbáld újra!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>A mentés nem sikerült</save_video_failed_dlg_title>
+    <save_video_failed_hint>Ez a videó nem támogatott, mert a videó és audió codec. Kérjük, próbálkozzon egy másik video.</save_video_failed_hint>
+    <saved>Mentett</saved>
+    <scanning>Ellenőrzés…</scanning>
+    <string name="sd_card_error">A path / sdcard nem elérhető. Kérjük, válasszon egy másik útvonal / tároló Settings -> %s.</string>
+    <sd_card_full_tip>Nincs elég tárhely, kérjük, törölje kis helyet és próbálja újra.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>SD card is not mounted!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Need about %dM space!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Több gyorsítótárra van szüksége a videó mentéséhez. Kérjük, szabadítson fel több tárhelyet, vagy csökkentse a felbontást, és próbálja újra.</sd_card_space_not_enough_hint>
+    <search_menu_title>Keresés</search_menu_title>
+    <see_all_material>Összes megtekintése</see_all_material>
+    <select>Kiválasztás</select>
+    <select_all>Összes kiválasztása</select_all>
+    <select_one_to_edit>Válassza ki a szerkeszteni kívánt elemet.</select_one_to_edit>
+    <select_one_track_to_edit>Sáv kijelölése szerkesztésre</select_one_track_to_edit>
+    <select_photo>Válasszon képet</select_photo>
+    <send_feedback>Visszajelzés küldése</send_feedback>
+    <setting_addtags_title>Címke hozzáadása</setting_addtags_title>
+    <setting_clear_cache_title>Gyorsítótár ürítése</setting_clear_cache_title>
+    <setting_faq_title>FAQ</setting_faq_title>
+    <setting_feedback_title>Visszajelzés</setting_feedback_title>
+    <setting_follow_us>Kövessen minket (További oktatóanyagokat kaphat)</setting_follow_us>
+    <setting_general_title>általános</setting_general_title>
+    <setting_language_title>Nyelv</setting_language_title>
+    <setting_legal_title>Jogi nyilatkozat</setting_legal_title>
+    <setting_localization_des>Segíts nekünk az alkalmazás nyelvének fordításában</setting_localization_des>
+    <setting_localization_title>Nyelv</setting_localization_title>
+    <setting_others>Egyéb</setting_others>
+    <setting_privacypolicy_title>Adatvédelmi szabályzat</setting_privacypolicy_title>
+    <setting_rate5star_des>Szavazz InShot 5 csillagos a Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Szavazz 5 csillagos</setting_rate5star_title>
+    <setting_restore>Vásárlások visszaállítása</setting_restore>
+    <setting_savepath_title>Mentés helye</setting_savepath_title>
+    <setting_share_title>Meghívja barátait</setting_share_title>
+    <setting_thankyou_title>Köszönjük</setting_thankyou_title>
+    <shadow>Árnyék</shadow>
+    <shadow_off>Ki</shadow_off>
+    <shadow_on>Be</shadow_on>
+    <share>részesedik</share>
+    <share_content>Könnyítse meg a videók és fényképek szerkesztését a telefonján. Ingyenesen letölthető InShot most:https://inshotapp.page.link/invite</share_content>
+    <share_subject>Egy kiváló video&amp;Photo Editor for Instagram ajánlott Önnek</share_subject>
+    <sharpen>Élesítés</sharpen>
+    <shop>Üzlet</shop>
+    <short_preview>Előnézet mutatása</short_preview>
+    <show_read_video_ad_dlg_content>Nézhet egy videót ad, hogy távolítsa el a vízjel ingyen.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Nézzen meg egy videót ad, hogy távolítsa el a vízjel erre az időre</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Másolás és megosztás</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>Történelem</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Címkék számára több szereti</show_tags_dlg_title>
+    <sign_out>Kijelentkezés</sign_out>
+    <sign_out_account>Kijelentkezés a fiókból</sign_out_account>
+    <signout_current_account>Kijelentkezés a folyószámláról</signout_current_account>
+    <signout_tip_common>Biztosan kijelentkezik a jelenlegi WeChat-fiókból?</signout_tip_common>
+    <signout_tip_pro>Az InShot Pro nem lesz elérhető, ha kijelentkezik a fiókból.</signout_tip_pro>
+    <size>méret:%s</size>
+    <size_only>Becsült méret</size_only>
+    <slice>SZELET</slice>
+    <slow_motion>LASSÚ MOZGÁS</slow_motion>
+    <smooth>Zökkenőmentes</smooth>
+    <smooth_applied>Zökkenőmentes lassított felvétel alkalmazása</smooth_applied>
+    <smooth_cancelled>Zökkenőmentes lassított felvétel törlése</smooth_cancelled>
+    <smooth_click_preview>Kattintson az ellenőrzés gombra a zökkenőmentes lassított felvétel megtekintéséhez</smooth_click_preview>
+    <smooth_preview_effect>Zökkenőmentes hatás előnézete</smooth_preview_effect>
+    <smooth_slow_speed_available>Csak akkor elérhető, ha a sebesség &lt; %sx</smooth_slow_speed_available>
+    <sorry>Bocsánat</sorry>
+    <string name="space_not_enough_content">A %2$s mentéséhez &lt;b>%1$dM&lt;/b> belső tárhelyre (NEM az SD-kártyán) van szükség. Kérjük, szabadítsa fel a telefonterületet, és próbálja újra.</string>
+    <space_not_enough_title>Szabad hely a telefonon</space_not_enough_title>
+    <special_offer>Különleges ajánlat</special_offer>
+    <speed>Sebesség</speed>
+    <speed_adjusts_precode_hint>A(z) %sx értékűnél nagyobb sebességkorrekcióhoz előkódolás szükséges.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>A 10-szeresnél nagyobb sebesség audioveszteséget okozhat.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>A zöld zónában nem kell ismét előkódolni.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Ne zárolja a kijelzőt, ne váltson másik alkalmazásra.</speed_precode_warning_hint>
+    <split>Osztott</split>
+    <spring_festival_pro_title>Holdújév 50% kedvezmény</spring_festival_pro_title>
+    <standard>Normál</standard>
+    <start_over>ELÖLRŐL KEZDENI</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>nem töltötte le a matricát</sticker_empty>
+    <sticker_text>Matricák</sticker_text>
+    <stickers>Matricák</stickers>
+    <strength>Szilárdság</strength>
+    <style>Stílus</style>
+    <subscription_detail>"
+
+- Az InShot Pro korlátlan előfizetéssel valamennyi funkció és fizetős szerkesztési anyag (pl. matrica, szűrőcsomag stb.) elérhetővé válik. A vízjelet és a reklámokat automatikusan eltávolítjuk. 
+
+- Az InShot Pro korlátlan előfizetést havonta vagy évente, a választott előfizetői csomaghoz tartozó díjjal számlázzuk ki. Ezenfelül, szükség esetén az előfizetési csomagoktól eltérő egyszeri díjat is ajánlhatunk. 
+
+- A fizetés a Google Play fiókban, a vásárlás megerősítésének időpontjában történik. 
+
+- Ha az automatikus megújítást nem kapcsolja ki a jelenlegi előfizetési időszak lejárta előtt legalább 24 órával, az előfizetés automatikusan megújul. 
+
+- A megújítás díját a jelenlegi előfizetési időszak lejártát megelőző 24 órában terheljük a fiókjára. A megújítás díját közöljük. 
+
+- Az előfizetést a felhasználó kezelni tudja, az automatikus megújítás a vásárlás után a Fiókbeállítások menüpont alatt kikapcsolható. 
+
+- Az adott kiadvány előfizetésének megvásárlásakor az esetleg kínált ingyenes próbaidőszak fel nem használt része adott esetben elvész."</subscription_detail>
+    <subscription_detail_1>"
+
+- Az InShot Pro korlátlan előfizetéssel valamennyi funkció és fizetős szerkesztési anyag (pl. matrica, szűrőcsomag stb.) elérhetővé válik. A reklámokat automatikusan eltávolítjuk. 
+
+- Az InShot Pro korlátlan előfizetést havonta vagy évente, a választott előfizetői csomaghoz tartozó díjjal számlázzuk ki. Ezenfelül, szükség esetén az előfizetési csomagoktól eltérő egyszeri díjat is ajánlhatunk. 
+
+- A fizetés a Google Play fiókban, a vásárlás megerősítésének időpontjában történik. 
+
+- Ha az automatikus megújítást nem kapcsolja ki a jelenlegi előfizetési időszak lejárta előtt legalább 24 órával, az előfizetés automatikusan megújul. 
+
+- A megújítás díját a jelenlegi előfizetési időszak lejártát megelőző 24 órában terheljük a fiókjára. A megújítás díját közöljük. 
+
+- Az előfizetést a felhasználó kezelni tudja, az automatikus megújítás a vásárlás után a Fiókbeállítások menüpont alatt kikapcsolható. 
+
+- Az adott kiadvány előfizetésének megvásárlásakor az esetleg kínált ingyenes próbaidőszak fel nem használt része adott esetben elvész."</subscription_detail_1>
+    <subscription_terms>Ez a vásárlás csak Android rendszeren használható. A fizetés a Google Play Áruházon keresztül történik, a vásárlás megerősítését követően. Az előfizetés automatikusan megújul az aktuális időszak lejárta előtt, ha nem mondja le 24 órával előbb, és a visszavonás a jelenlegi időszak végén lép hatályba. Előfizetéseit Google Play Áruház fiókja beállításainál kezelheti, és az automatikus megújítást is itt kapcsolhatja ki. A próbaidőszak alatt lemondott előfizetésért nem számolunk fel díjat.</subscription_terms>
+    <subscription_terms_cn>Feliratkozás az InShot Pro alkalmazásra, az összes szolgáltatás és szerkesztőanyag felhasználható. A vízjel és a hirdetések automatikusan eltávolításra kerülnek. Az InShot Pro nem automatikusan megújul, kérjük, manuálisan megújítsa az aktuális időszak vége előtt. Az előfizetés nem továbbítható az Android és az iOS eszközök között. Ha iOS-eszközökön vásárolta meg, akkor továbbra is Android-eszközökre kell vásárolnia. Miután feliratkozott az InShot Pro-ra, nem kerül törlésre vagy visszatérítésre. Kérjük, alaposan döntjön a vásárlás előtt.</subscription_terms_cn>
+    <subscription_terms_cn_1>Feliratkozás az InShot Pro alkalmazásra, az összes szolgáltatás és szerkesztőanyag felhasználható. A hirdetések automatikusan eltávolításra kerülnek. Az InShot Pro nem automatikusan megújul, kérjük, manuálisan megújítsa az aktuális időszak vége előtt. Az előfizetés nem továbbítható az Android és az iOS eszközök között. Ha iOS-eszközökön vásárolta meg, akkor továbbra is Android-eszközökre kell vásárolnia. Miután feliratkozott az InShot Pro-ra, nem kerül törlésre vagy visszatérítésre. Kérjük, alaposan döntjön a vásárlás előtt.</subscription_terms_cn_1>
+    <subscription_terms_hw>Az AppGallery-nál csak a HUAWEI IAP-n keresztül lehet vásárolni. A fizetést a számlára terhelik a vásárlás visszaigazolásakor. Az előfizetések automatikus megújítása a jelenlegi időszak vége után, és meghatározzák a megújítás költségeit. Az előfizetéseket és az automatikus megújítást az AppGallery-fiókbeállítások segítségével kezelheti. Az ingyenes próbaverzió alatt lemondott előfizetés nem kerül felszámolásra.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>Az AppGallery-nál csak a HUAWEI IAP-n keresztül lehet vásárolni. A fizetést a számlára terhelik a vásárlás visszaigazolásakor. A megrendelés visszaigazolásától számított 14 napon belül vegye fel a kapcsolatot a Huawei ügyfélszolgálatával, hogy visszavonja a vásárlást. Az előfizetés automatikusan megújul a jelenlegi időszak vége után. Az előfizetéseket és az automatikus megújítást az AppGallery-fiókbeállítások segítségével kezelheti.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>Az AppGallery-nál csak a HUAWEI IAP-n keresztül lehet vásárolni. A fizetést a számlára terhelik a vásárlás visszaigazolásakor. A megrendelés visszaigazolásától számított 7 napon belül vegye fel a kapcsolatot a Huawei ügyfélszolgálatával, hogy visszavonja a vásárlást. Az előfizetés automatikusan megújul a jelenlegi időszak vége után. Az előfizetéseket és az automatikus megújítást az AppGallery-fiókbeállítások segítségével kezelheti.</subscription_terms_hw_ru>
+    <subscription_title>InShot Pro korlátlan előfizetés</subscription_title>
+    <super1>SZUPER</super1>
+    <support_musician>A zenész támogatásához kérjük, adjon hozzá zenei információkat a videó leírásában.</support_musician>
+    <sure>Rendben</sure>
+    <swap>csere</swap>
+    <swap_order_hint>Hosszan nyomja meg és húzza át a swap érdekében</swap_order_hint>
+    <switch_account>Fiókváltás</switch_account>
+    <tags>Címkék</tags>
+    <tags_policies>Egyes szabályzatok miatt eltávolítottuk az irreleváns címkéket.</tags_policies>
+    <take_video>videó</take_video>
+    <tap_permissions>2.Érintse engedélyeinek</tap_permissions>
+    <template>Sablon</template>
+    <terms_of_use>Felhasználási feltételek</terms_of_use>
+    <text>szöveg</text>
+    <text_spacing>Szövegköz</text_spacing>
+    <then>Azután</then>
+    <time_24_hours>Csak %s óra</time_24_hours>
+    <time_limited_offer>Korlátozott idejű ajánlat</time_limited_offer>
+    <tint>Színezés</tint>
+    <tip>Tipp</tip>
+    <tip_close_ad_personalization>Ha kikapcsolod, lehet, hogy irreleváns hirdetéseket fogsz látni.</tip_close_ad_personalization>
+    <title_optout_ads>Leiratkozik az érdeklődésen alapuló hirdetésekről</title_optout_ads>
+    <too_many_pip_tip>Túl sok réteg eltérést vagy mentési hibát okozhat.</too_many_pip_tip>
+    <total>Összesen</total>
+    <track_count>%d MŰSORSZÁMOK</track_count>
+    <tracks>Műsorszámok</tracks>
+    <transition>Átmenet</transition>
+    <transition_prompt>Az átmenet hozzáadása vagy módosítása megváltoztatja a videó időtartamát</transition_prompt>
+    <trim>vág</trim>
+    <trim_clip_help_tip>Vágja le a videót és állítsa be a fénykép időtartamát</trim_clip_help_tip>
+    <trim_music>Vágás zene</trim_music>
+    <turn_off>Kikapcsolás</turn_off>
+    <turn_off_tags_context>Kapcsolja ki címkék lehetőségeket, és akkor kapcsolja be a beállítások menüben.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Kikapcs.</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. Kapcsolja be a mikrofont</turn_on_microphone>
+    <turn_on_storage>3. Kapcsolja be a Tárolást és a Kamerát</turn_on_storage>
+    <type_something>írja Valami</type_something>
+    <un_select>Visszavonás</un_select>
+    <undo>Visszavonás</undo>
+    <undo_reversed>Visszafelé lejátszás visszavonása</undo_reversed>
+    <unlock>Kinyit</unlock>
+    <unlock_all_features>Nyissa fel az összes funkciót</unlock_all_features>
+    <unlock_for_free>Kinyit ingyen</unlock_for_free>
+    <unlock_for_sticker_tip>Nézzen meg egy videót ad, hogy ezt a csomagot ingyen</unlock_for_sticker_tip>
+    <unlock_the_features>Oldja fel a funkciót</unlock_the_features>
+    <unsupported_file_format>Nem támogatott fájlformátum</unsupported_file_format>
+    <update>Frissítés</update>
+    <update_files>Fájlok frissítése</update_files>
+    <use>HASZNÁLAT</use>
+    <user_cancel>Törölve</user_cancel>
+    <valid_for>%s érvényes</valid_for>
+    <valid_for_days>%s napig érvényes</valid_for_days>
+    <valid_for_hours>%s óráig érvényes</valid_for_hours>
+    <value>Érték</value>
+    <video>Videó</video>
+    <video_background_convert_finished_hint>Az Ön video konvertáló kész!</video_background_convert_finished_hint>
+    <video_beginning>Videó kezdete</video_beginning>
+    <video_compress>Videotömörítés</video_compress>
+    <string name="video_compress_description" formatted="false">%s felbontásnál nagyobb felbontású videó automatikus tömörítése erre: %s.</string>
+    <video_continue_convert_hint>InShot továbbra lehet átalakítani…</video_continue_convert_hint>
+    <video_conversion_failure>Konverziós hiba</video_conversion_failure>
+    <video_convert_failed_hint>Elmulasztotta átalakítani video, próbáld újra!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Nem sikerült átalakítani video, próbáld egy másik videó!</video_convert_failed_hint2>
+    <video_cut_bar_duration>összesen:</video_cut_bar_duration>
+    <video_end>Videó vége</video_end>
+    <video_less_than_one_second_not_allow>%s rövidebb videókat nem lehet feltölteni.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Kattintson a miniatűrre további lehetőségekért</video_more_option_hint2>
+    <video_not_support>A videó nem támogatott ezen az eszközön. Ön továbbra is használni fényképezési funkciók.</video_not_support>
+    <video_not_support_detail>Videó funkciók nem érhetők el az eszközt, mert a %s. Ön továbbra is használja fényképezési funkciókkal.</video_not_support_detail>
+    <video_not_support_reasons_one>Android verzió alacsonyabb, mint 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU nem ARM V7 kompatibilis Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>Video nem kompatibilis</video_not_support_title_one>
+    <video_not_support_title_two>Hardver inkompatibilitás</video_not_support_title_two>
+    <video_only>Csak Videó</video_only>
+    <video_quality_customize>Customize</video_quality_customize>
+    <video_quality_normal>normál</video_quality_normal>
+    <video_quality_recommend>ajánlott</video_quality_recommend>
+    <video_replace_trim_info>Húzással válassz ki egy szakaszt.</video_replace_trim_info>
+    <video_resolution>Videó felbontása</video_resolution>
+    <video_setting>Videó beállításai</video_setting>
+    <video_sharing_progress_title1>Initializing…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>Converting Video…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>Canceling…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>Csak akkor adja ki a 20 szöveges tételeket.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">Csak  %s(>%s) hosszabb videót támogat</string>
+    <video_too_short_after_cut_hint>A videó időtartama túl rövid.</video_too_short_after_cut_hint>
+    <vignette>Árnyal</vignette>
+    <voice_effect>Hangeffekt</voice_effect>
+    <voice_effect_support>Csak felvétel/importált audio támogatása</voice_effect_support>
+    <volume>Hangerő</volume>
+    <warmth>Hőmérséklet</warmth>
+    <warning>Figyelem</warning>
+    <watch>megtekint</watch>
+    <what_new_audio_draft>MENTENI VIDEO-TERVEZET</what_new_audio_draft>
+    <what_new_audio_track>TÖBB ZENESZÁM</what_new_audio_track>
+    <what_new_crop_video>NÖVÉNYI VIDEÓ</what_new_crop_video>
+    <what_new_cut>Vágás és osztott videó</what_new_cut>
+    <what_new_music>NÉPSZERŰ VLOG ZENE</what_new_music>
+    <what_new_special_effects_filters_vol1>KÜLÖNLEGES HATÁSOK SZŰRŐK VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>JOBB KOLLÁZS MÓD</what_news_collage>
+    <what_news_filter>SZŰRŐK VIDEÓ MÓDON</what_news_filter>
+    <what_news_thanksgiving>BOLDOG HÁLAADÁST</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Adjon hozzá egy üres képernyőt</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Háttér minta</whats_new_background_pattern>
+    <whats_new_beats_effects>Beat effektusok</whats_new_beats_effects>
+    <whats_new_blend>PIP - Keverék</whats_new_blend>
+    <whats_new_brand_music>Új zene felhasználói felület</whats_new_brand_music>
+    <whats_new_create_gifs>GIF-ek Létrehozása</whats_new_create_gifs>
+    <whats_new_customer_color>Egyedi szín</whats_new_customer_color>
+    <whats_new_cutout>Egyéni matricák kivágása</whats_new_cutout>
+    <whats_new_cutout_outline>Fotó kivágás és körberajzolás</whats_new_cutout_outline>
+    <whats_new_effect>Hatás Idővonal</whats_new_effect>
+    <whats_new_effect_retro2>Új effektusok – Rretro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Új Effektusok_Osztott</whats_new_effect_split>
+    <whats_new_fade_base>Új effektusok-Alap,Elhalványítás</whats_new_fade_base>
+    <whats_new_filter_fresh>Új Szűrők_Friss</whats_new_filter_fresh>
+    <whats_new_frame_rate>Új képkockasebesség</whats_new_frame_rate>
+    <whats_new_freeze_tool>Fagyasztó eszköz</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>HSL beállítás</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Kerethez rögzített elemek</whats_new_item_frame>
+    <whats_new_magnifier>Nagyító Matrica</whats_new_magnifier>
+    <whats_new_mask>PIP maszk</whats_new_mask>
+    <whats_new_material>Vadonatúj anyagtár</whats_new_material>
+    <whats_new_music_fade_in_and_out>Zene fokozatos átúsztatás &amp; elájulni</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Új Album</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Új effektek és átmenetek</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Új effektusok – Film</whats_new_new_effect_film>
+    <whats_new_new_filters>Új Szűrő</whats_new_new_filters>
+    <whats_new_new_transition>Új Átmenetek – Szakadt papír</whats_new_new_transition>
+    <whats_new_pip>PIP - Video Overlay</whats_new_pip>
+    <whats_new_smooth>Zökkenőmentes Lassított Felvétel a Sebesség Beállításához</whats_new_smooth>
+    <whats_new_speed_curve>Sebességív</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Előbeállítás Sebességgörbe</whats_new_speed_curve_preset>
+    <whats_new_store>Vadonatúj anyagok raktáron</whats_new_store>
+    <whats_new_text_animation>Új szöveges animáció</whats_new_text_animation>
+    <whats_new_transition_film>Új átmenetek – Film</whats_new_transition_film>
+    <whats_new_video_full_screen>Videók előnézete teljes képernyőn</whats_new_video_full_screen>
+    <whats_new_voice_effect>Hangeffektusok</whats_new_voice_effect>
+    <whatsnew_advance_timeline>FEJLETT VIDEÓ IDŐVONAL</whatsnew_advance_timeline>
+    <whatsnew_christmas>ZENE KARÁCSONYRA</whatsnew_christmas>
+    <whatsnew_color_pallette>Új színpaletta</whatsnew_color_pallette>
+    <whatsnew_font_style>ÚJ BETŰSTÍLUSE</whatsnew_font_style>
+    <whatsnew_loop_animation>Hurok Animáció</whatsnew_loop_animation>
+    <whatsnew_music>ÚJ ZENE</whatsnew_music>
+    <whatsnew_recording>Felvétel</whatsnew_recording>
+    <whatsnew_slide>KEVERJE ÖSSZE A VIDEÓKAT A FOTÓKKAL</whatsnew_slide>
+    <whatsnew_sound_effects>Hang hatások</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Zene, Szöveg és Matricák Megosztása</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>MATRICA ANIMÁCIÓ</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>MATRICA ÉS SZÖVEGES ANIMÁCIÓ</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>SZÖVEGES ANIMÁCIÓ</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Korlátlan tervezet</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot fotó</widgetphoto>
+    <widgetvideo>InShot videó</widgetvideo>
+    <year>Év</year>
+    <yes>igen</yes>
+    <you_are_not_login>Nem jelentkezett be.</you_are_not_login>
+    <you_will_still_see_ads>Továbbra is látni fogja a hirdetéseket, de előfordulhat, hogy nem az Ön érdeklődési körén alapulnak.</you_will_still_see_ads>
+    <zoom>Zoomolás</zoom>
+    <zoom_selection>ZOOM VÁLASZTÁS</zoom_selection>
+</resources>

@@ -21,42 +21,46 @@ void main() async {
 }
 
 Future<void> loadAsset() async {
-    
+  final dir = Directory(
+      '/Users/admins/Documents/FlutterProjects/video_editor_app/assets/raw');
+  final entities = await dir.list().toList();
+  for (var i = 0; i < entities.length; i++) {
+    final enity = entities[i];
+    final nameFile = enity.path.split('/').last;
+    if(nameFile.startsWith('.'))
+    {
+      continue;
+    }
+    final pathFile = File(enity.path);
+    var text = await pathFile.readAsString();
+    //find keys
+    final regExpKeys = RegExp(r'(?<=(<string name="))(.*?)(?=")');
+    final keyMaths = regExpKeys.allMatches(text);
+    //find value
+    final regExpValues = RegExp(r'(?:>)((.+?|\n)*?)(?=</string>)');
+    final valueMaths = regExpValues.allMatches(text);
 
-
-
-
-
-
-//   var text = await rootBundle.loadString('assets/raw/en-US.xml');
-//   //find keys
-//   final regExpKeys = RegExp(r'(?<=(<string name="))(.*?)(?=")');
-//   final keyMaths = regExpKeys.allMatches(text);
-//   //find value
-//   final regExpValues = RegExp(r'(?:>)((.+?|\n)*?)(?=</string>)');
-//   final valueMaths = regExpValues.allMatches(text);
-
-//   print(keyMaths.length);
-//   print(valueMaths.length);
-// // translations
-//   for (var i = 0; i < keyMaths.length; i++) {
-//     final key = keyMaths.elementAt(i).group(0);
-//     final value = valueMaths.elementAt(i).group(0)?.replaceAll(RegExp('>'), "");
-//     final oldText = "<string name=\"$key\">$value</string>";
-//     final newText = "<$key>$value</$key>";
-//     text = text.replaceAll(oldText, newText);
-//   }
-//   print(text);
-   
-//   final File file = File('/Users/admins/Documents/FlutterProjects/video_editor_app/assets/translations/en-US.xml');
-//   file.createSync();
-//   await file.writeAsString(text);
+    for (var i = 0; i < keyMaths.length; i++) {
+      final key = keyMaths.elementAt(i).group(0);
+      final value =
+          valueMaths.elementAt(i).group(0)?.replaceAll(RegExp('>'), "");
+      final oldText = "<string name=\"$key\">$value</string>";
+      final newText = "<$key>$value</$key>";
+      text = text.replaceAll(oldText, newText);
+    }
+    final File file = File(
+        '/Users/admins/Documents/FlutterProjects/video_editor_app/assets/translations/$nameFile');
+    file.createSync();
+    text = text.replaceAll('<resources>', '');
+    await file.writeAsString(text);
+    print(file.path);
+  }
 }
 
- Future<String> get _localPath async {
-    final directory = await getApplicationDocumentsDirectory();
-    return directory.path;
-  }
+Future<String> get _localPath async {
+  final directory = await getApplicationDocumentsDirectory();
+  return directory.path;
+}
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>جزئیات InShot Pro</InShot_detail>
+    <abc_action_bar_home_description>پیمایش به صفحه اصلی</abc_action_bar_home_description>
+    <abc_action_bar_up_description>رفتن به بالا</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>گزینه‌های بیشتر</abc_action_menu_overflow_description>
+    <abc_action_mode_done>تمام</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>دیدن همه</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>انتخاب برنامه</abc_activitychooserview_choose_application>
+    <abc_capital_off>خاموش</abc_capital_off>
+    <abc_capital_on>روشن</abc_capital_on>
+    <abc_menu_alt_shortcut_label>‎Alt+‎</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>‎Ctrl+‎</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>حذف</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>‎Function+‎</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>‎Meta+‎</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>‎Shift+‎</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>فاصله</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>‎Sym+‎</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>منو+</abc_prepend_shortcut_label>
+    <abc_search_hint>جستجو…‏</abc_search_hint>
+    <abc_searchview_description_clear>پاک کردن پُرسمان</abc_searchview_description_clear>
+    <abc_searchview_description_query>درخواست جستجو</abc_searchview_description_query>
+    <abc_searchview_description_search>جستجو</abc_searchview_description_search>
+    <abc_searchview_description_submit>ارسال پُرسمان</abc_searchview_description_submit>
+    <abc_searchview_description_voice>جستجوی گفتاری</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>هم‌رسانی با</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>هم‌رسانی با %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>کوچک کردن</abc_toolbar_collapse_description>
+    <account>حساب</account>
+    <acknowledge>سپاسگزاری</acknowledge>
+    <action_settings>تنظيمات</action_settings>
+    <actual_price_year_format>خرید آن را برای %s/سال</actual_price_year_format>
+    <ad_personalization>شخصی‌سازی آگهی‌ها</ad_personalization>
+    <ad_personalization_tip>"کوکی ها فایل های متنی هستند که توسط سرور وب در دستگاه شما ایجاد می شوند. به منظور ارائه خدمات بهتر ، ممکن است از فناوری های مرتبط برای ارسال یک یا چند کوکی به دستگاه شما برای جمع آوری و ذخیره اطلاعات مربوط به استفاده از این محصول استفاده کنیم.
+
+Admob ، Mopub ، Vungle ، Facebook ، Smaato ، myTarget به عنوان تبلیغ کنندگان InShot ، ممکن است اطلاعاتی را که در طول استفاده شما از محصولات و خدمات ما ایجاد شده است ، جمع آوری کرده ، ترجیحات خود را استخراج کرده و از آنها برای نشان دادن تبلیغاتی که بیشتر با نیازهای فردی شما مطابقت دارد استفاده کنند. ما داده های هیچ کاربر را با فیس بوک یا سایر احزاب به اشتراک نمی گذاریم (تأیید شده توسط BBC &amp; Privacy International).
+
+ما از ابزارهای فنی برای ناشناس کردن داده ها استفاده می کنیم و اطلاعات ناشناس قادر به شناسایی موضوع نخواهد بود. اگر به نمایش شخصی علاقه ندارید ، می توانید انتخاب کنید که نمایش محتوای شخصی را از طریق تنظیمات-شخصی سازی آگهی خاموش کنید. لطفاً توجه داشته باشید که ممکن است بعد از خاموش کردن این گزینه همچنان تبلیغات را مشاهده کنید ، اما ارتباط تبلیغات کاهش می یابد."</ad_personalization_tip>
+    <add>افزودن</add>
+    <add_favorite>افزودن مورد دلخواه</add_favorite>
+    <adjust>تنظیم کردن</adjust>
+    <agree>موافقت</agree>
+    <album>آلبوم</album>
+    <album_sleepless_desc>لطفاً هنگام اشتراک‌گذاری ویدئو، اطلاعات زیر را در توصیف ویدئو اضافه کنید.</album_sleepless_desc>
+    <all>همه</all>
+    <all_inclusive>تمام شامل</all_inclusive>
+    <all_original_files_miss_in_draft>"پیش‌نویس خراب شده است زیرا هیچ یک از فایل‌های اصلی موجود نیستند.
+
+ بازیابی فایل‌های اصلی از [آخرین حذف‌ شده‌ها/سطل زباله] ممکن است پیش‌نویس را درست کند."</all_original_files_miss_in_draft>
+    <all_premium>دسترسی به تمام فیلترهای حق بیمه، جلوه ها، تابلوچسبها، فونت ها. بدون علامت آب، بدون تبلیغات.</all_premium>
+    <all_premium_1>دسترسی به تمام فیلترهای حق بیمه، جلوه ها، تابلوچسبها، فونت ها. بدون تبلیغات.</all_premium_1>
+    <allow_camera_access>دسترسی به دوربین مجاز است</allow_camera_access>
+    <allow_record_access>دسترسی به میکروفون را مجاز کنید</allow_record_access>
+    <allow_record_access_hint>InShot برای ضبط صدا به مجوز میکروفون احتیاج دارد.</allow_record_access_hint>
+    <allow_storage_access>اجازه دسترسی ذخیره سازی</allow_storage_access>
+    <allow_storage_access_hint>برای ساخت فیلم ها و عکس های زیبا، InShot نیاز به دسترسی به کتابخانه عکس شما دارد.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>برای ساخت فیلم ها و عکس های زیبا، InShot نیاز به دسترسی به کتابخانه عکس شما و دوربین دارد.</allow_storage_camera_access_hint>
+    <already_InShot_pro>شما در حال حاضر عضو InShot Pro هستید</already_InShot_pro>
+    <already_purchased>قبلاً خریده‌اید؟</already_purchased>
+    <angle>زاویه</angle>
+    <animation_in>داخل</animation_in>
+    <animation_out>خارج</animation_out>
+    <animation_stickers>برچسبهای متحرک</animation_stickers>
+    <app_latest_version_available_title>آخرین نسخه موجود است (%s)</app_latest_version_available_title>
+    <app_latest_version_title>آخرین نسخه در دست شماست!</app_latest_version_title>
+    <app_not_installed_content>دانلود کردن %sیا با نرم افزار های دیگر به اشتراک بگذارید</app_not_installed_content>
+    <app_not_installed_download_app>دریافت %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>با سایر نرم افزارها به اشتراک بگذارید</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%sنصب نشده است</app_not_installed_title>
+    <app_wall_entrance_action>آن را به اتمام</app_wall_entrance_action>
+    <app_wall_entrance_title>محبوب‌ترین برنامه‌های امروز</app_wall_entrance_title>
+    <apply_to_all>درخواست همه</apply_to_all>
+    <apply_to_all_clips>برای همه کلیپ‌ها اعمال شود</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>مدت زمان صوتی خیلی کوتاه است.</audio_too_short_after_cut_hint>
+    <authorization>مجوز</authorization>
+    <background>پس زمینه</background>
+    <background_color>رنگ پس زمینه</background_color>
+    <basic>ساده</basic>
+    <basic_animation>پایه ای</basic_animation>
+    <beats>ضربه ریتمیک</beats>
+    <billing_unavailable>شما هیچ حساب Google Play ندارید</billing_unavailable>
+    <billing_unavailable_hw>شما یک حساب هواوی تنظیم نکردید.</billing_unavailable_hw>
+    <blank>خالی</blank>
+    <blend>تلفیق</blend>
+    <blocked>مسدود</blocked>
+    <blur>تاری</blur>
+    <blur_background>پس زمینه محو</blur_background>
+    <blur_bg>پس زمینه محو</blur_bg>
+    <blur_bg_custom_hint>عکس خود را به عنوان پس زمینه استفاده کنید</blur_bg_custom_hint>
+    <blur_bg_options_merged>گزینه‌های «تاری» و «پس‌زمینه» ادغام شد</blur_bg_options_merged>
+    <blur_off>خاموش</blur_off>
+    <blur_on>روشن</blur_on>
+    <border>حاشیه</border>
+    <brush>قلم‌مو</brush>
+    <buy>خرید</buy>
+    <can_not_add_more_tracks>آهنگ‌های بیشتر قابل افزودن نیست</can_not_add_more_tracks>
+    <can_not_add_tracks>آهنگ‌ها را نمی‌توانید اینجا اضافه کنید</can_not_add_tracks>
+    <cancel>انصراف</cancel>
+    <cancel_save_video_dlg_btn_no>نه خیر</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>بله</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>آیا می خواهید از تبدیل ویدیو انصراف دهید?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>هشدار</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>این کلیپ آنقدر کوتاه است که نمی‌توان انتقال را در آن اعمال کرد</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>ذخیره کردن گیف‌های بیش از 1 دقیقه‌ای مقدور نیست. لطفاً فرمت را تغییر دهید یا مدت گیف را کمتر کنید.</cannot_save_gif_over_one_minute>
+    <canvas>بوم</canvas>
+    <celebrate>جشن</celebrate>
+    <change_beginning_too_short>مدت ویدئو/کلیپ آنقدر کوتاه است که نمی‌توان به ابتدای آن رفت</change_beginning_too_short>
+    <change_end_too_short>مدت ویدئو/کلیپ آنقدر کوتاه است که نمی‌توان به انتهای آن رفت</change_end_too_short>
+    <change_language_title>انتخاب زبان</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>ااگر آپلود ویدیو به اینستاگرام با مشکل برخورد و از سالم بودن اینترنت خود مطمئن هستید، نوع کدک را تغییر دهید.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>تغییر کدک ویدیو</change_video_codec_dialog_title>
+    <character>شخصیت</character>
+    <check>بررسی</check>
+    <choose_pay_method>روش پرداخت را انتخاب کنید</choose_pay_method>
+    <choose_video_quality_hint>کیفیت</choose_video_quality_hint>
+    <chroma>کروما</chroma>
+    <classic>کلاسیک</classic>
+    <clear>پاک‌کردن</clear>
+    <string name="clear_cache_content">&lt;b>%s&lt;/b> فضای حافظه پس از پاک‌کردن ذخیره خواهد شد. روی پیش‌نویس شما تأثیر نخواهد داشت، ادامه می‌دهید؟</string>
+    <clearing>در حال پاک‌کردن…</clearing>
+    <click_here>اینجا کلیک کنید</click_here>
+    <click_track_tip>روی نوار زمان کلیک کنید تا موسیقی را ویرایش کنید و حجم ویدیو را تنظیم کنید.</click_track_tip>
+    <clip_beginning>شروع کلیپ</clip_beginning>
+    <clip_end>پایان کلیپ</clip_end>
+    <clip_mute_adjust_volume_retry>لطفاً صدا را قطع و دوباره امتحان کنید</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>مدت کل کاهش خواهد یافت و خط زمان مطابق آن تغییر خواهد کرد.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>کلیپ جدید از کلیپ کنونی کوتاه‌تر است.</clip_replace_shorter_title>
+    <clip_reversed>کلیپ معکوس شد</clip_reversed>
+    <clip_video_tip>ویدئو را به طول نیاز به وارد کردن برش دهید.</clip_video_tip>
+    <collage>کولاژ</collage>
+    <collage_long_press_swap_photo>برای تعویض عکس ها طولانی فشار دهید.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>شما حد اکثر میتوانید تا ۹ عکس انتخاب کنید</collage_select_photo_limit_hint>
+    <collage_swap_photo>کلیک کنید یک عکس به مبادله با</collage_swap_photo>
+    <color>رنگ</color>
+    <color_palette>پالت رنگ</color_palette>
+    <common_google_play_services_enable_button>فعال کردن</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>‏تا وقتی «خدمات Google Play» را فعال نکنید، %1$s کار نمی‌کند.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>‏‫فعال کردن «خدمات Google Play»</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>نصب</common_google_play_services_install_button>
+    <common_google_play_services_install_text>‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>‏دریافت «خدمات Google Play»</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>‏دردسترس بودن خدمات Google Play</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>‏خطا در خدمات Google Play</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>به‌روزرسانی</common_google_play_services_update_button>
+    <common_google_play_services_update_text>‏تاز مانی که «خدمات Google Play» را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>‏‫به‌روزرسانی «خدمات Google Play»</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>‏%1$s بدون «خدمات Google Play» که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>‏نسخه جدید «خدمات Google Play» نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>باز کردن در تلفن</common_open_on_phone>
+    <common_signin_button_text>ورود به سیستم</common_signin_button_text>
+    <common_signin_button_text_long>‏ورود به سیستم با Google‎</common_signin_button_text_long>
+    <contact_creator>تماس با سازنده</contact_creator>
+    <continue_buy>پس از تجدید مدت یک سال ، InShot Pro به %sتمدید خواهد شد</continue_buy>
+    <continue_title>ادامه</continue_title>
+    <contrast>تقابل</contrast>
+    <convert_failed>تبدیل ناموفق بود</convert_failed>
+    <copied>کپی شده</copied>
+    <copy>کپی</copy>
+    <crop>محصول</crop>
+    <curve>منحنی</curve>
+    <custom_background>پس زمینه سفارشی کنید</custom_background>
+    <custom_sticker>تصاویر را روی ویدیو ببندید</custom_sticker>
+    <cut>قطع كردن</cut>
+    <cut_both_ends>برش</cut_both_ends>
+    <cut_import>وارد كردن</cut_import>
+    <cut_video>برش ویدیو</cut_video>
+    <cutout>برش</cutout>
+    <day_free_trial>%sروز محاکمه آزاد</day_free_trial>
+    <days_left>%d روز مانده است</days_left>
+    <delete>حذف</delete>
+    <delete_confirm_dialog_content>آیا می خواهید حذف کنید؟</delete_confirm_dialog_content>
+    <delete_drafts_note>لطفاً توجه داشته باشید ، پیش نویس های حذف شده قابل بازیابی نیستند!</delete_drafts_note>
+    <delete_material_tip>حذف آیتم‌ روی پیش نویس تاثیر خواهد گذاشت!</delete_material_tip>
+    <denoise>کاهش نویز</denoise>
+    <detail>جزئیات</detail>
+    <detail_mosaic>جزئیات</detail_mosaic>
+    <directories>فهرست</directories>
+    <disable_follow>غیرفعال کردن</disable_follow>
+    <discard_edit_dlg_confirm>بیخیال</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>بیخیال ویرایش می شوید؟</discard_edit_dlg_title>
+    <discount>تخفیف</discount>
+    <discount_format>%sتخفیف</discount_format>
+    <dissolve>حل شدن</dissolve>
+    <distort>مخدوش</distort>
+    <do_not_use_tags>هنوز برچسب ها استفاده نمی کند؟</do_not_use_tags>
+    <donate>اهدای</donate>
+    <done>انجام شد</done>
+    <double_click_reset_zoom>برای برگرداندن، دوبار کلیک کنید</double_click_reset_zoom>
+    <download>انلود</download>
+    <download_failed>دانلود نشد!</download_failed>
+    <download_video_progress_title>در حال بارگذاری ویدیو از سرور…</download_video_progress_title>
+    <draft>پیش نویس</draft>
+    <draft_clip_missing_tip>بارگیری بعضی از کلیپ‌ها در پیش‌نویس مقدور نیست، زیرا فایل‌های اصلی‌شان دیگر در دسترس نیست.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>برای ادامه، لطفاً دیگر دارایی‌ها را جایگزین آن کنید.</draft_clip_missing_tip1>
+    <draft_corrupted>برخی از عناصر پروژه فیلم گم شده اند.</draft_corrupted>
+    <draft_delete_video_hint>حذف ویدیو اصلی به فایل پیش نویس آسیب می رساند.</draft_delete_video_hint>
+    <draft_load_err>خطای بارگذاری</draft_load_err>
+    <draft_open_hint>هنگامی که یک پروژه ویدئویی جدید شروع می شود، پیش نویس شما جایگزین خواهد شد.</draft_open_hint>
+    <draft_saved>پیش نویس ذخیره شد</draft_saved>
+    <drafts>%sپیش نویس</drafts>
+    <drafts_not_backward_compatible>نسخه برنامه خیلی کم است برای باز کردن پیش نویس.</drafts_not_backward_compatible>
+    <drag_to_swap>برای مبادله، بکشید</drag_to_swap>
+    <duplicate>دوبل کردن</duplicate>
+    <duration>مدت زمان</duration>
+    <edit>ویرایش</edit>
+    <edit_music_dialog_music_volume>صدای موسیقی</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>صدای ویدیو</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>حجم ویرایش</edit_music_dialog_title>
+    <edit_volume_fade_out>محو شدن</edit_volume_fade_out>
+    <edit_with_inshot>ویرایش با InShot:</edit_with_inshot>
+    <effect>اثر</effect>
+    <effect_count>%d اثرات</effect_count>
+    <effects>اثرات</effects>
+    <emoji_activity_category>فعالیت</emoji_activity_category>
+    <emoji_animals_category>حیوانات</emoji_animals_category>
+    <emoji_celebration_category>جشن</emoji_celebration_category>
+    <emoji_dialy_category>روزانه</emoji_dialy_category>
+    <emoji_emotion_category>هیجانی</emoji_emotion_category>
+    <emoji_food_category>غذا</emoji_food_category>
+    <emoji_gesture_category>ژست</emoji_gesture_category>
+    <emoji_nature_category>طبیعت</emoji_nature_category>
+    <emoji_objects_category>اشیاء</emoji_objects_category>
+    <emoji_people_category>انسان ها</emoji_people_category>
+    <emoji_recent_category>اخیر</emoji_recent_category>
+    <emoji_smile_category>شکلک ها</emoji_smile_category>
+    <emoji_symbols_category>نمادهای</emoji_symbols_category>
+    <emoji_transit_category>حمل و نقل</emoji_transit_category>
+    <erase>پاک‌شود</erase>
+    <error>ناموفق! لطفا دوباره سعی کنید!</error>
+    <examine_result>%d کلیپ ها را نمی توان وارد کرد</examine_result>
+    <exit>ترک کن</exit>
+    <exit_app_discard_edit_warn>واسه دور انداختن دوباره بزنید</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>خروج</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>دکمه ذخیره سازی را برای ذخیره و به اشتراک گذاری کار خود فشار دهید.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>قبل از ذخیره سازی خارج شویم؟</exit_before_save_dlg_title>
+    <exit_tip>برای خروج دوباره فشار دهید</exit_tip>
+    <exo_controls_cc_disabled_description>فعال کردن زیرنویس</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>غیرفعال کردن زیرنویس</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>جلو بردن سریع</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>ورود به حالت تمام‌صفحه</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>خروج از حالت تمام‌صفحه</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>پنهان کردن کنترل‌های پخش‌کننده</exo_controls_hide>
+    <exo_controls_next_description>بعدی</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>پنهان کردن تنظیمات اضافی</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>نمایش تنظیمات اضافی</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>مکث</exo_controls_pause_description>
+    <exo_controls_play_description>پخش</exo_controls_play_description>
+    <exo_controls_playback_speed>سرعت</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>عادی</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>قبلی</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>تکرار همه</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>تکرار هیچ‌کدام</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>یکبار تکرار</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>عقب بردن</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>پیشرفت بازپخش</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>تنظیمات</exo_controls_settings_description>
+    <exo_controls_show>نمایش کنترل‌های پخش‌کننده</exo_controls_show>
+    <exo_controls_shuffle_off_description>پخش درهم خاموش</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>پخش درهم روشن</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>توقف</exo_controls_stop_description>
+    <exo_controls_vr_description>حالت واقعیت مجازی</exo_controls_vr_description>
+    <exo_download_completed>بارگیری کامل شد</exo_download_completed>
+    <exo_download_description>بارگیری</exo_download_description>
+    <exo_download_downloading>درحال بارگیری</exo_download_downloading>
+    <exo_download_failed>بارگیری نشد</exo_download_failed>
+    <exo_download_notification_channel_name>بارگیری‌ها</exo_download_notification_channel_name>
+    <exo_download_removing>حذف بارگیری‌ها</exo_download_removing>
+    <exo_item_list>%1$s،‏ %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f مگابیت در ثانیه</exo_track_bitrate>
+    <exo_track_mono>مونو</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>بدیل</exo_track_role_alternate>
+    <exo_track_role_closed_captions>زیرنویس ناشنوایان</exo_track_role_closed_captions>
+    <exo_track_role_commentary>شرح و نقد</exo_track_role_commentary>
+    <exo_track_role_supplementary>تکمیلی</exo_track_role_supplementary>
+    <exo_track_selection_auto>خودکار</exo_track_selection_auto>
+    <exo_track_selection_none>هیچ‌کدام</exo_track_selection_none>
+    <exo_track_selection_title_audio>صوتی</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>نوشتار</exo_track_selection_title_text>
+    <exo_track_selection_title_video>ویدیو</exo_track_selection_title_video>
+    <exo_track_stereo>استریو</exo_track_stereo>
+    <exo_track_surround>صدای فراگیر</exo_track_surround>
+    <exo_track_surround_5_point_1>صدای فراگیر ۵.۱</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>صدای فراگیر ۷٫۱</exo_track_surround_7_point_1>
+    <exo_track_unknown>نامشخص</exo_track_unknown>
+    <extract>استخراج</extract>
+    <extract_audio>استخراج صوت</extract_audio>
+    <extract_audio_from_video>استخراج صدا از فیلم</extract_audio_from_video>
+    <extract_failed>استخراج ناموفق بود</extract_failed>
+    <fade>محو شدن</fade>
+    <fade_in>محو شدن در</fade_in>
+    <fade_new>محو</fade_new>
+    <failed_to_load_blur_image>تصویر انتخاب شده بارگیری نشد ، لطفاً دوباره انتخاب کنید!</failed_to_load_blur_image>
+    <failed_to_load_image>اوه! بارگیری تصویر انجام نشد</failed_to_load_image>
+    <fast_motion>حرکت سریع</fast_motion>
+    <favourite>مورد علاقه</favourite>
+    <featured>توصیه شده</featured>
+    <feedback_and_suggestion_hint>بازخورد و پیشنهاد</feedback_and_suggestion_hint>
+    <feedback_not_now>الان نه</feedback_not_now>
+    <feedback_subject>بازخورد به InShot</feedback_subject>
+    <feedback_submit>ارسال</feedback_submit>
+    <festival>فستیوال</festival>
+    <file_corrupted_description>مشکل در اجرای برنامه، لطفا InShot را از فروشگاه برنامه رسمی بارگیری کنید.</file_corrupted_description>
+    <file_corrupted_note>مشکل در اجرای برنامه، لطفا InShot را از Google Play بارگیری کنید.</file_corrupted_note>
+    <file_corrupted_title>کاربر عزیز</file_corrupted_title>
+    <file_not_support>اين نوع فايل برای ويرايش پشتيبانی نمی شود!</file_not_support>
+    <film>فیلم</film>
+    <film_grain>گرین فیلم</film_grain>
+    <filter>فیلتر</filter>
+    <filter_manage>مدیریت فیلتر</filter_manage>
+    <filter_not_supported_in_photo>بسته جلوه های فعلی برای عکس ها در دسترس نیست.</filter_not_supported_in_photo>
+    <filters>فیلترها</filters>
+    <first_month>ماه اول</first_month>
+    <first_year>سال اول</first_year>
+    <fit>اندازه</fit>
+    <fit_bottom>پایین</fit_bottom>
+    <fit_fit>فیت</fit_fit>
+    <fit_full>کامل</fit_full>
+    <fit_left>چپ</fit_left>
+    <fit_original>اصلی</fit_original>
+    <fit_right>راست</fit_right>
+    <fit_top>بالا</fit_top>
+    <flip>چرخش افقی</flip>
+    <folder_cannot_write>پوشه قابل نوشتن نیست، لطفا پوشه دیگری انتخاب نمایید.</folder_cannot_write>
+    <follow_ins_to_unlock>InShot را در اینستاگرام دنبال کنید تا</follow_ins_to_unlock>
+    <follow_setting_title>موارد بر اساس فریم</follow_setting_title>
+    <follow_tiktok_to_unlock>کانال InShot TikTok مشترک شوید</follow_tiktok_to_unlock>
+    <follow_toggle_tip>پس از برش یا حذف کلیپ، موارد (ضبط، جلوه های صوتی، PIP، برچسب، متن، جلوه) در فریم اصلی ثابت می‌شوند</follow_toggle_tip>
+    <follow_toggle_tip_2>پس از برش یا حذف کلیپ، موارد (PIP، برچسب، متن...) در فریم اصلی ثابت می‌شوند</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>ما در رسانه های اجتماعی دنبال کنید برای دریافت آخرین اخبار در مورد InShot.</follow_us_fun_media_tip>
+    <follow_us_to>ما را دنبال کنید</follow_us_to>
+    <follow_youtube_to_unlock>در کانال یوتیوب InShot مشترک شوید تا</follow_youtube_to_unlock>
+    <font>قلم</font>
+    <font_color>رنگ قلم</font_color>
+    <font_copyright_des>این فونت تنها برای کاربران شخصی (نه تجاری) است.</font_copyright_des>
+    <fonts>قلم ها</fonts>
+    <for_you>برای شما</for_you>
+    <format>فرمت</format>
+    <frame>قاب</frame>
+    <frame_rate>نرخ فریم</frame_rate>
+    <free>رایگان</free>
+    <free_download>دانلود رایگان</free_download>
+    <free_unlock>باز کردن برای رایگان</free_unlock>
+    <freeze>انجماد</freeze>
+    <full_park_emoji>بسته کامل شکلک ها</full_park_emoji>
+    <gallery>گالری</gallery>
+    <get>دریافت</get>
+    <gif_compress>فشرده‌سازی گیف</gif_compress>
+    <string name="gif_compress_description" formatted="false">گیف‌های دارای حجم بیش از %s به‌صورت خودکار به حجم %s فشرده‌سازی می‌شوند.</string>
+    <gif_supported_tip>GIF اکنون پشتیبانی می‌شود.</gif_supported_tip>
+    <give_5star>دادن 5 ستاره</give_5star>
+    <glitch>خرابی موقت</glitch>
+    <go_setting>برو تنظيمات</go_setting>
+    <go_to_logout>حساب InShot را برای همیشه حذف کنید</go_to_logout>
+    <go_to_the_shop>برو به فروشگاه</go_to_the_shop>
+    <gps_not_installed>اگر آخرین نسخه Google Play را نصب کرده‌اید، لطفاً علامت بزنید.</gps_not_installed>
+    <gradient>شیب</gradient>
+    <grain>متبلور شدن</grain>
+    <has_no_photo_hint>برای درست کردن کولاژ زیبا میتوانید ۱-۹ عکس انتخاب نمایید</has_no_photo_hint>
+    <have_purchased>شما خریداری کرده اید</have_purchased>
+    <help>کمک</help>
+    <help_Keyframe_desc>در جدول زمانی، فریم کلیدی را اضافه کنید تا به راحتی شروع و پایان پویانمایی (بزرگنمایی/حرکت/چرخش/شفافیت) را برای برچسب/متن/PIP نشانه‌گذاری کتید.</help_Keyframe_desc>
+    <help_Keyframe_title>فریم کلیدی</help_Keyframe_title>
+    <help_Keyframe_youtube_des>نحوه استفاده از فریم کلیدی برای افزودن پویانمایی برای لایه</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>وارد منوی استیکر شوید، عکسها را از آلبوم‌ها یا پوشه‌ها وارد کنید.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>اکنون ما از GIF نیز پشتیبانی می‌کنیم.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>افزودن استیکرهای سفارشی</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>وارد منوی موسیقی شوید.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"برای تنظیم میزان صدای موزیک/جلوه‌های صوتی/ضبط روی جدول زمانی موسیقی کلیک کنید؛
+برای تنظیم میزان صدای ویدئوی اصلی روی ویدئو کلیپ کلیک کنید."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>تنظیم میزان صدا</help_adjust_audio_volume_title>
+    <help_adjust_volume>برای تنظیم حجم ویدیو، روی جدول زمانی کلیک کنید.</help_adjust_volume>
+    <help_animation_desc>انیمیشن به داخل/خارج را برای متن و برچسب انتخاب کنید.</help_animation_desc>
+    <help_animation_title>انتخاب انیمیشن به داخل/خارج</help_animation_title>
+    <help_apply_to_all_desc>برای اعمال فیلترها، قاب، پس‌زمینه یا بلندی صدا روی همه کلیپ‌ها، از گزینه «درخواست همه» استفاده کنید.</help_apply_to_all_desc>
+    <help_apply_to_all_title>ویرایش را روی همه کلیپ ها اعمال کنید</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>اجسام جو و افکت‌های ترکیب، بهترین همخوانی را دارند.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>اجسام جَو</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>نحوه افزودن قرارگیری رایگان در بالا</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>نحوۀ تنظیم میزان صدای اصلی</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>برای تنظیم نسبت پس‌زمینه ویدئو یا حذف پس‌زمینه ویدئو، وارد منوی اندازه شوید.</help_background_ratio_desc>
+    <help_background_ratio_title>تغییر نسبت پس زمینه ویدئو</help_background_ratio_title>
+    <help_background_ratio_youtube_des>نحوۀ تنظیم پس‌زمینه ویدیو</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>یک ترَک را برای ویرایش انتخاب کنید.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>برای ویرایش میزان صدای ویدئو، اینجا کلیک کنید.</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"وارد تنظیمات InShot شوید
+ روی «تنظیمات ویدئو» ضربه بزنید و گزینه «موارد بر اساس فریم» را غیرفعال کنید."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>چرا برچسب‌ها/متن/PIPs/ضبط‌کننده‌ها/جلوه‌های صوتی پس از حذف کلیپ از بین می‌روند؟</help_disable_stick_frame_title>
+    <help_edit_music>برای ویرایش موسیقی کلیک کنید</help_edit_music>
+    <help_edit_music_desc>برای ویرایش موسیقی اضافه‌شده، روی آن کلیک کنید.</help_edit_music_desc>
+    <help_edit_music_title>ویرایش موسیقی</help_edit_music_title>
+    <help_extract_audio_desc>در زبانه موسیقی، ضربه بزنید {استخراج صدا از ویدئو} و برای استخراج صدا، یک ویدئو را وارد کنید.</help_extract_audio_desc>
+    <help_extract_audio_title>استخراج صدا از ویدئو</help_extract_audio_title>
+    <help_extract_audio_youtube_des>نحوه استخراج صدا از ویدئو</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"همه آهنگ‌های داخلی ما دارای قراردادهای امضاشدۀ کسب مجوز است که با موسیقی‌دانان منعقد شده است.
+
+اگر اخطار حق نسخه‌برداری دریافت کردید یا ویدئوی‌تان را اینستاگرام حذف کرد، لطفاً روی «I agree» (می‌پذیرم) ضربه بزنید، امضایتان را درج کنید «Appeal» (تجدیدنظر) را انتخاب کنید."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>لطفاً نگران نباشید؛ موسیقی‌دان مربوطه از درخواست تجدیدنظرتان حمایت خواهد کرد، و ویدئوی شما ظرف 2–3 دقیقه بازیابی خواهد شد.</help_faq_album_desc_2>
+    <help_faq_album_title>اگر موزیک‌ویدئوی من را اینستاگرام حذف کرد چکار کنم؟</help_faq_album_title>
+    <help_faq_auto_update_dest>به مدیریت حساب Google Play بروید، روی تنظیمات بزنید؛ در قسمت تنظیمات شبکه روی برنامه‌های به‌روزرسانی خودکار بزنید.</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>چطور InShot را همواره با آخرین نسخه آن به‌روز نگه داریم؟</help_faq_auto_update_title>
+    <help_faq_four_desc>متاسفانه پیش نویسهای حذف شده را نمی‌توان بازیابی کرد. ما کاملاً از خط مشی حفظ حریم خصوصی پیروی می‌کنیم و هیچ از فایلهای کاربران را نگه نمی‌داریم.</help_faq_four_desc>
+    <help_faq_four_title>آیا می‌توانم بعد از حذف یک پیش نویس، آن را بازیابی کنم؟</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>برنامه چندین فایل میانجی در طول فرایند ذخیره ویدیو می‌سازد؛ این فایل‌ها پس از تکمیل فرایند ذخیره‌سازی، به‌طور خودکار حذف خواهند شد. برای رفع این موضوع، لطفاً فضای بیشتری در دستگاه خود (نه فضای کارت SD) خالی کنید.</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>چرا حافظه تلفنم پر نیست، اما همچنان پیام فضای حافظه کافی نیست نمایش داده می‌شود؟</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>همه فونت‌ها دارای پروانه مربوط به خود هستند. لطفاض قبل از استفاده به دقت بررسی کنید. بعضی از فونت‌ها فقط برای استفاده شخصی هستند.</help_faq_one_desc>
+    <help_faq_one_title>آیا می‌توانم از فونت‌های داخل برنامه برای اهداف تجاری استفاده کنم؟</help_faq_one_title>
+    <help_faq_three_desc>اگر هر گونه فایل اصلی را در گالری حذف کنید، پیش نویسهای مربوطه نیز از دست خواهند رفت و قابل باز شدن نخواهند بود. لطفاً سعی کنید فایلها را از آلبوم آخرین حذف‌شده‌ها بازیابی کنید.</help_faq_three_desc>
+    <help_faq_three_title>چرا پیام خطای \"پیش نویس خراب شد\" یا \"فایلهای اصلی در پیش نویس موجود نیستند\" ظاهر می‌شود؟</help_faq_three_title>
+    <help_faq_two_desc>"دعاوی شناسه محتوا باعث صدور اخطار حق نسخه‌برداری، تعلیق کانال، یا خاتمه یافتن کانال نمی‌شود. این دعوی معمولاً فقط برای رهگیری یا پولی کردن ویدیو انجام می‌شود، نه مسدود کردن آن. بنابراین، ویدیوی شما از این دعاوی جان سالم به در می‌برد (اما ممکن است تبلیغاتی روی آن قرار گیرد) و همچنان می‌توانید آن را با دیگران به اشتراک بگذارید.
+
+برای کسب اطلاعات بیشتر در مورد دعاوی شناسه محتوا، لطفاً به https://support.google.com/youtube/answer/7002106?hl=en مراجعه کنید"</help_faq_two_desc>
+    <help_faq_two_title>چرا بیانیه ادعای حق تکثیر موسیقی از YouTube دریافت کردم؟</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>ویرایش</help_group_video_edit_title>
+    <help_import_fonts_desc>دقت کنید که فایلهای فونت در گوشی شما وجود داشته باشند. برای وارد کردن فونت‌ها، روی دکمه وارد کردن ضربه بزنید.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"کاربران اندروید 11 و بالاتر باید روی وارد کردن فونت ضربه بزنند و به صفحه انتخاب فایل بروند
+1. روی دکمه سمت چپ بالا ضربه بزنید، کارت اس‌دی خود را انتخاب و سپس مسیر فایل را انتخاب کنید."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2. روی نوار جست‌وجوی بالا ضربه بزنید، نام فونت یا فایل‌های TTF/OTF را جست‌وجو کنید.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>وارد کردن فونت</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>نحوه وارد کردن فونت‌ها در اندروید InShot</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>لطفاً به Google Play Store بروید. وارد منوی اشتراک‌ها شوید، اشتراکی را که می‌خواهید لغو کنید، انتخاب نمایید.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>چگونه اشتراک خود را مدیریت/لغو کنم؟</help_manager_subscribe_title>
+    <help_mask_desc>یک ماسک شکل به لایه های PIP اضافه کنید.</help_mask_desc>
+    <help_mask_title>ماسک PIP</help_mask_title>
+    <help_mask_youtube_des>نحوه استفاده از ابزار ماسک برای لایه PIP.</help_mask_youtube_des>
+    <help_merge_video_desc>برای انتخاب ویدئوها جهت ادغام، روی دکمه «+» کلیک کنید.</help_merge_video_desc>
+    <help_merge_video_title>ادغام ویدئوها</help_merge_video_title>
+    <help_move_music>فشار طولانی دهید و بکشید تا با ویدئو همگام شود</help_move_music>
+    <help_one_time_purchase_des>با انجام خرید یکباره می‌توانید به نسخه پرمیوم دائمی InShot دست پیدا کنید. حتی اگر InShot قابلیت‌ها یا مطالب ویرایش انحصاری جدیدی اضافه کند، نیاز نیست دوباره این برنامه را بخرید.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>خرید دائمی ه چیست؟</help_one_time_purchase_title>
+    <help_photo_cutout_desc>روی «پس‌زمینه» ضربه بزنید و پس‌زمینه‌ای به برش خود اضافه کنید</help_photo_cutout_desc>
+    <help_photo_cutout_title>برش عکس</help_photo_cutout_title>
+    <help_pip_chroma_desc>"رنگ دلخواهتان را نمونه‌گیری کنید و آن را حذف نمایید.
+1. از ابزار انتخاب رنگ استفاده کنید، رنگ دلخواهتان را برای حذف انتخاب نمایید.
+2. با تنظیم شدت و سایه، آن را بهتر کنید"</help_pip_chroma_desc>
+    <help_pip_chroma_title>کروما PIP</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>روش برداشتن پس‌زمینه صفحه سبز با کروما (آموزش InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. لطفاً به Google Play بروید، روی آیکون حساب کاربری در کوشه بالا سمت راست کلیک کنید.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. حساب‌هایی غیر از حساب خریداری شده را موقتاً حذف کنید و سعی کنید خرید را در تنظیمات InShot دوباره بازپس بگیرید.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. در صورتی که با چندین حساب Google وارد شده باشید، روی مدیریت حساب‌ها کلیک کنید.</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>چرا پس از ورود صحیح به حساب Google Play، نتوانستم خرید را بازپس بگیرم؟</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>لطفاً سعی کنید داده‌های InShot در تنظیمات دستگاه خود را پاک کنید و سپس در تنظیمات InShot، روی گزینه \"بازگرداندن خرید\" کلیک کنید.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>دقت کنید که فقط در یک حساب صحیح Google Play وارد شده باشید نه در چند حساب. فعلاً، Google Play چندین حساب را با هم به رسمیت نمی‌شناسد.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>چگونه خرید خود را بازپس بگیرم؟</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>اگر می‌خواهید موضوع فعلی را نگه دارید، لطفاً وقتی برای بازگشت کلیک می‌کنید، گزینه \"پیش نویس\" را انتخاب کنید.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>شما می‌توانید پیش نویس‌ها را در صفحه اصلی مدیریت (حذف/کپی/تغییر نام) کنید.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>ذخیره/دور انداختن پیش نویس</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>افزودن نحوه انتقال به آن</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>تنظیم مدت عکس</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>وارد کردن عکس از آلبوم و فایلها</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>برای تغییر ویدئو و عکس ضربه بزنید</help_slideshow_reminder>
+    <help_slideshow_title>سختن نمایش اسلاید</help_slideshow_title>
+    <help_slideshow_youtube_des>نحوۀ ساخت اسلایدشو موسیقی</help_slideshow_youtube_des>
+    <help_smooth_des>از ابزار روان برای ایجاد ویدئوی اسلوموشن نرم و روان عالی استفاده کنید (سرعت کمتر از 1.0برابر)</help_smooth_des>
+    <help_smooth_title>حرکت آهسته روان</help_smooth_title>
+    <help_speed_ramp_des_one>ویرایش گره‌های سرعت. برای افزودن/حذف گره‌ها روی منحنی، روی دکمه «افزودن/حذف\" ضربه بزنید.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>تنظیم کاهش و افزایش سرعت. برای تنظیم سرعت ویدئو، گره‌های سرعت را انتخاب کنید و به صورت عمودی بکشید. برای تنظیم طول مدت سرعت، گره‌ها را به صورت افقی بکشید.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>کاهش و افزایش سرعت | ایجاد افکت کاهش و افزایش سرعت با InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>کاهش و افزایش سرعت (منحنی)</help_speed_ramp_title>
+    <help_swap_clip>مطبوعات طولانی برای تغییر موقعیت</help_swap_clip>
+    <help_timeline_desc>برای رفتن سریع به انتهای کلیپ یا ویدئو، روی دسته کلیک کنید.</help_timeline_desc>
+    <help_timeline_title>مشاهده سریع برچسب‌ها و متن‌ها</help_timeline_title>
+    <help_transition_desc>حداقل دو 2 ویدئوکلیپ را وارد کنید، و برای افزودن انتقال، روی دکمه بین 2 تصویر بندانگشتی کلیپ کلیک کنید.</help_transition_desc>
+    <help_transition_title>انتقال ویدیو</help_transition_title>
+    <help_translate_content>می خواهم در ترجمه نرم افزار InShot کمک نماییم. لطفا با من تماس بگیرید. زبان:</help_translate_content>
+    <help_translate_subject>بومی سازی</help_translate_subject>
+    <help_volume_adjust_desc>روی تصاویر کوچک ویدئو کلیک کنید تا منوی سریع باز شود و برای تنظیم میزان صدا ، نوار لغزنده را بکشید</help_volume_adjust_desc>
+    <help_volume_adjust_title>تنظیم بلندی صدای ویدئو</help_volume_adjust_title>
+    <help_youtube_title>آموزش‌های یوتیوب</help_youtube_title>
+    <help_zoom_drag>دستگیره را برای بُرش ویدئو بکشید.</help_zoom_drag>
+    <help_zoom_timeline>"برای ویرایش دقیقتر، خط زمانی را بزرگنمایی کنید.
+ برای پیش نمایش کل خط زمانی، کوچک نمایی کنید."</help_zoom_timeline>
+    <help_zoom_title>ویرایش ویدئو</help_zoom_title>
+    <hide>پنهان شدن</hide>
+    <highlight>برجسته</highlight>
+    <hint_install_googleplay>خرید انجام نشد زیرا به خدمات google play نیاز دارد ,که توسط دستگاه شما پشتیبانی نمی شود</hint_install_googleplay>
+    <hint_items_to_frame>با رفتن به تنظیمات ویدئو، می‌توانید این گزینه را فعال/غیرفعال کنید</hint_items_to_frame>
+    <hot>جذاب</hot>
+    <hua_wei_login_error>ورود به HUAWEI ناموفق بود</hua_wei_login_error>
+    <hua_wei_login_success>با موفقیت وارد HUAWEI شوید</hua_wei_login_success>
+    <hue>رنگ</hue>
+    <i_receive_effect_success>با موفقیت در پوشه \"اثرات- وارد شده\" ذخیره شد.</i_receive_effect_success>
+    <i_receive_music_success>با موفقیت در پوشه \"توصیه شده- وارد شده\" ذخیره شد.</i_receive_music_success>
+    <import_font>وارد کردن قلم</import_font>
+    <import_video_failed_content>وضوح تصویر از حد عملکرد تلفن شما بیشتر است</import_video_failed_content>
+    <import_video_failed_title>وارد كردن انجام نشد</import_video_failed_title>
+    <imported>وارد شده</imported>
+    <imported_effect>جلوه واردشده</imported_effect>
+    <imported_music>موسیقی واردشده</imported_music>
+    <improvement_plan_desc>ما به اطلاعات شناسه دستگاه شما نیاز داریم تا تجربه کاربری InShot را بهبود ببخشیم. با تشکر.</improvement_plan_desc>
+    <improvement_plan_title>برنامه بهبود تجربه کاربر</improvement_plan_title>
+    <index_create_new>ایجاد جدید</index_create_new>
+    <index_more_take_photo>عکس گرفتن</index_more_take_photo>
+    <index_more_take_video>نگاهی به ویدیو</index_more_take_video>
+    <index_more_use_recent>استفاده اخیر</index_more_use_recent>
+    <info_code>اطلاعات کد:</info_code>
+    <ins_crop_hint_1>کار شما ممکن است توسط اینستاگرام بریده شود</ins_crop_hint_1>
+    <ins_crop_hint_2>1 تا 4:: نسبت نمایش مشخصات عمومی بین 1.91 است 5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">لطفا اجازه <b>ذخیرهسازی</b> اعطای در <b/>Instagram برای آپلود عکس شما.</string>
+    <install>نصب کردن</install>
+    <installed>نصب شده است</installed>
+    <interval>فاصله</interval>
+    <invalid_delete>کلیپ آخر قابل حذف نیست.</invalid_delete>
+    <invalid_position>موقعیت انتخابی نامعتبر است.</invalid_position>
+    <invalidate_name>نمادهای ویژه پشتیبانی نمی شوند</invalidate_name>
+    <item_already_owned>برای فعال کردن مجدد خرید درون برنامه خود ، لطفاً روی بازگرداندن کلیک کنید.</item_already_owned>
+    <items>موارد</items>
+    <join_inshot_pro>بعضو InShot Pro شوید</join_inshot_pro>
+    <jump_to_font_language>تغییر به %s</jump_to_font_language>
+    <keep_draft>پیش نویس را نگه دارید</keep_draft>
+    <keep_on>ادامه دادن</keep_on>
+    <keyframe>فریم کلیدی</keyframe>
+    <label>برچسب</label>
+    <label_quick_selection>انتخاب سریع برچسب</label_quick_selection>
+    <last_draft>آخرین پیش نویس</last_draft>
+    <layout>صفحه آرایی</layout>
+    <letter_animation>تک‌حرف</letter_animation>
+    <lib_rate_btn_go_market>به ما در Google Play امتیاز دهید</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>بهترین امتیازی که می‌توانیم دریافت کنیم :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>لطفاً بازخورد خود را برای ما بفرستید</lib_rate_leave_feedback>
+    <lib_rate_like_you>ما هم شما را دوست داریم!</lib_rate_like_you>
+    <lib_rate_oh_no>اوه نه!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>از بازخورد شما متشکریم</lib_rate_thanks_feedback>
+    <license>مجوز</license>
+    <light>نور</light>
+    <lightness>روشنایی</lightness>
+    <loading>در حال بارگیری…</loading>
+    <loading_progress_title>بارگذاری ...</loading_progress_title>
+    <login_tip>"، حساب خود را متصل کنید
+لطفاً برای ادامه پرداخت یا بازگرداندن خریدها"</login_tip>
+    <login_with>با %sوارد شوید</login_with>
+    <login_with_wechat>با WeChat وارد سیستم شوید</login_with_wechat>
+    <logout>حذف</logout>
+    <logout_hint>اگر در InShot Pro مشترک شده باشید ، حذف حساب کاربری شما Inshot Pro را نیز حذف می کند و قابل بازیابی نیست!</logout_hint>
+    <logout_success>با موفقیت حذف شد</logout_success>
+    <long_press_delete>برای حذف طولانی فشار دهید</long_press_delete>
+    <long_press_preview>برای پیش نمایش طولانی فشار دهید</long_press_preview>
+    <looking_for_music_content_1>از رایانه رومیزی یا Mac خود به «YouTube Audio Library» رفته و موسیقی رایگان دانلود کنید.</looking_for_music_content_1>
+    <looking_for_music_content_2>سپس فایل‌های موسیقی را به تلفن همراه اندرویدی خود ارسال کنید.</looking_for_music_content_2>
+    <looking_for_music_title>به دنبال موسیقی برای ویدیوی‌تان هستید؟</looking_for_music_title>
+    <loop_animation>پیچ خوردن</loop_animation>
+    <low_storage_space>فضای ذخیره‌سازی کافی نیست</low_storage_space>
+    <luminance>درخشندگی</luminance>
+    <manage>مدیریت</manage>
+    <manage_subscription>مدیریت اشتراک</manage_subscription>
+    <mask>ماسک</mask>
+    <material>ماده</material>
+    <material_selected_hint>حاوی مطالب حرفه‌ای است.</material_selected_hint>
+    <max_hash_tags_num>نمایش مشخصات عمومی اجازه می دهد تا حداکثر 29 # hashtags ها در هر عکس/ویدئو</max_hash_tags_num>
+    <merge_video_hint>ادغام فیلم حرفه ای</merge_video_hint>
+    <message>پیام</message>
+    <modern>مدرن</modern>
+    <month>ماه</month>
+    <mood>حس و حال</mood>
+    <morandi>مرندی</morandi>
+    <more_about_inshot_pro>جزئیات InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000 + بیشتر</more_emoji>
+    <string name="more_info"><u>اطلاعات بیشتر</u>:</string>
+    <mosaic>موزاییک</mosaic>
+    <multi_cut>چند برش</multi_cut>
+    <multi_split>چند شکاف</multi_split>
+    <music>موسیقی</music>
+    <music_limit>حد مجاز مدت موسیقی</music_limit>
+    <musician>نوازنده</musician>
+    <my_filter>فیلتر من</my_filter>
+    <my_material>آیتم‌های من</my_material>
+    <my_music>موسیقی من</my_music>
+    <new_>جدید</new_>
+    <new_album>آلبوم جدید</new_album>
+    <new_five_stars_rate>ما برای تجربه بهتر کاربری سخت در تلاشیم. بسیار متشکر خواهیم بود اگر به ما امتیاز بدهید.</new_five_stars_rate>
+    <next>بعدی</next>
+    <no>خیر</no>
+    <no_actionable_items>هیچ مورد قابل‌تغییری وجود ندارد</no_actionable_items>
+    <no_audio>فایل صوتی وجود ندارد</no_audio>
+    <no_audio_files>هیچ فایل صوتی‌ای نیست.</no_audio_files>
+    <no_draft_profile>بدون مشخصات پیش نویس</no_draft_profile>
+    <no_fonts_found>هیچ قلم پیدا نشد</no_fonts_found>
+    <no_network>اینترنت ندارید</no_network>
+    <no_photos_or_videos>بدون عکس یا فیلم</no_photos_or_videos>
+    <note_if_you_clear>توجه داشته باشید که در صورت پاک کردن حافظه پنهان ، تنظیم انصراف خود را از دست خواهید داد.</note_if_you_clear>
+    <off>غیرفعال کردن</off>
+    <offline_notification_text>برای باز کردن آگهی، ضربه بزنید</offline_notification_text>
+    <offline_notification_title>مشاهده آگهی‌ای که هنگام آفلاین بودن ذخیره کردید</offline_notification_title>
+    <offline_opt_in_confirm>تأیید</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>وقتی دوباره آنلاین شدید، اعلانی حاوی پیوند دریافت خواهید کرد</offline_opt_in_confirmation>
+    <offline_opt_in_decline>نه متشکرم</offline_opt_in_decline>
+    <offline_opt_in_message>اعلانی با پیوندی به سایت آگهی‌دهنده برایتان ارسال خواهیم کرد.</offline_opt_in_message>
+    <offline_opt_in_title>وقتی دوباره آنلاین شدید آگهی را باز کنید.</offline_opt_in_title>
+    <ok>حله</ok>
+    <on>روشن کنید</on>
+    <only_support_effects>فقط از نوع «جلوه» پشتیبانی می‌کند</only_support_effects>
+    <oom_tip>خارج از حافظه، لطفاً دوباره سعی کنید!</oom_tip>
+    <opacity>کدورت</opacity>
+    <open_font_failed>فایل فونت نامعتبر است</open_font_failed>
+    <open_from>باز از</open_from>
+    <open_from_photos>باز کردن از گالری</open_from_photos>
+    <open_image_failed_hint>باز کردن فایل تصویر موفقیت آمیز نبود، لطفا دوباره تلاش کنید یا فایل جدیدی را انتخاب نمایید.</open_image_failed_hint>
+    <open_music_failed_hint>باز کردن فایل موزیک موفقیت آمیز نبود، لطفاً دوباره تلاش کنید یا موزیک جدیدی را انتخاب نمایید.</open_music_failed_hint>
+    <open_settings_0>1.تنظیمات گسترش</open_settings_0>
+    <open_settings_1>تنظیمات گسترش</open_settings_1>
+    <open_video_failed_hint>باز کردن فایل ویدیو موفقیت آمیز نبود، لطفاً دوباره تلاش کنید یا ویدیو جدیدی انتخاب نمایید.</open_video_failed_hint>
+    <origin_pitch>زیروبمی اصلی</origin_pitch>
+    <original>اصلی</original>
+    <original_image_not_found>فایل تصویر اصلی دیگر وجود ندارد، لطفا بررسی کنید</original_image_not_found>
+    <original_music_not_found>فایل موسیقی اصلی دیگر وجود ندارد، لطفاً دوباره چک کنید</original_music_not_found>
+    <original_video_not_found>فایل ویدئوی اصلی دیگر وجود ندارد، لطفاً دوباره چک کنید</original_video_not_found>
+    <other_app_recording>ضبط صدا در حال حاضر در دسترس نیست ، زیرا توسط سایر برنامه ها استفاده می شود.</other_app_recording>
+    <outline>طرح</outline>
+    <page>کاغذ پاره شده</page>
+    <parent_directory>دایرکتوری اصلی</parent_directory>
+    <part_original_files_miss_in_draft>"یک یا چند فایل اصلی موجود نیستند. به ویرایش ادامه می‌دهید؟
+
+ ادامه دادن به ویرایش ممکن است باعث جاگذاری اشتباه موارد در پیش‌نویس شما شوند.
+
+ بازیابی فایل‌های اصلی از [آخرین حذف‌ شده‌ها/سطل زباله] ممکن است پیش‌نویس را درست کند."</part_original_files_miss_in_draft>
+    <pattern>الگو</pattern>
+    <pay_success>با موفقیت خریداری شد</pay_success>
+    <permission_read_external_storage>مجوز ذخیره سازی نیاز دارد</permission_read_external_storage>
+    <photo>عکس</photo>
+    <pinch_zoom_in>خرج کردن آن را به زوم کنید</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>از حداکثر حد مجاز بیشتر شده است.</pip_track_reach_max>
+    <play_video_via>پخش ویدئو از طریق</play_video_via>
+    <popular>محبوب</popular>
+    <precode>پیش‌کدگذاری</precode>
+    <precode_failed>پیش‌کدگذاری انجام نشد.</precode_failed>
+    <precut>پیش بُرش</precut>
+    <preset>پیش‌تنظیم</preset>
+    <string name="privacy_policy_content" formatted="false">به InShot خوش آمدید!&lt;br>&lt;br> ما متعهد به ارائه تجربه بهتر به کاربرانمان در تمام جنبه‌ها هستیم و &lt;a href=%s>شرایط استفاده &lt;/a>و&lt;a href=%s>حریم خصوصی&lt;/a> را هر از گاهی به‌روزرسانی می‌کنیم.&lt;br>&lt;br>اگر موافق هستید، روی «موافقت» ضربه بزنید و استفاده از InShot ما را شروع کنید.</string>
+    <string name="privacy_policy_content_gdpr">"هنگام استفاده از InShot تبلیغات سفارشی دریافت خواهید کرد. برای انصراف، لطفاً به صفحه &lt;a href=%s>«حریم خصوصی»&lt;/a> بروید و روی «I don't agree» ضربه بزنید.&lt;br>&lt;br>"</string>
+    <privacy_policy_title>شرایط استفاده و سیاست حفظ حریم خصوصی</privacy_policy_title>
+    <pro_detail>جزئیات InShot Pro</pro_detail>
+    <pro_expire_time_format>در تاریخ %sمنقضی می شود</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro در تاریخ %sمنقضی شده است</pro_expired_tip>
+    <pro_one_time_purchase>خرید دائمی</pro_one_time_purchase>
+    <pro_purchase_new_desc>از استفاده از همه انتقال ها ، جلوه ها ، برچسب های پرداخت شده و موارد دیگر لذت ببرید. بدون آرم InShot ، بدون تبلیغات.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>از استفاده از همه انتقال ها ، جلوه ها ، برچسب های پرداخت شده و موارد دیگر لذت ببرید. بدون تبلیغات.</pro_purchase_new_desc_1>
+    <pro_purchased_info>شما پیش از این عضو InShot Pro هستید</pro_purchased_info>
+    <pro_restore_not_purchased>بازیابی تکمیل شد اما شما هنوز عضو InShot Pro نیستید.</pro_restore_not_purchased>
+    <pro_subscription_details>جزئیات اشتراک</pro_subscription_details>
+    <pro_unavailable>Pro خارج از دسترس</pro_unavailable>
+    <pro_unavailable_detail>لطفاً بررسی کنید که فقط وارد یک حساب صحیح از Google Play وارد شده باشید. برای راهنمایی بیشتر می‌توانید به صفحه سؤال و جواب رجوع نمایید.</pro_unavailable_detail>
+    <processing_error>خطای پردازش</processing_error>
+    <processing_progress_title>در حال پردازش...</processing_progress_title>
+    <procode_progress>درحال پیش‌کدگذاری...</procode_progress>
+    <promotion_subscribe_title>پیشنهاد ویژه هولی</promotion_subscribe_title>
+    <purchase_failed>خرید شکست خورده، دوباره سعی کنید؟</purchase_failed>
+    <purchase_failed_tile>خرید شکست خورده</purchase_failed_tile>
+    <range>طیف</range>
+    <rate>امتیاز دادن</rate>
+    <rate_feedback_message>آیا برای ما بازخوردی می‌گذارید؟</rate_feedback_message>
+    <rate_later>بعدا</rate_later>
+    <rate_like>بله!</rate_like>
+    <rate_main_message>لذت بردن از با استفاده از InShot؟</rate_main_message>
+    <rate_not_like>نه واقعاً</rate_not_like>
+    <rate_review_message>آیا برای ما یک نظر خوب می‌گذارید؟ واقعاً مفید است.</rate_review_message>
+    <ratio>ثابت کننده</ratio>
+    <recent>اخیر</recent>
+    <recommend>توصیه می‌شود</recommend>
+    <record>ضبط صدا</record>
+    <redo>انجام مجدد</redo>
+    <refresh_state>بازگرداندن خرید</refresh_state>
+    <reject>نه متشکرم</reject>
+    <remove_ads>حذف علامت و تبلیغات</remove_ads>
+    <remove_ads_1>حذف تبلیغات</remove_ads_1>
+    <remove_ads_1_desc>تبلیغات بنر را برای همیشه پاک کنید.</remove_ads_1_desc>
+    <remove_ads_desc>واترمارک و تبلیغات بنر را برای همیشه پاک کنید. دیگر نیازی نیست واترمارک را به صورت دستی پاک کنید.</remove_ads_desc>
+    <remove_all_ads>حذف تبلیغات</remove_all_ads>
+    <remove_all_split_marks>حذف تمام علامت‌های جداسازی افزوده شده؟</remove_all_split_marks>
+    <remove_pro_materials>حذف مطالب حرفه‌ای</remove_pro_materials>
+    <remove_watermark>حذف علامت</remove_watermark>
+    <remove_watermark_ad>حذف این یک بار</remove_watermark_ad>
+    <remove_watermark_ad_2>حذف رایگان</remove_watermark_ad_2>
+    <remove_watermark_and_ads>حذف علامت و تبلیغات</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>حذف تبلیغات</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>حذف تبلیغات به طور دائم.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>حذف علامت و تبلیغات به طور دائم.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>حذف شدن دائم</remove_watermark_buy>
+    <rename>تغییر نام</rename>
+    <renew_pro>InShot Pro را تمدید کنید</renew_pro>
+    <replace>جایگزین‌کردن</replace>
+    <replace_draft_des>نادیده‌گیری فایل در حال ویرایش و شروع پروژه جدید؟</replace_draft_des>
+    <report>گزارش دادن</report>
+    <report_fix_description>لطفا به ما گزارش کنید و فایل های صوتی را برای کمک به حل این مشکل به ما بفرستید.</report_fix_description>
+    <report_fix_ok>ارسال ورود به سیستم و فایل های صوتی</report_fix_ok>
+    <report_fix_title>پردازش صوتی انجام نشد</report_fix_title>
+    <request_record_rationale>به InShot اجازه دهید از میکروفون در دستگاه خود استفاده کند.</request_record_rationale>
+    <request_storage_rationale>به InShot اجازه دهید برای دسترسی به عکس ها و رسانه های بر روی دستگاه شما.</request_storage_rationale>
+    <reselect>از دوباره انتخاب کنید</reselect>
+    <reset>بازنشانی</reset>
+    <reset_adjust>بازنشانی تنظیم کردن</reset_adjust>
+    <reset_all>تنظیم مجدد همه</reset_all>
+    <reset_hue>تنظیم مجدد رنگ</reset_hue>
+    <reset_luminance>تنظیم مجدد روشنایی</reset_luminance>
+    <reset_saturation>تنظیم مجدد اشباع</reset_saturation>
+    <reset_speed>بازنشانی سرعت</reset_speed>
+    <resolution>وضوح</resolution>
+    <restore>بازگرداندن</restore>
+    <restore_failed>بازیابی نشد</restore_failed>
+    <restore_ok_Pro>با موفقیت بازیابی شود و شما هم اکنون عضو InShot Pro هستید.</restore_ok_Pro>
+    <restore_ok_not_Pro>با موفقیت بازیابی شود اما شما هنوز عضو InShot Pro نیستید.</restore_ok_not_Pro>
+    <restore_pro_assets>بازیابی قابلیت‌های حرفه‌ای</restore_pro_assets>
+    <restore_success>بازیابی موفقیت</restore_success>
+    <restore_trim_message>تمام عملیات اصلاح و برش را لغو می کنید و به ویدیو اصلی بازگردید؟</restore_trim_message>
+    <results_page_save_complete>ذخیره سازی با موفقیت انجام شد</results_page_save_complete>
+    <results_page_share_other>سایر</results_page_share_other>
+    <results_page_wait_video_transcoding>لطفاً برای کد شدن ویدیو منتظر بمانید</results_page_wait_video_transcoding>
+    <retro>گذشته</retro>
+    <retry_save_title>آخرین صادرات ویدیو انجام نشد. دوباره امتحان کنید؟</retry_save_title>
+    <returnapp_tip>برای بازگشت به Inshot برگشت رو بزنید</returnapp_tip>
+    <reverse>معکوس</reverse>
+    <rewarded_unlock_content>برای باز کردن قفل همه ویژگی ها به صورت رایگان، یک تبلیغ ویدیویی تماشا کنید(%s)</rewarded_unlock_content>
+    <rewinding>در حال عقب بردن…</rewinding>
+    <rotate>چرخش</rotate>
+    <rotate90>چرخش 90 درجه</rotate90>
+    <s1>ذخیره تصویر</s1>
+    <s2>به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟</s2>
+    <s3>پذیرفتن</s3>
+    <s4>نپذیرفتن</s4>
+    <s5>ایجاد رویداد تقویم</s5>
+    <s6>به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</s6>
+    <s7>آگهی آزمایشی</s7>
+    <saturation>اشباع</saturation>
+    <save>ذخیره سازی</save>
+    <save_extracted_audio>ذخیره صدای استخراج‌شده</save_extracted_audio>
+    <save_fail>خرابی ذخیر</save_fail>
+    <save_image_failed_hint>خطا در ذخيره عکس!</save_image_failed_hint>
+    <save_imported_sticker>برچسب وارد شده را ذخیره کنید</save_imported_sticker>
+    <save_success_hint>%s ذخیره شده در</save_success_hint>
+    <save_type_description>ذخیره فایل‌های استخراج‌شده به‌عنوان</save_type_description>
+    <save_video_failed_dlg_btn_retry>سعی مجدد</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>کیفیت دیگری را انتخاب نمایید</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>لطفاً از کیفیت پایین تری استفاده کنید و مجددا تلاش نمایید!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>ذخیره سازی با موفقیت انجام نشد</save_video_failed_dlg_title>
+    <save_video_failed_hint>این ویدیو بعلت کد ناشناخته پشتیبانی نمی شود، لطفاً از ویدیو دیگری استفاده نمایید!</save_video_failed_hint>
+    <saved>ذخیره شده</saved>
+    <scanning>در حال اسکن…</scanning>
+    <string name="sd_card_error">مسیر یا حافظه شما قابل دسترسی نیست، لطفا مسیر جدیدی را در تنظیمات انتخاب نمایید-> %s.</string>
+    <sd_card_full_tip>حافظه کافی موجود نیست، لطفاً کمی فضای خالی کنید و دوباره امتحان کنید</sd_card_full_tip>
+    <sd_card_not_mounted_hint>حافظه آماده نیست!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>در حدود %dM فضا نیاز است!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>برای ذخیره فیلم به فضای بافر بیشتری نیاز است ، لطفاً فضای ذخیره سازی بیشتری را آزاد کنید یا وضوح تصویر را کاهش دهید و دوباره امتحان کنید.</sd_card_space_not_enough_hint>
+    <search_menu_title>جستجو</search_menu_title>
+    <see_all_material>مشاهده همه</see_all_material>
+    <select>انتخاب</select>
+    <select_all>انتخاب همه</select_all>
+    <select_one_to_edit>یکی را انتخاب کنید تا ویرایش شود</select_one_to_edit>
+    <select_one_track_to_edit>انتخاب آهنگ جهت ویرایش</select_one_track_to_edit>
+    <select_photo>انتخاب عکس</select_photo>
+    <send_feedback>ارسال نظر</send_feedback>
+    <setting_addtags_title>افزودن برچسب</setting_addtags_title>
+    <setting_clear_cache_title>پاک‌کردن حافظه پنهان</setting_clear_cache_title>
+    <setting_faq_title>سوال و جواب</setting_faq_title>
+    <setting_feedback_title>ارسال نظرات</setting_feedback_title>
+    <setting_follow_us>ما را دنبال کنید (دریافت آموزش های بیشتر)</setting_follow_us>
+    <setting_general_title>تنظیمات عمومی</setting_general_title>
+    <setting_language_title>زبان</setting_language_title>
+    <setting_legal_title>نسخه اینستاشات</setting_legal_title>
+    <setting_localization_des>به ما کمک کنید تا InShot را به زبان شما ترجمه کنیم</setting_localization_des>
+    <setting_localization_title>بومی سازی</setting_localization_title>
+    <setting_others>دیگران</setting_others>
+    <setting_privacypolicy_title>حریم خصوصی</setting_privacypolicy_title>
+    <setting_rate5star_des>به این نرم افزار در Google Play نمره 5 را بدهید!</setting_rate5star_des>
+    <setting_rate5star_title>امتیاز 5 بدید!</setting_rate5star_title>
+    <setting_restore>بازگرداندن خرید</setting_restore>
+    <setting_savepath_title>انتخاب مسیر ذخیره سازی</setting_savepath_title>
+    <setting_share_title>اشتراک گذاشتن با دوستان</setting_share_title>
+    <setting_thankyou_title>تشکر</setting_thankyou_title>
+    <shadow>سایه</shadow>
+    <shadow_off>خاموش</shadow_off>
+    <shadow_on>بر</shadow_on>
+    <share>به اشتراک گذاری</share>
+    <share_content>ویرایش فیلم ها و عکس ها را در تلفن خود آسان کنید. اکنون بارگیری رایگان InShot را انجام دهید:https://inshotapp.page.link/invite</share_content>
+    <share_subject>بهترین نرم افزار ویرایش ویدیو و عکس برای اشتراک گذاری در Instagram!</share_subject>
+    <sharpen>تیز کردن</sharpen>
+    <shop>فروشگاه</shop>
+    <short_preview>پیش نمایش کوتاه</short_preview>
+    <show_read_video_ad_dlg_content>سازمان دیده بان آگهی تصویری به حذف علامت به صورت رایگان.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>سازمان دیده بان آگهی تصویری به حذف علامت برای این زمان</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>کپی کردن و اشتراک</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>تاریخ</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>برچسب ها برای پسندیدن بیشتر</show_tags_dlg_title>
+    <sign_out>خروج از سیستم</sign_out>
+    <sign_out_account>از حساب خارج شوید</sign_out_account>
+    <signout_current_account>از حساب فعلی خارج شوید</signout_current_account>
+    <signout_tip_common>آیا مطمئن هستید که می خواهید از حساب فعلی WeChat خارج شوید؟</signout_tip_common>
+    <signout_tip_pro>وقتی از حساب خارج می شوید InShot Pro در دسترس نخواهد بود.</signout_tip_pro>
+    <size>اندازه:%s</size>
+    <size_only>اندازه تخمینی</size_only>
+    <slice>بُرش</slice>
+    <slow_motion>حرکت اهسته</slow_motion>
+    <smooth>روان</smooth>
+    <smooth_applied>حرکت آهسته روان اعمال شد</smooth_applied>
+    <smooth_cancelled>حرکت آهسته روان لغو شد</smooth_cancelled>
+    <smooth_click_preview>برای پیش‌نمایش جلوه حرکت آهسته روان، روی دکمه بررسی کلیک کنید</smooth_click_preview>
+    <smooth_preview_effect>پیش‌نمایش جلوه روان</smooth_preview_effect>
+    <smooth_slow_speed_available>فقط زمانی در دسترس است که سرعت کمتر از %s برابر باشد</smooth_slow_speed_available>
+    <sorry>متاسف</sorry>
+    <string name="space_not_enough_content">برای ذخیره %2$s &lt;b>%1$dM&lt;/b> فضای ذخیره سازی داخلی(نه فضای کارت SD) بیشتری لازم است ، لطفاً فضای تلفن خود را خالی کرده و دوباره امتحان کنید.</string>
+    <space_not_enough_title>فضای تلفن خود را خالی کنید</space_not_enough_title>
+    <special_offer>پیشنهاد ویژ</special_offer>
+    <speed>سرعت</speed>
+    <speed_adjusts_precode_hint>تنظیم سرعت بالاتر از %sبرابر نیازمند پیش‌کدگذاری است.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>سرعت بیشتر از 10.0 برابر ممکن است باعث از بین رفتن صدای اصلی شود.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>در منطقه سبز نیازی به پیش‌کدگذاری مجدد نیست.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>لطفاً صفحه نمایش را قفل نکنید یا به سایر برنامه‌ها نروید.</speed_precode_warning_hint>
+    <split>تقسیم شده</split>
+    <spring_festival_pro_title>50٪ تخفیف سال نو چینی</spring_festival_pro_title>
+    <standard>استاندارد</standard>
+    <start_over>از دوباره شروع کر</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>استیکر را دانلود نکرده‌اید</sticker_empty>
+    <sticker_text>برچسب</sticker_text>
+    <stickers>تابلوچسبها</stickers>
+    <strength>استحکام</strength>
+    <style>سبک</style>
+    <subscription_detail>"
+
+- با اشتراک نامحدود InShot Pro، به همه ویژگی‌ها و ابزار پرداخت‌شده از جمله استیکر، بسته فیلتر و غیره دسترسی خواهید داشت. واترمارک و تبلیغات به طور خودکار حذف خواهند شد. 
+
+- قبض اشتراک نامحدود InShot Pro به صورت ماهانه یا سالانه به نرخ متناسب با طرح انتخاب شده صادر می‌شود. به علاوه، در صورت نیاز، گزینه یک بار پرداخت ارائه خواهد شد که جزو طرح‌های اشتراک نیست. 
+
+- با تایید خرید، پرداخت به حساب Google Play منظور خواهد شد. 
+
+- اشتراک به طور خودکار تمدید می‌شود مگر این که تمدید خودکار حداقل 24 ساعت قبل از پایان دوره فعلی غیرفعال شود. 
+
+-ظرف 24 ساعت قبل از پایان دوره فعلی، مبلغ تمدید به حساب منظور می‌شود و هزینه تمدید شناسایی می‎شود. 
+
+- کاربر می‌تواند اشتراک را مدیریت کند و در قسمت تنظیمات حساب پس از خرید می‌تواند تمدید خودکار را غیرفعال کند. 
+
+- وقتی کاربر برای یک نسخه، اشتراک می‌خرد، هر قسمت استفاده نشده از یک دوره آزمایشی رایگان که از آن نسخه ارائه می‌شود، ، در صورت لازم هدر می‌رود."</subscription_detail>
+    <subscription_detail_1>"
+
+- با اشتراک نامحدود InShot Pro، به همه ویژگی‌ها و ابزار پرداخت‌شده از جمله استیکر، بسته فیلتر و غیره دسترسی خواهید داشت. تبلیغات به طور خودکار حذف خواهند شد. 
+
+- قبض اشتراک نامحدود InShot Pro به صورت ماهانه یا سالانه به نرخ متناسب با طرح انتخاب شده صادر می‌شود. به علاوه، در صورت نیاز، گزینه یک بار پرداخت ارائه خواهد شد که جزو طرح‌های اشتراک نیست. 
+
+- با تایید خرید، پرداخت به حساب Google Play منظور خواهد شد. 
+
+- اشتراک به طور خودکار تمدید می‌شود مگر این که تمدید خودکار حداقل 24 ساعت قبل از پایان دوره فعلی غیرفعال شود. 
+
+-ظرف 24 ساعت قبل از پایان دوره فعلی، مبلغ تمدید به حساب منظور می‌شود و هزینه تمدید شناسایی می‎شود. 
+
+- کاربر می‌تواند اشتراک را مدیریت کند و در قسمت تنظیمات حساب پس از خرید می‌تواند تمدید خودکار را غیرفعال کند. 
+
+- وقتی کاربر برای یک نسخه، اشتراک می‌خرد، هر قسمت استفاده نشده از یک دوره آزمایشی رایگان که از آن نسخه ارائه می‌شود، ، در صورت لازم هدر می‌رود."</subscription_detail_1>
+    <subscription_terms>این خرید فقط در سیستم Android قابل استفاده است. پرداخت به محض تایید خرید، به حساب Google Play Store منظور خواهد شد. اشتراک قبل از پایان دوره جاری به طور خودکار تمدید می‌شود مگر این که تمدید خودکار حداقل 24 ساعت قبل از پایان دوره فعلی غیرفعال شود، لغو اشتراک پس از پایان دوره جاری عملی خواهد شد. می‌توانید اشتراک را مدیریت کنید و در قسمت تنظیمات حساب Google Play Store تمدید خودکار را غیرفعال کنید. برای اشتراکی که در طول دوره آزمایشی لغو می‌شود، هزینه‌ای اعمال نمی‌شود.</subscription_terms>
+    <subscription_terms_cn>مشترک شدن در InShot Pro ، می توانید از کلیه ویژگی ها و مواد ویرایش استفاده کنید. واترمارک و تبلیغات به صورت خودکار حذف می شوند. InShot Pro تمدید خودکار نمی شود ، لطفا قبل از پایان دوره فعلی به صورت دستی تمدید کنید. اشتراک را نمی توان بین دستگاه های Android و iOS انتقال داد. اگر آن را در دستگاه های iOS خریداری کرده اید ، هنوز لازم است آن را در دستگاه های Android خریداری کنید. پس از عضویت در InShot Pro ، فسخ و بازپرداخت وجود نخواهد داشت ، لطفا قبل از خرید با دقت تصمیم بگیرید.</subscription_terms_cn>
+    <subscription_terms_cn_1>مشترک شدن در InShot Pro ، می توانید از کلیه ویژگی ها و مواد ویرایش استفاده کنید. تبلیغات به صورت خودکار حذف می شوند. InShot Pro تمدید خودکار نمی شود ، لطفا قبل از پایان دوره فعلی به صورت دستی تمدید کنید. اشتراک را نمی توان بین دستگاه های Android و iOS انتقال داد. اگر آن را در دستگاه های iOS خریداری کرده اید ، هنوز لازم است آن را در دستگاه های Android خریداری کنید. پس از عضویت در InShot Pro ، فسخ و بازپرداخت وجود نخواهد داشت ، لطفا قبل از خرید با دقت تصمیم بگیرید.</subscription_terms_cn_1>
+    <subscription_terms_hw>خرید در AppGallery فقط از طریق HUAWEI IAP قابل انجام است. پس از تأیید خرید ، پرداخت به حساب شما پرداخت می شود. اشتراک پس از پایان دوره فعلی بصورت خودکار تجدید می شود و هزینه تمدید را مشخص می کند. شما می توانید اشتراک های خود را مدیریت کرده و تجدید خودکار را از تنظیمات حساب AppGallery خود خاموش کنید. اشتراک لغو شده در طول آزمایشی رایگان هزینه ای ندارد.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>خرید در AppGallery فقط از طریق HUAWEI IAP قابل انجام است. پس از تأیید خرید ، پرداخت به حساب شما پرداخت می شود. شما می توانید با خدمات مشتری Huawei تماس بگیرید تا در مدت 14 روز که تأیید سفارش را دریافت می کنید ، خرید را لغو کنید. اشتراک ها تمدید خودکار پس از پایان دوره فعلی. شما می توانید اشتراک های خود را مدیریت کرده و تمدید خودکار را از تنظیمات حساب AppGallery خود خاموش کنید.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>خرید در AppGallery فقط از طریق HUAWEI IAP قابل انجام است. پس از تأیید خرید ، پرداخت به حساب شما پرداخت می شود. شما می توانید با خدمات مشتری Huawei تماس بگیرید تا در مدت 7 روز که تأیید سفارش را دریافت می کنید ، خرید را لغو کنید. اشتراک ها تمدید خودکار پس از پایان دوره فعلی. شما می توانید اشتراک های خود را مدیریت کرده و تمدید خودکار را از تنظیمات حساب AppGallery خود خاموش کنید.</subscription_terms_hw_ru>
+    <subscription_title>اشتراک نامحدود InShot Pro</subscription_title>
+    <super1>سوپر</super1>
+    <support_musician>برای جلوگیری از مشکلات حق چاپ و برای حمایت از نوازنده، ما به شما توصیه می کنیم اعتبارات زیر را اضافه کنید.</support_musician>
+    <sure>خوب</sure>
+    <swap>مبادله</swap>
+    <swap_order_hint>فشار طولانی و کشیدن مبادله به ترتیب</swap_order_hint>
+    <switch_account>تغییر حساب</switch_account>
+    <tags>برچسب ها</tags>
+    <tags_policies>با توجه به برخی از خط مشیها، همه برچسبهای نامناسب را حذف کردیم.</tags_policies>
+    <take_video>ویدیو</take_video>
+    <tap_permissions>2.مجوز ضربه بزنید</tap_permissions>
+    <template>الگو</template>
+    <terms_of_use>شرایط استفاده</terms_of_use>
+    <text>متن</text>
+    <text_spacing>فاصله متن</text_spacing>
+    <then>سپس</then>
+    <time_24_hours>فقط %s ساعت</time_24_hours>
+    <time_limited_offer>پیشنهاد با زمان محدود</time_limited_offer>
+    <tint>ته رنگ</tint>
+    <tip>نکته</tip>
+    <tip_close_ad_personalization>با غیرفعال کردن این گزینه، گاهی ممکن است آگهی‌های بی‌ربط مشاهده کنید.</tip_close_ad_personalization>
+    <title_optout_ads>آگهی های مبتنی بر علاقه را کنار می گذارید</title_optout_ads>
+    <too_many_pip_tip>لایه‌های بیش‌ازحد ممکن است منجر به کُندی عملکرد (لَگ) یا خطا در ذخیره‌سازی شود.</too_many_pip_tip>
+    <total>کل بازدید ها</total>
+    <track_count>%d آهنگ های</track_count>
+    <tracks>آهنگ های</tracks>
+    <transition>انتقال</transition>
+    <transition_prompt>افزودن یا تغییر دادن نحوه انتقال، طول مدت ویدئو را تغییر می‌دهد</transition_prompt>
+    <trim>برش</trim>
+    <trim_clip_help_tip>اصلاح ویدیو و تنظیم طول عکس</trim_clip_help_tip>
+    <trim_music>کوتاه کردن موسیقی</trim_music>
+    <turn_off>غیرفعال کردن</turn_off>
+    <turn_off_tags_context>غیرفعال کردن برچسب ها گزینه، و شما می توانید آن را در منوی تنظیمات تبدیل شود.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>غیرفعال کردن</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3.میکروفون را روشن کنید</turn_on_microphone>
+    <turn_on_storage>3. حافظه و دوربین را روشن کنید</turn_on_storage>
+    <type_something>چیزی بنویسید</type_something>
+    <un_select>لغو انتخاب</un_select>
+    <undo>لغو انجام</undo>
+    <undo_reversed>لغوحالت معکوس</undo_reversed>
+    <unlock>قفل را باز کنید</unlock>
+    <unlock_all_features>همه ویژگی ها را باز کنید</unlock_all_features>
+    <unlock_for_free>باز کردن برای رایگان</unlock_for_free>
+    <unlock_for_sticker_tip>برای دریافت رایگان این بسته تبلیغ ویدیو را تماشا کنید</unlock_for_sticker_tip>
+    <unlock_the_features>قفل قابلیت‌ها باز شود</unlock_the_features>
+    <unsupported_file_format>قالب پرونده پشتیبانی نمی شود</unsupported_file_format>
+    <update>بروز رسانی</update>
+    <update_files>به روزرسانی فایلها</update_files>
+    <use>استفاده کنید</use>
+    <user_cancel>لغو شد</user_cancel>
+    <valid_for>اعتبار دارد %s</valid_for>
+    <valid_for_days>اعتبار به مدت %s روز</valid_for_days>
+    <valid_for_hours>اعتبار به مدت %s ساعت</valid_for_hours>
+    <value>ارزش</value>
+    <video>ویدیو</video>
+    <video_background_convert_finished_hint>تبدیل ویدیو شما به پایان رسید!</video_background_convert_finished_hint>
+    <video_beginning>شروع ویدیو</video_beginning>
+    <video_compress>فشرده‌سازی ویدئو</video_compress>
+    <string name="video_compress_description" formatted="false">ویدئوی حجیم‌تر از %sبه طور خودکار تا %sفشرده می‌شود.</string>
+    <video_continue_convert_hint>اینشات در حال ادامه تبدیل می باشد...</video_continue_convert_hint>
+    <video_conversion_failure>تبدیل ویدیو ناموفق بود</video_conversion_failure>
+    <video_convert_failed_hint>تبدیل ویدیو موفقیت آمیز نبود. لطفاً مجددا تلاش کنید!</video_convert_failed_hint>
+    <video_convert_failed_hint2>تبدیل ویدیو موفقیت آمیز نبود، لطفاً از ویدیو دیگری استفاده کنید!</video_convert_failed_hint2>
+    <video_cut_bar_duration>کل بازدید ها:</video_cut_bar_duration>
+    <video_end>پایان ویدیو</video_end>
+    <video_less_than_one_second_not_allow>ویدیوهای کمتر از %s بارگذاری نمی شوند.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>برای گزینه های بیشتر روی تصویر بند انگشتی کلیک کنید</video_more_option_hint2>
+    <video_not_support>ویدیو بر روی این دستگاه پشتیبانی نمی شود، شما می توانید از عکس استفاده کنید.</video_not_support>
+    <video_not_support_detail>ویدیو روی این دستگاه پشتیبانی نمی شود زیرا %s. شما می توانید به استفاده از قابلیت تصویر ادامه دهید.</video_not_support_detail>
+    <video_not_support_reasons_one>نسخه اندروید پایین تر از 4.0 است</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU با ARM V7 سازگار نمی باشد</video_not_support_reasons_two>
+    <video_not_support_title_one>ویدیو مناسب نیست</video_not_support_title_one>
+    <video_not_support_title_two>سخت افزار مناسب نیست</video_not_support_title_two>
+    <video_only>فقط ویدئو</video_only>
+    <video_quality_customize>انتخابی</video_quality_customize>
+    <video_quality_normal>معمولی</video_quality_normal>
+    <video_quality_recommend>پیشنهادشده</video_quality_recommend>
+    <video_replace_trim_info>برای انتخاب یک بخش، بکشید.</video_replace_trim_info>
+    <video_resolution>وضوح ویدئو</video_resolution>
+    <video_setting>تنظیمات ویدئو</video_setting>
+    <video_sharing_progress_title1>بارگذاری اولیه...</video_sharing_progress_title1>
+    <video_sharing_progress_title2>در حال تبدیل ویدیو...</video_sharing_progress_title2>
+    <video_sharing_progress_title3>در حال انصراف ...</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>شما فقط تا 20 متن را می توانید اضافه نمایید.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">فقط از فیلم بیشتر از%s(%s) پشتیبانی کنید</string>
+    <video_too_short_after_cut_hint>مدت زمان ویدیو خیلی کم است.</video_too_short_after_cut_hint>
+    <vignette>بدون حاشیه</vignette>
+    <voice_effect>افکت صدا</voice_effect>
+    <voice_effect_support>فقط از ضبط/صدای واردشده پشتیبانی می‌شود</voice_effect_support>
+    <volume>جلد</volume>
+    <warmth>گرمی</warmth>
+    <warning>هشدار</warning>
+    <watch>تماشا</watch>
+    <what_new_audio_draft>ذخیره پیش نویس ویدئو</what_new_audio_draft>
+    <what_new_audio_track>آهنگ های متعدد موسیقی</what_new_audio_track>
+    <what_new_crop_video>ویدیو محصول</what_new_crop_video>
+    <what_new_cut>برش و تقسیم ویدئو</what_new_cut>
+    <what_new_music>موسیقی Vlog محبوب</what_new_music>
+    <what_new_special_effects_filters_vol1>جلوه های ویژه فیلتر VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>حالت کولاژ بهتر</what_news_collage>
+    <what_news_filter>فیلتر برای حالت ویدئو</what_news_filter>
+    <what_news_thanksgiving>جشن شکرگذاری مبارک</what_news_thanksgiving>
+    <whats_new_add_blank_screen>صفحه خالی اضافه کنید</whats_new_add_blank_screen>
+    <whats_new_background_pattern>الگوی پس زمینه</whats_new_background_pattern>
+    <whats_new_beats_effects>اثرات ریتم</whats_new_beats_effects>
+    <whats_new_blend>PIP - تلفیق</whats_new_blend>
+    <whats_new_brand_music>رابط کاربر کاملاً جدید موسیقی</whats_new_brand_music>
+    <whats_new_create_gifs>GIF ایجاد کنید</whats_new_create_gifs>
+    <whats_new_customer_color>رنگ سفارشی</whats_new_customer_color>
+    <whats_new_cutout>برش دلخواه استیکرها</whats_new_cutout>
+    <whats_new_cutout_outline>برش و حاشیه عکس</whats_new_cutout_outline>
+    <whats_new_effect>جدول زمانی جلوه</whats_new_effect>
+    <whats_new_effect_retro2>جلوه‌های جدید - قدیم2</whats_new_effect_retro2>
+    <whats_new_effect_split>جلوه های جدید-تقسیم شده</whats_new_effect_split>
+    <whats_new_fade_base>جلوه های جدید-پایه ای,محو</whats_new_fade_base>
+    <whats_new_filter_fresh>فیلترهای جدید-تازه</whats_new_filter_fresh>
+    <whats_new_frame_rate>نرخ فریم جدید</whats_new_frame_rate>
+    <whats_new_freeze_tool>ابزار انجماد</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>تنظیمات HSL</whats_new_hsl_adjustment>
+    <whats_new_item_frame>موارد بر اساس فریم</whats_new_item_frame>
+    <whats_new_magnifier>برچسب ذره بین</whats_new_magnifier>
+    <whats_new_mask>ماسک برای PIP</whats_new_mask>
+    <whats_new_material>کتابخانه مواد کاملاً جدید</whats_new_material>
+    <whats_new_music_fade_in_and_out>موسیقی محو می شود</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>آلبوم جدید</whats_new_new_album>
+    <whats_new_new_effect_and_transition>جلوه ها و انتقال های جدید</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>جلوه‌های جدید - فیلم</whats_new_new_effect_film>
+    <whats_new_new_filters>فیلتر جدید</whats_new_new_filters>
+    <whats_new_new_transition>انتقال‌های جدید - کاغذ پاره شده</whats_new_new_transition>
+    <whats_new_pip>PIP - همپوشانی فیلم</whats_new_pip>
+    <whats_new_smooth>حرکت آهسته روان برای تنظیم سرعت</whats_new_smooth>
+    <whats_new_speed_curve>منحنی سرعت</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>منحنی سرعت از پیش تعیین شده</whats_new_speed_curve_preset>
+    <whats_new_store>فروشگاه لوازم جدید</whats_new_store>
+    <whats_new_text_animation>انیمیشن متنی جدید</whats_new_text_animation>
+    <whats_new_transition_film>انتقال‌های جدید - فیلم</whats_new_transition_film>
+    <whats_new_video_full_screen>پیش نمایش فیلم ها در تمام صفحه</whats_new_video_full_screen>
+    <whats_new_voice_effect>جلوه های صوتی</whats_new_voice_effect>
+    <whatsnew_advance_timeline>جدول زمانی پیشرفته</whatsnew_advance_timeline>
+    <whatsnew_christmas>موسیقی برای کریسمس</whatsnew_christmas>
+    <whatsnew_color_pallette>پالت رنگ جدید</whatsnew_color_pallette>
+    <whatsnew_font_style>سبک فونت جدید</whatsnew_font_style>
+    <whatsnew_loop_animation>حلقه انیمیشن</whatsnew_loop_animation>
+    <whatsnew_music>آهنگ جدید</whatsnew_music>
+    <whatsnew_recording>ضبط</whatsnew_recording>
+    <whatsnew_slide>فیلم ها را با عکس ها مخلوط کنید</whatsnew_slide>
+    <whatsnew_sound_effects>جلوه های صوتی</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>موسیقی اسپلیت، متن و تابلوچسبها</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>انیمیشن برچسب</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>برچسب و انیمیشن متن</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>انیمیشن متن</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>پیش نویس نامحدود</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot عکس</widgetphoto>
+    <widgetvideo>InShot ويديو</widgetvideo>
+    <year>سال</year>
+    <yes>بله</yes>
+    <you_are_not_login>شما وارد سیستم نشده اید</you_are_not_login>
+    <you_will_still_see_ads>شما همچنان تبلیغات را خواهید دید ، اما ممکن است بر اساس علایق شما نباشند.</you_will_still_see_ads>
+    <zoom>بزرگنمایی</zoom>
+    <zoom_selection>انتخاب زوم</zoom_selection>
+</resources>

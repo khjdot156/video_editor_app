@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro detalja</InShot_detail>
+    <abc_action_bar_home_description>Idi na početnu</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Natrag</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Više opcija</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Gotovo</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Prikaži sve</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Odabir aplikacije</abc_activitychooserview_choose_application>
+    <abc_capital_off>ISKLJUČENO</abc_capital_off>
+    <abc_capital_on>UKLJUČENO</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>svemir</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>Pretražite…</abc_search_hint>
+    <abc_searchview_description_clear>Izbriši upit</abc_searchview_description_clear>
+    <abc_searchview_description_query>Upit za pretraživanje</abc_searchview_description_query>
+    <abc_searchview_description_search>Pretraži</abc_searchview_description_search>
+    <abc_searchview_description_submit>Pošalji upit</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Glasovno pretraživanje</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Dijeli s</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Dijeli putem aplikacije %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Sažmi</abc_toolbar_collapse_description>
+    <account>Račun</account>
+    <acknowledge>Zahvale</acknowledge>
+    <action_settings>Postavke</action_settings>
+    <actual_price_year_format>Kupite ga za %s/godišnje</actual_price_year_format>
+    <ad_personalization>Prilagođavanje oglasa</ad_personalization>
+    <ad_personalization_tip>"Kolačići su tekstualne datoteke koje web poslužitelj stvara na vašem uređaju. Kako bismo pružili bolju uslugu, možemo koristiti povezane tehnologije za slanje jednog ili više kolačića na vaš uređaj radi prikupljanja i pohrane podataka o upotrebi ovog proizvoda.
+
+Admob, Mopub, Vungle, Facebook, Smaato, myTarget kao oglašivači InShota mogu prikupljati podatke generirane tijekom vaše upotrebe naših proizvoda i usluga, izdvajati vaše postavke i koristiti ih za prikazivanje oglasa koji su više u skladu s vašim individualnim potrebama. Ne dijelimo nikakve podatke korisnika s Facebookom ili drugim stranama (Verificirano od BBC &amp; Privacy International).
+
+Koristit ćemo tehnička sredstva za anonimizaciju podataka, a anonimni podaci neće moći identificirati subjekt. Ako vas ne zanima prilagođeni prikaz, možete odabrati isključivanje prikaza prilagođenog sadržaja putem Postavki-Prilagodba oglasa. Imajte na umu da će se oglasi i dalje prikazivati nakon isključivanja ove opcije, ali će se relevantnost oglasa smanjiti."</ad_personalization_tip>
+    <add>Dodaj</add>
+    <add_favorite>Dodajte svojeg favorita</add_favorite>
+    <adjust>Podesiti</adjust>
+    <agree>Slažem se</agree>
+    <album>ALBUM</album>
+    <album_sleepless_desc>Prilikom javnog dijeljenja videozapisa svakako dodajte sljedeće informaije.</album_sleepless_desc>
+    <all>Svi</all>
+    <all_inclusive>Sve uključeno</all_inclusive>
+    <all_original_files_miss_in_draft>"Skica je oštećena jer nedostaju sve izvorne datoteke. 
+
+Možda možete popraviti ovu skicu kada vratite originalne datoteke iz mape [Nedavno izbrisano/Otpad]."</all_original_files_miss_in_draft>
+    <all_premium>Pristup svim premium filtrima, efektima, naljepnicama, fontovima. Nema vodenog žiga, nema oglasa.</all_premium>
+    <all_premium_1>Pristup svim premium filtrima, efektima, naljepnicama, fontovima. Nema oglasa.</all_premium_1>
+    <allow_camera_access>Omogući pristup Kameri</allow_camera_access>
+    <allow_record_access>Omogući pristup mikrofonu</allow_record_access>
+    <allow_record_access_hint>Za snimanje zvuka InShot zahtijeva dozvolu mikrofona.</allow_record_access_hint>
+    <allow_storage_access>Dopusti pristup za pohranu</allow_storage_access>
+    <allow_storage_access_hint>Da biste napravili lijepe videozapise i fotografije, InShot treba pristup vašoj biblioteci fotografija.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>Da biste napravili lijepe videozapise i fotografije, InShot treba pristup vašoj biblioteci fotografija i kameru.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Već ste član InShot Pro-a</already_InShot_pro>
+    <already_purchased>Već kupljeno?</already_purchased>
+    <angle>Kut</angle>
+    <animation_in>ULAZI</animation_in>
+    <animation_out>IZLAZI</animation_out>
+    <animation_stickers>Animirane naljepnice</animation_stickers>
+    <app_latest_version_available_title>Dostupna je nova verzija (%s)</app_latest_version_available_title>
+    <app_latest_version_title>Imate novu verziju!</app_latest_version_title>
+    <app_not_installed_content>Preuzmite %s ili dijeliti s drugim aplikacijama</app_not_installed_content>
+    <app_not_installed_download_app>Preuzimanje %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>Podijeliti s drugima</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s nije instaliran</app_not_installed_title>
+    <app_wall_entrance_action>PROVJERI</app_wall_entrance_action>
+    <app_wall_entrance_title>Najpopularnije aplikacije danas</app_wall_entrance_title>
+    <apply_to_all>Prijavite se svima</apply_to_all>
+    <apply_to_all_clips>Primijeni na sve isječke</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>Trajanje zvuka je prekratko.</audio_too_short_after_cut_hint>
+    <authorization>Autorizacija</authorization>
+    <background>pozadine</background>
+    <background_color>Boja pozadine</background_color>
+    <basic>OSNOVNI</basic>
+    <basic_animation>OSNOVNI</basic_animation>
+    <beats>Takt</beats>
+    <billing_unavailable>Niste postavili račun Google Playa.</billing_unavailable>
+    <billing_unavailable_hw>Niste postavili Huawei račun.</billing_unavailable_hw>
+    <blank>Prazan</blank>
+    <blend>Stapanje</blend>
+    <blocked>Blokiran</blocked>
+    <blur>Blur</blur>
+    <blur_background>Blur Pozadina</blur_background>
+    <blur_bg>BLUR BG</blur_bg>
+    <blur_bg_custom_hint>Koristite svoju fotografiju kao pozadinu</blur_bg_custom_hint>
+    <blur_bg_options_merged>Spojene mogućnosti zamagljivanja i pozadine</blur_bg_options_merged>
+    <blur_off>Isključen</blur_off>
+    <blur_on>Na</blur_on>
+    <border>granicom</border>
+    <brush>kist</brush>
+    <buy>Cumpăra</buy>
+    <can_not_add_more_tracks>Nije moguće dodati više zvučnih zapisa</can_not_add_more_tracks>
+    <can_not_add_tracks>Ovdje nije moguće dodati zapise</can_not_add_tracks>
+    <cancel>Odustani</cancel>
+    <cancel_save_video_dlg_btn_no>Nema</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>YES</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Želite li otkazati video pretvaranje?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Upozorenje</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Videoisječak je prekratak za primjenu prijelaza.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>Nije moguće spremiti GIF koji traje dulje od 1 minute. Pretvorite u drugi format ili skratite trajanje za Gif.</cannot_save_gif_over_one_minute>
+    <canvas>Platno</canvas>
+    <celebrate>Proslavite</celebrate>
+    <change_beginning_too_short>Prekratko traje za navigaciju do početka videozapisa/isječka</change_beginning_too_short>
+    <change_end_too_short>Prekratko traje za navigaciju do kraja videozapisa/isječka</change_end_too_short>
+    <change_language_title>Odaberite jezik</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Ako upload video na Instagram red i to ne zbog mreže, pokušajte MPEG-4. Default je H.264, bolja kvaliteta i manja veličina.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Promjena Video Codec</change_video_codec_dialog_title>
+    <character>Lik</character>
+    <check>Provjeriti</check>
+    <choose_pay_method>Odaberite Način plaćanja</choose_pay_method>
+    <choose_video_quality_hint>Kvaliteta</choose_video_quality_hint>
+    <chroma>Chroma</chroma>
+    <classic>klasik</classic>
+    <clear>Očisti</clear>
+    <string name="clear_cache_content">Nakon čišćenja bit će spremljeno &lt;b>%s&lt;/b> memorije. To neće utjecati na vašu skicu, nastaviti?</string>
+    <clearing>Čišćenje…</clearing>
+    <click_here>Kliknite ovdje</click_here>
+    <click_track_tip>Kliknite na vremesku crtu radi uređivanja glazbe i ugađanja glasnoće videozapisa.</click_track_tip>
+    <clip_beginning>Početak isječka</clip_beginning>
+    <clip_end>Kraj isječka</clip_end>
+    <clip_mute_adjust_volume_retry>Ponovno uključite zvuk i pokušajte ponovno</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>Smanjit će se ukupno vrijeme trajanja i vremenska će se crta uskladiti s tim.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Novi je isječak kraći od trenutačnog.</clip_replace_shorter_title>
+    <clip_reversed>Video isječak je obrnut</clip_reversed>
+    <clip_video_tip>Preklopite videozapis na duljinu koju trebate uvesti.</clip_video_tip>
+    <collage>Kolaž</collage>
+    <collage_long_press_swap_photo>Dugo pritisnite da biste zamijenili fotografije.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>Možete odabrati najviše 9 fotografija!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Kliknite na fotografiju za zamjenu s</collage_swap_photo>
+    <color>Boja</color>
+    <color_palette>Paleta boja</color_palette>
+    <common_google_play_services_enable_button>Omogući</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Omogućivanje usluga Google Playa</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Instaliraj</common_google_play_services_install_button>
+    <common_google_play_services_install_text>%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem uređaju.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Preuzimanje usluga Google Playa</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Dostupnost usluga za Google Play</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Pogreška Usluga za Google Play</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s neće funkcionirati bez usluga Google Playa koje vaš uređaj ne podržava.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Ažuriraj</common_google_play_services_update_button>
+    <common_google_play_services_update_text>%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Ažuriranje usluga Google Playa</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>%1$s neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Otvori na telefonu</common_open_on_phone>
+    <common_signin_button_text>Prijava</common_signin_button_text>
+    <common_signin_button_text_long>Prijava putem Googlea</common_signin_button_text_long>
+    <contact_creator>Kontaktirajte kreatora</contact_creator>
+    <continue_buy>Nakon obnavljanja za godinu dana InShot Pro bit će produžen do %s.</continue_buy>
+    <continue_text>Nastavi</continue_text>
+    <continue_title>Nastaviti</continue_title>
+    <contrast>Kontrast</contrast>
+    <convert_failed>pretvorba nije uspjela</convert_failed>
+    <copied>Kopirano</copied>
+    <copy>Kopirati</copy>
+    <crop>Rez</crop>
+    <curve>Krivulja</curve>
+    <custom_background>Prilagodite pozadinu</custom_background>
+    <custom_sticker>Prekrivanje slika na videozapisu</custom_sticker>
+    <cut>Izrezati</cut>
+    <cut_both_ends>Podšišati</cut_both_ends>
+    <cut_import>Uvoziti</cut_import>
+    <cut_video>Izrezati video</cut_video>
+    <cutout>Kontura</cutout>
+    <day_free_trial>%s dana besplatne probne verzije</day_free_trial>
+    <days_left>Ostalo je %d dana</days_left>
+    <delete>Izbrisati</delete>
+    <delete_confirm_dialog_content>Želite li izbrisati?</delete_confirm_dialog_content>
+    <delete_drafts_note>Imajte na umu da izbrisane skice nije moguće vratiti!</delete_drafts_note>
+    <delete_material_tip>Brisanje materijala utjecat će na skice!</delete_material_tip>
+    <denoise>Smanjenje Buke</denoise>
+    <detail>pojedinost</detail>
+    <detail_mosaic>Detalj</detail_mosaic>
+    <directories>Direktorij</directories>
+    <disable_follow>Onemogući</disable_follow>
+    <discard_edit_dlg_confirm>ODBACITI</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Odbaci uređivanje?</discard_edit_dlg_title>
+    <discount>Popust</discount>
+    <discount_format>%s popusta</discount_format>
+    <dissolve>STAPANJE</dissolve>
+    <distort>Izobličenje</distort>
+    <do_not_use_tags>Nemojte koristiti oznake?</do_not_use_tags>
+    <donate>DAROVATI</donate>
+    <done>Gotovo</done>
+    <double_click_reset_zoom>Dvostruki klik za vraćanje</double_click_reset_zoom>
+    <download>Preuzimanje</download>
+    <download_failed>Preuzimanje nije uspjelo!</download_failed>
+    <download_video_progress_title>Stavljanje video s poslužitelja…</download_video_progress_title>
+    <draft>NACRT</draft>
+    <draft_clip_missing_tip>Nije moguće učitati neke isječke u skicu jer izvorne datoteke više nisu dostupne.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Za nastavak zamijenite drugim materijalima.</draft_clip_missing_tip1>
+    <draft_corrupted>Nedostaju neki elementi video projekta.</draft_corrupted>
+    <draft_delete_video_hint>Brisanje izvornog videozapisa oštetiti skicu datoteke.</draft_delete_video_hint>
+    <draft_load_err>Pogreška pri učitavanju</draft_load_err>
+    <draft_open_hint>Nakon što pokrenete novi video projekt, nacrt će biti zamijenjen.</draft_open_hint>
+    <draft_saved>Skica je spremljena</draft_saved>
+    <drafts>%s NACRTI</drafts>
+    <drafts_not_backward_compatible>Aplikacija verzija je preniska za otvaranje nacrte.</drafts_not_backward_compatible>
+    <drag_to_swap>Povucite za zamjenu</drag_to_swap>
+    <duplicate>Duplikat</duplicate>
+    <duration>Trajanje</duration>
+    <edit>Uredi</edit>
+    <edit_music_dialog_music_volume>Glazba Volume</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Video Volume</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Uredi volumen</edit_music_dialog_title>
+    <edit_volume_fade_out>Izblijediti</edit_volume_fade_out>
+    <edit_with_inshot>Uredi s InShot:</edit_with_inshot>
+    <effect>Efekti</effect>
+    <effect_count>EFEKTI: %d</effect_count>
+    <effects>Efekti</effects>
+    <emoji_activity_category>DJELATNOST</emoji_activity_category>
+    <emoji_animals_category>ŽIVOTINJE</emoji_animals_category>
+    <emoji_celebration_category>PROSLAVA</emoji_celebration_category>
+    <emoji_dialy_category>DNEVNO</emoji_dialy_category>
+    <emoji_emotion_category>emocija</emoji_emotion_category>
+    <emoji_food_category>HRANA</emoji_food_category>
+    <emoji_gesture_category>GEST</emoji_gesture_category>
+    <emoji_nature_category>PRIRODA</emoji_nature_category>
+    <emoji_objects_category>OBJEKTI</emoji_objects_category>
+    <emoji_people_category>LJUDI</emoji_people_category>
+    <emoji_recent_category>NOVIJA</emoji_recent_category>
+    <emoji_smile_category>SMAJLIĆI</emoji_smile_category>
+    <emoji_symbols_category>SIMBOLI</emoji_symbols_category>
+    <emoji_transit_category>TRANZIT</emoji_transit_category>
+    <erase>obriši</erase>
+    <error>Neuspjeh! Pokušajte ponovo!</error>
+    <examine_result>%d videozapisa nije moguće uvesti.</examine_result>
+    <exit>Prestati</exit>
+    <exit_app_discard_edit_warn>Pritisnite ponovno odbaciti</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>IZLAZ</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Pritisnite gumb za spremanje spremanje i dijeljenje vaših radova.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Izlaz prije spremanja?</exit_before_save_dlg_title>
+    <exit_tip>Pritisnite još jednom za izlaz</exit_tip>
+    <exo_controls_cc_disabled_description>Omogući titlove</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Onemogući titlove</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Brzo unaprijed</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Otvaranje prikaza na cijelom zaslonu</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Zatvaranje prikaza na cijelom zaslonu</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Sakrij kontrole playera</exo_controls_hide>
+    <exo_controls_next_description>Sljedeće</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Sakrij dodatne postavke</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Prikaži dodatne postavke</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Pauza</exo_controls_pause_description>
+    <exo_controls_play_description>Reproduciraj</exo_controls_play_description>
+    <exo_controls_playback_speed>Brzina</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Obično</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Prethodno</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Ponovi sve</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Bez ponavljanja</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Ponovi jedno</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Unatrag</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Napredak reprodukcije</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Postavke</exo_controls_settings_description>
+    <exo_controls_show>Prikaži kontrole playera</exo_controls_show>
+    <exo_controls_shuffle_off_description>Nasumična reproduk. isključena</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Nasumična reproduk. uključena</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Zaustavi</exo_controls_stop_description>
+    <exo_controls_vr_description>VR način</exo_controls_vr_description>
+    <exo_download_completed>Preuzimanje je dovršeno</exo_download_completed>
+    <exo_download_description>Preuzmi</exo_download_description>
+    <exo_download_downloading>Preuzimanje</exo_download_downloading>
+    <exo_download_failed>Preuzimanje nije uspjelo</exo_download_failed>
+    <exo_download_notification_channel_name>Preuzimanja</exo_download_notification_channel_name>
+    <exo_download_removing>Uklanjanje preuzimanja</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Mono</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Alternativna verzija</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Verzija s titlovima</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Verzija s komentarima</exo_track_role_commentary>
+    <exo_track_role_supplementary>Dopunska verzija</exo_track_role_supplementary>
+    <exo_track_selection_auto>Automatski</exo_track_selection_auto>
+    <exo_track_selection_none>Ništa</exo_track_selection_none>
+    <exo_track_selection_title_audio>Audiozapis</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Tekst</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Videozapis</exo_track_selection_title_video>
+    <exo_track_stereo>Stereo</exo_track_stereo>
+    <exo_track_surround>Okružujući zvuk</exo_track_surround>
+    <exo_track_surround_5_point_1>5.1-kanalni okružujući zvuk</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1-kanalni okružujući zvuk</exo_track_surround_7_point_1>
+    <exo_track_unknown>Nepoznato</exo_track_unknown>
+    <extract>Izdvojiti</extract>
+    <extract_audio>Izdvojite zvuk</extract_audio>
+    <extract_audio_from_video>Izdvajanje zvuka iz videa</extract_audio_from_video>
+    <extract_failed>Izdvajanje nije uspjelo</extract_failed>
+    <fade>Izblijedjeti</fade>
+    <fade_in>Probudite se</fade_in>
+    <fade_new>Iščezavanje</fade_new>
+    <failed_to_load_blur_image>Učitavanje odabrane slike nije uspjelo, odaberite ponovo!</failed_to_load_blur_image>
+    <failed_to_load_image>Ups! Nije uspjelo učitati sliku</failed_to_load_image>
+    <fast_motion>BRZO KRETANJE</fast_motion>
+    <favourite>Favorit</favourite>
+    <featured>ISTAKNUTO</featured>
+    <feedback_and_suggestion_hint>Povratne informacije i sugestije</feedback_and_suggestion_hint>
+    <feedback_not_now>NE SADA</feedback_not_now>
+    <feedback_subject>Povratne informacije da InShot</feedback_subject>
+    <feedback_submit>POŠALJI</feedback_submit>
+    <festival>Festival</festival>
+    <file_corrupted_description>File korumpiran, molimo reinstalirati InShot iz službena trgovina aplikacija.</file_corrupted_description>
+    <file_corrupted_note>File korumpiran, molimo reinstalirati InShot iz Google Play</file_corrupted_note>
+    <file_corrupted_title>Poštovani korisnik</file_corrupted_title>
+    <file_not_support>Ova vrsta datoteke nije podržana od strane InShot.</file_not_support>
+    <film>film</film>
+    <film_grain>Filmska zrnatost</film_grain>
+    <filter>FILTER</filter>
+    <filter_manage>Upravljanje filtrom</filter_manage>
+    <filter_not_supported_in_photo>Trenutačni paket efekata nije dostupan za fotografije.</filter_not_supported_in_photo>
+    <filters>Filteri</filters>
+    <first_month>Prvi mjesec</first_month>
+    <first_year>Prva godina</first_year>
+    <fit>Pristajati</fit>
+    <fit_bottom>dno</fit_bottom>
+    <fit_fit>Pristajati</fit_fit>
+    <fit_full>Puni</fit_full>
+    <fit_left>Lijevo</fit_left>
+    <fit_original>Izvorni</fit_original>
+    <fit_right>Pravo</fit_right>
+    <fit_top>vrh</fit_top>
+    <flip>Flip</flip>
+    <folder_cannot_write>Mapa se ne može pisati! Molimo izaberite drugu.</folder_cannot_write>
+    <follow_ins_to_unlock>Slijedite InShot na Instagramu za</follow_ins_to_unlock>
+    <follow_setting_title>Stavke se lijepe za okvir</follow_setting_title>
+    <follow_tiktok_to_unlock>Pretplatite se na InShot TikTok kanal</follow_tiktok_to_unlock>
+    <follow_toggle_tip>Nakon obrezivanja ili brisanja isječka stavke (snimanje, zvučni efekti, PIP, naljepnice, tekstovi, efekti) će se fiksirati na izvornom okviru</follow_toggle_tip>
+    <follow_toggle_tip_2>Nakon obrezivanja ili brisanja isječka stavke (PIP, naljepnice, tekstovi...) će se fiksirati na izvornom okviru</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Urmați-ne pe social media pentru a obține cele mai recente știri despre InShot.</follow_us_fun_media_tip>
+    <follow_us_to>Pratite nas do</follow_us_to>
+    <follow_youtube_to_unlock>Preptplatite InShot YouTube kanal na</follow_youtube_to_unlock>
+    <font>Fontovi</font>
+    <font_color>Font u boji</font_color>
+    <font_copyright_des>Ovaj font je za isključivo za privatn (nekomercijalne) korisnike.</font_copyright_des>
+    <fonts>Fontovi</fonts>
+    <for_you>Za vas</for_you>
+    <format>Format</format>
+    <frame>okvir</frame>
+    <frame_rate>Broj slika u sekundi</frame_rate>
+    <free>BESPLATNO</free>
+    <free_download>BESPLATNO PREUZIMANJE</free_download>
+    <free_unlock>Otključaj Besplatno</free_unlock>
+    <freeze>Zamrznuti</freeze>
+    <full_park_emoji>Puni emoji paket</full_park_emoji>
+    <gallery>galerije</gallery>
+    <gdpr_consent>"We never stop trying to provide a higher quality user experience in every detail. The privacy policy is updated to adapt to the EU General Data Protection Regulation (GDPR). You can read it in “Settings” - “Privacy policy”.
+
+Please click “Continue” to agree to the policy and use this app. If you don’t want personal data to be collected by the advertising providers, please go to “setting” - “Privacy Policy” page and Click “I don’t agree”."</gdpr_consent>
+    <get>Dohvati</get>
+    <gif_compress>Sažimanje GIF-a</gif_compress>
+    <string name="gif_compress_description" formatted="false">GiF veći od %s bit će automatski sažet na %s.</string>
+    <gif_supported_tip>Sada podržava i GIF.</gif_supported_tip>
+    <give_5star>Daj 5 zvjezdica</give_5star>
+    <glitch>POPUT SMETNJI</glitch>
+    <go_setting>Idi Postavke</go_setting>
+    <go_to_logout>Trajno izbrišite InShot račun</go_to_logout>
+    <go_to_the_shop>idi u trgovinu</go_to_the_shop>
+    <gps_not_installed>Provjerite jeste li instalirali zadnju verziju Google Play usluga</gps_not_installed>
+    <gradient>Gradijent</gradient>
+    <grain>Zrno</grain>
+    <has_no_photo_hint>Odaberite 1-9 fotografije za stvaranje lijepe kolaž.</has_no_photo_hint>
+    <have_purchased>Kupili ste!</have_purchased>
+    <help>Pomozite</help>
+    <help_Keyframe_desc>Dodajte ključnu sličicu vremenskoj traci za brzo označavanje početka i kraja animacije (zumiranje / pokret / rotacija / transparentnost) za naljepnicu / tekst / PIP.</help_Keyframe_desc>
+    <help_Keyframe_title>Ključna sličica</help_Keyframe_title>
+    <help_Keyframe_youtube_des>Kako se upotrebljava ključna slika za dodavanje animacije za slojevitost</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Otvorite izbornik Naljepnica, uvezite slike iz albuma ili mapa.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Sada podržava i GIF.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Dodavanje prilagođenih naljepnica</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Otvorite izbornik glazbe.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Kliknite vremensku crtu glazbe radi ugađanja glasnoće glazbe / efekata zvuka / snimanja;
+Kliknite videozapis za podešavanje originalne glasnoće videozapisa."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Ugađanje glasnoće zvuka</help_adjust_audio_volume_title>
+    <help_adjust_volume>Kliknite vremensku traku za podešavanje glasnoće videozapisa.</help_adjust_volume>
+    <help_animation_desc>Odaberi animaciju za tekst i naljepnicu.</help_animation_desc>
+    <help_animation_title>Odaberi animaciju za ulaz/izlaz</help_animation_title>
+    <help_apply_to_all_desc>Koristite mogućnost Prijavite se svima kako biste primijenili filtri, okviri, pozadinu ili glasnoću na sve isječke.</help_apply_to_all_desc>
+    <help_apply_to_all_title>Primjena uređivanje na sve isječke</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Materijali za ugođaj i efekti stapanje najbolje se slažu.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Materijali za ugođaj</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Kako dodati besplatne prekrivajuće slojeve</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Kako namjestiti izvornu glasnoću zvuka</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Otvorite izbornik Pristajati, odredite omjer pozadine za videozapis ili uklonite pozadinu videozapisa.</help_background_ratio_desc>
+    <help_background_ratio_title>Promjena omjera pozadine videozapisa</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Kako postaviti pozadinu videozapisa</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Za uređivanje odaberite jedan zvučni zapis.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Kliknite ovdje radi uređivanja glasnoće videozapisa</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Otvorite postavke InShot 
+Dodirnite \"Postavke videozapisa\" pa onemogućite opciju \"Stavke se lijepe za okvir\"."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Zašto su moje naljepnice / tekst / efekti / PIPs / snimke / zvučni efekti uklonjeni nakon brisanja isječka?</help_disable_stick_frame_title>
+    <help_edit_music>Kliknite za uređivanje glazbe.</help_edit_music>
+    <help_edit_music_desc>Kliknite na umentutu glazbu kako biste je uredili.</help_edit_music_desc>
+    <help_edit_music_title>Uređivanje glazbe</help_edit_music_title>
+    <help_extract_audio_desc>Dodirnite [Izdvajanje zvuka iz videa] u kartici glazbe i uvezite videozapis za izdvajanje zvuka.</help_extract_audio_desc>
+    <help_extract_audio_title>Izdvajanje zvuka iz videa</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Kako se zvuk izdvaja iz videozapisa</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Sav ugrađeni glazbeni sadržaj znači da je s glazbenicima potpisan licencni ugovor.
+
+Ako primite obavijest o autorskim pravima ili Instagram ukloni vaš videozapis, dodirnite „Slažem se” i upišite svoje ime i prezime te dodirnite Žalba."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Ne brinite se. Glazbenik će vas aktivno podržati u žalbi i vaš će videozapis biti vraćen u roku od 2 do 3 minute.</help_faq_album_desc_2>
+    <help_faq_album_title>Što učiniti ako Instagram ukloni moj glazbeni spot?</help_faq_album_title>
+    <help_faq_auto_update_dest>Otvorite opciju upravljanja računom u trgovini Google Play, dodirnite Postavke, u odjeljku Mrežne postavke dodirnite Automatsko ažuriranje aplikacija.</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>Kako omogućiti automatsko ažuriranje aplikacije InShot?</help_faq_auto_update_title>
+    <help_faq_four_desc>Nažalost, izbrisane nacrte nije moguće oporaviti. U potpunosti se pridržavamo pravila privatnosti i nećemo pohranjivati datoteke korisnika.</help_faq_four_desc>
+    <help_faq_four_title>Mogu li nakon brisanja vratiti nacrt?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>Tijekom postupka spremanja videozapisa generiraju se mnoge privremene datoteke koje će se automatski izbrisati čim završi postupak spremanja. Da biste to razriješili, oslobodite više prostora na svojem uređaju (NE na SD-kartici za pohranu).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Zašto na mojem telefonu ima prostora za pohranu, ali i dalje dobivam obavijest da nema dovoljno memorije?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Sve fontove imaju odgovarajuću licencu, prije upotrebe pažljivo provjerite. Neki fontovi samo su za osobnu uporabu.</help_faq_one_desc>
+    <help_faq_one_title>Mogu li koristiti ugrađene fontove u komercijalne svrhe?</help_faq_one_title>
+    <help_faq_three_desc>Ako iz galerije izbrišete bilo koju izvornu datoteku povezani će se nacrti izgubiti i nećete ih više moći otvoriti. Pokušajte oporaviti datoteke iz albuma Nedavno obrisano.</help_faq_three_desc>
+    <help_faq_three_title>Zašto dobivam poruke \"Nacrt oštećen\" ili \"Nedostaju izvorne datoteke u na crtu\"?</help_faq_three_title>
+    <help_faq_two_desc>"Potraživanja temeljem Content ID-a ne rezultiraju opomenama zbog kršenja autorskih prava, obustavama ili ukidanjem kanala. Obično su potraživanja samo za praćenje ili unovčavanje videozapisa, a ne za njegovo blokiranje. Dakle, vaš videozapis ostaje aktivan s tim potraživanjima (ali na njemu mogu biti oglasi) i dalje ga možete dijeliti s drugima.
+
+Više o potraživanjima teljem Content ID-a saznajte na https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Zašto primam tužbe u svezi autorskih prava za YouTube glazbu?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Uređivanje</help_group_video_edit_title>
+    <help_import_fonts_desc>Provjerite postoje li datoteke s fontovima na telefonu. Dodirnite gumb za uvoz da biste uvezli fontove.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Korisnici s verzijom višom od Android 11, kliknite na uvoz fonta, prijeđite na stranicu za odabir datoteke
+1.Kliknite na gornju lijevu tipku, odaberite svoju SD karticu i zatim odaberite direktorij s datotekama."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Kliknite na traku za traženje na vrhu, tražite naziv fonta ili datoteke TTF/OTF.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Uvoz fontova</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Kako se uvoze fontovi u aplikaciji InShot za Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Otvorite Google Play trgovinu. Otvorite izbornik Pretplate, odaberite pretplatu koju želite obustaviti.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Kako upravljati/obustaviti svoju pretplatu?</help_manager_subscribe_title>
+    <help_mask_desc>Dodajte masku oblika PIP slojevima.</help_mask_desc>
+    <help_mask_title>PIP Maska</help_mask_title>
+    <help_mask_youtube_des>Kako koristiti alat za masku za PIP slojeve.</help_mask_youtube_des>
+    <help_merge_video_desc>Kliknite tipku \"+\" za odabir videozapisa koje želite spojiti.</help_merge_video_desc>
+    <help_merge_video_title>Spajanje videozapisa</help_merge_video_title>
+    <help_move_music>Dugo pritisnite i povucite za podešavanje položaja.</help_move_music>
+    <help_one_time_purchase_des>Ako obavite jednokratnu kupnju, možete dobiti trajnu Premium verziju aplikacije InShot. Nema potrebe za ponovnom kupnjom u budućnosti čak i ako se u InShot dodaju novi ekskluzivni materijali ili značajke za uređivanje</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Što je Jednokratna Kupnja?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Dodirnite \"POZADINA\" da biste izrezanom dijelu dodali pozadinu</help_photo_cutout_desc>
+    <help_photo_cutout_title>Izrezivanje Fotografije</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Uzorkuje bilo koju boju i uklanja je.
+1. Koristite alat za odabir boje, odaberite boju koju želite ukloniti.
+2. Podesite snagu i sjenu kako bi je poboljšali"</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP Chroma</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Kako pomoću Chroma ukloniti pozadinu zelenog zaslona (Upute za InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Otvorite Google Play, kliknite ikonu računa u gornjem desnom kutu.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Privremeno uklonite račune koji nisu kupljeni i pokušajte ponovo vratiti kupnju u postavkama InShot.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. Ako je prijavljeno više Google računa, kliknite Upravljanje računima.</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Zašto nisam uspio vratiti kupnju nakon prijave na ispravan račun Google Playa?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Pokušajte izbrisati podatke aplikacije InShot u postavkama svojeg uređaja i zatim kliknite \"Vraćanje kupnje\" u postavkama aplikacije InShot.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Provjerite jeste li prijavljeni u SAMO JEDAN ispravan Google Play račun, a ne na više računa. Za sada Google Play ne prepoznaje više računa.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Kako vratiti kupljeno?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Ako želite zadržati trenutni projekt, odaberite \"Skica\"kad kliknete za povratak.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Možete upravljati (brisati / kopirati / preimenovati) nacrte na početnoj stranici.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Spremi / odbaci skicu</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Dodajte joj prijelaze</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Odredite trajanje fotografije</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Uvezite slike iz albuma i datoteka</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Dodirnite za izmjenu videozapisa i fotografija</help_slideshow_reminder>
+    <help_slideshow_title>Napravite dijeprojekciju</help_slideshow_title>
+    <help_slideshow_youtube_des>Kako napraviti glazbenu dijaprojekciju</help_slideshow_youtube_des>
+    <help_smooth_des>Upotrijebite alat za Glatko kako bi izradili savršeno glatni usporeni videozapis (brzina &lt; 1,0X)</help_smooth_des>
+    <help_smooth_title>Izglađivanje Usporenog Filma</help_smooth_title>
+    <help_speed_ramp_des_one>Uređivanje čvorova brzine. Dodirnite tipku \"Dodaj\"/\"Izbriši\" za dodavanje ili brisanje čvorova na krivulji.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Podešavanje povećanja brzine. Odaberite čvorove brzine i povucite okomito za podešavanje brzine videozapisa, povucite vodoravno za podešavanje trajanja brzine.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Krivulja brzine | Stvorite besprijekorni efekt povećanja brzine s InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Povećanje brzine (krivulja)</help_speed_ramp_title>
+    <help_swap_clip>Dugo pritisnite za izmjenu</help_swap_clip>
+    <help_timeline_desc>Kliknite na kvačicu za brzo kretanje do kraja isječka ili videozapisa.</help_timeline_desc>
+    <help_timeline_title>Brzo kretanje tekstovima i naljepnicama</help_timeline_title>
+    <help_transition_desc>Uvezite najmanje 2 videoisječka, kliknite na tipku između 2 minijature isječaka radi dodavanja prijelaza.</help_transition_desc>
+    <help_transition_title>Video prijelaz</help_transition_title>
+    <help_translate_content>Želio bih vam pomoći prevesti InShot. Molimo kontaktirajte me. Jezik:</help_translate_content>
+    <help_translate_subject>lokalizacija</help_translate_subject>
+    <help_volume_adjust_desc>Kliknite na minijature videozapisa kako biste otvarili brzi izbornik i povucite klizač radi ugađanja glasnoće videozapisa.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Ugađanje glasnoće videa</help_volume_adjust_title>
+    <help_youtube_title>YouTube vodiči</help_youtube_title>
+    <help_zoom_drag>Povucite ručku radi orezivanja videozapisa.</help_zoom_drag>
+    <help_zoom_timeline>"Uvećajte vremensku crtu za preciznije uređivanje.
+Umanjite za pregled cijele vremenske crte."</help_zoom_timeline>
+    <help_zoom_title>Uređivanje videozapisa</help_zoom_title>
+    <hide>Sakriti</hide>
+    <highlight>Istaknuti</highlight>
+    <hint_install_googleplay>Cumpărare a eșuat, deoarece are nevoie de Google Play Servicii, care nu este suportat de aparat.</hint_install_googleplay>
+    <hint_items_to_frame>Otvorite postavke videozapisa, možete omogućiti/onemogućiti opciju</hint_items_to_frame>
+    <hot>Popularno</hot>
+    <hua_wei_login_error>Prijava na HUAWEI nije uspjela</hua_wei_login_error>
+    <hua_wei_login_success>Uspješno se prijavite na HUAWEI</hua_wei_login_success>
+    <hue>Nijansa</hue>
+    <i_receive_effect_success>Uspješno pohranjeno u mapu \"Efekti - Uvezeno\".</i_receive_effect_success>
+    <i_receive_music_success>Uspješno pohranjeno u mapu \"Istaknuto – Uvezeno\".</i_receive_music_success>
+    <import_font>Uvoz fontova</import_font>
+    <import_video_failed_content>Video rezolucija prelazi granicu performansi vašeg telefona.</import_video_failed_content>
+    <import_video_failed_title>Uvoz nije uspio</import_video_failed_title>
+    <imported>Uvezeno</imported>
+    <imported_effect>Uvezeni efekt</imported_effect>
+    <imported_music>Uvezena glazba</imported_music>
+    <improvement_plan_desc>Trebali bismo podatke o ID-u vašeg uređaja kako bismo poboljšali korisničko iskustvo usluge InShot. Hvala.</improvement_plan_desc>
+    <improvement_plan_title>Plan poboljšanja korisničkog iskustva</improvement_plan_title>
+    <index_create_new>Izradi novi</index_create_new>
+    <index_more_take_photo>Slikaj</index_more_take_photo>
+    <index_more_take_video>Uzmi Video</index_more_take_video>
+    <index_more_use_recent>Koristite Nedavna</index_more_use_recent>
+    <info_code>Info Cod:</info_code>
+    <ins_crop_hint_1>Vaš posao bi mogao biti ošišan na Instagram.</ins_crop_hint_1>
+    <ins_crop_hint_2>Instagram omjer između 1.91: 1 do 4: 5</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Molimo dati <b>dozvolu za pohrane</b> na <b>Instagram</b> za upload tvoj fotografija.</string>
+    <install>Instaliranje</install>
+    <installed>INSTALIRANA</installed>
+    <interval>Interval</interval>
+    <invalid_delete>Posljednji isječak ne može se izbrisati.</invalid_delete>
+    <invalid_position>Odabrana pozicija nije valjana.</invalid_position>
+    <invalidate_name>Posebni simboli nisu podržani.</invalidate_name>
+    <item_already_owned>Kliknite Vratiti da biste ponovo aktivirali kupnju putem aplikacije.</item_already_owned>
+    <items>Stavke</items>
+    <join_inshot_pro>Pridružite se InShot Pro</join_inshot_pro>
+    <jump_to_font_language>Skoči na %s</jump_to_font_language>
+    <keep_draft>Zadrži nacrt</keep_draft>
+    <keep_on>Zadrži uključeno</keep_on>
+    <keyframe>KLJUČNA SLIČICA</keyframe>
+    <label>OZNAKA</label>
+    <label_quick_selection>BRZI ODABIR NALJEPNICE</label_quick_selection>
+    <last_draft>ZADNJI NACRT</last_draft>
+    <layout>raspored</layout>
+    <letter_animation>Jedno pismo</letter_animation>
+    <lib_rate_btn_go_market>Ocijenite na Google play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>Najbolje što možemo dobiti :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Recite nam svoje mišljenje</lib_rate_leave_feedback>
+    <lib_rate_like_you>I vi se nama sviđate!</lib_rate_like_you>
+    <lib_rate_oh_no>O, ne!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Hvala za povratne informacije!</lib_rate_thanks_feedback>
+    <license>Licenca</license>
+    <light>POLAGANO</light>
+    <lightness>Osvijetljenost</lightness>
+    <loading>Učitavam…</loading>
+    <loading_progress_title>Loading…</loading_progress_title>
+    <login_tip>"Povežite račun da biste
+ nastavili plaćati ili vratiti kupnje"</login_tip>
+    <login_with>Prijavite se putem %sa</login_with>
+    <login_with_wechat>Prijavljeni ste s WeChatom</login_with_wechat>
+    <logout>Izbrisati</logout>
+    <logout_hint>Ako ste se pretplatili na InShot Pro, brisanje računa izbrisat će i Inshot Pro i on se ne može vratiti !!!</logout_hint>
+    <logout_success>Izbriši se uspješno</logout_success>
+    <long_press_delete>Dugo pritisnite za brisanje</long_press_delete>
+    <long_press_preview>Dugo pritisnite za pregled.</long_press_preview>
+    <looking_for_music_content_1>Posjetite YouTube Audio Library s vašeg računala ili Mac da biste preuzeli besplatnu glazbu.</looking_for_music_content_1>
+    <looking_for_music_content_2>Potom šaljite glazbene datoteke na telefon sa sustavom Android.</looking_for_music_content_2>
+    <looking_for_music_title>Tražite glazbu za svoje videozapise?</looking_for_music_title>
+    <loop_animation>PETLJA</loop_animation>
+    <low_storage_space>Nema dovoljno memorije</low_storage_space>
+    <luminance>Osvjetljenje</luminance>
+    <manage>Upravljanje</manage>
+    <manage_subscription>Upravljajte pretplatom</manage_subscription>
+    <mask>Maska</mask>
+    <material>Materijal</material>
+    <material_selected_hint>Sadrži pro materijale.</material_selected_hint>
+    <max_hash_tags_num>Instagram omogućuje maksimalno 29 #hashtags po foto/video</max_hash_tags_num>
+    <merge_video_hint>Spajanje video profesionalno</merge_video_hint>
+    <message>Poruka</message>
+    <modern>moderan</modern>
+    <month>Mjesec</month>
+    <mood>Raspoloženje</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>Više o InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000+ više</more_emoji>
+    <string name="more_info"><u>Više informacija</u>:</string>
+    <mosaic>Mozaik</mosaic>
+    <multi_cut>Višestruki rez</multi_cut>
+    <multi_split>Višestruko podijeljeno</multi_split>
+    <music>GLAZBA</music>
+    <music_limit>Duljina trajanja glazbe</music_limit>
+    <musician>Glazbenik</musician>
+    <my_filter>Moj filtar</my_filter>
+    <my_material>Moj materijal</my_material>
+    <my_music>MOJA MUZIKA</my_music>
+    <new_>NOVI</new_>
+    <new_album>Novi album</new_album>
+    <new_five_stars_rate>Jako se trudimo pružiti vam najbolje korisničko iskustvo. Puno bi nam značilo da nas ocijenite.</new_five_stars_rate>
+    <next>SLJEDEĆA</next>
+    <no>Nema</no>
+    <no_actionable_items>Nema stavki koje je moguće uređivati</no_actionable_items>
+    <no_audio>Bez zvuka</no_audio>
+    <no_audio_files>Nema audio datoteka.</no_audio_files>
+    <no_draft_profile>Nijedan nacrt profila</no_draft_profile>
+    <no_fonts_found>Nije pronađen nijedan font</no_fonts_found>
+    <no_network>Nema mreže</no_network>
+    <no_photos_or_videos>Nema fotografija ili videozapisa</no_photos_or_videos>
+    <note_if_you_clear>Napomena ako obrišete predmemoriju, izgubit ćete postavku za isključivanje.</note_if_you_clear>
+    <off>Isključiti</off>
+    <offline_notification_text>Dodirnite za otvaranje oglasa</offline_notification_text>
+    <offline_notification_title>Pogledajte oglas koji ste spremili dok ste bili offline</offline_notification_title>
+    <offline_opt_in_confirm>U redu</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Primit ćete obavijest s vezom kad se ponovo povežete s internetom</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Ne, hvala</offline_opt_in_decline>
+    <offline_opt_in_message>Poslat ćemo vam obavijest s vezom do web-lokacije oglašivača.</offline_opt_in_message>
+    <offline_opt_in_title>Otvorite oglas kad se ponovo povežete s internetom.</offline_opt_in_title>
+    <ok>OK</ok>
+    <on>Uključi</on>
+    <only_support_effects>Podržava samo vrstu \"Efekt\"</only_support_effects>
+    <oom_tip>Out of memorije, molimo pokušajte ponovno!</oom_tip>
+    <opacity>PROZIRNOST</opacity>
+    <open_font_failed>Datoteka fonta nije važeća.</open_font_failed>
+    <open_from>OTVOREN OD</open_from>
+    <open_from_photos>Otvoreno od fotografija</open_from_photos>
+    <open_image_failed_hint>Nije uspjelo otvaranje datoteke slike, molimo pokušajte ponovno ili pokušajte joĹĄ jednu sliku</open_image_failed_hint>
+    <open_music_failed_hint>Nisam uspio otvoriti glazbenu datoteku, pokušajte ponovo ili pokušajte s drugim glazbenu datoteku</open_music_failed_hint>
+    <open_settings_0>1.Otvorite postavke</open_settings_0>
+    <open_settings_1>OTVORITE POSTAVKE</open_settings_1>
+    <open_video_failed_hint>Nisam uspio otvoriti video datoteke, molimo pokušajte ponovno ili pokušajte drugi videozapis</open_video_failed_hint>
+    <origin_pitch>Izvorna visina tona</origin_pitch>
+    <original>Izvorni</original>
+    <original_image_not_found>Izvorna slikovna datoteka više ne postoji, provjerite dvostruko.</original_image_not_found>
+    <original_music_not_found>Izvorni glazbenih datoteka više ne postoji, molim vas provjeriti.</original_music_not_found>
+    <original_video_not_found>Izvorni video datoteka više ne postoji, molim vas provjeriti.</original_video_not_found>
+    <other_app_recording>Snimanje glasa trenutno nije dostupno jer ga koriste druge aplikacije.</other_app_recording>
+    <outline>Obris</outline>
+    <page>PODERANI PAPIR</page>
+    <parent_directory>Roditelj Directory</parent_directory>
+    <part_original_files_miss_in_draft>"Nedostaje jedna izvorna datoteka ili više njih. Želite li nastaviti s uređivanjem？
+
+Nastavkom uređivanja može doći do pogrešnog postavljanja materijala u skici. 
+
+Možda možete popraviti ovu skicu kada vratite originalne datoteke iz mape [Nedavno izbrisano/Otpad]."</part_original_files_miss_in_draft>
+    <pattern>Uzorak</pattern>
+    <pay_success>Kupnja uspješno!</pay_success>
+    <permission_read_external_storage>Trebate dozvolu za pohranu.</permission_read_external_storage>
+    <photo>Foto</photo>
+    <pinch_zoom_in>Pritisnite za povećavanje.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Premašuje maksimalna ograničenja.</pip_track_reach_max>
+    <play_video_via>Igrajte video putem</play_video_via>
+    <popular>Popularan</popular>
+    <precode>PREDKODIRAJ</precode>
+    <precode_failed>Predkodiranje neuspješno.</precode_failed>
+    <precut>Prethodno izrezivanje</precut>
+    <preset>Zadana post</preset>
+    <string name="privacy_policy_content" formatted="false">Dobro došli u InShot!&lt;br>&lt;br> Naša misija je ponuditi korisnicima što bolje iskustvo na svim područjima i s vremena na vrijeme ćemo ih ažurirati. &lt;a href=%s>Uvjeti korištenja i &lt;a href=%s>Izjava o privatnosti&lt;a>&lt;br>&lt;br>Ako se slažete, kliknite \"Slažem se\" i možete započeti s korištenjem InShot.</string>
+    <string name="privacy_policy_content_gdpr">Tijekom korištenja aplikacije InShot primat ćete personalizirane reklame. Kako biste odustali otvorite stranicu &lt;a href=%s>“Izjava o privatnosti”&lt;/a> i kliknite \"I don’t agree\".&lt;br>&lt;br></string>
+    <privacy_policy_title>Uvjeti korištenja i privatnos</privacy_policy_title>
+    <pro_detail>InShot Pro detalja</pro_detail>
+    <pro_expire_time_format>Istječe %s</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro je istekao %s.</pro_expired_tip>
+    <pro_one_time_purchase>Jednokratna kupnja</pro_one_time_purchase>
+    <pro_purchase_new_desc>Pristup svim plaćenim prijelazima, efektima, naljepnicama i još mnogo toga. Nema InShot logotipa, nema oglasa.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Pristup svim plaćenim prijelazima, efektima, naljepnicama i još mnogo toga. Nema oglasa.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Vi ste već član InShot Pro.</pro_purchased_info>
+    <pro_restore_not_purchased>Vraćanje dovršeno, ali još niste član InShot Pro-a.</pro_restore_not_purchased>
+    <pro_subscription_details>DETALJI O PRETPLATI</pro_subscription_details>
+    <pro_unavailable>Verzija Pro nije dostupna</pro_unavailable>
+    <pro_unavailable_detail>Provjerite jeste li prijavljeni samo na jedan odgovarajući račun Google Play. Pomoć je dostupna u odjeljku s pitanjima i odgovorima.</pro_unavailable_detail>
+    <processing_error>Greška u obradi</processing_error>
+    <processing_progress_title>Obrada…</processing_progress_title>
+    <procode_progress>Predkodiranje...</procode_progress>
+    <promotion_subscribe_title>Posebna ponuda Holi</promotion_subscribe_title>
+    <purchase_failed>Kupnja nije uspjelo, pokušajte ponovo?</purchase_failed>
+    <purchase_failed_tile>Kupnja nije uspjela</purchase_failed_tile>
+    <range>Raspon</range>
+    <rate>Stopa</rate>
+    <rate_feedback_message>Biste li mogli napisati povratne informacije?</rate_feedback_message>
+    <rate_later>Kasnije</rate_later>
+    <rate_like>Da!</rate_like>
+    <rate_main_message>Sviđa li vam se InShot?</rate_main_message>
+    <rate_not_like>Ne baš</rate_not_like>
+    <rate_review_message>Biste li mogli napisati dobru recenziju aplikacije? Stvarno biste nam pomogli!</rate_review_message>
+    <ratio>Omjer</ratio>
+    <recent>nedavni</recent>
+    <recommend>preporuči</recommend>
+    <record>Snimanje</record>
+    <redo>Ponovi</redo>
+    <refresh_state>Vrati kupnju</refresh_state>
+    <reject>Ne, hvala</reject>
+    <remove_ads>VODENI ŽIG UKLONI I OGLASE</remove_ads>
+    <remove_ads_1>UKLONI I OGLASE</remove_ads_1>
+    <remove_ads_1_desc>Trajno uklanja banner oglase.</remove_ads_1_desc>
+    <remove_ads_desc>Trajno uklanja vodeni žig i banner oglase. Više ne morate ručno ukloniti vodeni žig.</remove_ads_desc>
+    <remove_all_ads>Ukloni oglase</remove_all_ads>
+    <remove_all_split_marks>Ukloniti sve oznake za podjelu koje ste dodali?</remove_all_split_marks>
+    <remove_pro_materials>Ukloni Pro materijale</remove_pro_materials>
+    <remove_watermark>Uklonite vodeni žig</remove_watermark>
+    <remove_watermark_ad>UKLONI OVAJ JEDNOM</remove_watermark_ad>
+    <remove_watermark_ad_2>BESPLATNO UKLONITI</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Ukloni vodeni žig i oglase</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Ukloni oglase</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Scoateți anunțuri permanent.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Scoateți filigran și anunțuri permanent.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>TRAJNO UKLONI</remove_watermark_buy>
+    <rename>Preimenuj</rename>
+    <renew_pro>Obnovi InShot Pro</renew_pro>
+    <replace>zamijeni</replace>
+    <replace_draft_des>Odbaciti nacrt i započeti novi projekt?</replace_draft_des>
+    <report>Raport</report>
+    <report_fix_description>Pošaljite nam zapisnike i audio datoteke kako bismo ispravili taj problem.</report_fix_description>
+    <report_fix_ok>SLANJE ZAPISNIKA I AUDIO DATOTEKA</report_fix_ok>
+    <report_fix_title>Obrada zvuka nije uspjela</report_fix_title>
+    <request_record_rationale>Dopustite InShot-u da koristi mikrofon na svom uređaju.</request_record_rationale>
+    <request_storage_rationale>Dopustite InShot pristupiti fotografije i medije na uređaju.</request_storage_rationale>
+    <reselect>Odabrati</reselect>
+    <reset>Poništi</reset>
+    <reset_adjust>Poništi Podesiti</reset_adjust>
+    <reset_all>Resetiraj sve</reset_all>
+    <reset_hue>Reset nijansa</reset_hue>
+    <reset_luminance>Reset osvjetljenje</reset_luminance>
+    <reset_saturation>Reset zasićenje</reset_saturation>
+    <reset_speed>Poništi brzinu</reset_speed>
+    <resolution>Razlučivost</resolution>
+    <restore>VRATITI</restore>
+    <restore_failed>Vraćanje nije uspjelo!</restore_failed>
+    <restore_ok_Pro>Vratite se uspješno i već ste član InShot Pro-a.</restore_ok_Pro>
+    <restore_ok_not_Pro>Vratite se uspješno, ali još niste član InShot Pro-a.</restore_ok_not_Pro>
+    <restore_pro_assets>Vrati Pro materijale</restore_pro_assets>
+    <restore_success>Oporavak uspjeh</restore_success>
+    <restore_trim_message>Želite li poništiti sve operacije rezanja, vratiti se na izvorni videozapis?</restore_trim_message>
+    <results_page_save_complete>Spremite završio</results_page_save_complete>
+    <results_page_share_other>Drugo</results_page_share_other>
+    <results_page_wait_video_transcoding>Pričekajte za video zaobilaženje</results_page_wait_video_transcoding>
+    <retro>Retro</retro>
+    <retry_save_title>Posljednji izvoz videozapisa nije uspio. Pokušajte ponovo?</retry_save_title>
+    <returnapp_tip>Pritisnite RETURN za InShot.</returnapp_tip>
+    <reverse>Obrnuti</reverse>
+    <rewarded_unlock_content>Pogledajte video oglas da biste besplatno otključali sve značajke(%s)</rewarded_unlock_content>
+    <rewinding>Premotavanje…</rewinding>
+    <rotate>Zakreni</rotate>
+    <rotate90>Zakreni 90°</rotate90>
+    <s1>Spremi sliku</s1>
+    <s2>Želite li dopustiti oglasu da spremi sliku u galeriju slika?</s2>
+    <s3>Prihvati</s3>
+    <s4>Odbij</s4>
+    <s5>Izradi događaj u kalendaru</s5>
+    <s6>Želite li dopustiti oglasu da izradi događaj u kalendaru?</s6>
+    <s7>Testni oglas</s7>
+    <saturation>Zasićenje</saturation>
+    <save>SPASITI</save>
+    <save_extracted_audio>Spremite izdvojenu zvučnu datoteku</save_extracted_audio>
+    <save_fail>Neuspjeh spremanja</save_fail>
+    <save_image_failed_hint>Neuspjelo spremanje datoteke slike</save_image_failed_hint>
+    <save_imported_sticker>Spremite uvezenu naljepnicu</save_imported_sticker>
+    <save_success_hint>Spremljeno do %s</save_success_hint>
+    <save_type_description>Spremite uvezene datoteke kao</save_type_description>
+    <save_video_failed_dlg_btn_retry>Pokušaj ponovno</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Odaberite drugu rezoluciju</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Molimo odaberite nižu rezoluciju ili pokušajte ponovno!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Spremanje nije uspjelo</save_video_failed_dlg_title>
+    <save_video_failed_hint>Ovaj video nije podržan zbog video ili audio kodek. Pokušajte drugi videozapis.</save_video_failed_hint>
+    <saved>Spremljeno</saved>
+    <scanning>Skeniranje…</scanning>
+    <string name="sd_card_error">Vaš put / sdcard nije dostupan. Molimo izaberite drugu put / spremište u Settings -> %s.</string>
+    <sd_card_full_tip>Nema dovoljno prostora za pohranu, izbrisati nešto prostora i pokušajte ponovo.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>SD card is not mounted!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Need about %dM space!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Za spremanje videozapisa potrebno je više prostora u predmemoriji. Oslobodite više prostora za pohranu ili smanjite razlučivost i pokušajte ponovo.</sd_card_space_not_enough_hint>
+    <search_menu_title>Pretraži</search_menu_title>
+    <see_all_material>Prikaži sve</see_all_material>
+    <select>Označi</select>
+    <select_all>Označi sve</select_all>
+    <select_one_to_edit>Odaberite jedan za uređivanje.</select_one_to_edit>
+    <select_one_track_to_edit>Odaberi videozapis za uređiv.</select_one_track_to_edit>
+    <select_photo>Odaberite Fotografije</select_photo>
+    <send_feedback>Pošaljite svoje mišljenje</send_feedback>
+    <setting_addtags_title>Dodaj oznake</setting_addtags_title>
+    <setting_clear_cache_title>Očisti predmemoriju</setting_clear_cache_title>
+    <setting_faq_title>Pitanja i odgovori</setting_faq_title>
+    <setting_feedback_title>povratna veza</setting_feedback_title>
+    <setting_follow_us>Pratite nas (Dobiti više tutorijala)</setting_follow_us>
+    <setting_general_title>opći</setting_general_title>
+    <setting_language_title>jezik</setting_language_title>
+    <setting_legal_title>Pravni</setting_legal_title>
+    <setting_localization_des>Pomozite nam prevesti InShot na vašem jeziku</setting_localization_des>
+    <setting_localization_title>lokalizacija</setting_localization_title>
+    <setting_others>Drugi</setting_others>
+    <setting_privacypolicy_title>Izjava o privatnosti</setting_privacypolicy_title>
+    <setting_rate5star_des>Ocijenite InShot 5 zvjezdica na Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Stopa 5 zvjezdica</setting_rate5star_title>
+    <setting_restore>Vraćanje kupnje</setting_restore>
+    <setting_savepath_title>spasiti put</setting_savepath_title>
+    <setting_share_title>Pozvati prijatelje</setting_share_title>
+    <setting_thankyou_title>Hvala vam što ste</setting_thankyou_title>
+    <shadow>Sjena</shadow>
+    <shadow_off>Isključen</shadow_off>
+    <shadow_on>Na</shadow_on>
+    <share>Udio</share>
+    <share_content>Olakšajte uređivanje videozapisa i fotografija na telefonu. Besplatno preuzmite InShot odmah:https://inshotapp.page.link/invite</share_content>
+    <share_subject>Odličan video i foto editor za Instagram preporučuje za vas</share_subject>
+    <sharpen>Izoštriti</sharpen>
+    <shop>Dućan</shop>
+    <short_preview>Kratki pregled</short_preview>
+    <show_read_video_ad_dlg_content>Pogledajte video oglas za uklanjanje vodenog žiga besplatno.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Pogledajte video oglas za uklanjanje vodenog žiga za ovo vrijeme</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Kopirajte i udjela</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>Povijest</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Oznake za više voli</show_tags_dlg_title>
+    <sign_out>Odjavi se</sign_out>
+    <sign_out_account>Odjavite se s računa</sign_out_account>
+    <signout_current_account>InShot Pro je istekao</signout_current_account>
+    <signout_tip_common>Jeste li sigurni da ste se odjavili s trenutnog WeChat računa?</signout_tip_common>
+    <signout_tip_pro>InShot Pro neće biti dostupan kada se odjavite s računa.</signout_tip_pro>
+    <size>veličina:%s</size>
+    <size_only>Procijenjena veličina</size_only>
+    <slice>ISJECKANO</slice>
+    <slow_motion>USPORENO KRETANJE</slow_motion>
+    <smooth>Glatko</smooth>
+    <smooth_applied>Izglađivanje usporenog filma primijenjeno</smooth_applied>
+    <smooth_cancelled>Izglađivanje usporenog filma obustavljeno</smooth_cancelled>
+    <smooth_click_preview>Kliknite znak kvačice i pregledajte efekt izglađivanja usporenog filma</smooth_click_preview>
+    <smooth_preview_effect>Pregledaj efekt izglađivanja</smooth_preview_effect>
+    <smooth_slow_speed_available>Dostupno samo kad je brzina &lt; %sx</smooth_slow_speed_available>
+    <sorry>Žao nam je</sorry>
+    <string name="space_not_enough_content">Za spremanje %2$s potrebno je &lt;b>%1$dM&lt;/b> više interne memorije (NE na SD-kartici za pohranu). Oslobodite prostor na telefonu i pokušajte ponovo.</string>
+    <space_not_enough_title>Očistite prostor na telefonu</space_not_enough_title>
+    <special_offer>Posebna ponuda</special_offer>
+    <speed>Ubrzati</speed>
+    <speed_adjusts_precode_hint>Podešavanja brzina veća od %sx zahtijevaju predkodiranje.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>Brzina koja je 10 puta veća prouzročit će gubitak izvornog zvuka.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>U zelenom području nije potrebno ponovno predkodiranje.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Ne zaključavajte zaslon niti ne otvarajte druge aplikacije.</speed_precode_warning_hint>
+    <split>Podjela</split>
+    <spring_festival_pro_title>Lunarna nova godina 50% popusta</spring_festival_pro_title>
+    <standard>Standardno</standard>
+    <start_over>POČETI ISPOČETKA</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>niste preuzeli naljepnicu</sticker_empty>
+    <sticker_text>Naljepnica</sticker_text>
+    <stickers>Naljepnice</stickers>
+    <strength>Jakost</strength>
+    <style>Stil</style>
+    <subscription_detail>"
+
+- Uz InShot Pro Unlimited pretplatu imate pristup svim značajkama i plaćenim materijalima za uređivanje uključujući naljepnice, pakete filtara i drugo. Vodeni žigovi i oglasi bit će automatski uklonjeni. 
+
+- InShot Pro Unlimited pretplata naplaćuje se mjesečno ili godišnje prema cijeni koja odgovara odabranoj tarifi. Uz to, prema potrebi u ponudi je i jednokratno plaćanje što nije jedna od tarifa pretplate. 
+
+- Plaćanje će se vršiti putem Google play računa prilikom potvrde kupovine. 
+
+- Pretplata se automatski obnavlja osim ako isključite mogućnost automatske obnove pretplate najmanje 24- sata prije kraja trenutnog razdoblja. 
+
+- Račun će biti terećen za obnovu pretplate unutar 24 sata prije kraja trenutnog razdoblja i prikazivat će trošak obnove pretplate. 
+
+- Korisnik može upravljati pretplatama, pa nakon kupovine korisnik iz postavki računa može i isključiti automatsko obnavljanje pretplate. 
+
+- Bilo koji neiskorišteni dio besplatnog probnog razdoblja, ako je u ponudi i gdje je primjenjivo, bit će izgubljen kada korisnik kupi pretplatu na tu publikaciju."</subscription_detail>
+    <subscription_detail_1>"
+
+- Uz InShot Pro Unlimited pretplatu imate pristup svim značajkama i plaćenim materijalima za uređivanje uključujući naljepnice, pakete filtara i drugo. Oglasi bit će automatski uklonjeni. 
+
+- InShot Pro Unlimited pretplata naplaćuje se mjesečno ili godišnje prema cijeni koja odgovara odabranoj tarifi. Uz to, prema potrebi u ponudi je i jednokratno plaćanje što nije jedna od tarifa pretplate. 
+
+- Plaćanje će se vršiti putem Google play računa prilikom potvrde kupovine. 
+
+- Pretplata se automatski obnavlja osim ako isključite mogućnost automatske obnove pretplate najmanje 24- sata prije kraja trenutnog razdoblja. 
+
+- Račun će biti terećen za obnovu pretplate unutar 24 sata prije kraja trenutnog razdoblja i prikazivat će trošak obnove pretplate. 
+
+- Korisnik može upravljati pretplatama, pa nakon kupovine korisnik iz postavki računa može i isključiti automatsko obnavljanje pretplate. 
+
+- Bilo koji neiskorišteni dio besplatnog probnog razdoblja, ako je u ponudi i gdje je primjenjivo, bit će izgubljen kada korisnik kupi pretplatu na tu publikaciju."</subscription_detail_1>
+    <subscription_terms>Ova se kupnja može koristiti samo na Android sustavu. Plaćanje se vrši putem trgovine Google Play nakon potvrde kupovine. Pretplata se automatski obnavlja prije kraja trenutnog razdoblja, osim ako je ne ukinete barem 24 sati unaprijed, a otkazivanje stupa na snagu na kraju tekućeg razdoblja. Svojim pretplatama možete upravljati i isključiti njihovo automatsko obnavljanje iz postavki računa trgovine Google Play. Pretplata otkazana tijekom probnog razdoblja korištenja neće biti naplaćena.</subscription_terms>
+    <subscription_terms_cn>Pretplatite se na InShot Pro, možete koristiti sve značajke i materijale za uređivanje. Vodeni žig i oglasi automatski se uklanjaju. InShot Pro se ne obnavlja automatski, obnovite ga ručno prije kraja tekućeg razdoblja. Pretplata se ne može prenijeti s Android i iOS uređaja. Ako ste ga kupili na iOS uređajima, još uvijek ga morate kupiti na Android uređajima. Nakon što se pretplatite na InShot Pro, neće biti otkaza ili povrata novca. Molimo pažljivo odlučite prije kupnje.</subscription_terms_cn>
+    <subscription_terms_cn_1>Pretplatite se na InShot Pro, možete koristiti sve značajke i materijale za uređivanje. Oglasi automatski se uklanjaju. InShot Pro se ne obnavlja automatski, obnovite ga ručno prije kraja tekućeg razdoblja. Pretplata se ne može prenijeti s Android i iOS uređaja. Ako ste ga kupili na iOS uređajima, još uvijek ga morate kupiti na Android uređajima. Nakon što se pretplatite na InShot Pro, neće biti otkaza ili povrata novca. Molimo pažljivo odlučite prije kupnje.</subscription_terms_cn_1>
+    <subscription_terms_hw>Kupnja na AppGallery može se obaviti samo putem HUAWEI IAP. Naplata će se teretiti na vaš račun nakon potvrde kupnje. Pretplate se automatski obnavljaju nakon završetka tekućeg razdoblja i utvrđuju troškove obnove. Možete upravljati svojim pretplatama i isključiti automatsku obnovu iz postavki vašeg AppGallery računa. Pretplata otkazana tijekom besplatnog probnog razdoblja neće se naplaćivati.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>Kupnja na AppGallery može se obaviti samo putem HUAWEI IAP. Naplata će se teretiti na vaš račun nakon potvrde kupnje. Možete kontaktirati Huawei korisničku službu kako biste otkazali kupnju u roku od 14 dana nakon što primite potvrdu narudžbe. Pretplate se automatski obnavljaju nakon završetka tekućeg razdoblja. Možete upravljati svojim pretplatama i isključiti automatsku obnovu iz postavki vašeg AppGallery računa.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>Kupnja na AppGallery može se obaviti samo putem HUAWEI IAP. Naplata će se teretiti na vaš račun nakon potvrde kupnje. Možete kontaktirati Huawei korisničku službu kako biste otkazali kupnju u roku od 7 dana nakon što primite potvrdu narudžbe. Pretplate se automatski obnavljaju nakon završetka tekućeg razdoblja. Možete upravljati svojim pretplatama i isključiti automatsku obnovu iz postavki vašeg AppGallery računa.</subscription_terms_hw_ru>
+    <subscription_title>InShot Pro Unlimited pretplata</subscription_title>
+    <super1>SUPER</super1>
+    <support_musician>Da biste podržali glazbenika, dodajte informacije o glazbi u opisu vašeg videozapisa.</support_musician>
+    <sure>U redu</sure>
+    <swap>razmjena</swap>
+    <swap_order_hint>Dugi pritisak i povucite za izmjenu redoslijeda</swap_order_hint>
+    <switch_account>Prebaci račun</switch_account>
+    <tags>Oznake</tags>
+    <tags_policies>Zbog nekih pravila uklonili smo sve nebitne oznake.</tags_policies>
+    <take_video>Video</take_video>
+    <tap_permissions>2.Dozvole dodirnite</tap_permissions>
+    <template>Predložak</template>
+    <terms_of_use>Uvjeti korištenja</terms_of_use>
+    <text>tekst</text>
+    <text_spacing>Razmak teksta</text_spacing>
+    <then>Tada</then>
+    <time_24_hours>Samo %s sata</time_24_hours>
+    <time_limited_offer>Vremenski ograničena ponuda</time_limited_offer>
+    <tint>Boja za kosu</tint>
+    <tip>Savjet</tip>
+    <tip_close_ad_personalization>Nakon isključenja ove opcije moguće je prikazivanje nevažnih oglasa.</tip_close_ad_personalization>
+    <title_optout_ads>Odjaviti se od oglasa temeljenih na interesu</title_optout_ads>
+    <too_many_pip_tip>Previše slojeva može prouzročiti kašnjenja i pogreške u pohrani.</too_many_pip_tip>
+    <total>Ukupno</total>
+    <track_count>PJESME: %d</track_count>
+    <tracks>Pjesme</tracks>
+    <transition>Prijelaz</transition>
+    <transition_prompt>Dodavanje ili izmjena prijelaza promijenit će trajanje videozapisa</transition_prompt>
+    <trim>Podšišati</trim>
+    <trim_clip_help_tip>Obrežite videozapis i prilagodite trajanje fotografije</trim_clip_help_tip>
+    <trim_music>Trim glazba</trim_music>
+    <turn_off>Isključi</turn_off>
+    <turn_off_tags_context>Isključite oznake opcije, a možete ga uključiti u izborniku postavki.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Isključiti</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. Uključite mikrofon</turn_on_microphone>
+    <turn_on_storage>3. Uključite Pohranu i Kameru</turn_on_storage>
+    <type_something>Upišite nešto</type_something>
+    <un_select>Poništi označeno</un_select>
+    <undo>Poništi</undo>
+    <undo_reversed>Poništi obrtanje</undo_reversed>
+    <unlock>Otključajte</unlock>
+    <unlock_all_features>Otključajte sve značajke</unlock_all_features>
+    <unlock_for_free>Otključaj Besplatno</unlock_for_free>
+    <unlock_for_sticker_tip>Pogledajte video oglas da se ovaj paket besplatno</unlock_for_sticker_tip>
+    <unlock_the_features>Otključajte značajku</unlock_the_features>
+    <unsupported_file_format>Nepodržani format datoteke</unsupported_file_format>
+    <update>Ažuriranje</update>
+    <update_files>Ažuriranje datoteka</update_files>
+    <use>KORISTITI</use>
+    <user_cancel>Otkazan</user_cancel>
+    <valid_for>Vrijedi %s</valid_for>
+    <valid_for_days>vrijedi %s dana</valid_for_days>
+    <valid_for_hours>vrijedi %s sati</valid_for_hours>
+    <value>Vrijednost</value>
+    <video>Video</video>
+    <video_background_convert_finished_hint>Vaš videa pretvaranje je učinio!</video_background_convert_finished_hint>
+    <video_beginning>Početak videozapisa</video_beginning>
+    <video_compress>Komprimiranje videozapisa</video_compress>
+    <string name="video_compress_description" formatted="false">Videozapisi veći od %s automatski se komprimiraju na %s.</string>
+    <video_continue_convert_hint>InShot se nastavlja to pretvoriti…</video_continue_convert_hint>
+    <video_conversion_failure>Neuspjeh pretvorbe</video_conversion_failure>
+    <video_convert_failed_hint>Nisam uspio pretvoriti video, pokušajte ponovno!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Nisam uspio pretvoriti video, pokušajte još jedan video!</video_convert_failed_hint2>
+    <video_cut_bar_duration>ukupno:</video_cut_bar_duration>
+    <video_end>Kraj videozapisa</video_end>
+    <video_less_than_one_second_not_allow>Ne mogu prenositi videozapise kraće od %s.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Kliknite minijaturu za više opcija</video_more_option_hint2>
+    <video_not_support>videozapisa nije podržana na ovom uređaju. Možete nastaviti koristiti fotografskih značajki.</video_not_support>
+    <video_not_support_detail>Video značajke nisu dostupne na ovom uređaju jer vaš %s. Možete nastaviti koristiti foto značajke.</video_not_support_detail>
+    <video_not_support_reasons_one>Android verzija je manji od 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU nije ARM V7 kompatibilan s Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>Video nije kompatibilna</video_not_support_title_one>
+    <video_not_support_title_two>Hardver nije kompatibilna</video_not_support_title_two>
+    <video_only>Samo Video</video_only>
+    <video_quality_customize>Prilagodite</video_quality_customize>
+    <video_quality_normal>Normalno</video_quality_normal>
+    <video_quality_recommend>Preporučiti</video_quality_recommend>
+    <video_replace_trim_info>Dovucite za odabir dijela.</video_replace_trim_info>
+    <video_resolution>Razlučivost videozapisa</video_resolution>
+    <video_setting>Postavke videozapisa</video_setting>
+    <video_sharing_progress_title1>Initializing…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>Converting Video…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>Canceling…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>Možete dodati do 20 tekstualne stavke.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">Podržavajte samo video zapise dulje od %s(>%s)</string>
+    <video_too_short_after_cut_hint>Trajanje video je prekratak.</video_too_short_after_cut_hint>
+    <vignette>Vinjeta</vignette>
+    <voice_effect>Glasovni efekt</voice_effect>
+    <voice_effect_support>Podržava samo snimanje / uvoz zvuka</voice_effect_support>
+    <volume>Volumen</volume>
+    <warmth>Toplina</warmth>
+    <warning>Upozorenje</warning>
+    <watch>gledaj</watch>
+    <what_new_audio_draft>SPREMI SKICU VIDEOZAPISA</what_new_audio_draft>
+    <what_new_audio_track>VIŠE GLAZBENIH ZAPISA</what_new_audio_track>
+    <what_new_crop_video>OBREZIVANJE VIDEA</what_new_crop_video>
+    <what_new_cut>Izreži i podijeljeni videozapis</what_new_cut>
+    <what_new_music>POPULARNA VLOG GLAZBA</what_new_music>
+    <what_new_special_effects_filters_vol1>FILTRI SPECIJALNIH EFEKATA VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>BOLJE KOLAŽ MODE</what_news_collage>
+    <what_news_filter>FILTERI ZA VIDEO MODU</what_news_filter>
+    <what_news_thanksgiving>SRETAN DAN ZAHVALNOSTI</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Dodajte prazan zaslon</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Uzorak pozadine</whats_new_background_pattern>
+    <whats_new_beats_effects>Efekti otkucaja</whats_new_beats_effects>
+    <whats_new_blend>PIP - Stapanje</whats_new_blend>
+    <whats_new_brand_music>Novo korisničko sučelje za glazbu</whats_new_brand_music>
+    <whats_new_create_gifs>Izrada GIF-ova</whats_new_create_gifs>
+    <whats_new_customer_color>Prilagođena boja</whats_new_customer_color>
+    <whats_new_cutout>Konture prilagođenih naljepnica</whats_new_cutout>
+    <whats_new_cutout_outline>Izrezivanje i obris fotografije</whats_new_cutout_outline>
+    <whats_new_effect>Vremenska crta Efekta</whats_new_effect>
+    <whats_new_effect_retro2>Novi efekti - Retro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Novi Efekti_Podjela</whats_new_effect_split>
+    <whats_new_fade_base>Novi efekti-Osnovni,Iščezavanje</whats_new_fade_base>
+    <whats_new_filter_fresh>Novi Filteri_Svježe</whats_new_filter_fresh>
+    <whats_new_frame_rate>Nova brzina kadrova</whats_new_frame_rate>
+    <whats_new_freeze_tool>Alat za zamrzavanje</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>HSL podešavanje</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Stavke se lijepe za okvir</whats_new_item_frame>
+    <whats_new_magnifier>Naljepnica za Povećanje</whats_new_magnifier>
+    <whats_new_mask>Maska za PIP</whats_new_mask>
+    <whats_new_material>Potpuno nova knjižnica građe</whats_new_material>
+    <whats_new_music_fade_in_and_out>Glazba probudite se i izblijediti</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Novi Album</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Novi efekti i prijelazi</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Novi efekti - Film</whats_new_new_effect_film>
+    <whats_new_new_filters>Novi Filtar</whats_new_new_filters>
+    <whats_new_new_transition>Novi Prijelazi - Poderani papir</whats_new_new_transition>
+    <whats_new_pip>PIP - Prekrivanje videozapisa</whats_new_pip>
+    <whats_new_smooth>Izglađivanje Usporenog Filma za Podešavanje Brzine</whats_new_smooth>
+    <whats_new_speed_curve>Krivulja brzine</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Zadana post Krivulja Brzine</whats_new_speed_curve_preset>
+    <whats_new_store>Trgovina sasvim novim materijalima</whats_new_store>
+    <whats_new_text_animation>Nova animacija teksta</whats_new_text_animation>
+    <whats_new_transition_film>Novi prijelazi - film</whats_new_transition_film>
+    <whats_new_video_full_screen>Pregledajte videozapise na cijelom zaslonu</whats_new_video_full_screen>
+    <whats_new_voice_effect>Glasovni Efekti</whats_new_voice_effect>
+    <whatsnew_advance_timeline>NAPREDNA VREMENSKA LINIJA</whatsnew_advance_timeline>
+    <whatsnew_christmas>GLAZBA ZA BOŽIĆ</whatsnew_christmas>
+    <whatsnew_color_pallette>Nova paleta boja</whatsnew_color_pallette>
+    <whatsnew_font_style>NOVI STIL SLOVA</whatsnew_font_style>
+    <whatsnew_loop_animation>Loop Animacija</whatsnew_loop_animation>
+    <whatsnew_music>NOVA GLAZBA</whatsnew_music>
+    <whatsnew_recording>Snimanje</whatsnew_recording>
+    <whatsnew_slide>MIJEŠAJTE VIDEOZAPISE S FOTOGRAFIJAMA</whatsnew_slide>
+    <whatsnew_sound_effects>Zvučni efekti</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Razdvojite Glazbu, Tekst i Naljepnicu</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>ANIMACIJA NALEPNICE</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>NALJEPNICA I TEKST ANIMACIJE</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>ANIMACIJA TEKSTA</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Neograničeni nacrti</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot Foto</widgetphoto>
+    <widgetvideo>InShot Video</widgetvideo>
+    <year>Godina</year>
+    <yes>Yes</yes>
+    <you_are_not_login>Niste se prijavili.</you_are_not_login>
+    <you_will_still_see_ads>I dalje ćete vidjeti oglase, no oni se možda ne temelje na vašim interesima.</you_will_still_see_ads>
+    <zoom>Zoom</zoom>
+    <zoom_selection>IZBOR ZA ZUMIRANJE</zoom_selection>
+</resources>

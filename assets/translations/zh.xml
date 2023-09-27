@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <string name="srl_component_falsify" formatted="false">"%s 虚假区域
+代表运行时拖动的高度【%.1fdp】 
+而不会显示任何东西"</string>
+    <srl_content_empty>SmartRefreshLayout中没有找到内容视图。您是否忘记在xml布局文件中添加？</srl_content_empty>
+    <srl_footer_failed>加载失败</srl_footer_failed>
+    <srl_footer_finish>加载完成</srl_footer_finish>
+    <srl_footer_loading>正在加载…</srl_footer_loading>
+    <srl_footer_nothing>没有更多数据了</srl_footer_nothing>
+    <srl_footer_pulling>上拉加载更多</srl_footer_pulling>
+    <srl_footer_refreshing>等待头部刷新完成…</srl_footer_refreshing>
+    <srl_footer_release>释放立即加载</srl_footer_release>
+    <srl_header_failed>刷新失败</srl_header_failed>
+    <srl_header_finish>刷新完成</srl_header_finish>
+    <srl_header_loading>等待底部加载完成…</srl_header_loading>
+    <srl_header_pulling>下拉可以刷新</srl_header_pulling>
+    <srl_header_refreshing>正在刷新…</srl_header_refreshing>
+    <srl_header_release>释放立即刷新</srl_header_release>
+    <srl_header_secondary>释放进入二楼</srl_header_secondary>
+    <srl_header_update>上次更新 M-d HH:mm</srl_header_update>
+</resources>

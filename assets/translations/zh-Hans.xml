@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro会员订阅详情</InShot_detail>
+    <abc_action_bar_home_description>转到首页</abc_action_bar_home_description>
+    <abc_action_bar_up_description>转到上一层级</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>更多选项</abc_action_menu_overflow_description>
+    <abc_action_mode_done>完成</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>查看全部</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>选择应用</abc_activitychooserview_choose_application>
+    <abc_capital_off>关闭</abc_capital_off>
+    <abc_capital_on>开启</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>Delete 键</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>Enter 键</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Fn+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>空格键</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>搜索…</abc_search_hint>
+    <abc_searchview_description_clear>清除查询</abc_searchview_description_clear>
+    <abc_searchview_description_query>搜索查询</abc_searchview_description_query>
+    <abc_searchview_description_search>搜索</abc_searchview_description_search>
+    <abc_searchview_description_submit>提交查询</abc_searchview_description_submit>
+    <abc_searchview_description_voice>语音搜索</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>分享对象</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>与%s分享</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>收起</abc_toolbar_collapse_description>
+    <account>账户</account>
+    <acknowledge>致谢</acknowledge>
+    <action_settings>设置</action_settings>
+    <actual_price_year_format>订购 %s/年</actual_price_year_format>
+    <ad_personalization>广告个性化</ad_personalization>
+    <ad_personalization_tip>"Cookie 是网络服务器在您的设备上创建的文本文件。为了提供更好的服务，我们可能会使用相关技术向您的设备发送一个或多个cookies，以收集和存储有关使用本产品的数据信息。
+
+Admob、Mopub、Vungle、Facebook、Smaato、myTarget 作为 InShot 的广告商，可能会收集您在使用我们的产品和服务期间产生的数据信息，提取您的偏好，并通过它们向您展示更符合个人需求的广告。我们不会与 Facebook 或其他方共享任何用户数据（经由 BBC 和 Privacy International 认证）。
+
+我们将使用技术手段对数据信息进行匿名化处理，匿名化后的数据信息将无法识别主体。如果您对个性化展示不感兴趣，可以通过“设置”-“广告个性化”选择关闭个性化内容的展示。请注意，关闭此选项后您可能仍会看到广告，但广告的相关性会降低。"</ad_personalization_tip>
+    <add>添加</add>
+    <add_favorite>添加为收藏</add_favorite>
+    <adjust>调节</adjust>
+    <agree>同意</agree>
+    <album>相册</album>
+    <album_sleepless_desc>当你分享视频到社交媒体时，请务必把以下信息添加到描述中。</album_sleepless_desc>
+    <alipay>支付宝</alipay>
+    <all>全部</all>
+    <all_inclusive>包含所有</all_inclusive>
+    <all_original_files_miss_in_draft>"由于原始文件缺失，草稿已损坏。
+
+从“最近删除/垃圾箱” 恢复原始文件可能会修复该草稿。"</all_original_files_miss_in_draft>
+    <all_premium>无限制使用所有付费滤镜，特效，贴纸，无广告，无InShot水印。</all_premium>
+    <all_premium_1>无限制使用所有付费滤镜，特效，贴纸，无广告。</all_premium_1>
+    <allow_camera_access>允许访问相机</allow_camera_access>
+    <allow_record_access>允许使用麦克风</allow_record_access>
+    <allow_record_access_hint>InShot 需要“麦克风”权限才能进行录音操作。</allow_record_access_hint>
+    <allow_storage_access>允许访问手机存储</allow_storage_access>
+    <allow_storage_access_hint>InShot需要访问您的图库，才能进行图片和视频编辑。</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>InShot需要访问您的图库和相机，才能进行图片和视频编辑。</allow_storage_camera_access_hint>
+    <already_InShot_pro>您已经是InShot Pro会员</already_InShot_pro>
+    <already_purchased>已是会员?</already_purchased>
+    <angle>旋转角</angle>
+    <animation_in>入场</animation_in>
+    <animation_out>出场</animation_out>
+    <animation_stickers>动画贴纸</animation_stickers>
+    <app_bilibili>哔哩哔哩</app_bilibili>
+    <app_kwai_name>快手</app_kwai_name>
+    <app_latest_version_available_title>升级为最新版本 (%s)</app_latest_version_available_title>
+    <app_latest_version_title>已是最新版本！</app_latest_version_title>
+    <app_lumii_desc>专属滤镜，曲线和HSL工具</app_lumii_desc>
+    <app_lumii_name>照片编辑&amp;图片美化&amp;特效滤镜</app_lumii_name>
+    <app_name>InShot-视频编辑</app_name>
+    <app_not_installed_content>下载 %s或与其他应用程序共享</app_not_installed_content>
+    <app_not_installed_download_app>下载 %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>与他人共享</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s没有安装</app_not_installed_title>
+    <app_tiktok_name>抖音</app_tiktok_name>
+    <app_wall_entrance_action>查看</app_wall_entrance_action>
+    <app_wall_entrance_title>今日最热应用</app_wall_entrance_title>
+    <app_wechat_circle>朋友圈</app_wechat_circle>
+    <app_wechat_name>微信</app_wechat_name>
+    <app_weibo_name>微博</app_weibo_name>
+    <apply_to_all>应用于所有</apply_to_all>
+    <apply_to_all_clips>应用于所有片段</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>音频时间太短。</audio_too_short_after_cut_hint>
+    <authorization>授权</authorization>
+    <background>背景</background>
+    <background_color>背景颜色</background_color>
+    <basic>基础</basic>
+    <basic_animation>基础动画</basic_animation>
+    <beats>节奏</beats>
+    <billing_unavailable>您尚未登录 Google Play 账号。</billing_unavailable>
+    <billing_unavailable_hw>您尚未登录华为账号。</billing_unavailable_hw>
+    <blank>空白</blank>
+    <blend>融合</blend>
+    <blocked>位置被挡住</blocked>
+    <blur>模糊</blur>
+    <blur_background>模糊背景</blur_background>
+    <blur_bg>模糊背景</blur_bg>
+    <blur_bg_custom_hint>选择我的美图作为背景</blur_bg_custom_hint>
+    <blur_bg_options_merged>模糊和背景菜单已经合并</blur_bg_options_merged>
+    <blur_off>关闭</blur_off>
+    <blur_on>打开</blur_on>
+    <border>边框</border>
+    <brush>笔刷</brush>
+    <buy>购买</buy>
+    <can_not_add_more_tracks>轨道已满，无法添加更多。</can_not_add_more_tracks>
+    <can_not_add_tracks>无法在此处添加轨道</can_not_add_tracks>
+    <cancel>取消</cancel>
+    <cancel_save_video_dlg_btn_no>否</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>是</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>取消视频保存？</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>警告</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>视频片段太短，无法添加动画。</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>无法保存超过一分钟的GIF。请转换格式或者缩短GIF时长。</cannot_save_gif_over_one_minute>
+    <canvas>画布</canvas>
+    <celebrate>庆祝</celebrate>
+    <change_beginning_too_short>时长太短无法定位到视频/片段开头。</change_beginning_too_short>
+    <change_end_too_short>时长太短无法定位到视频/片段结尾。</change_end_too_short>
+    <change_language_title>选择语言</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>如果上传视频到Instagram的失败，并且不是由网络引起的，请尝试使用MPEG-4。默认使用H.264，更好的质量和更小的存储。</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>选择视频编解码器</change_video_codec_dialog_title>
+    <character>角色</character>
+    <check>查看</check>
+    <choose_pay_method>选择支付方式</choose_pay_method>
+    <choose_video_quality_hint>质量</choose_video_quality_hint>
+    <chroma>色度键</chroma>
+    <classic>经典</classic>
+    <clear>清除</clear>
+    <string name="clear_cache_content">清除后会节省&lt;b>%s&lt;/b>内存空间，不会影响草稿文件，确定继续吗？</string>
+    <clearing>正在清除…</clearing>
+    <click_here>点这里</click_here>
+    <click_track_tip>点击时间轴编辑音乐并调节原始视频音量。</click_track_tip>
+    <clip_beginning>片段开头</clip_beginning>
+    <clip_end>片段结尾</clip_end>
+    <clip_mute_adjust_volume_retry>目前静音，请调整音量后尝试。</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>视频总时长将会减短，时间轴也会相应改变。</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>新视频片段短于当前视频片段。</clip_replace_shorter_title>
+    <clip_reversed>视频片段已倒放</clip_reversed>
+    <clip_video_tip>将视频剪辑到需要导入的长度。</clip_video_tip>
+    <collage>拼图</collage>
+    <collage_long_press_swap_photo>长按以交换图片</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>最多可以选择9张照片！</collage_select_photo_limit_hint>
+    <collage_swap_photo>点击照片交换位置</collage_swap_photo>
+    <color>颜色</color>
+    <color_palette>调色板</color_palette>
+    <common_google_play_services_enable_button>启用</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>您必须先启用 Google Play 服务，然后才能运行%1$s。</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>启用 Google Play 服务</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>安装</common_google_play_services_install_button>
+    <common_google_play_services_install_text>您的设备没有安装 Google Play 服务，因此无法运行%1$s。</common_google_play_services_install_text>
+    <common_google_play_services_install_title>获取 Google Play 服务</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Google Play 服务的适用范围</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Google Play服务出错</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s无法访问 Google Play 服务，请重试。</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>您的设备不支持 Google Play 服务，因此无法运行%1$s。</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>更新</common_google_play_services_update_button>
+    <common_google_play_services_update_text>您必须先更新 Google Play 服务，然后才能运行%1$s。</common_google_play_services_update_text>
+    <common_google_play_services_update_title>更新 Google Play 服务</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>Google Play 服务当前正在更新，因此您无法运行%1$s。</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>必须使用新版 Google Play 服务。该服务很快就会自行更新。</common_google_play_services_wear_update_text>
+    <common_open_on_phone>在手机上打开</common_open_on_phone>
+    <common_signin_button_text>登录</common_signin_button_text>
+    <common_signin_button_text_long>使用 Google 帐号登录</common_signin_button_text_long>
+    <contact_creator>联系创作者</contact_creator>
+    <continue_buy>续订一年后，您的会员将延期至%s。</continue_buy>
+    <continue_title>继续</continue_title>
+    <contrast>对比度</contrast>
+    <convert_failed>转换失败</convert_failed>
+    <copied>已复制</copied>
+    <copy>复制</copy>
+    <crop>裁剪</crop>
+    <curve>曲线</curve>
+    <custom_background>自定义背景</custom_background>
+    <custom_sticker>添加图片作贴纸</custom_sticker>
+    <cut>剪中间</cut>
+    <cut_both_ends>剪两头</cut_both_ends>
+    <cut_import>导入</cut_import>
+    <cut_video>剪切视频</cut_video>
+    <cutout>抠图</cutout>
+    <day_free_trial>%s天免费试用</day_free_trial>
+    <days_left>还剩 %d 天</days_left>
+    <delete>删除</delete>
+    <delete_confirm_dialog_content>你要删除吗？</delete_confirm_dialog_content>
+    <delete_drafts_note>请注意，草稿一旦删除就无法恢复！</delete_drafts_note>
+    <delete_material_tip>素材删除将会影响草稿文件！</delete_material_tip>
+    <denoise>降噪</denoise>
+    <detail>详情</detail>
+    <detail_mosaic>细节</detail_mosaic>
+    <directories>目录</directories>
+    <disable_follow>关闭跟随</disable_follow>
+    <discard_edit_dlg_confirm>丢弃</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>丢弃编辑？</discard_edit_dlg_title>
+    <discount>折</discount>
+    <discount_format>%s折</discount_format>
+    <dissolve>渗透</dissolve>
+    <distort>形变</distort>
+    <do_not_use_tags>不使用标签吗？</do_not_use_tags>
+    <donate>捐赠</donate>
+    <done>完成</done>
+    <double_click_reset_zoom>双击还原</double_click_reset_zoom>
+    <download>下载</download>
+    <download_failed>下载失败！</download_failed>
+    <download_free_font>下载免费中文字体</download_free_font>
+    <download_video_progress_title>正在从服务器加载视频…</download_video_progress_title>
+    <draft>草稿</draft>
+    <draft_clip_missing_tip>无法加载草稿中的某些视频，因为原始文件不可用。</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>请尝试替换为其他文件再继续编辑。</draft_clip_missing_tip1>
+    <draft_corrupted>草稿中某些内容缺失。</draft_corrupted>
+    <draft_delete_video_hint>删除原始视频有可能损坏草稿文件。</draft_delete_video_hint>
+    <draft_load_err>加载错误</draft_load_err>
+    <draft_open_hint>新建视频项目后，之前的草稿将被替换。</draft_open_hint>
+    <draft_saved>草稿已保存</draft_saved>
+    <drafts>%s 草稿</drafts>
+    <drafts_not_backward_compatible>无法打开草稿，因为应用版本太低。</drafts_not_backward_compatible>
+    <drag_to_swap>拖动交换位置</drag_to_swap>
+    <duplicate>重复</duplicate>
+    <duration>时长</duration>
+    <edit>编辑</edit>
+    <edit_music_dialog_music_volume>音乐音量</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>视频音量</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>编辑音量</edit_music_dialog_title>
+    <edit_volume_fade_out>淡出</edit_volume_fade_out>
+    <edit_with_inshot>使用InShot编辑:</edit_with_inshot>
+    <effect>特效</effect>
+    <effect_count>%d 音效</effect_count>
+    <effects>音效</effects>
+    <emoji_activity_category>活动</emoji_activity_category>
+    <emoji_animals_category>动物</emoji_animals_category>
+    <emoji_celebration_category>庆祝</emoji_celebration_category>
+    <emoji_dialy_category>日常</emoji_dialy_category>
+    <emoji_emotion_category>情感</emoji_emotion_category>
+    <emoji_food_category>食物</emoji_food_category>
+    <emoji_gesture_category>手势</emoji_gesture_category>
+    <emoji_nature_category>自然</emoji_nature_category>
+    <emoji_objects_category>物体</emoji_objects_category>
+    <emoji_people_category>人物</emoji_people_category>
+    <emoji_recent_category>最近</emoji_recent_category>
+    <emoji_smile_category>表情</emoji_smile_category>
+    <emoji_symbols_category>符号</emoji_symbols_category>
+    <emoji_transit_category>交通</emoji_transit_category>
+    <erase>橡皮擦</erase>
+    <error>失败！请重试！</error>
+    <examine_result>%d个文件无法导入。</examine_result>
+    <exit>退出</exit>
+    <exit_app_discard_edit_warn>再按一次丢弃编辑</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>退出</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>按保存按钮去保存或分享您的作品。</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>确定不保存退出？</exit_before_save_dlg_title>
+    <exit_tip>再按一次退出</exit_tip>
+    <exo_controls_cc_disabled_description>启用字幕</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>停用字幕</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>快进</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>进入全屏模式</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>退出全屏模式</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>隐藏播放器控件</exo_controls_hide>
+    <exo_controls_next_description>下一首</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>隐藏其他设置</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>显示其他设置</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>暂停</exo_controls_pause_description>
+    <exo_controls_play_description>播放</exo_controls_play_description>
+    <exo_controls_playback_speed>速度</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>正常</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>上一首</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>全部重复播放</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>不重复播放</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>重复播放一项</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>快退</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>播放进度</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>设置</exo_controls_settings_description>
+    <exo_controls_show>显示播放器控件</exo_controls_show>
+    <exo_controls_shuffle_off_description>随机播放功能已关闭</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>随机播放功能已开启</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>停止</exo_controls_stop_description>
+    <exo_controls_vr_description>VR 模式</exo_controls_vr_description>
+    <exo_download_completed>下载完毕</exo_download_completed>
+    <exo_download_description>下载</exo_download_description>
+    <exo_download_downloading>正在下载</exo_download_downloading>
+    <exo_download_failed>下载失败</exo_download_failed>
+    <exo_download_notification_channel_name>下载内容</exo_download_notification_channel_name>
+    <exo_download_removing>正在移除下载内容</exo_download_removing>
+    <exo_item_list>%1$s，%2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>单声道</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>替用轨</exo_track_role_alternate>
+    <exo_track_role_closed_captions>字幕</exo_track_role_closed_captions>
+    <exo_track_role_commentary>旁白</exo_track_role_commentary>
+    <exo_track_role_supplementary>补充轨</exo_track_role_supplementary>
+    <exo_track_selection_auto>自动</exo_track_selection_auto>
+    <exo_track_selection_none>无</exo_track_selection_none>
+    <exo_track_selection_title_audio>音频</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>文字</exo_track_selection_title_text>
+    <exo_track_selection_title_video>视频</exo_track_selection_title_video>
+    <exo_track_stereo>立体声</exo_track_stereo>
+    <exo_track_surround>环绕声</exo_track_surround>
+    <exo_track_surround_5_point_1>5.1 环绕声</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1 环绕声</exo_track_surround_7_point_1>
+    <exo_track_unknown>未知</exo_track_unknown>
+    <extract>提取音频</extract>
+    <extract_audio>提取音频</extract_audio>
+    <extract_audio_from_video>从视频中提取音乐</extract_audio_from_video>
+    <extract_failed>提取失败</extract_failed>
+    <fade>褪色</fade>
+    <fade_in>淡入</fade_in>
+    <fade_new>淡化</fade_new>
+    <failed_to_load_blur_image>所选图片加载失败，请再次选择！</failed_to_load_blur_image>
+    <failed_to_load_image>糟糕！图片加载失败</failed_to_load_image>
+    <fast_motion>快速</fast_motion>
+    <favourite>收藏</favourite>
+    <featured>推荐</featured>
+    <feedback_and_suggestion_hint>反馈和建议</feedback_and_suggestion_hint>
+    <feedback_not_now>不是现在</feedback_not_now>
+    <feedback_subject>给InShot的建议</feedback_subject>
+    <feedback_submit>提交</feedback_submit>
+    <festival>节日</festival>
+    <file_corrupted_description>文件已损坏，请从官方应用商店重新下载InShot。</file_corrupted_description>
+    <file_corrupted_note>文件已损坏，请从Google Play重新安装InShot</file_corrupted_note>
+    <file_corrupted_title>亲爱的用户</file_corrupted_title>
+    <file_not_support>这种文件格式InShot不支持.</file_not_support>
+    <film>电影</film>
+    <film_grain>电影纹理</film_grain>
+    <filter>滤镜</filter>
+    <filter_manage>滤镜管理</filter_manage>
+    <filter_not_supported_in_photo>当前特效包不适用于图片模式。</filter_not_supported_in_photo>
+    <filters>滤镜</filters>
+    <first_month>第一个月</first_month>
+    <first_year>第一年</first_year>
+    <fit>位置</fit>
+    <fit_bottom>靠下</fit_bottom>
+    <fit_fit>套框</fit_fit>
+    <fit_full>全图</fit_full>
+    <fit_left>靠左</fit_left>
+    <fit_original>无框</fit_original>
+    <fit_right>靠右</fit_right>
+    <fit_top>靠上</fit_top>
+    <flip>翻转</flip>
+    <folder_cannot_write>文件夹不能写！请选择另外一个。</folder_cannot_write>
+    <follow_ins_to_unlock>在Instagram上关注InShot</follow_ins_to_unlock>
+    <follow_setting_title>智能元素跟随</follow_setting_title>
+    <follow_tiktok_to_unlock>订阅InShot TikTok频道</follow_tiktok_to_unlock>
+    <follow_toggle_tip>剪辑或删除视频片段后，元素（录音，音效，画中画，贴纸，文字和特效）将跟随原始视频片段。</follow_toggle_tip>
+    <follow_toggle_tip_2>剪辑或删除视频片段后，元素（画中画，贴纸，文字等）将跟随原始视频片段。</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>请在社交媒体中关注我们，随时查看InShot最新消息。</follow_us_fun_media_tip>
+    <follow_us_to>关注我们</follow_us_to>
+    <follow_youtube_to_unlock>订阅InShot YouTube频道</follow_youtube_to_unlock>
+    <font>字体</font>
+    <font_color>字体颜色</font_color>
+    <font_copyright_des>这种字体仅用于个人（非商业）使用。</font_copyright_des>
+    <fonts>字体</fonts>
+    <for_you>为你推荐</for_you>
+    <format>格式</format>
+    <frame>边框</frame>
+    <frame_rate>帧率</frame_rate>
+    <free>免费</free>
+    <free_download>免费下载</free_download>
+    <free_unlock>免费解锁</free_unlock>
+    <freeze>定格</freeze>
+    <full_park_emoji>全部emoji</full_park_emoji>
+    <gallery>相册</gallery>
+    <get>下载</get>
+    <gif_compress>压缩Gif</gif_compress>
+    <string name="gif_compress_description" formatted="false">Gif超过%s将被自动压缩至%s。</string>
+    <gif_supported_tip>支持添加GIF</gif_supported_tip>
+    <give_5star>5星好评</give_5star>
+    <glitch>故障</glitch>
+    <go_setting>转到设置</go_setting>
+    <go_to_logout>彻底注销InShot账号</go_to_logout>
+    <go_to_the_shop>跳转至商店</go_to_the_shop>
+    <gps_not_installed>请确认您已安装最新版本的Google Play服务框架。</gps_not_installed>
+    <gradient>渐变色</gradient>
+    <grain>纹理</grain>
+    <has_no_photo_hint>选择1-9张照片进行拼图</has_no_photo_hint>
+    <have_purchased>您已购买成功！</have_purchased>
+    <help>帮助</help>
+    <help_Keyframe_desc>在时间轴的不同位置添加关键帧，控制贴纸/文本/画中画的缩放、位移、旋转及透明度的变化。</help_Keyframe_desc>
+    <help_Keyframe_title>关键帧</help_Keyframe_title>
+    <help_Keyframe_youtube_des>如何使用关键帧给图层添加动画</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>进入贴纸菜单，从相册或文件夹中导入图片。</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>现在我们已经支持添加GIF图片了。</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>添加自定义图片做贴纸</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>进入音乐菜单</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"点击音乐时间轴，调节音乐/音效/录音的音量。
+点击视频片段，调节视频片段原声。"</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>调节音频音量</help_adjust_audio_volume_title>
+    <help_adjust_volume>点击时间轴调节原始视频音量。</help_adjust_volume>
+    <help_animation_desc>文字&amp; 贴纸的动画可以分别控制入场和出场的效果。</help_animation_desc>
+    <help_animation_title>动画的入场和出场控制</help_animation_title>
+    <help_apply_to_all_desc>使用“应用于所有”功能，将滤镜、边框、背景或音量应用于所有视频片段。</help_apply_to_all_desc>
+    <help_apply_to_all_title>编辑应用于所有视频片段</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>氛围素材搭配融合特效效果会更好。</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>氛围素材</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>如何添加免费图层</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>如何调节原始音频音量</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>进入画布菜单，设置视频背景比例，或者去掉视频背景。</help_background_ratio_desc>
+    <help_background_ratio_title>更改视频背景比例</help_background_ratio_title>
+    <help_background_ratio_youtube_des>如何设置视频背景</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>选中一个轨道进行编辑。</help_click_to_edit_clip>
+    <help_click_to_edit_volume>点击调节视频音量。</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"进入InShot设置
+点击 \"视频设置\" ，关闭 \"智能元素跟随\" 选项。"</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>当我删除视频片段后，为什么添加的贴纸/文本/特效/画中画/录音/音效也被删除了？</help_disable_stick_frame_title>
+    <help_edit_music>点击编辑音乐。</help_edit_music>
+    <help_edit_music_desc>点击已经插入的音乐进行编辑。</help_edit_music_desc>
+    <help_edit_music_title>音乐编辑</help_edit_music_title>
+    <help_extract_audio_desc>在音乐菜单下点击[从视频中提取音乐]然后导入一个视频提取音乐。</help_extract_audio_desc>
+    <help_extract_audio_title>从视频中提取音乐</help_extract_audio_title>
+    <help_extract_audio_youtube_des>如何从视频中提取音乐</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"所有App内置音乐均已与音乐人签署授权协议。
+
+如果收到版权警告或视频被Instagram移除，请点击“我同意”并签署名字进行申诉。"</help_faq_album_desc_1>
+    <help_faq_album_desc_2>请不要担心，音乐人会积极配合协助解决申诉问题，视频将会在2到3分钟之内恢复。</help_faq_album_desc_2>
+    <help_faq_album_title>如果我的音乐视频被Instagram移除了怎么办？</help_faq_album_title>
+    <help_faq_auto_update_dest>打开Google Play账号管理，点击设置，接着在网络偏好设置下点击自动更新应用。</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>如何确保一直使用InShot最新版本？</help_faq_auto_update_title>
+    <help_faq_four_desc>很抱歉，草稿一旦删除就无法恢复了。我们严格遵守隐私政策，不会储存用户的任何文件。</help_faq_four_desc>
+    <help_faq_four_title>草稿删除之后能够恢复吗？</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>在视频保存过程中，会产生一些中间文件，视频保存成功后，这些中间文件会自动删除。为了解决这个问题，请尝试释放更多设备储存空间 (不是SD卡的储存空间)。</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>为什么我的手机有空间，仍然提示内存不足？</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>所有字体都有相应的许可证书，使用前请仔细查看。一些字体只能个人使用。</help_faq_one_desc>
+    <help_faq_one_title>App内字体可以商用吗？</help_faq_one_title>
+    <help_faq_three_desc>如果你在相册中删除了原始文件，相关的草稿就会丢失不能打开。请尝试从“最近删除”相簿中恢复原始文件。</help_faq_three_desc>
+    <help_faq_three_title>为什么会收到“草稿已损坏”或者“草稿中的原始文件缺失”的错误提示？</help_faq_three_title>
+    <help_faq_two_desc>"Content ID 版权主张不会导致侵权、频道暂停或者频道终止。通常情况下，版权主张只是用于追踪视频或者分享其收益，并不是使之禁播。所以，如果你的视频收到版权警示（可能有投放广告），你仍然可以分享它。
+
+详细了解更多关于 Content ID 版权主张，请参阅https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>为什么我会收到YouTube版权声明？</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>编辑</help_group_video_edit_title>
+    <help_import_fonts_desc>首先确保手机中有字体文件。然后点击导入按钮导入字体。</help_import_fonts_desc>
+    <help_import_fonts_desc2>"安卓11系统以及以上的用户，请点击导入字体按钮跳转至文件选择页面，
+1.点击左上角按钮，选择SD卡，然后选择存储字体的文件目录。"</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.点击顶部搜索栏，搜索字体名字或者字体格式后缀名（例如TTF/OTF）。</help_import_fonts_desc3>
+    <help_import_fonts_title_two>导入字体</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>如何在安卓InShot中导入字体</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>请打开Google Play商店，进入订阅菜单，然后选择订阅进行取消。</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>如何管理或取消我的订阅？</help_manager_subscribe_title>
+    <help_mask_desc>给画中画图层添加图形蒙版</help_mask_desc>
+    <help_mask_title>画中画蒙版</help_mask_title>
+    <help_mask_youtube_des>如何给画中画图层添加蒙版</help_mask_youtube_des>
+    <help_merge_video_desc>点击\"+\"按钮选择视频进行合并。</help_merge_video_desc>
+    <help_merge_video_title>合并视频</help_merge_video_title>
+    <help_move_music>长按并拖动来调节音乐位置。</help_move_music>
+    <help_one_time_purchase_des>如果你订阅InShot Pro会员时选择了永久购买，就可以永久使用InShot高级版本。即使InShot之后增加了新的独家素材和编辑功能，也无需再次支付任何费用。</help_one_time_purchase_des>
+    <help_one_time_purchase_title>什么是永久购买？</help_one_time_purchase_title>
+    <help_photo_cutout_desc>点击 \"背景\" 给图片抠像添加背景。</help_photo_cutout_desc>
+    <help_photo_cutout_title>图片抠像</help_photo_cutout_title>
+    <help_pip_chroma_desc>"吸取一个颜色然后选择去除。
+1. 使用取色器吸取想要的颜色，然后选择去除。
+2. 调节强度和阴影，使画面更自然。"</help_pip_chroma_desc>
+    <help_pip_chroma_title>画中画色度键</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>如何使用色度键工具抠除绿幕背景(InShot教程)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. 打开Google Play, 点击右上角的头像账号图标。</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. 暂时移除购买账号之外的其他账号，然后打开InShot设置点击恢复购买。</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. 如果此处有多个账号登录，点击管理账号。</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>为什么登录了正确的Google Play商店账号，仍然不能恢复我的购买？</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>请到设备设置中清除InShot软件数据，然后打开InShot，在App设置里面点击“恢复购买”。</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>请确保设备上只登录一个正确有效的Google Play账号，而不是多个账号，目前Google Play不能识别多个账号。</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>如何恢复我的购买？</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>如果您想要保留当前草稿，点击返回之前请选择 \"草稿\" 选项。</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>您可以在首页管理（删除/复制/重命名）草稿文件。</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>保存/删除草稿</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>添加过场动画</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>调节图片时长</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>从相册或文件中导入图片</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>点击切换图片或视频</help_slideshow_reminder>
+    <help_slideshow_title>制作幻灯片</help_slideshow_title>
+    <help_slideshow_youtube_des>如何制作幻灯片</help_slideshow_youtube_des>
+    <help_smooth_des>使用慢速插帧，让低于1倍速的视频播放更顺滑流畅。</help_smooth_des>
+    <help_smooth_title>慢速插帧</help_smooth_title>
+    <help_speed_ramp_des_one>编辑速度节点。点击\"添加\"/\"删除\"按钮添加或删除曲线上的速度节点。</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>曲线变速。选择速度节点，垂直拖动来调节速度快慢，水平拖动调节速度持续时长。</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>曲线变速 | 用InShot曲线功能轻松实现超流畅变速</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>曲线变速</help_speed_ramp_title>
+    <help_swap_clip>长按时间轴交换位置</help_swap_clip>
+    <help_timeline_desc>点击滑竿把手快速定位至视频或片段结尾。</help_timeline_desc>
+    <help_timeline_title>贴纸文字快速定位</help_timeline_title>
+    <help_transition_desc>导入至少两个视频，点击两个视频缩略图之间的小按钮，添加转场效果。</help_transition_desc>
+    <help_transition_title>过场动画设置</help_transition_title>
+    <help_translate_content>我想帮助你们翻译InShot，请联系我. 语言:</help_translate_content>
+    <help_translate_subject>本地化</help_translate_subject>
+    <help_volume_adjust_desc>点击视频缩略图打开快捷菜单，拖动滑竿调节视频音量。</help_volume_adjust_desc>
+    <help_volume_adjust_title>视频音量调节</help_volume_adjust_title>
+    <help_youtube_title>YouTube教程</help_youtube_title>
+    <help_zoom_drag>拖动把手剪辑视频。</help_zoom_drag>
+    <help_zoom_timeline>"放大时间轴，精确剪切。
+缩小预览整个时间轴。"</help_zoom_timeline>
+    <help_zoom_title>视频编辑</help_zoom_title>
+    <hide>隐藏</hide>
+    <highlight>高光</highlight>
+    <hint_install_googleplay>购买失败。购买此功能需要Google Play支持，您的设备不支持Google Play服务。</hint_install_googleplay>
+    <hint_items_to_frame>在视频设置里面，可以打开/关闭此选项。</hint_items_to_frame>
+    <hot>精选</hot>
+    <hua_wei_login_error>华为账号登录失败</hua_wei_login_error>
+    <hua_wei_login_success>华为账号登录成功</hua_wei_login_success>
+    <huawei>华为</huawei>
+    <hue>色调</hue>
+    <i_receive_effect_success>成功保存至 \"音效-已导入\" 文件夹。</i_receive_effect_success>
+    <i_receive_music_success>成功保存至 \"推荐-已导入\" 文件夹。</i_receive_music_success>
+    <import_font>导入字体</import_font>
+    <import_video_failed_content>视频分辨率超过了手机的最大限制。</import_video_failed_content>
+    <import_video_failed_title>导入失败</import_video_failed_title>
+    <imported>已导入</imported>
+    <imported_effect>已导入的音效</imported_effect>
+    <imported_music>已导入的音乐</imported_music>
+    <improvement_plan_desc>帮助 InShot 改进用户使用体验，我们需要获取您的设备 ID 。</improvement_plan_desc>
+    <improvement_plan_title>用户体验改善计划</improvement_plan_title>
+    <index_create_new>新建</index_create_new>
+    <index_more_take_photo>拍照</index_more_take_photo>
+    <index_more_take_video>录视频</index_more_take_video>
+    <index_more_use_recent>使用最近</index_more_use_recent>
+    <info_code>信息代码：</info_code>
+    <ins_crop_hint_1>你的作品可能会被instagram裁剪。</ins_crop_hint_1>
+    <ins_crop_hint_2>Instagram支持的比例是1.91:1和4:5。</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">请打开<b>Instagram</b>的<b>存储权限</b>来上传您的照片。</string>
+    <install>安装</install>
+    <installed>已安装</installed>
+    <interval>间隔</interval>
+    <invalid_delete>不能删除最后一个视频。</invalid_delete>
+    <invalid_position>所选择的位置是无效的。</invalid_position>
+    <invalidate_name>请勿输入特殊符号</invalidate_name>
+    <item_already_owned>请点击“恢复”按钮以重新激活您的购买。</item_already_owned>
+    <items>项</items>
+    <join_inshot_pro>加入InShot Pro</join_inshot_pro>
+    <jump_to_font_language>跳转至 %s</jump_to_font_language>
+    <keep_draft>保留草稿</keep_draft>
+    <keep_on>开启</keep_on>
+    <keyframe>关键帧</keyframe>
+    <label>标签</label>
+    <label_quick_selection>快捷选择标签</label_quick_selection>
+    <last_draft>之前的草稿</last_draft>
+    <layout>布局</layout>
+    <letter_animation>逐字动画</letter_animation>
+    <lib_rate_btn_go_market>到Google play发表评价</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>对我们最大的肯定 :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>可以给我们留下反馈意见吗</lib_rate_leave_feedback>
+    <lib_rate_like_you>我们也喜欢你！</lib_rate_like_you>
+    <lib_rate_oh_no>不要啊！</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>感谢反馈</lib_rate_thanks_feedback>
+    <license>许可证</license>
+    <light>光效</light>
+    <lightness>亮度</lightness>
+    <loading>加载中…</loading>
+    <loading_progress_title>加载…</loading_progress_title>
+    <login_tip>"请绑定账号
+以继续完成支付或恢复购买"</login_tip>
+    <login_with>使用%s登录</login_with>
+    <login_with_wechat>已微信登录</login_with_wechat>
+    <logout>注销</logout>
+    <logout_hint>如果您已经是InShot Pro会员，注销账号将同时删除您的会员资格，不可恢复！！！</logout_hint>
+    <logout_success>注销成功</logout_success>
+    <long_press_delete>长按进行删除。</long_press_delete>
+    <long_press_preview>长按预览</long_press_preview>
+    <looking_for_music_content_1>用电脑或Mac访问YouTube Audio Library下载免费音乐。</looking_for_music_content_1>
+    <looking_for_music_content_2>然后发送音乐文件到手机上。</looking_for_music_content_2>
+    <looking_for_music_title>在为视频寻找音乐？</looking_for_music_title>
+    <loop_animation>循环动画</loop_animation>
+    <low_storage_space>磁盘空间不足</low_storage_space>
+    <luminance>亮度</luminance>
+    <manage>管理</manage>
+    <manage_subscription>订阅管理</manage_subscription>
+    <mask>蒙版</mask>
+    <material>素材</material>
+    <material_selected_hint>所选的部分素材仅适用于Pro用户。</material_selected_hint>
+    <max_hash_tags_num>Instagram允许每张照片/视频最多添加29个#标签</max_hash_tags_num>
+    <merge_video_hint>专业级视频合并</merge_video_hint>
+    <message>信息</message>
+    <modern>现代</modern>
+    <month>月</month>
+    <mood>心情</mood>
+    <morandi>莫兰迪</morandi>
+    <more_about_inshot_pro>InShot 会员订阅详情</more_about_inshot_pro>
+    <more_emoji>1000+以上</more_emoji>
+    <string name="more_info"><u>了解详情</u>:</string>
+    <mosaic>马赛克</mosaic>
+    <multi_cut>提取剪切</multi_cut>
+    <multi_split>多重拆分</multi_split>
+    <music>音乐</music>
+    <music_limit>音乐时长限制</music_limit>
+    <musician>音乐家</musician>
+    <my_filter>我的滤镜</my_filter>
+    <my_material>我的素材</my_material>
+    <my_music>我的音乐</my_music>
+    <new_>新建</new_>
+    <new_album>新专辑</new_album>
+    <new_five_stars_rate>我们竭力创造更好的用户体验，您的支持和评价是对我们最好的认可。</new_five_stars_rate>
+    <next>下一步</next>
+    <no>否</no>
+    <no_actionable_items>当前时间无选中时间轴</no_actionable_items>
+    <no_audio>未找到音频</no_audio>
+    <no_audio_files>没有音频文件</no_audio_files>
+    <no_draft_profile>未找到草稿文件</no_draft_profile>
+    <no_fonts_found>未找到字体文件</no_fonts_found>
+    <no_network>无网络</no_network>
+    <no_photos_or_videos>未找到图片和视频文件</no_photos_or_videos>
+    <not_used>暂不使用</not_used>
+    <note_if_you_clear>请注意，如果您清除缓存，此停用设置也会一并删除。</note_if_you_clear>
+    <off>关闭</off>
+    <offline_notification_text>点按即可打开广告</offline_notification_text>
+    <offline_notification_title>查看您在离线时保存的广告</offline_notification_title>
+    <offline_opt_in_confirm>确定</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>您会在重新联网后收到包含该链接的通知</offline_opt_in_confirmation>
+    <offline_opt_in_decline>不用了</offline_opt_in_decline>
+    <offline_opt_in_message>我们会向您发送包含广告客户网站链接的通知。</offline_opt_in_message>
+    <offline_opt_in_title>在您重新联网后打开广告。</offline_opt_in_title>
+    <ok>是</ok>
+    <on>开启</on>
+    <only_support_effects>只支持 \"特效\"类型</only_support_effects>
+    <oom_tip>内存不足，请再试一次!</oom_tip>
+    <opacity>透明度</opacity>
+    <open_font_failed>无效的字体文件。</open_font_failed>
+    <open_from>打开</open_from>
+    <open_from_photos>打开照片</open_from_photos>
+    <open_image_failed_hint>打开图片失败，请重试或者选择另外一张图片</open_image_failed_hint>
+    <open_music_failed_hint>未能打开音乐文件，请重试或尝试其它音乐文件</open_music_failed_hint>
+    <open_settings_0>1.打开设置</open_settings_0>
+    <open_settings_1>打开设置</open_settings_1>
+    <open_video_failed_hint>打开视频失败，请重试或者选择另外一个视频</open_video_failed_hint>
+    <origin_pitch>原始音调</origin_pitch>
+    <original>原始</original>
+    <original_image_not_found>原始图片文件不存在，请确认。</original_image_not_found>
+    <original_music_not_found>原始音频文件不再存在，请仔细检查。</original_music_not_found>
+    <original_video_not_found>原始视频文件不再存在，请仔细检查。</original_video_not_found>
+    <other_app_recording>录音功能目前无法使用，因为被其他应用占用。</other_app_recording>
+    <outline>描边</outline>
+    <page>撕纸</page>
+    <parent_directory>父目录</parent_directory>
+    <part_original_files_miss_in_draft>"一个或多个原始文件缺失，确定继续编辑？
+
+继续编辑可能会导致草稿中的素材移位。
+
+从“最近删除/垃圾箱” 恢复原始文件可能会修复该草稿。"</part_original_files_miss_in_draft>
+    <pattern>样式</pattern>
+    <pay_success>支付成功！</pay_success>
+    <permission_read_external_storage>需要存储权限。</permission_read_external_storage>
+    <photo>图片</photo>
+    <pinch_zoom_in>使用双指缩放。</pinch_zoom_in>
+    <pip>画中画</pip>
+    <pip_track_reach_max>超过视频轨道上限</pip_track_reach_max>
+    <play_video_via>选择播放器</play_video_via>
+    <popular>热门</popular>
+    <precode>预编码</precode>
+    <precode_failed>预编码失败。</precode_failed>
+    <precut>预剪切</precut>
+    <preset>预设</preset>
+    <string name="privacy_policy_content" formatted="false">欢迎使用InShot！&lt;br>&lt;br> 我们努力在产品的各方面为用户带来优秀的使用体验。我们会不定期更新 &lt;a href=%s>《服务协议》&lt;/a> 和 &lt;a href=%s>《隐私政策》&lt;/a>.&lt;br>&lt;br>如你同意，请点击“同意”并开始使用InShot。</string>
+    <string name="privacy_policy_content_gdpr">使用InShot时您将会收到个性化广告推荐。如需退出此选项，请到&lt;a href=%s>“隐私政策”&lt;/a> 页面点击“I don’t agree”按钮.&lt;br>&lt;br></string>
+    <privacy_policy_title>服务协议和隐私政策</privacy_policy_title>
+    <string name="pro_detail">InShot会员订阅详情 ></string>
+    <pro_expire_time_format>将于%s到期。</pro_expire_time_format>
+    <pro_expired_tip>您的InShot Pro会员已于%s到期。</pro_expired_tip>
+    <pro_one_time_purchase>永久购买</pro_one_time_purchase>
+    <pro_purchase_new_desc>无限制使用所有付费过场动画，特效，贴纸等等。无 InShot 水印，无广告。</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>去除广告，无限制使用所有付费功能和素材。</pro_purchase_new_desc_1>
+    <pro_purchased_info>您已经是InShot Pro 会员。</pro_purchased_info>
+    <pro_restore_not_purchased>恢复已完成，但您还不是InShot Pro会员噢。</pro_restore_not_purchased>
+    <pro_subscription_details>订阅详情</pro_subscription_details>
+    <pro_unavailable>Pro订阅不可用</pro_unavailable>
+    <pro_unavailable_detail>请查看手机设备上是否只登录了一个正确的Google Play账号。更多详细信息和教程，请参阅InShot设置页面的Q&amp;A。</pro_unavailable_detail>
+    <processing_error>处理失败</processing_error>
+    <processing_progress_title>处理中…</processing_progress_title>
+    <procode_progress>预编码中…</procode_progress>
+    <promotion_lumii_title>单色调节控制</promotion_lumii_title>
+    <purchase_failed>购买失败，再试一次?</purchase_failed>
+    <purchase_failed_tile>购买失败</purchase_failed_tile>
+    <range>区域</range>
+    <rate>打分</rate>
+    <rate_feedback_message>请留下您的反馈意见</rate_feedback_message>
+    <rate_later>稍后</rate_later>
+    <rate_like>很喜欢！</rate_like>
+    <rate_main_message>喜欢使用InShot吗？</rate_main_message>
+    <rate_not_like>不太喜欢</rate_not_like>
+    <rate_review_message>能给我们好评吗？这对我们将非常有帮助。</rate_review_message>
+    <ratio>比例</ratio>
+    <recent>最近</recent>
+    <recommend>推荐</recommend>
+    <record>录音</record>
+    <redo>重做</redo>
+    <refresh_state>恢复购买</refresh_state>
+    <reject>不，谢谢</reject>
+    <remove_ads>去除广告和InShot Logo</remove_ads>
+    <remove_ads_1>去除广告</remove_ads_1>
+    <remove_ads_1_desc>永久去除广告。</remove_ads_1_desc>
+    <remove_ads_desc>永久去除InShot水印和广告。您不再需要手动去除InShot水印。</remove_ads_desc>
+    <remove_all_ads>去除广告</remove_all_ads>
+    <remove_all_split_marks>删除您添加的所有拆分标记？</remove_all_split_marks>
+    <remove_pro_materials>移除Pro素材</remove_pro_materials>
+    <remove_watermark>移除水印</remove_watermark>
+    <remove_watermark_ad>去除一次</remove_watermark_ad>
+    <remove_watermark_ad_2>免费去除</remove_watermark_ad_2>
+    <remove_watermark_and_ads>去除广告和InShot Logo</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>去除广告</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>永久去除广告。</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>永久去除InShot水印和广告。</remove_watermark_and_ads_des>
+    <remove_watermark_buy>永久去除</remove_watermark_buy>
+    <rename>重命名</rename>
+    <renew_pro>续订 InShot Pro</renew_pro>
+    <replace>替换</replace>
+    <replace_draft_des>确定要丢弃草稿新建一个项目吗？</replace_draft_des>
+    <report>报告</report>
+    <report_fix_description>请把日志和音频文件发送给我们，帮助我们解决问题哦。</report_fix_description>
+    <report_fix_ok>发送日志和音频文件</report_fix_ok>
+    <report_fix_title>音频处理失败</report_fix_title>
+    <request_record_rationale>打开 InShot 麦克风权限</request_record_rationale>
+    <request_storage_rationale>允许InShot访问设备上的照片和媒体。</request_storage_rationale>
+    <reselect>重新选择</reselect>
+    <reset>重置</reset>
+    <reset_adjust>重置调节</reset_adjust>
+    <reset_all>全部重置</reset_all>
+    <reset_hue>重置色调</reset_hue>
+    <reset_luminance>重置亮度</reset_luminance>
+    <reset_saturation>重置饱和度</reset_saturation>
+    <reset_speed>速度重置</reset_speed>
+    <resolution>分辨率</resolution>
+    <restore>恢复</restore>
+    <restore_failed>恢复购买失敗！</restore_failed>
+    <restore_ok_Pro>恢复成功，您已经是InShot Pro 会员。</restore_ok_Pro>
+    <restore_ok_not_Pro>恢复成功，但您还不是InShot Pro会员噢。</restore_ok_not_Pro>
+    <restore_pro_assets>恢复Pro素材</restore_pro_assets>
+    <restore_success>恢复购买成功</restore_success>
+    <restore_trim_message>取消所有剪辑和剪切操作，返回原始视频？</restore_trim_message>
+    <results_page_save_complete>保存完成</results_page_save_complete>
+    <results_page_share_other>其他</results_page_share_other>
+    <results_page_wait_video_transcoding>请等候视频转码结束</results_page_wait_video_transcoding>
+    <retro>复古</retro>
+    <retry_save_title>之前的视频导出失败，要重新导出吗？</retry_save_title>
+    <returnapp_tip>按返回键回到InShot.</returnapp_tip>
+    <reverse>倒放</reverse>
+    <rewarded_unlock_content>观看视频广告解锁全部功能 (%s)</rewarded_unlock_content>
+    <rewinding>正在倒放…</rewinding>
+    <rotate>旋转</rotate>
+    <rotate90>旋转 90°</rotate90>
+    <s1>保存图片</s1>
+    <s2>允许广告将图片存储在图库中吗？</s2>
+    <s3>接受</s3>
+    <s4>拒绝</s4>
+    <s5>创建日历活动</s5>
+    <s6>允许广告创建日历活动吗？</s6>
+    <s7>测试广告</s7>
+    <saturation>饱和度</saturation>
+    <save>保存</save>
+    <save_extracted_audio>保存提取的音频</save_extracted_audio>
+    <save_fail>保存失败</save_fail>
+    <save_image_failed_hint>保存图片失败</save_image_failed_hint>
+    <save_imported_sticker>保留本次导入的贴纸</save_imported_sticker>
+    <save_in_media_store>媒体库中</save_in_media_store>
+    <save_success_hint>已经保存到 %s</save_success_hint>
+    <save_type_description>保存导入的文件为</save_type_description>
+    <save_video_failed_dlg_btn_retry>重试</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>选择其他分辨率</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>请选择一个较低的分辨率或再试一次！</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>保存失败</save_video_failed_dlg_title>
+    <save_video_failed_hint>保存视频文件失败</save_video_failed_hint>
+    <saved>已保存</saved>
+    <scanning>正在扫描…</scanning>
+    <string name="sd_card_error">您的路径/SD卡无法访问。请选择一个不同的路径/存储在设置中 - >%s。</string>
+    <sd_card_full_tip>存储空间不足，请释放一些空间并重试。</sd_card_full_tip>
+    <sd_card_not_mounted_hint>SD卡没有挂载！</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>大约需要 %dM 空间!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>保存过程需要更多缓存空间，请释放更多手机内存或降低分辨率再重试。</sd_card_space_not_enough_hint>
+    <search_menu_title>搜索</search_menu_title>
+    <see_all_material>查看全部</see_all_material>
+    <select>选择</select>
+    <select_all>全选</select_all>
+    <select_one_to_edit>选择一个进行编辑。</select_one_to_edit>
+    <select_one_track_to_edit>选中一个轨道进行编辑</select_one_track_to_edit>
+    <select_photo>选择照片</select_photo>
+    <selfie_ad_desc>实时滤镜&amp;智能美颜，颜值爆表自拍神器- Love Selfie</selfie_ad_desc>
+    <selfie_ad_title>自拍相机 - Love Selfie</selfie_ad_title>
+    <send_feedback>反馈意见</send_feedback>
+    <setting_addtags_title>添加标签</setting_addtags_title>
+    <setting_clear_cache_title>清除缓存</setting_clear_cache_title>
+    <setting_faq_title>常见问题</setting_faq_title>
+    <setting_feedback_title>反馈</setting_feedback_title>
+    <setting_follow_tiktok>抖音</setting_follow_tiktok>
+    <setting_follow_us>关注我们 (获取更多教程)</setting_follow_us>
+    <setting_general_title>通用</setting_general_title>
+    <setting_language_title>语言</setting_language_title>
+    <setting_legal_title>法律</setting_legal_title>
+    <setting_localization_des>帮助我们翻译InShot到其他语言</setting_localization_des>
+    <setting_localization_title>本地化</setting_localization_title>
+    <setting_more_app_title>更多来自 %s</setting_more_app_title>
+    <setting_others>其他</setting_others>
+    <setting_privacypolicy_title>隐私政策</setting_privacypolicy_title>
+    <setting_rate5star_des>给InShot打五星</setting_rate5star_des>
+    <setting_rate5star_title>打分</setting_rate5star_title>
+    <setting_restore>恢复购买</setting_restore>
+    <setting_savepath_title>保存路径</setting_savepath_title>
+    <setting_share_title>邀请朋友</setting_share_title>
+    <setting_thankyou_title>致谢</setting_thankyou_title>
+    <shadow>阴影</shadow>
+    <shadow_off>关</shadow_off>
+    <shadow_on>开</shadow_on>
+    <share>分享</share>
+    <string name="share_app_content">我发现一个很好的抖音图片和视频编辑工具，工具名字是InShot. 我已经用它上传了很多很好的图片和视频到抖音. 下载链接如下:&lt;br/>&lt;br/>&lt;a href=\"https://sj.qq.com/myapp/detail.htm?apkName=com.camerasideas.instashot\">https://sj.qq.com/myapp/detail.htm?apkName=com.camerasideas.instashot</string>
+    <share_content>使用手机快速便捷编辑视频和图片。 立即免费下载InShot:https://inshotapp.page.link/invite</share_content>
+    <share_subject>推荐一个很好的Instagram图片和视频编辑工具给你</share_subject>
+    <sharpen>锐化</sharpen>
+    <shop>商店</shop>
+    <short_preview>预览</short_preview>
+    <show_read_video_ad_dlg_content>观看视频广告可以免费取消水印哦。</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>观看视频广告移除水印</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>复制并共享</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>历史记录</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>更多喜欢的标签</show_tags_dlg_title>
+    <sign_out>登出</sign_out>
+    <sign_out_account>登出账户</sign_out_account>
+    <signout_current_account>退出当前账号</signout_current_account>
+    <signout_tip_common>是否确定登出当前微信账号？</signout_tip_common>
+    <signout_tip_pro>如果退出当前微信账号InShot Pro会员也将同时登出</signout_tip_pro>
+    <size>大小:%s</size>
+    <size_only>预估大小</size_only>
+    <slice>切片</slice>
+    <slow_motion>慢速</slow_motion>
+    <smooth>慢速插帧</smooth>
+    <smooth_applied>慢速插帧已应用</smooth_applied>
+    <smooth_cancelled>慢速插帧已取消</smooth_cancelled>
+    <smooth_click_preview>点击对勾按钮预览慢速插帧效果。</smooth_click_preview>
+    <smooth_preview_effect>预览慢速效果</smooth_preview_effect>
+    <smooth_slow_speed_available>慢速插帧只适用于小于%s倍速视频。</smooth_slow_speed_available>
+    <sorry>抱歉</sorry>
+    <string name="space_not_enough_content">仍需&lt;b>%1$dM&lt;/b> 内部存储空间(不是SD卡的储存空间)来保存%2$s，请释放更多手机空间再重试。</string>
+    <space_not_enough_title>清理手机空间</space_not_enough_title>
+    <special_offer>特惠</special_offer>
+    <speed>速度</speed>
+    <speed_adjusts_precode_hint>速度调整大于%s倍需要预编码。</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>调速超过10倍会丢失原始音频。</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>绿色区域无需再次预编码。</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>请不要锁屏或切换至其他Apps。</speed_precode_warning_hint>
+    <split>拆分</split>
+    <spring_festival_pro_title>农历新年五折特惠</spring_festival_pro_title>
+    <standard>标准</standard>
+    <start_over>重新开始</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>您还未下载贴纸。</sticker_empty>
+    <sticker_text>贴纸</sticker_text>
+    <stickers>贴纸</stickers>
+    <strength>强度</strength>
+    <style>风格</style>
+    <subscription_detail>"
+
+- 加入InShot会员, 免费使用所有功能和付费素材，包括贴纸包，滤镜包等等。此外，InShot水印和广告也会自动去除。 
+
+- InShot会员订阅费用根据不同的方案按月或者按年收取。如有需要，我们也提供除现有订阅方案之外的一次性付费服务。 
+
+- 订阅付款将在确认购买时由Google Play帐户收取。 
+
+- 订阅将自动续订，除非在本期结束前至少24小时关闭自动续订。 
+
+- 账户将在本期结束前的24小时内收取续费，并确定续约费用。 
+
+- 用户可以管理订阅，并且可以在购买之后在Google Play账户设置中关闭自动续订。"</subscription_detail>
+    <subscription_detail_1>"
+
+- 加入InShot会员, 免费使用所有功能和付费素材，包括贴纸包，滤镜包等等。此外，广告也会自动去除。 
+
+- InShot会员订阅费用根据不同的方案按月或者按年收取。如有需要，我们也提供除现有订阅方案之外的一次性付费服务。 
+
+- 订阅付款将在确认购买时由Google Play帐户收取。 
+
+- 订阅将自动续订，除非在本期结束前至少24小时关闭自动续订。 
+
+- 账户将在本期结束前的24小时内收取续费，并确定续约费用。 
+
+- 用户可以管理订阅，并且可以在购买之后在Google Play账户设置中关闭自动续订。"</subscription_detail_1>
+    <subscription_terms>购买之后只能在Android系统上使用。会员订阅费用将在确认购买时由Google Play账户收取。订阅将自动续订，除非用户在本期会员结束之前24小时关闭自动续订，订阅取消在当前周期结束后生效。用户可以管理订阅，也可以在Google Play账户设置中关闭自动续订。试用期内取消订阅不会收取任何费用。</subscription_terms>
+    <subscription_terms_cn>加入InShot Pro会员后可使用所有会员功能和素材，广告和InShot水印也会自动去除。InShot Pro会员不提供自动续订，请在会员到期前手动续订。安卓和iOS订阅的会员无法通用，如您已在iOS订购会员，需要在安卓上重新订阅。您一旦确认订阅InShot Pro会员，将不予以取消订阅或退款，请谨慎决定购买。</subscription_terms_cn>
+    <subscription_terms_cn_1>加入InShot Pro会员后可使用所有会员功能和素材，广告也会自动去除。InShot Pro会员不提供自动续订，请在会员到期前手动续订。安卓和iOS订阅的会员无法通用，如您已在iOS订购会员，需要在安卓上重新订阅。您一旦确认订阅InShot Pro会员，将不予以取消订阅或退款，请谨慎决定购买。</subscription_terms_cn_1>
+    <subscription_terms_hw>在AppGallery上的购买只能通过HUAWEI IAP进行。会员订阅费用将在确认购买时从用户的帐户中扣除。订阅在本期会员结束时自动续订。用户可以管理订阅，也可以在AppGallery帐户设置中关闭自动续订。试用期内取消订阅将不会收取任何费用。</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>在AppGallery上只能通过HUAWEI IAP购买。 确认购买后，付款将从您的帐户中扣除。 您可以在收到确认订单后的14天内联系华为客服取消购买。订阅在当前周期结束后自动续订。您可以管理您的订阅，并在AppGallery帐户设置中关闭自动续订。</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>在AppGallery上只能通过HUAWEI IAP购买。 确认购买后，付款将从您的帐户中扣除。 您可以在收到确认订单后的7天内联系华为客服取消购买。订阅在当前周期结束后自动续订。您可以管理您的订阅，并在AppGallery帐户设置中关闭自动续订。</subscription_terms_hw_ru>
+    <subscription_title>InShot Pro 会员订阅</subscription_title>
+    <super1>高级</super1>
+    <support_musician>分享视频到社交网络时请附上音乐信息，以支持原创。</support_musician>
+    <sure>确定</sure>
+    <swap>交换</swap>
+    <swap_order_hint>长按并拖动交换顺序</swap_order_hint>
+    <switch_account>切换账号</switch_account>
+    <tags>标签</tags>
+    <tags_policies>由于相关政策，我们移除了一些标签。</tags_policies>
+    <take_video>录像</take_video>
+    <tap_permissions>2.点击权限</tap_permissions>
+    <template>模版</template>
+    <terms_of_use>使用条款</terms_of_use>
+    <text>文本</text>
+    <text_spacing>字间距</text_spacing>
+    <then>然后</then>
+    <time_24_hours>%s小时有效</time_24_hours>
+    <time_limited_offer>限时福利</time_limited_offer>
+    <tint>着色</tint>
+    <tip>提示</tip>
+    <tip_close_ad_personalization>关闭此选项后，页面可能会展示不相关的广告内容。</tip_close_ad_personalization>
+    <title_optout_ads>停止根据您的兴趣展示广告</title_optout_ads>
+    <too_many_pip_tip>添加过多画中画可能会导致预览不流畅或保存出错。</too_many_pip_tip>
+    <total>总共</total>
+    <track_count>%d 音乐</track_count>
+    <tracks>音乐</tracks>
+    <transition>过场</transition>
+    <transition_prompt>添加或修改过场动画之后，视频时长将会改变。</transition_prompt>
+    <trim>剪辑</trim>
+    <trim_clip_help_tip>剪辑视频并调整图片时长</trim_clip_help_tip>
+    <trim_music>剪辑音乐</trim_music>
+    <turn_off>关闭</turn_off>
+    <turn_off_tags_context>关闭标签选项后，您可以在设置菜单中重新打开。</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>关闭</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3.开启麦克风</turn_on_microphone>
+    <turn_on_storage>3. 打开手机存储和相机</turn_on_storage>
+    <type_something>请输入文字</type_something>
+    <un_select>取消选择</un_select>
+    <undo>撤消</undo>
+    <undo_reversed>取消倒放</undo_reversed>
+    <unlock>解锁</unlock>
+    <unlock_all_features>解锁全部功能</unlock_all_features>
+    <unlock_for_free>免费解锁</unlock_for_free>
+    <unlock_for_sticker_tip>观看视频广告来免费解锁这组贴纸</unlock_for_sticker_tip>
+    <unlock_the_features>解锁此功能</unlock_the_features>
+    <unsupported_file_format>视频格式不支持</unsupported_file_format>
+    <update>更新</update>
+    <update_files>更新文件</update_files>
+    <use>使用</use>
+    <user_cancel>用户取消</user_cancel>
+    <valid_for>期限为%s</valid_for>
+    <valid_for_days>仅限%s天有效</valid_for_days>
+    <valid_for_hours>仅限%s小时有效</valid_for_hours>
+    <value>参数</value>
+    <video>视频</video>
+    <video_background_convert_finished_hint>视频转换已完成</video_background_convert_finished_hint>
+    <video_beginning>视频开头</video_beginning>
+    <video_compress>视频压缩</video_compress>
+    <string name="video_compress_description" formatted="false">分辨率高于%s的视频会被自动压缩至%s。</string>
+    <video_continue_convert_hint>InShot正在转化视频…</video_continue_convert_hint>
+    <video_conversion_failure>视频转换失败</video_conversion_failure>
+    <video_convert_failed_hint>视频转换失败，请重试</video_convert_failed_hint>
+    <video_convert_failed_hint2>未能转换视频，请尝试其他的视频！</video_convert_failed_hint2>
+    <video_cut_bar_duration>总共：</video_cut_bar_duration>
+    <video_end>视频结尾</video_end>
+    <video_less_than_one_second_not_allow>暂不支持%s以下视频上传</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>点击缩略图进行更多操作</video_more_option_hint2>
+    <video_not_support>你的系统不支持视频功能，你可以继续使用图片功能。</video_not_support>
+    <video_not_support_detail>此设备不支持视频功能，因为你的%s。 你可以继续使用图片功能。</video_not_support_detail>
+    <video_not_support_reasons_one>Android版本低于4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU不兼容ARM v7或者没有Neon特性</video_not_support_reasons_two>
+    <video_not_support_title_one>视频功能不可用</video_not_support_title_one>
+    <video_not_support_title_two>硬件不兼容</video_not_support_title_two>
+    <video_only>只支持视频</video_only>
+    <video_quality_customize>自定义</video_quality_customize>
+    <video_quality_normal>正常</video_quality_normal>
+    <video_quality_recommend>推荐</video_quality_recommend>
+    <video_replace_trim_info>拖动选择视频片段</video_replace_trim_info>
+    <video_resolution>视频分辨率</video_resolution>
+    <video_setting>视频设置</video_setting>
+    <video_sharing_progress_title1>初始化…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>转换视频…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>取消…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>你最多只能添加20个文字项。</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">只支持大于 %s(>%s)的视频</string>
+    <video_too_short_after_cut_hint>视频长度太短。</video_too_short_after_cut_hint>
+    <vignette>暗角</vignette>
+    <voice_effect>变声</voice_effect>
+    <voice_effect_support>只支持录音/导入的音频</voice_effect_support>
+    <volume>音量</volume>
+    <warmth>色温</warmth>
+    <warning>警告</warning>
+    <watch>观看</watch>
+    <weichat>微信</weichat>
+    <what_new_audio_draft>保存视频草稿</what_new_audio_draft>
+    <what_new_audio_track>添加多个音乐</what_new_audio_track>
+    <what_new_crop_video>裁剪视频</what_new_crop_video>
+    <what_new_cut>剪切拆分视频</what_new_cut>
+    <what_new_music>热门Vlog音乐</what_new_music>
+    <what_new_special_effects_filters_vol1>特效滤镜 VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>拼图模式优化</what_news_collage>
+    <what_news_filter>视频添加滤镜</what_news_filter>
+    <what_news_thanksgiving>感恩节快乐</what_news_thanksgiving>
+    <whats_new_add_blank_screen>添加空白页</whats_new_add_blank_screen>
+    <whats_new_background_pattern>新增背景图案</whats_new_background_pattern>
+    <whats_new_beats_effects>节奏特效</whats_new_beats_effects>
+    <whats_new_blend>画中画 - 融合</whats_new_blend>
+    <whats_new_brand_music>全新音乐界面</whats_new_brand_music>
+    <whats_new_create_gifs>制作GIFs</whats_new_create_gifs>
+    <whats_new_customer_color>自定义取色</whats_new_customer_color>
+    <whats_new_cutout>自定义贴纸抠图</whats_new_cutout>
+    <whats_new_cutout_outline>图片抠像 &amp; 描边</whats_new_cutout_outline>
+    <whats_new_effect>特效时间轴</whats_new_effect>
+    <whats_new_effect_retro2>新增特效 - 复古2</whats_new_effect_retro2>
+    <whats_new_effect_split>新增特效_拆分</whats_new_effect_split>
+    <whats_new_fade_base>新增特效-基础动画和淡化</whats_new_fade_base>
+    <whats_new_filter_fresh>新增滤镜_清新</whats_new_filter_fresh>
+    <whats_new_frame_rate>更多帧率选择</whats_new_frame_rate>
+    <whats_new_freeze_tool>定格工具</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>HSL调节</whats_new_hsl_adjustment>
+    <whats_new_item_frame>智能元素跟随</whats_new_item_frame>
+    <whats_new_magnifier>放大镜贴纸</whats_new_magnifier>
+    <whats_new_mask>画中画形状蒙版</whats_new_mask>
+    <whats_new_material>全新素材库</whats_new_material>
+    <whats_new_music_fade_in_and_out>音乐淡入淡出</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>新增音乐专辑</whats_new_new_album>
+    <whats_new_new_effect_and_transition>新增特效和转场动画</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>新增特效 - 电影</whats_new_new_effect_film>
+    <whats_new_new_filters>新增滤镜</whats_new_new_filters>
+    <whats_new_new_transition>新增转场 - 撕纸</whats_new_new_transition>
+    <whats_new_pip>画中画 - 视频叠加</whats_new_pip>
+    <whats_new_smooth>速度调节支持慢速插帧</whats_new_smooth>
+    <whats_new_speed_curve>速度曲线</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>速度曲线预设</whats_new_speed_curve_preset>
+    <whats_new_store>全新素材商店</whats_new_store>
+    <whats_new_text_animation>新增文字动画</whats_new_text_animation>
+    <whats_new_transition_film>新增转场 - 电影</whats_new_transition_film>
+    <whats_new_video_full_screen>视频全屏预览</whats_new_video_full_screen>
+    <whats_new_voice_effect>变声</whats_new_voice_effect>
+    <whatsnew_advance_timeline>支持长时间轴</whatsnew_advance_timeline>
+    <whatsnew_christmas>圣诞歌曲</whatsnew_christmas>
+    <whatsnew_color_pallette>新调色板</whatsnew_color_pallette>
+    <whatsnew_font_style>全新字体样式</whatsnew_font_style>
+    <whatsnew_loop_animation>循环动画</whatsnew_loop_animation>
+    <whatsnew_music>新增背景配乐</whatsnew_music>
+    <whatsnew_recording>录音</whatsnew_recording>
+    <whatsnew_slide>图片视频混排</whatsnew_slide>
+    <whatsnew_sound_effects>音效</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>拆分贴纸、文字和音乐</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>贴纸动画</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>贴纸和文字动画</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>文字动画</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>保存多个草稿</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot 拍照</widgetphoto>
+    <widgetvideo>InShot 录像</widgetvideo>
+    <year>年</year>
+    <yes>是</yes>
+    <you_are_not_login>您还未登录</you_are_not_login>
+    <you_will_still_see_ads>您仍然会看到广告，但这些广告不是根据您的兴趣投放的。</you_will_still_see_ads>
+    <zoom>缩放</zoom>
+    <zoom_selection>放大选择区域</zoom_selection>
+</resources>

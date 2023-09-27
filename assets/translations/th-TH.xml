@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>รายละเอียด InShot Pro</InShot_detail>
+    <abc_action_bar_home_description>นำทางไปหน้าแรก</abc_action_bar_home_description>
+    <abc_action_bar_up_description>กลับ</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>ตัวเลือกอื่น</abc_action_menu_overflow_description>
+    <abc_action_mode_done>เสร็จ</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>ดูทั้งหมด</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>เลือกแอป</abc_activitychooserview_choose_application>
+    <abc_capital_off>ปิด</abc_capital_off>
+    <abc_capital_on>เปิด</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>ลบ</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>Enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>Space</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>เมนู+</abc_prepend_shortcut_label>
+    <abc_search_hint>ค้นหา…</abc_search_hint>
+    <abc_searchview_description_clear>ล้างคำค้นหา</abc_searchview_description_clear>
+    <abc_searchview_description_query>คำค้นหา</abc_searchview_description_query>
+    <abc_searchview_description_search>ค้นหา</abc_searchview_description_search>
+    <abc_searchview_description_submit>ส่งคำค้นหา</abc_searchview_description_submit>
+    <abc_searchview_description_voice>ค้นหาด้วยเสียง</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>แชร์กับ</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>แชร์ทาง %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>ยุบ</abc_toolbar_collapse_description>
+    <account>บัญชี</account>
+    <acknowledge>กิตติกรรมประกาศ</acknowledge>
+    <action_settings>การตั้งค่า</action_settings>
+    <actual_price_year_format>ซื้อในราคา %s/ปี</actual_price_year_format>
+    <ad_personalization>การปรับแต่งโฆษณา</ad_personalization>
+    <ad_personalization_tip>"คุกกี้คือไฟล์ข้อความที่สร้างบนอุปกรณ์ของคุณโดยเว็บเซิร์ฟเวอร์ เพื่อให้บริการที่ดีขึ้น เราอาจใช้เทคโนโลยีที่เกี่ยวข้องเพื่อส่งคุกกี้อย่างน้อยหนึ่งรายการไปยังอุปกรณ์ของคุณเพื่อรวบรวมและจัดเก็บข้อมูลเกี่ยวกับการใช้ผลิตภัณฑ์นี้
+
+Admob, Mopub, Vungle, Facebook, Smaato, myTarget ในฐานะผู้โฆษณาของ InShot อาจรวบรวมข้อมูลที่สร้างขึ้นระหว่างการใช้ผลิตภัณฑ์และบริการของเรา ดึงการตั้งค่าของคุณ และใช้เพื่อแสดงโฆษณาที่สอดคล้องกับความต้องการส่วนบุคคลของคุณมากขึ้น เราไม่แบ่งปันข้อมูลของผู้ใช้ใด ๆ กับ Facebook หรือฝ่ายอื่น ๆ (ยืนยันโดย BBC &amp; Privacy International)
+
+เราจะใช้วิธีการทางเทคนิคในการปกปิดข้อมูล และข้อมูลที่ไม่ระบุตัวตนจะไม่สามารถระบุหัวเรื่องได้ หากคุณไม่สนใจการแสดงในแบบของคุณ คุณสามารถเลือกที่จะปิดการแสดงเนื้อหาที่ปรับเปลี่ยนในแบบของคุณผ่าน การตั้งค่า-การปรับเปลี่ยนโฆษณาในแบบของคุณ โปรดทราบว่าคุณอาจยังคงเห็นโฆษณาหลังจากปิดตัวเลือกนี้ แต่ความเกี่ยวข้องของโฆษณาจะลดลง"</ad_personalization_tip>
+    <add>เพิ่ม</add>
+    <add_favorite>เพิ่มในรายการโปรดของคุณ</add_favorite>
+    <adjust>ปรับ</adjust>
+    <agree>ยอมรับ</agree>
+    <album>อัลบั้ม</album>
+    <album_sleepless_desc>โปรดอย่าลืมเพิ่มข้อมูลต่อไปนี้ลงในรายละเอียดของวิดีโอเมื่อแชร์สาธารณะ</album_sleepless_desc>
+    <all>ทั้งหมด</all>
+    <all_inclusive>รวมทุกอย่าง</all_inclusive>
+    <all_original_files_miss_in_draft>"แบบร่างเสียหาย เพราะไฟล์ต้นฉบับทั้งหมดหายไป 
+
+กู้คืนไฟล์ต้นฉบับจาก [ที่ถูกลบล่าสุด/ถีงขยะ] อาจซ่อมแซมแบบร่างนี้ได้"</all_original_files_miss_in_draft>
+    <all_premium>การเข้าถึงตัวกรองพรีเมี่ยมทั้งหมด, ผล, สติ๊กเกอร์, แบบอักษร ไม่มีลายน้ำไม่มีโฆษณา ลบลายน้ำและโฆษณา</all_premium>
+    <all_premium_1>การเข้าถึงตัวกรองพรีเมี่ยมทั้งหมด, ผล, สติ๊กเกอร์, แบบอักษร ไม่มีโฆษณา ลบโฆษณา</all_premium_1>
+    <allow_camera_access>อนุญาตการเข้าถึงกล้อง</allow_camera_access>
+    <allow_record_access>อนุญาตการเข้าถึงไมโครโฟน</allow_record_access>
+    <allow_record_access_hint>InShot ต้องได้รับอนุญาตจากไมโครโฟนในการบันทึกเสียง</allow_record_access_hint>
+    <allow_storage_access>อนุญาตการเข้าถึงที่เก็บข้อมูล</allow_storage_access>
+    <allow_storage_access_hint>ในการสร้างวิดีโอและรูปภาพที่สวยงาม InShot ต้องการเข้าถึงไลบรารีรูปภาพของคุณ</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>ในการสร้างวิดีโอและรูปภาพที่สวยงาม InShot ต้องการเข้าถึงไลบรารีรูปภาพของคุณและกล้อง</allow_storage_camera_access_hint>
+    <already_InShot_pro>คุณเป็นสมาชิก InShot Pro แล้ว</already_InShot_pro>
+    <already_purchased>เคยซื้อแล้วใช่ไหม</already_purchased>
+    <angle>มุม</angle>
+    <animation_in>เข้า</animation_in>
+    <animation_out>ออก</animation_out>
+    <animation_stickers>สติกเกอร์เคลื่อนไหว</animation_stickers>
+    <app_latest_version_available_title>มีเวอร์ชันล่าสุดให้ใช้ (%s)</app_latest_version_available_title>
+    <app_latest_version_title>คุณกำลังใช้เวอร์ชันล่าสุด!</app_latest_version_title>
+    <app_not_installed_content>ดาวน์โหลด %s หรือแชร์ผ่านแอพอื่น</app_not_installed_content>
+    <app_not_installed_download_app>ดาวน์โหลด %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>แชร์ผ่านแอพอื่น</app_not_installed_share_with_other_app>
+    <app_not_installed_title>ยังไม่ได้ติดตั้ง %s</app_not_installed_title>
+    <app_wall_entrance_action>เช็คเอาท์</app_wall_entrance_action>
+    <app_wall_entrance_title>แอปยอดนิยมวันนี้</app_wall_entrance_title>
+    <apply_to_all>นำไปใช้กับทุกคน</apply_to_all>
+    <apply_to_all_clips>ใช้กับคลิปทั้งหมด</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>ระยะเวลาเสียงสั้นเกินไป</audio_too_short_after_cut_hint>
+    <authorization>การอนุญาต</authorization>
+    <background>พื้นหลัง</background>
+    <background_color>สีพื้นหลัง</background_color>
+    <basic>ขั้นพื้นฐาน</basic>
+    <basic_animation>ขั้นพื้นฐาน</basic_animation>
+    <beats>จังหวะ</beats>
+    <billing_unavailable>คุณไม่ได้ตั้งค่าบัญชี Google Play ใด ๆ</billing_unavailable>
+    <billing_unavailable_hw>คุณยังไม่ได้ตั้งค่าบัญชี Huawei</billing_unavailable_hw>
+    <blank>ว่างเปล่า</blank>
+    <blend>ผสมผสาน</blend>
+    <blocked>อุดตัน</blocked>
+    <blur>เบลอ</blur>
+    <blur_background>เบลอพื้นหลัง</blur_background>
+    <blur_bg>เบลอพื้นหลัง</blur_bg>
+    <blur_bg_custom_hint>ใช้รูปภาพของคุณเป็นพื้นหลัง</blur_bg_custom_hint>
+    <blur_bg_options_merged>เบลอ และพื้นหลังตัวเลือกจะถูกผสาน</blur_bg_options_merged>
+    <blur_off>ปิด</blur_off>
+    <blur_on>เมื่อวันที่</blur_on>
+    <border>ขอบ</border>
+    <brush>แปรง</brush>
+    <buy>ซื้อ</buy>
+    <can_not_add_more_tracks>ไม่สามารถเพิ่มแทร็กเสียงอีกได้</can_not_add_more_tracks>
+    <can_not_add_tracks>ไม่สามารถเพิ่มแทร็กได้ที่นี่</can_not_add_tracks>
+    <cancel>ยกเลิก</cancel>
+    <cancel_save_video_dlg_btn_no>ไม่ใช่</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>ใช่</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>คุณต้องการยกเลิกการแปลงวิดีโอหรือไม่?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>คำเตือน</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>คลิปนี้สั้นเกินไปที่จะใช้การเปลี่ยนแปลง</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>ไม่สามารถบันทึก GIF ได้นานกว่า 1 นาที โปรดสลับรูปแบบหรือลดระยะเวลาของ Gif</cannot_save_gif_over_one_minute>
+    <canvas>ผ้าใบ</canvas>
+    <celebrate>ฉลอง</celebrate>
+    <change_beginning_too_short>ความยาวสั้นเกินกว่าที่จะเลื่อนไปยังต้นวีดีโอ/คลิป</change_beginning_too_short>
+    <change_end_too_short>ความยาวสั้นเกินกว่าที่จะเลื่อนไปยังท้ายวีดีโอ/คลิป</change_end_too_short>
+    <change_language_title>เลือกภาษา</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>หากคุณไม่สามารถอัพโหลดวิดีโอไปยัง Instagram โดยไม่ได้มีสาเหตุจากเครือข่าย โปรดลอง MPEG-4 ตั้งค่าเริ่มต้นเป็น H.264 เพื่อคุณภาพที่ดีกว่าและขนาดที่เล็กลง</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>เปลี่ยนตัวแปลงสัญญาณวิดีโอ</change_video_codec_dialog_title>
+    <character>ตัวละคร</character>
+    <check>ตรวจสอบ</check>
+    <choose_pay_method>เลือกวิธีการชำระเงิน</choose_pay_method>
+    <choose_video_quality_hint>คุณภาพ</choose_video_quality_hint>
+    <chroma>โครมา</chroma>
+    <classic>คลาสสิก</classic>
+    <clear>ล้าง</clear>
+    <string name="clear_cache_content">พื้นที่จัดเก็บ &lt;b>%s&lt;/b> จะถูกบันทึกหลังจากล้างข้อมูล ซึ่งจะไม่ส่งผลกระทบต่อฉบับร่างของคุณ ต้องการดำเนินการต่อหรือไม่</string>
+    <clearing>กำลังเคลียร์…</clearing>
+    <click_here>คลิกฉัน</click_here>
+    <click_track_tip>คลิกไทม์ไลน์เพื่อแก้ไขเพลงและปรับระดับเสียงของวีดีโอ</click_track_tip>
+    <clip_beginning>จุดเริ่มต้นของคลิป</clip_beginning>
+    <clip_end>ปลายคลิป</clip_end>
+    <clip_mute_adjust_volume_retry>กรุณาเปิดเสียงแล้วลองอีกครั้ง</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>ระยะเวลาทั้งหมดจะลดลงและไทม์ไลน์จะเปลี่ยนตามนั้น</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>คลิปใหม่สั้นกว่าคลิปปัจจุบัน</clip_replace_shorter_title>
+    <clip_reversed>ย้อนกลับคลิป</clip_reversed>
+    <clip_video_tip>ตัดแต่งวิดีโอตามความยาวที่คุณต้องการนำเข้า</clip_video_tip>
+    <collage>คอลลา</collage>
+    <collage_long_press_swap_photo>กดค้างเพื่อสลับรูป</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>คุณสามารถเลือกที่มากที่สุด 9 ภาพ!</collage_select_photo_limit_hint>
+    <collage_swap_photo>คลิกที่ภาพเพื่อแลกกับ</collage_swap_photo>
+    <color>ส</color>
+    <color_palette>จานส</color_palette>
+    <common_google_play_services_enable_button>เปิดใช้</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>%1$s จะไม่ทำงานจนกว่าคุณจะเปิดใช้บริการ Google Play</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>เปิดใช้บริการ Google Play</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>ติดตั้ง</common_google_play_services_install_button>
+    <common_google_play_services_install_text>%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซี่งไม่มีในอุปกรณ์ของคุณ</common_google_play_services_install_text>
+    <common_google_play_services_install_title>ติดตั้งบริการ Google Play</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>ความพร้อมใช้งานของบริการ Google Play</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>ข้อผิดพลาดของบริการ Google Play</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s มีปัญหาเกี่ยวกับบริการของ Google Play โปรดลองอีกครั้ง</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งอุปกรณ์ของคุณไม่สนับสนุน</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>อัปเดต</common_google_play_services_update_button>
+    <common_google_play_services_update_text>%1$s จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</common_google_play_services_update_text>
+    <common_google_play_services_update_title>อัปเดตบริการ Google Play</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>%1$s จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งกำลังอัปเดตอยู่ในขณะนี้</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>จำเป็นต้องใช้บริการ Google Play เวอร์ชันใหม่ ซึ่งจะอัปเดตอัตโนมัติในอีกไม่ช้า</common_google_play_services_wear_update_text>
+    <common_open_on_phone>เปิดบนโทรศัพท์</common_open_on_phone>
+    <common_signin_button_text>ลงชื่อเข้าใช้</common_signin_button_text>
+    <common_signin_button_text_long>ลงชื่อเข้าใช้ด้วย Google</common_signin_button_text_long>
+    <contact_creator>ติดต่อผู้สร้าง</contact_creator>
+    <continue_buy>หลังจากต่ออายุเป็นเวลาหนึ่งปี InShot Pro จะถูกขยายเป็น %s.</continue_buy>
+    <continue_title>ดำเนินการต่อ</continue_title>
+    <contrast>ตรงกันข้าม</contrast>
+    <convert_failed>แปลงไม่สำเร็จ</convert_failed>
+    <copied>คัดลอก</copied>
+    <copy>สำเนา</copy>
+    <crop>ครอป</crop>
+    <curve>เส้นโค้ง</curve>
+    <custom_background>ปรับแต่งพื้นหลัง</custom_background>
+    <custom_sticker>วางซ้อนภาพในวิดีโอ</custom_sticker>
+    <cut>คัท</cut>
+    <cut_both_ends>ตัดขอบ</cut_both_ends>
+    <cut_import>นำเข้า</cut_import>
+    <cut_video>ตัดวิดีโอ</cut_video>
+    <cutout>คัตเอาท์</cutout>
+    <day_free_trial>ทดลองใช้ฟรี %s</day_free_trial>
+    <days_left>เหลือ %d วัน</days_left>
+    <delete>การลบ</delete>
+    <delete_confirm_dialog_content>คุณต้องการลบหรือไม่?</delete_confirm_dialog_content>
+    <delete_drafts_note>โปรดทราบว่าไม่สามารถกู้คืนร่างจดหมายที่ถูกลบไปแล้วได้!</delete_drafts_note>
+    <delete_material_tip>การลบเนื้อหาจะส่งผลกับแบบร่าง!</delete_material_tip>
+    <denoise>ลดเสียงรบกวน</denoise>
+    <detail>รายละเอียด</detail>
+    <detail_mosaic>รายละเอียด</detail_mosaic>
+    <directories>ไดเรกทอรี</directories>
+    <disable_follow>ปิดการใช้งาน</disable_follow>
+    <discard_edit_dlg_confirm>ทิ้ง</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>ยกเลิกการแก้ไข?</discard_edit_dlg_title>
+    <discount>ส่วนลด</discount>
+    <discount_format>ลด %s</discount_format>
+    <dissolve>ละลาย</dissolve>
+    <distort>การบิดเบือน</distort>
+    <do_not_use_tags>อย่าใช้แท็ก?</do_not_use_tags>
+    <donate>บริจาค</donate>
+    <done>เสร็จ</done>
+    <double_click_reset_zoom>คลิกสองครั้งเพื่อย้อนกลับ</double_click_reset_zoom>
+    <download>ดาวน์โหลด</download>
+    <download_failed>ดาวน์โหลดล้มเหลว!</download_failed>
+    <download_video_progress_title>โหลดวิดีโอจากเซิร์ฟเวอร์…</download_video_progress_title>
+    <draft>ร่าง</draft>
+    <draft_clip_missing_tip>ไม่สามารถโหลดบางคลิปในฉบับร่างได้เพราะไฟล์ต้นฉบับใช้ไม่ได้แล้ว</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>กรุณาลองแทนที่ด้วยสิ่งอื่นเพื่อดำเนินการต่อ</draft_clip_missing_tip1>
+    <draft_corrupted>องค์ประกอบบางส่วนของโครงการวิดีโอหายไป</draft_corrupted>
+    <draft_delete_video_hint>การลบวิดีโอต้นฉบับจะทำให้ไฟล์ฉบับร่างเสียหาย</draft_delete_video_hint>
+    <draft_load_err>การโหลดมีข้อผิดพลาด</draft_load_err>
+    <draft_open_hint>เมื่อเริ่มโครงการวิดีโอใหม่ร่างของคุณจะถูกแทนที่</draft_open_hint>
+    <draft_saved>บันทึกฉบับร่างแล้ว</draft_saved>
+    <drafts>%s ร่าง</drafts>
+    <drafts_not_backward_compatible>เวอร์ชันของแอปต่ำเกินไปที่จะเปิดร่างวิดีโอ</drafts_not_backward_compatible>
+    <drag_to_swap>ลากเพื่อสลับ</drag_to_swap>
+    <duplicate>ทำซ้ำ</duplicate>
+    <duration>ระยะเวลา</duration>
+    <edit>แก้ไข</edit>
+    <edit_music_dialog_music_volume>ระดับเสียงเพลง</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>ระดับเสียงวิดีโอ</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>ปรับระดับเสียง</edit_music_dialog_title>
+    <edit_volume_fade_out>เฟดออก</edit_volume_fade_out>
+    <edit_with_inshot>แก้ไขด้วย InShot:</edit_with_inshot>
+    <effect>ผลกระทบ</effect>
+    <effect_count>%d เอกเฟกต์</effect_count>
+    <effects>เอฟเฟก</effects>
+    <emoji_activity_category>กิจกรรม</emoji_activity_category>
+    <emoji_animals_category>สัตว์</emoji_animals_category>
+    <emoji_celebration_category>งานเลี้ยงสังสรรค์</emoji_celebration_category>
+    <emoji_dialy_category>ทุกวัน</emoji_dialy_category>
+    <emoji_emotion_category>อารมณ์</emoji_emotion_category>
+    <emoji_food_category>อาหาร</emoji_food_category>
+    <emoji_gesture_category>ท่าทาง</emoji_gesture_category>
+    <emoji_nature_category>ธรรมชาติ</emoji_nature_category>
+    <emoji_objects_category>วัตถุ</emoji_objects_category>
+    <emoji_people_category>คน</emoji_people_category>
+    <emoji_recent_category>ล่าสุด</emoji_recent_category>
+    <emoji_smile_category>รอยยิ้ม</emoji_smile_category>
+    <emoji_symbols_category>สัญลักษณ์</emoji_symbols_category>
+    <emoji_transit_category>การเดินทางข้ามไป</emoji_transit_category>
+    <erase>ลบ</erase>
+    <error>ล้มเหลว! โปรดลองอีกครั้ง!</error>
+    <examine_result>%d คลิปไม่สามารถนำเข้า</examine_result>
+    <exit>ออกจาก</exit>
+    <exit_app_discard_edit_warn>กดอีกครั้งเพื่อยกเลิก</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>ออกจากระบบ</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>กดปุ่มบันทึกเพื่อบันทึกและแชร์ผลงานของคุณ</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>ออกจากระบบก่อนบันทึก?</exit_before_save_dlg_title>
+    <exit_tip>กดอีกครั้งเพื่อออกจากระบบ</exit_tip>
+    <exo_controls_cc_disabled_description>เปิดใช้คำบรรยาย</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>ปิดใช้คำบรรยาย</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>กรอไปข้างหน้า</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>แสดงแบบเต็มหน้าจอ</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>ออกจากโหมดเต็มหน้าจอ</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>ซ่อนตัวควบคุมโปรแกรมเล่น</exo_controls_hide>
+    <exo_controls_next_description>ถัดไป</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>ซ่อนการตั้งค่าเพิ่มเติม</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>แสดงการตั้งค่าเพิ่มเติม</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>หยุด</exo_controls_pause_description>
+    <exo_controls_play_description>เล่น</exo_controls_play_description>
+    <exo_controls_playback_speed>ความเร็ว</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>ปกติ</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>ก่อนหน้า</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>เล่นซ้ำทั้งหมด</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>ไม่เล่นซ้ำ</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>เล่นซ้ำเพลงเดียว</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>กรอกลับ</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>ความคืบหน้าในการเล่น</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>การตั้งค่า</exo_controls_settings_description>
+    <exo_controls_show>แสดงแผงควบคุมโปรแกรมเล่น</exo_controls_show>
+    <exo_controls_shuffle_off_description>ปิดการสุ่มเพลงอยู่</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>เปิดการสุ่มเพลงอยู่</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>หยุด</exo_controls_stop_description>
+    <exo_controls_vr_description>โหมด VR</exo_controls_vr_description>
+    <exo_download_completed>การดาวน์โหลดเสร็จสมบูรณ์</exo_download_completed>
+    <exo_download_description>ดาวน์โหลด</exo_download_description>
+    <exo_download_downloading>กำลังดาวน์โหลด</exo_download_downloading>
+    <exo_download_failed>การดาวน์โหลดล้มเหลว</exo_download_failed>
+    <exo_download_notification_channel_name>ดาวน์โหลด</exo_download_notification_channel_name>
+    <exo_download_removing>กำลังนำรายการที่ดาวน์โหลดออก</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>โมโน</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>อื่นๆ</exo_track_role_alternate>
+    <exo_track_role_closed_captions>คำบรรยาย</exo_track_role_closed_captions>
+    <exo_track_role_commentary>ความคิดเห็น</exo_track_role_commentary>
+    <exo_track_role_supplementary>แทร็กเสริม</exo_track_role_supplementary>
+    <exo_track_selection_auto>ยานยนต์</exo_track_selection_auto>
+    <exo_track_selection_none>ไม่มี</exo_track_selection_none>
+    <exo_track_selection_title_audio>เสียง</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>ข้อความ</exo_track_selection_title_text>
+    <exo_track_selection_title_video>วิดีโอ</exo_track_selection_title_video>
+    <exo_track_stereo>สเตอริโอ</exo_track_stereo>
+    <exo_track_surround>เสียงเซอร์ราวด์</exo_track_surround>
+    <exo_track_surround_5_point_1>ระบบเสียง 5.1 เซอร์ราวด์</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1 เสียงเซอร์ราวด์</exo_track_surround_7_point_1>
+    <exo_track_unknown>ไม่ทราบ</exo_track_unknown>
+    <extract>แยก</extract>
+    <extract_audio>แยกเสียง</extract_audio>
+    <extract_audio_from_video>แยกเสียงจากวิดีโอ</extract_audio_from_video>
+    <extract_failed>แตกไฟล์ไม่สำเร็จ</extract_failed>
+    <fade>จางหาย</fade>
+    <fade_in>จาง ๆ</fade_in>
+    <fade_new>เลือนหายไป</fade_new>
+    <failed_to_load_blur_image>ไม่สามารถโหลดรูปภาพที่เลือกโปรดเลือกอีกครั้ง!</failed_to_load_blur_image>
+    <failed_to_load_image>อ๊ะ! โหลดภาพไม่สำเร็จ</failed_to_load_image>
+    <fast_motion>เคลื่อนไหวเร็ว</fast_motion>
+    <favourite>ที่ชื่นชอบ</favourite>
+    <featured>แนะนำ</featured>
+    <feedback_and_suggestion_hint>ข้อเสนอแนะและข้อเสนอแนะ</feedback_and_suggestion_hint>
+    <feedback_not_now>ไม่ใช่ตอนนี้</feedback_not_now>
+    <feedback_subject>ส่งคำติชมไปยัง InShot</feedback_subject>
+    <feedback_submit>ส่งข้อความ</feedback_submit>
+    <festival>มหกรรม</festival>
+    <file_corrupted_description>ไฟล์ได้รับความเสียหาย โปรดติดตั้ง InShot ใหม่อีกครั้งผ่าน ร้านแอปอย่างเป็นทางการ</file_corrupted_description>
+    <file_corrupted_note>ไฟล์ได้รับความเสียหาย โปรดติดตั้ง InShot ใหม่อีกครั้งผ่าน Google Play</file_corrupted_note>
+    <file_corrupted_title>เรียนผู้ใช้</file_corrupted_title>
+    <file_not_support>InShot ไม่รองรับไฟล์ประเภทนี้</file_not_support>
+    <film>ฟิล์ม</film>
+    <film_grain>ฟิล์มเกรน</film_grain>
+    <filter>ฟิลเตอร์</filter>
+    <filter_manage>กรองจัดการ</filter_manage>
+    <filter_not_supported_in_photo>แพ็คเอฟเฟกต์ปัจจุบันไม่สามารถใช้ได้กับรูปภาพ</filter_not_supported_in_photo>
+    <filters>ฟิลเตอร์</filters>
+    <first_month>เดือนแรก</first_month>
+    <first_year>ปีแรก</first_year>
+    <fit>พอดี</fit>
+    <fit_bottom>ล่าง</fit_bottom>
+    <fit_fit>พอดี</fit_fit>
+    <fit_full>เต็มจอ</fit_full>
+    <fit_left>ซ้าย</fit_left>
+    <fit_original>ต้นฉบับ</fit_original>
+    <fit_right>ขวา</fit_right>
+    <fit_top>บน</fit_top>
+    <flip>พลิกด้าน</flip>
+    <folder_cannot_write>แฟ้มไม่สามารถบันทึกได้! โปรดเลือกแฟ้มใหม่</folder_cannot_write>
+    <follow_ins_to_unlock>ติดตาม InShot ใน Instagram เพื่อ</follow_ins_to_unlock>
+    <follow_setting_title>วัตถุยึดติดกับเฟรม</follow_setting_title>
+    <follow_tiktok_to_unlock>สมัครสมาชิกช่อง InShot TikTok เพื่อ</follow_tiktok_to_unlock>
+    <follow_toggle_tip>หลังจากตัดหรือลบคลิป วัตถุ (บันทึกเสียง เอฟเฟกต์เสียง สติกเกอร์ PIP ข้อความ เอฟเฟ็กต์) จะยังคงยึดติดกับเฟรมเดิม</follow_toggle_tip>
+    <follow_toggle_tip_2>หลังจากตัดหรือลบคลิป วัตถุ ( PIP สติกเกอร์ ข้อความ...) จะยังคงยึดติดกับเฟรมเดิม</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>ติดตามเราได้ที่สื่อสังคมที่จะได้รับข่าวสารล่าสุดเกี่ยวกับ InShot</follow_us_fun_media_tip>
+    <follow_us_to>ติดตามเราเพื่อ</follow_us_to>
+    <follow_youtube_to_unlock>ติดตาม InShot YouTube Channel เพื่อ</follow_youtube_to_unlock>
+    <font>แบบอักษร</font>
+    <font_color>สีตัวอักษร</font_color>
+    <font_copyright_des>ตัวอักษรนี้สำหรับบุคคล (ที่ไม่ใช่เชิงพาณิชย์) ใช้เพียง</font_copyright_des>
+    <fonts>แบบอักษร</fonts>
+    <for_you>สำหรับคุณ</for_you>
+    <format>รูปแบบ</format>
+    <frame>กรอบ</frame>
+    <frame_rate>เฟรมเรต</frame_rate>
+    <free>ฟรี</free>
+    <free_download>ดาวน์โหลดฟรี</free_download>
+    <free_unlock>ปลดล็อคฟรี</free_unlock>
+    <freeze>ตรึง</freeze>
+    <full_park_emoji>แพ็คอิโมจิแบบเต็ม</full_park_emoji>
+    <gallery>แกลเลอรี่</gallery>
+    <get>รับ</get>
+    <gif_compress>บีบอัด Gif</gif_compress>
+    <string name="gif_compress_description" formatted="false">Gif ที่สูงกว่า %s จะถูกบีบอัดอัตโนมัติเป็น %s</string>
+    <gif_supported_tip>รองรับ GIF แล้ว</gif_supported_tip>
+    <give_5star>Give 5 ดาว</give_5star>
+    <glitch>ทันทีทันใด</glitch>
+    <go_setting>ไปที่การตั้งค่า</go_setting>
+    <go_to_logout>ลบบัญชี InShot อย่างถาวร</go_to_logout>
+    <go_to_the_shop>ไปที่ร้านค้า</go_to_the_shop>
+    <gps_not_installed>กรุณาตรวจสอบว่าคุณได้ติดตั้งบริการ Google Play เวอร์ชันล่าสุดแล้วหรือไม่</gps_not_installed>
+    <gradient>ไล่สี</gradient>
+    <grain>เกรน</grain>
+    <has_no_photo_hint>เลือกรูปภาพ 1–9 เพื่อสร้างภาพที่สวยงาม</has_no_photo_hint>
+    <have_purchased>คุณได้ซื้อ!</have_purchased>
+    <help>ช่วยเหลือ</help>
+    <help_Keyframe_desc>เพิ่มคีย์เฟรมลงในไทม์ไลน์เพื่อทำเครื่องหมายจุดเริ่มและสิ้นสุดภาพเคลื่อนไหว (ซูม/เคลื่อนไหว/หมุน/โปร่งแสง) ของสติกเกอร์/ข้อความ/รูปภาพข้างในรูปภาพ อย่างง่ายดาย</help_Keyframe_desc>
+    <help_Keyframe_title>คีย์เฟรม</help_Keyframe_title>
+    <help_Keyframe_youtube_des>วิธีใช้คีย์เฟรมเพิ่มภาพเคลื่อนไหวให้เลเยอร์</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>เข้าสู่เมนูสติกเกอร์ นำเข้าภาพจากอัลบั้มหรือโฟลเดอร์</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>ปัจจุบันซัพพอร์ต GIF แล้ว</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>เพิ่มสติกเกอร์ปรับแต่ง</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>เข้าสู่เมนูเพลง</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"เลือกไทม์ไลน์เพลงเพื่อปรีบความดังเสียงของเพลง/ซาวด์เอฟเฟกต์/บันทึกเสียง
+คลิกคลิปวิดีโอเพื่อปรับความดังเสียงวิดีโอเดิม"</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>ปรับความดังเสียง</help_adjust_audio_volume_title>
+    <help_adjust_volume>คลิกไทม์ไลน์เพื่อปรับระดับเสียงวิดีโอ</help_adjust_volume>
+    <help_animation_desc>เลือกภาพเคลื่อนไหวเข้า/ออกสำหรับข้อความและสติกเกอร์</help_animation_desc>
+    <help_animation_title>เลือกภาพเคลื่อนไหวเข้า/ออก</help_animation_title>
+    <help_apply_to_all_desc>ใช้ตัวเลือกนำไปใช้ทั้งหมดเพื่อใส่ตัวกรอง ความกว้างของขอบ พื้นหลังหรือเสียงให้คลิปทั้งหมด</help_apply_to_all_desc>
+    <help_apply_to_all_title>ใส่การแก้ไขให้กับคลิปทั้งหมด</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>สื่อบรรยากาศและเอฟเฟกต์กลมกลืนเหมาะสมกันมากที่สุด</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>สื่อบรรยากาศ</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>วิธีเพิ่มโอเวอร์เลย์ฟรี</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>วิธีปรับระดับเสียงต้นฉบับ</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>เข้าเมนู พอดี กำหนดอัตราส่วนพื้นหลังสำหรับวิดีโอหรือลบพื้นหลังวิดีโอ</help_background_ratio_desc>
+    <help_background_ratio_title>เปลี่ยนอัตราส่วนพื้นหลังวิดีโอ</help_background_ratio_title>
+    <help_background_ratio_youtube_des>วิธีตั้งค่าพื้นหลังของวิดีโอ</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>เลือกเพลงเพื่อตัดต่อ</help_click_to_edit_clip>
+    <help_click_to_edit_volume>คลิกที่นี่เพื่อปรับเสียงวิดีโอ</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"เข้าสู่การตั้งค่า InShot
+แตะ ตั้งค่าวีดีโอ\" และปิดการใช้งานตัวเลือก \"วัตถุยึดติดกับเฟรม\""</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>ทำไมสติกเกอร์/ข้อความ/เอฟเฟกต์/PIPs/การบันทึก/เสียงประกอบถึงถูกลบออกเมื่อฉันลบคลิป</help_disable_stick_frame_title>
+    <help_edit_music>คลิกเพื่อแก้ไขเพลง</help_edit_music>
+    <help_edit_music_desc>คลิกบนดนตรีที่ใส่เข้าไปเพื่อแก้ไขมัน</help_edit_music_desc>
+    <help_edit_music_title>แก้ไขดนตรี</help_edit_music_title>
+    <help_extract_audio_desc>แตะ [แยกเสียงจากวิดีโอ] ในแท็บเพลงและนำเข้าวีดีโอเพื่อแยกไฟล์เสียง</help_extract_audio_desc>
+    <help_extract_audio_title>แยกเสียงจากวิดีโอ</help_extract_audio_title>
+    <help_extract_audio_youtube_des>วิธีแยกไฟล์เสียงออกจากวีดีโอ</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"เพลงที่ให้มาด้วยทั้งหมดมีลิขสิทธิ์ให้ใช้งานจากนักแต่งเพลง
+
+ถ้าคุณได้รับคำเตือนเรื่องลิขสิทธิ์ หรือถ้าวีดีโอถูก Instagram ลบ กรุณาแตะ \"ฉันยอมรับ\" แล้วลงชื่อของคุณ แล้วแตะ อุทธรณ์"</help_faq_album_desc_1>
+    <help_faq_album_desc_2>อย่ากังวล นักแต่งเพลงจะคอยช่วยเหลือคุณในขั้นตอนอุทธรณ์ และวีดีโอของคุณจะกลับคืนมาภายใน 2–3 นาที</help_faq_album_desc_2>
+    <help_faq_album_title>ต้องทำอย่างไรถ้ามิวสิกวีดีโอถูก Instagram ลบ</help_faq_album_title>
+    <help_faq_auto_update_dest>ไปยังการจัดการบัญชีผู้ใช้ Google Play แตะ การตั้งค่า แตะ อัปเดตแอปอัตโนมัติ ในการกำหนดค่าเครือข่าย</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>วิธีอัปเดตให้ InShot เป็นเวอร์ชันล่าสุดอยู่เสมอ</help_faq_auto_update_title>
+    <help_faq_four_desc>ขออภัย ไม่สามารถกู้คืนแบบร่างที่ลบไปแล้ว เราปฏิบัติตามนโยบายความเป็นส่วนตัวอย่างสมบูรณ์และจะไม่เก็บไฟล์ของผู้ใช้</help_faq_four_desc>
+    <help_faq_four_title>ฉันสามารถกู้คืนแบบร่างที่ลบไปแล้วได้หรือไม่</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>ระหว่างการบันทึกวิดีโอ จะสร้างไฟล์กลางจำนวนมาก ซึ่งไฟล์นี้จะถูกลบทันทีหลังจากกระบวนการบันทึกเสร็จสิ้น เพื่อแก้ไขปัญหานี้ กรุณาล้างพื้นที่จัดเก็บในเครื่อง (ไม่ใช่พื้นที่จัดเก็บการ์ด SD)</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>ทำไมมือถือของฉันมีพื้นที่แต่ยังขึ้นมาว่าความจำไม่พอ</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>ฟอนต์ทั้งหมดมีใบอนุญาต กรุณาตรวจสอบอย่างถี่ถ้วนก่อนใช้ บางฟอนต์สามารถใช้ได้กับการใช้งานส่วนบุคคลเท่านั้น</help_faq_one_desc>
+    <help_faq_one_title>ฉันสามารถใช้งานฟอนต์ที่มีมาเพื่อจุดประสงค์ทางการค้าหรือไม่</help_faq_one_title>
+    <help_faq_three_desc>หากคุณลบไฟล์ต้นฉบับในแกลเลอรี แบบร่างที่เกี่ยวข้องจะสูญหายและไม่สามารถเปิดได้ โปรดลองกู้คืนไฟล์จากอัลบั้มที่เพิ่งลบล่าสุด</help_faq_three_desc>
+    <help_faq_three_title>เหตุใดจึงปรากฏข้อความแสดงข้อผิดพลาด \"แบบร่างเสียหาย\" หรือ \"ไฟล์ต้นฉบับในแบบร่างหายไป\"</help_faq_three_title>
+    <help_faq_two_desc>"การอ้างสิทธิ์ Content ID ไม่ส่งผลให้เกิดการประท้วงเรื่องลิขสิทธิ์ การระงับช่อง หรือการยุติช่อง โดยปกติการอ้างสิทธิ์เป็นเพียงเพื่อติดตามหรือสร้างรายได้จากวิดีโอ ไม่ใช่เพื่อปิดกั้น ดังนั้นวิดีโอของคุณจะยังคงใช้งานได้แม้มีการอ้างสิทธิ์เหล่านั้น (แต่อาจมีโฆษณาอยู่) และคุณยังสามารถแชร์กับผู้อื่นได้
+
+เรียนรู้เพิ่มเติมเกี่ยวกับการอ้างสิทธิ์ Content ID โปรดดูที่ https://support.google.com/youtube/answer/7002106?hl=th"</help_faq_two_desc>
+    <help_faq_two_title>ทำไมฉันได้รับการเรียกร้องให้จ่ายค่าลิขสิทธิ์เพลง YouTube</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>การตัดต่อ</help_group_video_edit_title>
+    <help_import_fonts_desc>ตรวจสอบให้แน่ใจว่ามีไฟล์แบบอักษรอยู่ในโทรศัพท์ของคุณ แตะปุ่มนำเข้าเพื่อนำเข้าแบบอักษร</help_import_fonts_desc>
+    <help_import_fonts_desc2>"ผู้ใช้สูงกว่า Android 11, โปรดคลิกบนนำเข้าฟอนต์, ไปที่หน้าเลือกไฟล์
+1.คลิกปุ่มด้านซ้ายบน, เลือก SDcard ของคุณและจากนั้นเลือกไดเรกทอรี่ไฟล์"</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.คลิกที่แถบค้นหาด้านบน, ค้นหาชื่อหรือไฟล์ TTF/OTF</help_import_fonts_desc3>
+    <help_import_fonts_title_two>นำเข้าแบบอักษร</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>วิธีนำเข้าแบบอักษรใน InShot Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>โปรดไปที่ Google Play Store เข้าสู่เมนูการสมัครสมาชิก เลือกการสมัครสมาชิกที่คุณต้องการยกเลิก</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>จะจัดการ / ยกเลิกการสมัครสมาชิกได้อย่างไร?</help_manager_subscribe_title>
+    <help_mask_desc>เพิ่มมาสก์รูปร่างให้เลเยอร์ PIP</help_mask_desc>
+    <help_mask_title>มาสก PIP</help_mask_title>
+    <help_mask_youtube_des>วิธีการใช้งานมาสกสำหรับเลเยอร์ PIP</help_mask_youtube_des>
+    <help_merge_video_desc>คลิกปุ่ม \"+\" เพื่อเลือกวิดีโอมารวม</help_merge_video_desc>
+    <help_merge_video_title>รวมวิดีโอ</help_merge_video_title>
+    <help_move_music>กดค้างไว้และลากเพื่อกำหนดตำแหน่ง</help_move_music>
+    <help_one_time_purchase_des>หากคุณทำการสั่งซื้อครั้งเดียว คุณจะได้รับ InShot เวอร์ชันพรีเมี่ยมแบบถาวร ไม่ต้องซื้อซ้ำแม้ว่า InShot เพิ่มเครื่องมือตัดต่อหรือฟีเจอร์พิเศษเพิ่มเติม</help_one_time_purchase_des>
+    <help_one_time_purchase_title>การซื้อครั้งเดียวคืออะไร?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>แตะ \"พื้นหลัง\" เพื่อเพิ่มพื้นหลังให้กับคัตเอาท์ของคุณ</help_photo_cutout_desc>
+    <help_photo_cutout_title>คัตเอาท์ภาพ</help_photo_cutout_title>
+    <help_pip_chroma_desc>"ดูดสีใดก็ได้แล้วลบสี
+1. ใช้เครื่องมือดูดสี เลือกสีที่ต้องการลบ
+2. ปรับความเข้มและเงาเพื่อทำให้ดีขึ้น"</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP โครมา</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>วิธีลบพื้นหลังสีเขียวด้วย โครมา (กวดวิชา InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. กรุณาไปยัง Google Play คลิกที่ไอคอน</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. ลบบัญชีที่ไม่ใช้บัญชีที่ซื้อแล้วลองคืนค่ารายการซื้อในการตั้งค่า InShot อีกครั้ง</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. หากเข้าสู่ระบบบัญชีผู้ใช้ Google หลายบัญชี ให้คลิก จัดการบัญชี</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>ทำไมฉันจึงไม่สามารถคืนค่ารายการซื้อได้แม้เข้าสู่ระบบบัญชีผู้ใช้ Google Play ถูกต้องแล้ว</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>โปรดลองล้างข้อมูล InShot ในการตั้งค่าอุปกรณ์ของคุณ จากนั้นคลิก \"เรียกคืนการซื้อสินค้า\" ในการตั้งค่า InShot</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>ตรวจสอบว่าคุณลงชื่อเข้าใช้บัญชี Google Play ที่ถูกต้องเพียงบัญชีเดียว ไม่ใช่หลายบัญชี ปัจจุบัน Google Play ไม่รองรับหลายบัญชี</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>จะเรียกคืนรายการซื้อของฉันได้อย่างไร?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>หากคุณต้องการเก็บโปรเจคปัจจุบัน กรุณาเลือก\"ร่าง\"เมื่อคุณคลิกย้อนกลับ</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>คุณสามารถจัดการ(ลบ/คัดลอก/เปลี่ยนชื่อ)แบบร่างในหน้าโฮมเพจ</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>บันทึก/ทิ้งแบบร่าง</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>เพิ่มการเปลี่ยนภาพ</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>ปรับระยะเวลารูปภาพ</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>นำเข้ารูปภาพจากอัลบั้มและไฟล์</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>แตะเพื่อสลับระหว่างวีดีโอและรูปภาพ</help_slideshow_reminder>
+    <help_slideshow_title>ทำสไลด์โชว์</help_slideshow_title>
+    <help_slideshow_youtube_des>วิธีสร้างสไลด์โชว์เพลง</help_slideshow_youtube_des>
+    <help_smooth_des>ใช้เครื่องมือเรียบๆ เพื่อสร้างวิดีโอสโลว์โมชั่นที่ราบรื่นอย่างสมบูรณ์แบบ (ความเร็ว &lt;1.0X)</help_smooth_des>
+    <help_smooth_title>สโลว์โมชันราบรื่น</help_smooth_title>
+    <help_speed_ramp_des_one>แก้ไขโหนดความเร็ว แตะปุ่ม \"เพิ่ม\"/\"ลบ\" เพื่อเพิ่ม/ลบโหนดบนเส้นโค้ง</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>ปรับเส้นความเร็ว เลือกโหนดความเร็วแล้วลากขึ้นลงเพื่อปรับความเร็ววีดีโอ ลากซ้ายขวาเพื่อปรับระยะเวลาของความเร็ว</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>เส้นความเร็ว | สร้างเอฟเฟกต์ปรับความเร็วอันราบรื่นด้วย InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>เส้นความเร็ว (เส้นโค้ง)</help_speed_ramp_title>
+    <help_swap_clip>กดค้างเพื่อสลับ</help_swap_clip>
+    <help_timeline_desc>คลิกแถบเลื่อนเพื่อใส่สติกเกอร์และข้อความไปที่คลิปหรือวิดีโอ</help_timeline_desc>
+    <help_timeline_title>ตัวนำทางสติกเกอร์และข้อความด่วน</help_timeline_title>
+    <help_transition_desc>นำเข้าคลิปวิดีโออย่างน้อย 2 อัน คลิกบนปุ่มระหว่างตัวอย่างคลิป 2 อัน เพื่อเพิ่มการเปลี่ยน</help_transition_desc>
+    <help_transition_title>การเปลี่ยนวิดีโอ</help_transition_title>
+    <help_translate_content>ฉันต้องการช่วยคุณแปลแอพ InShot โปรดติดต่อฉัน ภาษา:</help_translate_content>
+    <help_translate_subject>การแปลภาษา</help_translate_subject>
+    <help_volume_adjust_desc>คลิกภาพตัวอย่างวิดีโอเพื่อเปิดเมนูลัด และลากแถบเลื่อนเพื่อปรับเสียงวิดีโอ</help_volume_adjust_desc>
+    <help_volume_adjust_title>การปรับแต่งเสียงวิดีโอ</help_volume_adjust_title>
+    <help_youtube_title>คู่มือแนะนำ YouTube</help_youtube_title>
+    <help_zoom_drag>ลากแถบเลื่อนเพื่อตัดวิดีโอ</help_zoom_drag>
+    <help_zoom_timeline>"ซูมเข้าไปที่ไทม์ไลน์เพื่อการตัดต่อที่แม่นยำยิ่งขึ้น
+ซูมออกเพื่อดูตัวอย่างไทม์ไลน์ทั้งหมด"</help_zoom_timeline>
+    <help_zoom_title>การตัดต่อวิดีโอ</help_zoom_title>
+    <hide>ซ่อนตัว</hide>
+    <highlight>ไฮไลท์</highlight>
+    <hint_install_googleplay>ซื้อที่ล้มเหลวเพราะความต้องการของ Google Play บริการซึ่งไม่ได้รับการสนับสนุนโดยอุปกรณ์ของคุณ</hint_install_googleplay>
+    <hint_items_to_frame>ไปที่การตั้งค่าวีดีโอ คุณสามารถเปิด/ปิดตัวเลือกได้</hint_items_to_frame>
+    <hot>มาแรง</hot>
+    <hua_wei_login_error>ล็อกอิน HUAWEI ล้มเหลว</hua_wei_login_error>
+    <hua_wei_login_success>ล็อกอิน HUAWEI สำเร็จ</hua_wei_login_success>
+    <hue>Hue</hue>
+    <i_receive_effect_success>บันทึกไปยังโฟลเดอร์ \"เอฟเฟกษ - ที่นำเข้า\" เรียบร้อย</i_receive_effect_success>
+    <i_receive_music_success>บันทึกไปยังโฟลเดอร์ \"แนะนษ - ที่นำเข้า\" เรียบร้อย</i_receive_music_success>
+    <import_font>นำเข้าแบบอักษร</import_font>
+    <import_video_failed_content>ความละเอียดของวิดีโอเกินกว่าขีด จำกัด ประสิทธิภาพของโทรศัพท์ของคุณ</import_video_failed_content>
+    <import_video_failed_title>การนำเข้าล้มเหลว</import_video_failed_title>
+    <imported>ที่นำเข้า</imported>
+    <imported_effect>เอฟเฟกต์ที่นำเข้า</imported_effect>
+    <imported_music>เพลงที่นำเข้า</imported_music>
+    <improvement_plan_desc>เราต้องการข้อมูล ID อุปกรณ์ของคุณเพื่อปรับปรุงประสบการณ์ผู้ใช้ของ InShot ขอบคุณ</improvement_plan_desc>
+    <improvement_plan_title>แผนการปรับปรุงประสบการณ์ผู้ใช้</improvement_plan_title>
+    <index_create_new>ส้รางใหม่</index_create_new>
+    <index_more_take_photo>ถ่ายรูป</index_more_take_photo>
+    <index_more_take_video>ถ่ายวิดีโอ</index_more_take_video>
+    <index_more_use_recent>ใช้งานล่าสุด</index_more_use_recent>
+    <info_code>ข้อมูลรหัสสินค้า:</info_code>
+    <ins_crop_hint_1>การทำงานของคุณอาจจะถูกตัดจาก Instagram.</ins_crop_hint_1>
+    <ins_crop_hint_2>อัตราส่วน Instagram อยู่ระหว่าง 1.91: 1 ถึง 4: 5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">โปรดให้<b>สิทธิ์ในการจัดเก็บข้อมูลเพื่อ Instagram</b> อัปโหลดภาพของคุณ</string>
+    <install>ติดตั้ง</install>
+    <installed>ติดตั้ง</installed>
+    <interval>ช่วงเวลา</interval>
+    <invalid_delete>ไม่สามารถลบคลิปสุดท้ายได้</invalid_delete>
+    <invalid_position>ตำแหน่งที่เลือกไม่ถูกต้อง</invalid_position>
+    <invalidate_name>ไม่รองรับสัญลักษณ์พิเศษ</invalidate_name>
+    <item_already_owned>โปรดคลิก“ เรียกคืน” เพื่อเปิดใช้งานการซื้อในแอปของคุณอีกครั้ง</item_already_owned>
+    <items>รายการ</items>
+    <join_inshot_pro>เข้าร่วม InShot Pro</join_inshot_pro>
+    <jump_to_font_language>ไปที่ %s</jump_to_font_language>
+    <keep_draft>เก็บร่างจดหมายไว้</keep_draft>
+    <keep_on>เปิดเอาไว้</keep_on>
+    <keyframe>คีย์เฟรม</keyframe>
+    <label>ฉลาก</label>
+    <label_quick_selection>เลือกฉลาดแบบด่วน</label_quick_selection>
+    <last_draft>ร่างครั้งล่าสุด</last_draft>
+    <layout>แผนผัง</layout>
+    <letter_animation>ตัวอักษรเดี่ยว</letter_animation>
+    <lib_rate_btn_go_market>ให้คะแนนบน Google Play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>สิ่งที่ดีที่สุดที่เราสามารถได้รับ :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>กรุณาแสดงความคิดเห็น</lib_rate_leave_feedback>
+    <lib_rate_like_you>เราก็ชอบคุณเหมือนกัน!</lib_rate_like_you>
+    <lib_rate_oh_no>Oh, no!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>ขอบคุณสำหรับความคิดเห็นของคุณ</lib_rate_thanks_feedback>
+    <license>อนุญาต</license>
+    <light>แสง</light>
+    <lightness>ความสว่าง</lightness>
+    <loading>กำลังโหลด…</loading>
+    <loading_progress_title>กำลังโหลด…</loading_progress_title>
+    <login_tip>"โปรดผูกบัญชี
+เพื่อชำระเงินหรือคืนค่าการซื้อต่อไป"</login_tip>
+    <login_with>เข้าสู่ระบบด้วย %s</login_with>
+    <login_with_wechat>เข้าสู่ระบบด้วย WeChat</login_with_wechat>
+    <logout>ลบ</logout>
+    <logout_hint>หากคุณสมัครเป็นสมาชิก InShot Pro การลบบัญชีของคุณจะเป็นการลบ Inshot Pro และจะไม่สามารถกู้คืนได้ !!!</logout_hint>
+    <logout_success>ลบสำเร็จ</logout_success>
+    <long_press_delete>กดค้างเพื่อลบ</long_press_delete>
+    <long_press_preview>กดค้างเพื่อดูตัวอย่าง</long_press_preview>
+    <looking_for_music_content_1>เข้าชม YouTube Audio Library จาก PC หรือ Mac ของคุณเพื่อดาวน์โหลดเพลงฟรี</looking_for_music_content_1>
+    <looking_for_music_content_2>แล้วส่งไฟล์เพลงไปยังโทรศัพท์ Android ของคุณ</looking_for_music_content_2>
+    <looking_for_music_title>กำลังมองหาเพลงให้วีดีโอของคุณใช่ไหม</looking_for_music_title>
+    <loop_animation>ห่วง</loop_animation>
+    <low_storage_space>พื้นที่จัดเก็บข้อมูลไม่เพียงพอ</low_storage_space>
+    <luminance>ความสว่าง</luminance>
+    <manage>จัดการ</manage>
+    <manage_subscription>จัดการการสมัครสมาชิก</manage_subscription>
+    <mask>มาสก์</mask>
+    <material>วัสดุ</material>
+    <material_selected_hint>มีรายการสำหรับ Pro อยู่</material_selected_hint>
+    <max_hash_tags_num>Instagram ช่วยให้สูงสุด 29 #hashtags ต่อภาพ/วิดีโอ</max_hash_tags_num>
+    <merge_video_hint>ผสานวิดีโออย่างมืออาชีพ</merge_video_hint>
+    <message>ข่าวสาร</message>
+    <modern>ทันสมัย</modern>
+    <month>เดือน</month>
+    <mood>อารมณ์</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>เพิ่มเติมเกี่ยวกับ InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000 + เพิ่มเติม</more_emoji>
+    <string name="more_info"><u>ข้อมูลเพิ่มเติม</u>:</string>
+    <mosaic>โมเสก</mosaic>
+    <multi_cut>มัลติคัท</multi_cut>
+    <multi_split>มัลติสปลิท</multi_split>
+    <music>เพลง</music>
+    <music_limit>จำกัดระยะเวลาเพลง</music_limit>
+    <musician>นักดนตรี</musician>
+    <my_filter>ตัวกรองของฉัน</my_filter>
+    <my_material>เนื้อหาของฉัน</my_material>
+    <my_music>เพลงของฉัน</my_music>
+    <new_>ใหม่</new_>
+    <new_album>อัลบั้มใหม่</new_album>
+    <new_five_stars_rate>เรากำลังทำงานอย่างเต็มที่เพื่อประสบการณ์การใช้งานที่ดีขึ้น เราจะยินดีเป็นอย่างยิ่งหากคุณสามารถให้คะแนนเรา</new_five_stars_rate>
+    <next>ต่อไป</next>
+    <no>ไม่</no>
+    <no_actionable_items>ไม่มีรายการที่ดำเนินการได้</no_actionable_items>
+    <no_audio>ไม่มีเสียง</no_audio>
+    <no_audio_files>ไม่มีไฟล์เสียง</no_audio_files>
+    <no_draft_profile>ไม่มีโปรไฟล์ร่าง</no_draft_profile>
+    <no_fonts_found>ไม่พบแบบอักษร</no_fonts_found>
+    <no_network>ไม่มีเครือข่าย</no_network>
+    <no_photos_or_videos>ไม่มีรูปภาพหรือวิดีโอ</no_photos_or_videos>
+    <note_if_you_clear>โปรดทราบว่าหากคุณล้างแคช คุณจะสูญเสียการตั้งค่าการเลือกไม่ใช้</note_if_you_clear>
+    <off>ปิดสวิตช์</off>
+    <offline_notification_text>แตะเพื่อเปิดโฆษณา</offline_notification_text>
+    <offline_notification_title>ดูโฆษณาที่คุณบันทึกไว้ขณะออฟไลน์</offline_notification_title>
+    <offline_opt_in_confirm>ตกลง</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>คุณจะได้รับการแจ้งเตือนพร้อมลิงก์เมื่อกลับมาออนไลน์</offline_opt_in_confirmation>
+    <offline_opt_in_decline>ไม่เป็นไร</offline_opt_in_decline>
+    <offline_opt_in_message>เราจะส่งการแจ้งเตือนให้คุณพร้อมลิงก์ไปยังเว็บไซต์ของผู้ลงโฆษณา</offline_opt_in_message>
+    <offline_opt_in_title>เปิดโฆษณาเมื่อคุณกลับมาออนไลน์</offline_opt_in_title>
+    <ok>ตกลง</ok>
+    <on>เปิดใช้งาน</on>
+    <only_support_effects>รองรับเฉพาะ\"เอฟเฟก\"ประเภท</only_support_effects>
+    <oom_tip>หน่วยความจำเต็ม โปรดลองอีกครั้ง!</oom_tip>
+    <opacity>ความทึบแสง</opacity>
+    <open_font_failed>ไฟล์แบบอักษรไม่ถูกต้อง</open_font_failed>
+    <open_from>เปิดให้บริการตั้งแต่</open_from>
+    <open_from_photos>เปิดให้บริการตั้งแต่ภาพถ่าย</open_from_photos>
+    <open_image_failed_hint>การเปิดไฟล์รูปล้มเหลว โปรดลองอีกครั้งหรือลองรูปใหม่</open_image_failed_hint>
+    <open_music_failed_hint>การเปิดไฟล์เพลงล้มเหลว โปรดลองอีกครั้งหรือลองเพลงใหม่</open_music_failed_hint>
+    <open_settings_0>1.เปิดการตั้งค่า</open_settings_0>
+    <open_settings_1>เปิดการตั้งค่า</open_settings_1>
+    <open_video_failed_hint>การเปิดไฟล์วิดีโอล้มเหลว โปรดลองอีกครั้งหรือลองวิดีโอใหม่</open_video_failed_hint>
+    <origin_pitch>ระดับเสียงต้นฉบับ</origin_pitch>
+    <original>ต้นฉบับ</original>
+    <original_image_not_found>ไม่มีไฟล์ภาพต้นฉบับโปรดตรวจสอบอีกครั้ง</original_image_not_found>
+    <original_music_not_found>ไฟล์เพลงต้นฉบับไม่มีอยู่แล้วโปรดตรวจสอบอีกครั้ง</original_music_not_found>
+    <original_video_not_found>ไฟล์วิดีโอต้นฉบับไม่มีอยู่แล้วโปรดตรวจสอบอีกครั้ง</original_video_not_found>
+    <other_app_recording>ไม่สามารถใช้การบันทึกเสียงได้ในขณะนี้เพราะแอปอื่นกำลังใช้งานอยู่</other_app_recording>
+    <outline>ร่าง</outline>
+    <page>กระดาษฉีก</page>
+    <parent_directory>สารบบพ่อแม่</parent_directory>
+    <part_original_files_miss_in_draft>"ไฟล์ต้นฉบับมากกว่า 1 ไฟล์ หายไป ดำเนินการแก้ไขต่อหรือไม่? 
+
+ดำเนินการแก้ไขต่ออาจทำให้เนื้อหาถูกจัดวางผิดตำแหน่งในแบบร่างของคุณ 
+
+กู้คืนไฟล์ต้นฉบับจาก [ที่ถูกลบล่าสุด/ถีงขยะ] อาจซ่อมแซมแบบร่างนี้ได้"</part_original_files_miss_in_draft>
+    <pattern>ลาย</pattern>
+    <pay_success>ซื้อสำเร็จแล้ว!</pay_success>
+    <permission_read_external_storage>ต้องได้รับอนุญาตจัดเก็บ</permission_read_external_storage>
+    <photo>รูปภาพ</photo>
+    <pinch_zoom_in>หยิกเพื่อซูมเข้า</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>เกินจำนวนสูงสุด</pip_track_reach_max>
+    <play_video_via>เล่นวิดีโอผ่านทาง</play_video_via>
+    <popular>เป็นที่นิยม</popular>
+    <precode>พรีโค้ด</precode>
+    <precode_failed>พรีโค้ดไม่สำเร็จ</precode_failed>
+    <precut>ก่อนตัด</precut>
+    <preset>ที่ตั้งไว้ล่วงหน้า</preset>
+    <string name="privacy_policy_content" formatted="false">ยินดีต้อนรับสู่ InShot!&lt;br>&lt;br> เรามุ่งมั่นที่จะให้ผู้ใช้ได้รับประสบการณ์ที่ดีขึ้นในทุกด้านและจะอัปเดตอย่างต่อเนื่อง &lt;a href=%s>ข้อกำหนดการใช้งาน&lt;/a> และ &lt;a href=%s> นโยบายความเป็นส่วนตัว&lt;/a>&lt;br>&lt;br>หากคุณตกลง ให้คลิก \"ยอมรับ\" และเริ่มใช้InShot</string>
+    <string name="privacy_policy_content_gdpr">คุณจะได้รับโฆษณาส่วนบุคคลเมื่อใช้ InShot หากไม่ต้องการ โปรดไปที่หน้า &lt;a href=%s>“นโยบายความเป็นส่วนตัว”&lt;/a> และคลิก “I don’t agree”&lt;br>&lt;br></string>
+    <privacy_policy_title>ข้อกำหนดการใช้งาน และ นโยบายความเป็นส่วนตัว</privacy_policy_title>
+    <pro_detail>รายละเอียด InShot Pro</pro_detail>
+    <pro_expire_time_format>หมดอายุใน %s</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro หมดอายุใน %s.</pro_expired_tip>
+    <pro_one_time_purchase>ซื้อครั้งเดียว</pro_one_time_purchase>
+    <pro_purchase_new_desc>เข้าถึงการเปลี่ยนวิดีโอเอฟเฟกต์สติ๊กเกอร์และอื่น ๆ ที่จ่ายทั้งหมด ไม่มีโลโก้ InShot ไม่มีโฆษณา</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>เข้าถึงการเปลี่ยนวิดีโอเอฟเฟกต์สติ๊กเกอร์และอื่น ๆ ที่จ่ายทั้งหมด ไม่มีโฆษณา</pro_purchase_new_desc_1>
+    <pro_purchased_info>คุณเป็นสมาชิก InShot Pro อยู่แล้ว</pro_purchased_info>
+    <pro_restore_not_purchased>คืนค่าเสร็จสมบูรณ์ แต่คุณยังไม่ได้เป็นสมาชิก InShot Pro</pro_restore_not_purchased>
+    <pro_subscription_details>รายละเอียดการสมัครสมาชิก</pro_subscription_details>
+    <pro_unavailable>โปรใช้ไม่ได้</pro_unavailable>
+    <pro_unavailable_detail>กรุณาตรวจสอบว่าคุณเข้าสู่ระบบบัญชีผู้ใช้ Google Play ที่ถูกต้องบัญชีเดียวเท่านั้น คุณสามารถอ่านหน้า Q&amp;A เพื่อหาความช่วยเหลือ</pro_unavailable_detail>
+    <processing_error>ประมวลผลผิดพลาด</processing_error>
+    <processing_progress_title>กำลังประมวลผล…</processing_progress_title>
+    <procode_progress>กำลังพรีโค้ด…</procode_progress>
+    <promotion_subscribe_title>ข้อเสนอพิเศษ Holi</promotion_subscribe_title>
+    <purchase_failed>จัดซื้อที่ล้มเหลว,ลองอีกครั้ง?</purchase_failed>
+    <purchase_failed_tile>จัดซื้อล้มเหลว</purchase_failed_tile>
+    <range>พิสัย</range>
+    <rate>ให้คะแนน</rate>
+    <rate_feedback_message>ช่วยให้คำติชมเราหน่อยได้มั้ย?</rate_feedback_message>
+    <rate_later>ภายหลัง</rate_later>
+    <rate_like>ใช่!</rate_like>
+    <rate_main_message>สนุกกับการใช้งาน InShot?</rate_main_message>
+    <rate_not_like>ไม่มากนัก</rate_not_like>
+    <rate_review_message>คุณช่วยเขียนรีวิวดีๆ ให้เราหน่อยได้มั้ย? มันช่วยได้มากเลย</rate_review_message>
+    <ratio>อัตราส่วน</ratio>
+    <recent>ล่าสุด</recent>
+    <recommend>แนะนำ</recommend>
+    <record>บันทึก</record>
+    <redo>ทำซ้ำ</redo>
+    <refresh_state>คืนค่าการซื้อ</refresh_state>
+    <reject>ไม่ขอบคุณ</reject>
+    <remove_ads>ลบลายน้ำและโฆษณา</remove_ads>
+    <remove_ads_1>ลบโฆษณา</remove_ads_1>
+    <remove_ads_1_desc>ลบแบนเนอร์โฆษณาอย่างถาวร</remove_ads_1_desc>
+    <remove_ads_desc>ลบลายน้ำและแบนเนอร์โฆษณาอย่างถาวร คุณไม่ต้องลบลายน้ำเองอีกต่อไป</remove_ads_desc>
+    <remove_all_ads>ลบโฆษณา</remove_all_ads>
+    <remove_all_split_marks>ลบเส้นแบ่งทั้งหมดที่เพิ่มไปหรือไม่</remove_all_split_marks>
+    <remove_pro_materials>ลบรายการสำหรับ Pro</remove_pro_materials>
+    <remove_watermark>ลบลายน้ำ</remove_watermark>
+    <remove_watermark_ad>ลบครั้งนี้</remove_watermark_ad>
+    <remove_watermark_ad_2>ลบฟรี</remove_watermark_ad_2>
+    <remove_watermark_and_ads>ลบลายน้ำและโฆษณา</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>ลบโฆษณา</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>ลบโฆษณาอย่างถาวร</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>ลบลายน้ำและโฆษณาอย่างถาวร</remove_watermark_and_ads_des>
+    <remove_watermark_buy>ลบอย่างถาวร</remove_watermark_buy>
+    <rename>เปลี่ยนชื่อ</rename>
+    <renew_pro>ต่ออายุ InShot Pro</renew_pro>
+    <replace>แทนที่</replace>
+    <replace_draft_des>ยกเลิกร่างและเริ่มต้นโครงการใหม่หรือไม่?</replace_draft_des>
+    <report>รายงาน</report>
+    <report_fix_description>โปรดส่งไฟล์บันทึกและเสียงเพื่อช่วยเราในการแก้ไขปัญหานี้</report_fix_description>
+    <report_fix_ok>ส่งบันทึกและไฟล์เสียง</report_fix_ok>
+    <report_fix_title>การประมวลผลเสียงล้มเหลว</report_fix_title>
+    <request_record_rationale>อนุญาตให้ InShot ใช้ไมโครโฟนบนอุปกรณ์ของคุณ</request_record_rationale>
+    <request_storage_rationale>อนุญาตให้ InShot เข้าถึงภาพถ่ายและสื่อในอุปกรณ์ของคุณ</request_storage_rationale>
+    <reselect>เลือกใหม่</reselect>
+    <reset>รีเซ็ต</reset>
+    <reset_adjust>รีเซ็ตปรับ</reset_adjust>
+    <reset_all>รีเซ็ตทั้งหมด</reset_all>
+    <reset_hue>รีเซ็ต Hue</reset_hue>
+    <reset_luminance>รีเซ็ตความสว่าง</reset_luminance>
+    <reset_saturation>รีเซ็ตความอิ่มตัว</reset_saturation>
+    <reset_speed>รีเซ็ตความเร็ว</reset_speed>
+    <resolution>ความละเอียดภาพ</resolution>
+    <restore>เรียกคืน</restore>
+    <restore_failed>การกู้คืนล้มเหลว!</restore_failed>
+    <restore_ok_Pro>กู้คืนสำเร็จแล้วและคุณเป็นสมาชิก InShot Pro แล้ว</restore_ok_Pro>
+    <restore_ok_not_Pro>กู้คืนสำเร็จ แต่คุณยังไม่ได้เป็นสมาชิก InShot Pro</restore_ok_not_Pro>
+    <restore_pro_assets>กู้คืนสินทรัพย์โปร</restore_pro_assets>
+    <restore_success>ประสบความสำเร็จในการเรียกคืน</restore_success>
+    <restore_trim_message>ยกเลิกทั้งหมดตัดแต่งและตัดการดำเนินงานกลับไปยังวิดีโอต้นฉบับหรือไม่</restore_trim_message>
+    <results_page_save_complete>บันทึกเสร็จสิ้น</results_page_save_complete>
+    <results_page_share_other>อื่นๆ</results_page_share_other>
+    <results_page_wait_video_transcoding>โปรดรอสักครู่ กำลังทรานส์โค้ดวิดีโอ</results_page_wait_video_transcoding>
+    <retro>ย้อนยุค</retro>
+    <retry_save_title>การส่งออกวิดีโอก่อนหน้านี้ล้มเหลวส่งออกซ้ำอีกครั้งหรือไม่</retry_save_title>
+    <returnapp_tip>กดย้อนกลับเพื่อไปยัง InShot</returnapp_tip>
+    <reverse>ม้วนกลับ</reverse>
+    <rewarded_unlock_content>ดูโฆษณาวิดีโอเพื่อปลดล็อกคุณสมบัติทั้งหมดได้ฟร(%s)ี</rewarded_unlock_content>
+    <rewinding>กำลังกรอกลับ…</rewinding>
+    <rotate>หมุน</rotate>
+    <rotate90>หมุน 90°</rotate90>
+    <s1>บันทึกรูปภาพ</s1>
+    <s2>อนุญาตให้โฆษณาจัดเก็บรูปภาพในแกลเลอรีภาพไหม</s2>
+    <s3>ยอมรับ</s3>
+    <s4>ปฏิเสธ</s4>
+    <s5>สร้างกิจกรรมในปฏิทิน</s5>
+    <s6>อนุญาตให้โฆษณาสร้างกิจกรรมในปฏิทินไหม</s6>
+    <s7>โฆษณาทดสอบ</s7>
+    <saturation>ความอิ่มตัว</saturation>
+    <save>บันทึก</save>
+    <save_extracted_audio>บันทึกเสียงที่แยก</save_extracted_audio>
+    <save_fail>บันทึกล้มเหลว</save_fail>
+    <save_image_failed_hint>การบันทึกไฟล์รูปล้มเหลว</save_image_failed_hint>
+    <save_imported_sticker>บันทึกสติกเกอร์ที่นำเข้า</save_imported_sticker>
+    <save_success_hint>บันทึกไปยัง %s</save_success_hint>
+    <save_type_description>บันทึกไฟล์ที่นำเข้าเป็น</save_type_description>
+    <save_video_failed_dlg_btn_retry>ลองใหม่</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>เลือกความละเอียดอื่น</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>โปรดเลือกความละเอียดที่ต่ำลงหรือลองอีกครั้ง!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>บันทึกล้มเหลว</save_video_failed_dlg_title>
+    <save_video_failed_hint>วิดีโอนี้ไม่รองรับเนื่องจากตัวแปลงสัญญาณเสียงหรือวิดีโอ โปรดลองวิดีโออื่น</save_video_failed_hint>
+    <saved>ที่บันทึกไว้</saved>
+    <scanning>กำลังสแกน…</scanning>
+    <string name="sd_card_error">เส้นทาง/SD การ์ดของคุณไม่สามารถเข้าถึงได้ โปรดเลือกเส้นทาง/หน่วยความจำอื่นที่การตั้งค่า-> %s</string>
+    <sd_card_full_tip>ไม่เพียงพอพื้นที่จัดเก็บโปรดล้างพื้นที่บางส่วนและลองอีกครั้ง.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>ไม่สามารถอ่าน SD การ์ดได้!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>ต้องใช้พื้นที่ประมาณ %dM!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>ต้องการพื้นที่แคชเพิ่มเติมเพื่อบันทึกวีดีโอ กรุณาเพิ่มพื้นที่เก็บข้อมูลว่างหรือลดความละเอียดภาพแล้วลองอีกครั้ง</sd_card_space_not_enough_hint>
+    <search_menu_title>ค้นหา</search_menu_title>
+    <see_all_material>ดูทั้งหมด</see_all_material>
+    <select>เลือก</select>
+    <select_all>เลือกทั้งหมด</select_all>
+    <select_one_to_edit>เลือกหนึ่งรายการเพื่อแก้ไข</select_one_to_edit>
+    <select_one_track_to_edit>เลือกเพลงเพื่อตัดต่อ</select_one_track_to_edit>
+    <select_photo>เลือกรูปภาพ</select_photo>
+    <send_feedback>ส่งข้อเสนอแนะ</send_feedback>
+    <setting_addtags_title>เพิ่มแท็ก</setting_addtags_title>
+    <setting_clear_cache_title>ล้างแคช</setting_clear_cache_title>
+    <setting_faq_title>คำถามที่พบบ่อย</setting_faq_title>
+    <setting_feedback_title>คำติชม</setting_feedback_title>
+    <setting_follow_us>ติดตามเรา (รับบทเรียนเพิ่มเติม)</setting_follow_us>
+    <setting_general_title>ทั่วไป</setting_general_title>
+    <setting_language_title>ภาษา</setting_language_title>
+    <setting_legal_title>กฎหมาย</setting_legal_title>
+    <setting_localization_des>ช่วยเราแปล InShot เป็นภาษาของคุณ</setting_localization_des>
+    <setting_localization_title>การแปลภาษา</setting_localization_title>
+    <setting_others>อื่น ๆ</setting_others>
+    <setting_privacypolicy_title>นโยบายความเป็นส่วนตัว</setting_privacypolicy_title>
+    <setting_rate5star_des>อัตรา InShot 5 ดาวบน Google Play</setting_rate5star_des>
+    <setting_rate5star_title>อัตรา 5 ดาว</setting_rate5star_title>
+    <setting_restore>เรียกคืนการซื้อสินค้า</setting_restore>
+    <setting_savepath_title>บันทึกเส้นทาง</setting_savepath_title>
+    <setting_share_title>เชิญเพื่อน ๆ</setting_share_title>
+    <setting_thankyou_title>ขอบคุณ</setting_thankyou_title>
+    <shadow>เงา</shadow>
+    <shadow_off>ปิด</shadow_off>
+    <shadow_on>เมื่อวันที่</shadow_on>
+    <share>แชร์</share>
+    <share_content>ทำให้ง่ายต่อการแก้ไขวิดีโอและภาพถ่ายบนโทรศัพท์ของคุณ ดาวน์โหลดฟรี InShot ทันที:https://inshotapp.page.link/invite</share_content>
+    <share_subject>ผู้ช่วยตัดแต่งรูปภาพ&amp;วิดีโอบน Instagram ที่แนะนำสำหรับคุณ</share_subject>
+    <sharpen>ความชัด</sharpen>
+    <shop>ร้านขายของ</shop>
+    <short_preview>ตัวอย่างสั้น</short_preview>
+    <show_read_video_ad_dlg_content>ชมโฆษณาวิดีโอที่จะลบลายน้ำฟรี</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>ชมโฆษณาวิดีโอที่จะลบลายน้ำในครั้งนี้</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>คัดลอกและส่วนแบ่ง</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>ประวัติศาสตร์</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>แท็กสำหรับชอบมากขึ้น</show_tags_dlg_title>
+    <sign_out>ออกจากระบบ</sign_out>
+    <sign_out_account>ออกจากระบบบัญชี</sign_out_account>
+    <signout_current_account>ลงชื่อออกจากบัญชีปัจจุบัน</signout_current_account>
+    <signout_tip_common>แน่ใจหรือไม่ว่าต้องการออกจากระบบบัญชี WeChat ปัจจุบัน?</signout_tip_common>
+    <signout_tip_pro>InShot Pro จะไม่สามารถเข้าถึงได้เมื่อคุณออกจากระบบบัญชี</signout_tip_pro>
+    <size>ขนาด:%s</size>
+    <size_only>ขนาดโดยประมาณ</size_only>
+    <slice>ชิ้น</slice>
+    <slow_motion>การเคลื่อนช้าๆ</slow_motion>
+    <smooth>ราบรื่น</smooth>
+    <smooth_applied>ใช้สโลว์โมชันราบรื่นแล้ว</smooth_applied>
+    <smooth_cancelled>ยกเลิกสโลว์โมชันราบรื่นแล้ว</smooth_cancelled>
+    <smooth_click_preview>คลิกปุ่มตรวจสอบเพื่อแสดงตัวอย่างสโลว์โมชันราบรื่น</smooth_click_preview>
+    <smooth_preview_effect>แสดงตัวอย่างเอฟเฟกต์ลื่นไหล</smooth_preview_effect>
+    <smooth_slow_speed_available>ใช้ได้เฉพาะเมื่อความเร็ว &lt; %sx</smooth_slow_speed_available>
+    <sorry>ขอโทษ</sorry>
+    <string name="space_not_enough_content">ต้องใช้พื้นที่เก็บข้อมูลภายใน(ไม่ใช่พื้นที่จัดเก็บการ์ด SD)มากกว่า &lt;b>%1$dM&lt;/b> เพื่อบันทึก%2$s โปรดเพิ่มพื้นที่ว่างในโทรศัพท์ของคุณแล้วลองอีกครั้ง</string>
+    <space_not_enough_title>ล้างพื้นที่บนโทรศัพท์ของคุณ</space_not_enough_title>
+    <special_offer>ข้อเสนอพิเศษ</special_offer>
+    <speed>ความเร็ว</speed>
+    <speed_adjusts_precode_hint>การปรับความเร็วมากว่า %s เท่าต้องมีการพรีโค้ด</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>ความเร็วที่เกิน 10 เท่าอาจทำให้เสียงต้นฉบับหายไป</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>ไม่ต้องพรีโค้ดอีกครั้งในแถบสีเขียว</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>กรุณาอย่าล็อกหน้าจอหรือสลับไปยังแอปอื่น</speed_precode_warning_hint>
+    <split>สปลิท</split>
+    <spring_festival_pro_title>ปีใหม่ทางจันทรคติลด 50%</spring_festival_pro_title>
+    <standard>มาตรฐาน</standard>
+    <start_over>เริ่มต้นใหม่</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>คุณยังไม่ดาวน์โหลดสติกเกอร์</sticker_empty>
+    <sticker_text>สติ๊กเกอร์</sticker_text>
+    <stickers>สติกเกอร์</stickers>
+    <strength>ความแรง</strength>
+    <style>สไตล์</style>
+    <subscription_detail>"
+
+- สมาชิก InShot แบบไม่จำกัดมีสิทธิ์เข้าถึงฟีเจอร์ทั้งหมด รวมถึงวัสดุที่ใช้ในการตัดต่อแบบชำระเงิน ไม่ว่าจะเป็นสติกเตอร์ แพ็คเกจฟิลเตอร์ และอีกมากมาย นอกจากนี้ ลายน้ำและโฆษณาต่างๆ จะถูกลบออกโดยอัตโนมัติ 
+
+- ระบบการเรียกเก็บเงินจะแบ่งเป็นแบบรายเดือนกับรายปี โดยจะคิดค่าสมาชิกตามแผนที่เลือกไว้ นอกจากนี้ หากต้องการ เรายังมีข้อเสนอแบบชำระครั้งเดียว ซึ่งไม่ได้อยู่ในแผนสมาชิกดังกล่าว 
+
+- เราจะต่ออายุโดยอัตโนมัติ ณ วันเรียกเก็บเงินครั้งต่อไป คุณสามารถปิดระบบนี้ 24 ชั่วโมงล่วงหน้าก่อนสิ้นสุดรอบการเป็นสมาชิกปัจจุบัน Google Play จะเรียกเก็บค่าสมาชิกเมื่อยืนยันการสั่งซื้อ นอกจากนี้ คุณยังปิดระบบต่ออายุอัตโนมัติได้ในการตั้งค่าบัญชีหลังจากซื้อแล้ว"</subscription_detail>
+    <subscription_detail_1>"
+
+- สมาชิก InShot แบบไม่จำกัดมีสิทธิ์เข้าถึงฟีเจอร์ทั้งหมด รวมถึงวัสดุที่ใช้ในการตัดต่อแบบชำระเงิน ไม่ว่าจะเป็นสติกเตอร์ แพ็คเกจฟิลเตอร์ และอีกมากมาย นอกจากนี้ โฆษณาต่างๆ จะถูกลบออกโดยอัตโนมัติ 
+
+- ระบบการเรียกเก็บเงินจะแบ่งเป็นแบบรายเดือนกับรายปี โดยจะคิดค่าสมาชิกตามแผนที่เลือกไว้ นอกจากนี้ หากต้องการ เรายังมีข้อเสนอแบบชำระครั้งเดียว ซึ่งไม่ได้อยู่ในแผนสมาชิกดังกล่าว 
+
+- เราจะต่ออายุโดยอัตโนมัติ ณ วันเรียกเก็บเงินครั้งต่อไป คุณสามารถปิดระบบนี้ 24 ชั่วโมงล่วงหน้าก่อนสิ้นสุดรอบการเป็นสมาชิกปัจจุบัน Google Play จะเรียกเก็บค่าสมาชิกเมื่อยืนยันการสั่งซื้อ นอกจากนี้ คุณยังปิดระบบต่ออายุอัตโนมัติได้ในการตั้งค่าบัญชีหลังจากซื้อแล้ว"</subscription_detail_1>
+    <subscription_terms>การซื้อนี้สามารถใช้ได้กับระบบ Android เท่านั้น การชำระเงินจะเรียกเก็บผ่าน Google Play Store เมื่อยืนยันการซื้อ การสมัครสมาชิกจะต่ออายุอัตโนมัติก่อนวันสิ้นงวดปัจจุบัน เว้นแต่จะมีการยกเลิกล่ว หน้ ภายใน 24 ชั่วโมง และการยกเลิกจะมีผลเมื่อสิ้นสุดรอบระยะเวลาปัจจุบัน คุณสามารถจัดการการสมัครสมาชิกและปิดการต่ออายุอัตโนมัติได้ที่การตั้งค่าบัญชี Google Play Store การสมัครสมาชิกที่ยกเลิกระหว่างช่วงทดลองใช้จะไม่ถูกเรียกเก็บเงิน</subscription_terms>
+    <subscription_terms_cn>สมัครสมาชิก InShot Pro คุณสามารถใช้คุณสมบัติและวัสดุการแก้ไขทั้งหมด ลายน้ำและโฆษณาจะถูกลบโดยอัตโนมัติ InShot Pro ไม่ได้ต่ออายุอัตโนมัติโปรดต่ออายุด้วยตนเองก่อนสิ้นงวดปัจจุบัน การสมัครสมาชิกไม่สามารถถ่ายโอนระหว่างอุปกรณ์ Android และ iOS หากคุณซื้อบนอุปกรณ์ iOS คุณยังจำเป็นต้องซื้อบนอุปกรณ์ Android เมื่อคุณสมัครเป็นสมาชิก InShot Pro จะไม่มีการยกเลิกหรือคืนเงินโปรดตัดสินใจอย่างรอบคอบก่อนตัดสินใจซื้อ</subscription_terms_cn>
+    <subscription_terms_cn_1>สมัครสมาชิก InShot Pro คุณสามารถใช้คุณสมบัติและวัสดุการแก้ไขทั้งหมด โฆษณาจะถูกลบโดยอัตโนมัติ InShot Pro ไม่ได้ต่ออายุอัตโนมัติโปรดต่ออายุด้วยตนเองก่อนสิ้นงวดปัจจุบัน การสมัครสมาชิกไม่สามารถถ่ายโอนระหว่างอุปกรณ์ Android และ iOS หากคุณซื้อบนอุปกรณ์ iOS คุณยังจำเป็นต้องซื้อบนอุปกรณ์ Android เมื่อคุณสมัครเป็นสมาชิก InShot Pro จะไม่มีการยกเลิกหรือคืนเงินโปรดตัดสินใจอย่างรอบคอบก่อนตัดสินใจซื้อ</subscription_terms_cn_1>
+    <subscription_terms_hw>การซื้อบน AppGallery สามารถทำได้ผ่าน HUAPEI IAP เท่านั้น การชำระเงินจะถูกหักออกจากบัญชีของคุณเมื่อยืนยันการสั่งซื้อ การสมัครสมาชิกต่ออายุโดยอัตโนมัติหลังจากสิ้นสุดระยะเวลาปัจจุบันและระบุค่าใช้จ่ายของการต่ออายุ คุณสามารถจัดการการสมัครของคุณและปิดการต่ออายุอัตโนมัติจากการตั้งค่าบัญชี AppGallery ของคุณ การสมัครสมาชิกถูกยกเลิกระหว่างการทดลองใช้ฟรีจะไม่ถูกเรียกเก็บเงิน</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>การซื้อบน AppGallery สามารถทำได้ผ่าน HUAPEI IAP เท่านั้น การชำระเงินจะถูกหักออกจากบัญชีของคุณเมื่อยืนยันการสั่งซื้อ คุณสามารถติดต่อฝ่ายบริการลูกค้าของ Huawei เพื่อยกเลิกการซื้อภายใน 14 วันที่คุณได้รับการยืนยันการสั่งซื้อ การสมัครสมาชิกต่ออายุโดยอัตโนมัติหลังจากสิ้นสุดระยะเวลาปัจจุบัน คุณสามารถจัดการการสมัครของคุณและปิดการต่ออายุอัตโนมัติจากการตั้งค่าบัญชี AppGallery ของคุณ</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>การซื้อบน AppGallery สามารถทำได้ผ่าน HUAPEI IAP เท่านั้น การชำระเงินจะถูกหักออกจากบัญชีของคุณเมื่อยืนยันการสั่งซื้อ คุณสามารถติดต่อฝ่ายบริการลูกค้าของ Huawei เพื่อยกเลิกการซื้อภายใน 7 วันที่คุณได้รับการยืนยันการสั่งซื้อ การสมัครสมาชิกต่ออายุโดยอัตโนมัติหลังจากสิ้นสุดระยะเวลาปัจจุบัน คุณสามารถจัดการการสมัครของคุณและปิดการต่ออายุอัตโนมัติจากการตั้งค่าบัญชี AppGallery ของคุณ</subscription_terms_hw_ru>
+    <subscription_title>สมาชิก InShot แบบไม่จำกัด</subscription_title>
+    <super1>ซูเปอร์</super1>
+    <support_musician>หากต้องการสนับสนุนนักดนตรี โปรดให้เครดิตในคำอธิบายของวิดีโอของคุณ</support_musician>
+    <sure>ตกลง</sure>
+    <swap>แลกเปลี่ยน</swap>
+    <swap_order_hint>กดและลากยาวเพื่อสลับคำสั่งซื้อ</swap_order_hint>
+    <switch_account>สลับบัญชี</switch_account>
+    <tags>แท็ก</tags>
+    <tags_policies>เรานำแท็กที่ไม่เกี่ยวข้องทั้งหมดออกเนื่องจากนโยบายบางอย่าง</tags_policies>
+    <take_video>วิดีโอ</take_video>
+    <tap_permissions>2.แตะสิทธิ์</tap_permissions>
+    <template>แทมเพลต</template>
+    <terms_of_use>เงื่อนไขการใช้งาน</terms_of_use>
+    <text>ข้อความ</text>
+    <text_spacing>การเว้นวรรคข้อความ</text_spacing>
+    <then>วันจากนั้น</then>
+    <time_24_hours>%s ชม. เท่านั้น</time_24_hours>
+    <time_limited_offer>ข้อเสนอจำกัดเวลา</time_limited_offer>
+    <tint>ทิ้นท์</tint>
+    <tip>ปลาย</tip>
+    <tip_close_ad_personalization>หลังจากปิดใช้งานตัวเลือก คุณอาจเห็นโฆษณาที่ไม่เกี่ยวข้อง</tip_close_ad_personalization>
+    <title_optout_ads>เลือกไม่รับโฆษณาตามความสนใจ</title_optout_ads>
+    <too_many_pip_tip>หากมีเลเยอร์มากเกินไปอาจทำให้กระตุกและบันทึกไม่ได้</too_many_pip_tip>
+    <total>รวม</total>
+    <track_count>%d เพลง</track_count>
+    <tracks>เพลง</tracks>
+    <transition>การเปลี่ยน</transition>
+    <transition_prompt>ความยาววิดีโอจะเปลี่ยนหลังจากใช้การเปลี่ยนภาพ</transition_prompt>
+    <trim>ตัดขอบ</trim>
+    <trim_music>เพลงตัดแต่ง</trim_music>
+    <turn_off>ปิด</turn_off>
+    <turn_off_tags_context>ปิดตัวเลือกแท็กและคุณสามารถเปิดในเมนูการตั้งค่า</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>ปิดสวิตช์</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. เปิดไมโครโฟน</turn_on_microphone>
+    <turn_on_storage>3.เปิดการจัดเก็บข้อมูลและกล้อง</turn_on_storage>
+    <type_something>พิมพ์ข้อความ</type_something>
+    <un_select>ไม่เลือก</un_select>
+    <undo>เลิกทำ</undo>
+    <undo_reversed>เลิกย้อนกลับ</undo_reversed>
+    <unlock>ปลดล็อค</unlock>
+    <unlock_all_features>ปลดล็อคฟีเจอร์ทั้งหมด</unlock_all_features>
+    <unlock_for_free>ปลดล็อคฟรี</unlock_for_free>
+    <unlock_for_sticker_tip>ชมโฆษณาวิดีโอที่จะได้รับแพ็คนี้ได้ฟรี</unlock_for_sticker_tip>
+    <unlock_the_features>ปลดล็อกคุณสมบัติ</unlock_the_features>
+    <unsupported_file_format>รูปแบบไฟล์ที่ไม่รองรับ</unsupported_file_format>
+    <update>อัพเดท</update>
+    <update_files>กำลังอัปเดตไฟล์</update_files>
+    <use>ใช้</use>
+    <user_cancel>ยกเลิก</user_cancel>
+    <valid_for>ใช้ได้ %s</valid_for>
+    <valid_for_days>ใช้ได้ %s วัน</valid_for_days>
+    <valid_for_hours>ใช้ได้ %s ชั่วโมง</valid_for_hours>
+    <value>ค่า</value>
+    <video>วิดีโอ</video>
+    <video_background_convert_finished_hint>การแปลงวิดีโอของคุณเสร็จสิ้นแล้ว!</video_background_convert_finished_hint>
+    <video_beginning>การเริ่มต้นวิดีโอ</video_beginning>
+    <video_compress>บีบอัดวีดีโอ</video_compress>
+    <string name="video_compress_description" formatted="false">วีดีโอที่ละเอียดกว่า %s จะถูกบีบอัดเป็น %s โดยอัตโนมัติ</string>
+    <video_continue_convert_hint>InShot กำลังดำเนินการแปลง… ต่อ</video_continue_convert_hint>
+    <video_conversion_failure>การแปลงวิดีโอล้มเหลว</video_conversion_failure>
+    <video_convert_failed_hint>การแปลงวิดีโอล้มเหลว โปรดลองใหม่อีกครั้ง!</video_convert_failed_hint>
+    <video_convert_failed_hint2>การแปลงวิดีโอล้มเหลว โปรดลองวิดีโออื่น!</video_convert_failed_hint2>
+    <video_cut_bar_duration>รวม:</video_cut_bar_duration>
+    <video_end>สิ้นสุดวิดีโอ</video_end>
+    <video_less_than_one_second_not_allow>ไม่สามารถอัปโหลดวิดีโอน้อยกว่า %s</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>คลิกรูปขนาดย่อเพื่อดูตัวเลือกเพิ่มเติม</video_more_option_hint2>
+    <video_not_support>อุปกรณ์นี้ไม่รองรับวิดีโอ คุณสามารถดำเนินการต่อเพื่อใช้ฟีเจอร์รูปภาพ</video_not_support>
+    <video_not_support_detail>ไม่มีฟีเจอร์วิดีโอบนอุปกรณ์นี้เนื่องจาก %s ของคุณ สามารถดำเนินการต่อเพื่อใช้ฟีเจอร์รูปภาพ</video_not_support_detail>
+    <video_not_support_reasons_one>เวอร์ชั่นแอนดรอยด์ต่ำกว่า 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>ซีพียูต้องไม่ใช่ ARM V7 เข้ากันได้กับ Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>วิดีโอเข้ากันไม่ได้</video_not_support_title_one>
+    <video_not_support_title_two>ฮาร์ดแวร์เข้ากันไม่ได้</video_not_support_title_two>
+    <video_only>วิดีโอเท่านั้น</video_only>
+    <video_quality_customize>ปรับเองได้</video_quality_customize>
+    <video_quality_normal>ปกติ</video_quality_normal>
+    <video_quality_recommend>แนะนำ</video_quality_recommend>
+    <video_replace_trim_info>ลากเพื่อเลือกพื้นที่</video_replace_trim_info>
+    <video_resolution>ความละเอียดวีดีโอ</video_resolution>
+    <video_setting>ตั้งค่าวีดีโอ</video_setting>
+    <video_sharing_progress_title1>กำลังเริ่มต้น…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>กำลังแปลงวิดีโอ…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>กำลังยกเลิก…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>คุณสามารถเพิ่มได้สูงสุด 20 ตัว</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">รองรับเฉพาะวิดีโอที่ยาวกว่า %s(>%s)</string>
+    <video_too_short_after_cut_hint>ความยาววิดีโอสั้นเกินไป</video_too_short_after_cut_hint>
+    <vignette>Vignette</vignette>
+    <voice_effect>เอฟเฟกต์เสียง</voice_effect>
+    <voice_effect_support>รองรับเสียงที่บันทึก/นำเข้าเท่านั้น</voice_effect_support>
+    <volume>ปริมาณ</volume>
+    <warmth>ความอบอุ่น</warmth>
+    <warning>คำเตือน</warning>
+    <watch>ดู</watch>
+    <what_new_audio_draft>บันทึกข้อความร่าง</what_new_audio_draft>
+    <what_new_audio_track>เพลงหลายเพลง</what_new_audio_track>
+    <what_new_crop_video>วิดีโอพืช</what_new_crop_video>
+    <what_new_cut>ตัดและแบ่งวิดีโอ</what_new_cut>
+    <what_new_music>เพลง Vlog ยอดนิยม</what_new_music>
+    <what_new_special_effects_filters_vol1>ปริมาณตัวกรองเอฟเฟ็กต์พิเศษ 1</what_new_special_effects_filters_vol1>
+    <what_news_collage>โหมดจับแพะชนแกะที่ดีขึ้น</what_news_collage>
+    <what_news_filter>กรองสำหรับโหมดวิดีโอ</what_news_filter>
+    <what_news_thanksgiving>สุขสันต์วันขอบคุณพระเจ้า</what_news_thanksgiving>
+    <whats_new_add_blank_screen>เพิ่มหน้าจอว่างเปล่า</whats_new_add_blank_screen>
+    <whats_new_background_pattern>รูปแบบพื้นหลัง</whats_new_background_pattern>
+    <whats_new_beats_effects>ผลกระทบจังหวะ</whats_new_beats_effects>
+    <whats_new_blend>PIP - ผสมผสาน</whats_new_blend>
+    <whats_new_brand_music>อินเทอร์เฟซเพลงใหม่ล่าสุด</whats_new_brand_music>
+    <whats_new_create_gifs>สร้าง GIF</whats_new_create_gifs>
+    <whats_new_customer_color>สีที่กำหนดเอง</whats_new_customer_color>
+    <whats_new_cutout>คัตเอาท์สติกเกอร์ที่กำหนดเอง</whats_new_cutout>
+    <whats_new_cutout_outline>คัตเอาท์และโครงร่างรูปภาพ</whats_new_cutout_outline>
+    <whats_new_effect>ไทม์ไลน์เอฟเฟกต์</whats_new_effect>
+    <whats_new_effect_retro2>เอฟเฟกต์ใหม่ - ย้อนยุค 2</whats_new_effect_retro2>
+    <whats_new_effect_split>เอฟเฟกต์ใหม่_แยก</whats_new_effect_split>
+    <whats_new_fade_base>เอฟเฟกต์ใหม่-ขั้นพื้นฐาน,เลือนหายไป</whats_new_fade_base>
+    <whats_new_filter_fresh>ตัวกรองใหม่_สด</whats_new_filter_fresh>
+    <whats_new_frame_rate>อัตราเฟรมใหม่</whats_new_frame_rate>
+    <whats_new_freeze_tool>เครื่องมือตรึง</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>การปรับ HSL</whats_new_hsl_adjustment>
+    <whats_new_item_frame>วัตถุยึดติดกับเฟรม</whats_new_item_frame>
+    <whats_new_magnifier>สติ๊กเกอร์แว่นขยาย</whats_new_magnifier>
+    <whats_new_mask>หน้ากากสำหรับ PIP</whats_new_mask>
+    <whats_new_material>ห้องสมุดวัสดุใหม่ล่าสุด</whats_new_material>
+    <whats_new_music_fade_in_and_out>เพลงจะค่อยๆจางหายไป</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>อัลบั้มใหม่</whats_new_new_album>
+    <whats_new_new_effect_and_transition>เอฟเฟกต์และการเปลี่ยนใหม่</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>เอฟเฟกต์ใหม่ -ฟิล์ม</whats_new_new_effect_film>
+    <whats_new_new_filters>ตัวกรองใหม่</whats_new_new_filters>
+    <whats_new_new_transition>การเปลี่ยนภาพใหม่ -กระดาษฉีก</whats_new_new_transition>
+    <whats_new_pip>PIP - การวางซ้อนวิดีโอ</whats_new_pip>
+    <whats_new_smooth>สโลว์โมชันราบรื่น สำหรับการปรับความเร็ว</whats_new_smooth>
+    <whats_new_speed_curve>เส้นโค้งความเร็ว</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>ที่ตั้งไว้ล่วงหน้าเส้นโค้งความเร็ว</whats_new_speed_curve_preset>
+    <whats_new_store>ร้านเนื้อหาใหม่ล่าสุด</whats_new_store>
+    <whats_new_text_animation>แอนิเมชั่นข้อความใหม่</whats_new_text_animation>
+    <whats_new_transition_film>การเปลี่ยนภาพใหม่ - ฟิล์ม</whats_new_transition_film>
+    <whats_new_video_full_screen>ดูตัวอย่างวิดีโอแบบเต็มหน้าจอ</whats_new_video_full_screen>
+    <whats_new_voice_effect>เอฟเฟกต์เสียง</whats_new_voice_effect>
+    <whatsnew_advance_timeline>ไทม์ไลน์วิดีโอขั้นสูง</whatsnew_advance_timeline>
+    <whatsnew_christmas>เพลงสำหรับคริสต์มาส</whatsnew_christmas>
+    <whatsnew_color_pallette>จานสีใหม่</whatsnew_color_pallette>
+    <whatsnew_font_style>รูปแบบตัวอักษรใหม่</whatsnew_font_style>
+    <whatsnew_loop_animation>ภาพเคลื่อนไหววนรอบ</whatsnew_loop_animation>
+    <whatsnew_music>เพลงใหม่</whatsnew_music>
+    <whatsnew_recording>บันทึก</whatsnew_recording>
+    <whatsnew_slide>ผสมวิดีโอพร้อมรูปถ่าย</whatsnew_slide>
+    <whatsnew_sound_effects>เสียงประกอบ</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>แยกเพลงข้อความและสติกเกอร์</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>สติ๊กเกอร์เคลื่อนไหว</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>สติ๊กเกอร์เคลื่อนไหวและข้อความ</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>ภาพเคลื่อนไหวข้อความ</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>ร่างไม่ จำกัด</whatsnew_unlimited_drafts>
+    <widgetphoto>รูปภาพ InShot</widgetphoto>
+    <widgetvideo>วิดีโอ InShot</widgetvideo>
+    <year>ปี</year>
+    <yes>ใช่</yes>
+    <you_are_not_login>คุณยังไม่ได้เข้าสู่ระบบ</you_are_not_login>
+    <you_will_still_see_ads>คุณจะยังคงเห็นโฆษณา แต่พวกเขาอาจจะไม่ได้ขึ้นอยู่กับความสนใจของคุณ</you_will_still_see_ads>
+    <zoom>ซูม</zoom>
+    <zoom_selection>ขยายพื้นที่การเลือก</zoom_selection>
+</resources>

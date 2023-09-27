@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>Λεπτομέρειες InShot Pro</InShot_detail>
+    <abc_action_bar_home_description>Πλοήγηση στην αρχική σελίδα</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Πλοήγηση προς τα επάνω</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Περισσότερες επιλογές</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Τέλος</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Εμφάνιση όλων</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Επιλέξτε μια εφαρμογή</abc_activitychooserview_choose_application>
+    <abc_capital_off>ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</abc_capital_off>
+    <abc_capital_on>ΕΝΕΡΓΟΠΟΙΗΣΗ</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>διάστημα</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>Αναζήτηση…</abc_search_hint>
+    <abc_searchview_description_clear>Διαγραφή ερωτήματος</abc_searchview_description_clear>
+    <abc_searchview_description_query>Ερώτημα αναζήτησης</abc_searchview_description_query>
+    <abc_searchview_description_search>Αναζήτηση</abc_searchview_description_search>
+    <abc_searchview_description_submit>Υποβολή ερωτήματος</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Φωνητική αναζήτηση</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Κοινοποίηση σε</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Κοινοποίηση στην εφαρμογή %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Σύμπτυξη</abc_toolbar_collapse_description>
+    <account>λογαριασμός</account>
+    <acknowledge>Ευχαριστίες</acknowledge>
+    <action_settings>ρυθμίσεις</action_settings>
+    <actual_price_year_format>Αγοράστε το για %s/έτος</actual_price_year_format>
+    <ad_personalization>Προσαρμογή διαφημίσεων</ad_personalization>
+    <ad_personalization_tip>"Τα cookie είναι αρχεία κειμένου που δημιουργούνται στη συσκευή σας από τον διακομιστή ιστού. Προκειμένου να παρέχουμε μια καλύτερη υπηρεσία, ενδέχεται να χρησιμοποιούμε σχετικές τεχνολογίες για να στείλουμε ένα ή περισσότερα cookie στη συσκευή σας για τη συλλογή και αποθήκευση πληροφοριών σχετικά με τη χρήση αυτού του προϊόντος.
+
+Οι Admob, Mopub, Vungle, Facebook, Smaato, myTarget ως διαφημιστές του InShot, ενδέχεται να συλλέγουν πληροφορίες που δημιουργούνται κατά τη χρήση των προϊόντων και των υπηρεσιών μας, να εξάγουν τις προτιμήσεις σας και να τις χρησιμοποιούν για να σας εμφανίζουν διαφημίσεις που ανταποκρίνονται περισσότερο στις ατομικές σας ανάγκες. Δεν κοινοποιούμε δεδομένα χρηστών στο Facebook ή σε άλλα μέρη (επαληθεύτηκε από το BBC &amp; το Privacy International).
+
+Θα χρησιμοποιήσουμε τεχνικά μέσα για την ανωνυμοποίηση των δεδομένων και οι ανώνυμες πληροφορίες δεν θα είναι σε θέση να προσδιορίσουν το θέμα. Εάν δεν σας ενδιαφέρει η εξατομικευμένη προβολή, μπορείτε να επιλέξετε να απενεργοποιήσετε την εμφάνιση εξατομικευμένου περιεχομένου μέσω των Ρυθμίσεων-Εξατομίκευση διαφημίσεων. Λάβετε υπόψη ότι ενδέχεται να εξακολουθείτε να βλέπετε διαφημίσεις μετά την απενεργοποίηση αυτής της επιλογής, αλλά η συνάφεια των διαφημίσεων θα μειωθεί."</ad_personalization_tip>
+    <add>Προσθήκη</add>
+    <add_favorite>Πρόσθεστε αγαπημένα</add_favorite>
+    <adjust>Ρυθμίστε</adjust>
+    <agree>Συμφωνώ</agree>
+    <album>ΆΛΜΠΟΥΜ</album>
+    <album_sleepless_desc>Βεβαιωθείτε ότι έχετε προσθέσει τις ακόλουθες πληροφορίες στην περιγραφή του βίντεο όταν το κοινοποιείτε δημόσια.</album_sleepless_desc>
+    <all>Όλοι</all>
+    <all_inclusive>Συμπεριλάβετε όλα</all_inclusive>
+    <all_original_files_miss_in_draft>"Το πρόχειρο είναι κατεστραμμένο, επειδή λείπουν όλα τα αρχικά αρχεία. 
+
+Ανάκτηση των αρχικών αρχείων από [Πρόσφατα Διαγραμμένα/Κάδο απορριμμάτων] ενδέχεται να διορθώσει αυτό το πρόχειρο."</all_original_files_miss_in_draft>
+    <all_premium>Πρόσβαση σε όλα τα φίλτρα Premium, Εφέ, Αυτοκόλλητα, Γραμματοσειρές. Δεν υδατογράφημα, Δεν υπάρχουν διαφημίσεις.</all_premium>
+    <all_premium_1>Πρόσβαση σε όλα τα φίλτρα Premium, Εφέ, Αυτοκόλλητα, Γραμματοσειρές. Δεν υπάρχουν διαφημίσεις.</all_premium_1>
+    <allow_camera_access>Επιτρέψτε την πρόσβαση στην κάμερα</allow_camera_access>
+    <allow_record_access>Επιτρέψτε την πρόσβαση στο μικρόφωνο</allow_record_access>
+    <allow_record_access_hint>Το InShot απαιτεί άδεια μικροφώνου για την εγγραφή ήχου.</allow_record_access_hint>
+    <allow_storage_access>Να επιτρέπεται η πρόσβαση στην αποθήκευση</allow_storage_access>
+    <allow_storage_access_hint>Για να δημιουργήσετε όμορφα βίντεο και φωτογραφίες, το InShot χρειάζεται πρόσβαση στη βιβλιοθήκη φωτογραφιών σας.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>Για να δημιουργήσετε όμορφα βίντεο και φωτογραφίες, το InShot χρειάζεται πρόσβαση στη βιβλιοθήκη φωτογραφιών σας και την κάμερα.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Είστε ήδη μέλος του InShot Pro</already_InShot_pro>
+    <already_purchased>Ήδη Αγοράσατε;</already_purchased>
+    <angle>Γωνία</angle>
+    <animation_in>ΕΜΦΑΝΙΣΗ</animation_in>
+    <animation_out>ΜΗ ΕΜΦΑΝ.</animation_out>
+    <animation_stickers>Κινούμενα αυτοκόλλητα</animation_stickers>
+    <app_latest_version_available_title>Η τελευταία έκδοση είναι διαθέσιμη (%s)</app_latest_version_available_title>
+    <app_latest_version_title>Έχετε την τελευταία έκδοση</app_latest_version_title>
+    <app_not_installed_content>Κατεβάστε %s ή να μοιραστείτε μέσω άλλων εφαρμογών</app_not_installed_content>
+    <app_not_installed_download_app>Λήψη %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>Μερίδιο με άλλους</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s δεν έχει εγκατασταθεί</app_not_installed_title>
+    <app_wall_entrance_action>ΤΣΈΚΑΡΈ ΤΟ</app_wall_entrance_action>
+    <app_wall_entrance_title>Πιο δημοφιλείς εφαρμογές σήμερα</app_wall_entrance_title>
+    <apply_to_all>Εφαρμόστε σε όλους</apply_to_all>
+    <apply_to_all_clips>Εφαρμογή σε όλα τα κλιπ</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>Η διάρκεια ήχου είναι πολύ μικρή.</audio_too_short_after_cut_hint>
+    <authorization>Εξουσιοδότηση</authorization>
+    <background>φόντο</background>
+    <background_color>Χρώμα φόντου</background_color>
+    <basic>ΒΑΣΙΚΟ</basic>
+    <basic_animation>ΒΑΣΙΚΟΣ</basic_animation>
+    <beats>Χτύποι</beats>
+    <billing_unavailable>Δεν έχετε ρυθμίσει κανένα λογαριασμό στο Google Play.</billing_unavailable>
+    <billing_unavailable_hw>Δεν έχετε δημιουργήσει λογαριασμό Huawei.</billing_unavailable_hw>
+    <blank>Κενό</blank>
+    <blend>Ανάμειξη</blend>
+    <blocked>Αποκλεισμένος</blocked>
+    <blur>Θολούρα</blur>
+    <blur_background>Θολό Φόντο</blur_background>
+    <blur_bg>Θολό Φόντο</blur_bg>
+    <blur_bg_custom_hint>Χρησιμοποιήστε τη δική σας φωτογραφία ως φόντο</blur_bg_custom_hint>
+    <blur_bg_options_merged>Συγχώνευση επιλογών θαμπώματος και φόντου</blur_bg_options_merged>
+    <blur_off>μακριά από</blur_off>
+    <blur_on>Ανοιχτό</blur_on>
+    <border>σύνορα</border>
+    <brush>πινέλο</brush>
+    <buy>Αγορά</buy>
+    <can_not_add_more_tracks>Αδυναμία προσθήκης επιπλέον κομματιών</can_not_add_more_tracks>
+    <can_not_add_tracks>Δεν μπορούν να προστεθούν κομμάτια βίντεο εδώ</can_not_add_tracks>
+    <cancel>Άκυρο</cancel>
+    <cancel_save_video_dlg_btn_no>Όχι</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>Ναι</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Θέλετε να ακυρώσετε την μετατροπή βίντεο;</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Προσοχή</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Το κλιπ είναι πολύ μικρό για προσθήκη μετάβασης.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>Δεν είναι δυνατή η αποθήκευση GIF με διάρκεια άνω του ενός λεπτού. Αλλάξτε τύπο αρχείου ή συντομεύστε τη διάρκεια του Gif.</cannot_save_gif_over_one_minute>
+    <canvas>Καμβασ</canvas>
+    <celebrate>Γιορτάστε</celebrate>
+    <change_beginning_too_short>Η διάρκεια του βίντεο/κλιπ είναι πολύ μικρή για τη μετάβαση στην αρχή</change_beginning_too_short>
+    <change_end_too_short>Η διάρκεια του βίντεο/κλιπ είναι πολύ μικρή για τη μετάβαση στο τέλος</change_end_too_short>
+    <change_language_title>Επιλογή γλώσσας</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Εάν απέτυχε η μεταφόρτωση του βίντεο στο Instagram δεν είναι πρόβλημα του δικτύου, δοκιμάστε MPEG-4. Η προεπιλεγμένη μορφή είναι H.264, για καλύτερη ποιότητα και μικρότερο μέγεθος.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Αλλαγή κώδικα βίντεο</change_video_codec_dialog_title>
+    <character>Χαρακτήρας</character>
+    <check>Ελεγχος</check>
+    <choose_pay_method>Επιλέξτε Τρόπος πληρωμής</choose_pay_method>
+    <choose_video_quality_hint>ποιότητα</choose_video_quality_hint>
+    <chroma>Χρώμα</chroma>
+    <classic>κλασσικός</classic>
+    <clear>Διαγραφή</clear>
+    <string name="clear_cache_content">&lt;b>%s&lt;/b> χώρος αποθήκευσης θα σωθεί μετά από τη διαγραφή. Δεν θα επηρεάσει το Πρόχειρο, επιθυμείτε συνέχεια;</string>
+    <clearing>Διαγραφή…</clearing>
+    <click_here>Κάντε κλικ ΕΔΩ</click_here>
+    <click_track_tip>Πατήστε τη γραμμή του χρόνου για επεξεργασία μουσικής και προσαρμογή του ήχου του βίντεο.</click_track_tip>
+    <clip_beginning>Η αρχή του κλιπ</clip_beginning>
+    <clip_end>Το άκρο του κλιπ</clip_end>
+    <clip_mute_adjust_volume_retry>Διακόψτε τη σίγαση του ήχου και ξαναπροσπαθήστε</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>Η συνολική διάρκεια θα μειωθεί και η χρονική σειρά θα μεταβληθεί ανάλογα.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Το νέο κλιπ είναι πιο μικρό από το τρέχων.</clip_replace_shorter_title>
+    <clip_reversed>Το Κλιπ Αναστράφηκε</clip_reversed>
+    <clip_video_tip>Κλείστε το βίντεο με το μήκος που θέλετε να εισαγάγετε.</clip_video_tip>
+    <collage>Κολάζ</collage>
+    <collage_long_press_swap_photo>Πατήστε παρατεταμένα για εναλλαγή φωτογραφιών.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>Μπορείτε να επιλέξετε το πολύ 9 φωτογραφίες!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Κάντε κλικ σε μια φωτογραφία για να την ανταλλάξουν με</collage_swap_photo>
+    <color>Χρώμα</color>
+    <color_palette>Παλέτα χρωμάτων</color_palette>
+    <common_google_play_services_enable_button>Ενεργοποίηση</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>Η εφαρμογή %1$s δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Ενεργοποίηση υπηρεσιών Google Play</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Εγκατάσταση</common_google_play_services_install_button>
+    <common_google_play_services_install_text>Η εφαρμογή %1$s δεν μπορεί να εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από τη συσκευή σας.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Λήψη υπηρεσιών Google Play</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Διαθεσιμότητα υπηρεσιών Google Play</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Σφάλμα Υπηρεσιών Google Play</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Ενημέρωση</common_google_play_services_update_button>
+    <common_google_play_services_update_text>Η εφαρμογή %1$s θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Ενημέρωση υπηρεσιών Google Play</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>Η εφαρμογή %1$s δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Άνοιγμα σε τηλέφωνο</common_open_on_phone>
+    <common_signin_button_text>Σύνδεση</common_signin_button_text>
+    <common_signin_button_text_long>Συνδεθείτε με το Google</common_signin_button_text_long>
+    <contact_creator>Επικοινωνήστε με τον δημιουργό</contact_creator>
+    <continue_buy>Μετά την ανανέωση για ένα έτος, το InShot Pro θα επεκταθεί έως το %s.</continue_buy>
+    <continue_text>Συνέχεια</continue_text>
+    <continue_title>Συνέχεια</continue_title>
+    <contrast>Αντίθεση</contrast>
+    <convert_failed>η μετατροπή απέτυχε</convert_failed>
+    <copied>Αντιγραφεί</copied>
+    <copy>Αντιγραφή</copy>
+    <crop>Περικοπή</crop>
+    <curve>Καμπύλη</curve>
+    <custom_background>Προσαρμογή φόντου</custom_background>
+    <custom_sticker>Επικάλυψη εικόνων σε βίντεο</custom_sticker>
+    <cut>Αποκοπή</cut>
+    <cut_both_ends>Κόψτε</cut_both_ends>
+    <cut_import>Εισαγωγή</cut_import>
+    <cut_video>Περικοπή Βίντεο</cut_video>
+    <cutout>Αποκοπή</cutout>
+    <day_free_trial>%s ημέρες δωρεάν δοκιμή</day_free_trial>
+    <days_left>Απομένουν %d μέρες</days_left>
+    <delete>Διαγράφω</delete>
+    <delete_confirm_dialog_content>Επιθυμείτε διαγραφή;</delete_confirm_dialog_content>
+    <delete_drafts_note>Λάβετε υπόψη ότι δεν είναι δυνατή η ανάκτηση των διαγραμμένων προχείρων!</delete_drafts_note>
+    <delete_material_tip>Η διαγραφή υλικού θα επηρεάσει προσχέδια!</delete_material_tip>
+    <denoise>Αφαίρεση θορύβου</denoise>
+    <detail>Λεπτομέρειες</detail>
+    <detail_mosaic>λεπτομέρεια</detail_mosaic>
+    <directories>Κατάλογοι</directories>
+    <disable_follow>Απενεργοποιήστε</disable_follow>
+    <discard_edit_dlg_confirm>Απόρριψη</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Απόρριψη επεξεργασίας?</discard_edit_dlg_title>
+    <discount>Εκπτωση</discount>
+    <discount_format>%s έκπτωση</discount_format>
+    <dissolve>Μίξη</dissolve>
+    <distort>Παραμόρφωση</distort>
+    <do_not_use_tags>Μην χρησιμοποιείτε ετικέτες;</do_not_use_tags>
+    <donate>ΔΩΡΙΖΩ</donate>
+    <done>Ολοκληρώθηκε</done>
+    <double_click_reset_zoom>Διπλό κλικ για επιστροφή</double_click_reset_zoom>
+    <download>λήψης</download>
+    <download_failed>Η λήψη απέτυχε!</download_failed>
+    <download_video_progress_title>Λήψη βίντεο από τον server…</download_video_progress_title>
+    <draft>ΠΡΟΣΧΈΔΙΟ</draft>
+    <draft_clip_missing_tip>Δεν ήταν δυνατή η φόρτωση μερικών κλιπ στο πρόχειρο, διότι τα πρωτότυπα αρχεία δεν είναι πλέον διαθέσιμα.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Προσπαθήστε να τα αντικαταστήσετε με άλλα στοιχεία για να συνεχίσετε.</draft_clip_missing_tip1>
+    <draft_corrupted>Κάποια στοιχεία του έργου βίντεο λείπουν.</draft_corrupted>
+    <draft_delete_video_hint>Η διαγραφή του αρχικού βίντεο θα προκαλέσει βλάβη στο αρχείο κειμένου.</draft_delete_video_hint>
+    <draft_load_err>Φόρτωση Σφάλματος</draft_load_err>
+    <draft_open_hint>Μόλις ξεκινήσετε ένα νέο έργο βίντεο, το σχέδιό σας θα αντικατασταθεί.</draft_open_hint>
+    <draft_saved>Το πρόχειρο αποθηκεύτηκε</draft_saved>
+    <drafts>%s ΣΧΈΔΙΟ</drafts>
+    <drafts_not_backward_compatible>Η έκδοση εφαρμογών είναι πολύ χαμηλή για να ανοίξετε τα σχέδια.</drafts_not_backward_compatible>
+    <drag_to_swap>Σύρετε για αλλαγή</drag_to_swap>
+    <duplicate>Επαναλάβετε</duplicate>
+    <duration>Διάρκεια</duration>
+    <edit>Επεξεργασία</edit>
+    <edit_music_dialog_music_volume>Ένταση Μουσικής</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Ένταση Βίντεο</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Ρύθμιση Έντασης</edit_music_dialog_title>
+    <edit_volume_fade_out>σβήνω εικόνα</edit_volume_fade_out>
+    <edit_with_inshot>Επεξεργασία με InShot:</edit_with_inshot>
+    <effect>Εφέ</effect>
+    <effect_count>%d ΕΦΕ</effect_count>
+    <effects>Εφέ</effects>
+    <emoji_activity_category>ΔΡΑΣΤΗΡΙΟΤΗΤΑ</emoji_activity_category>
+    <emoji_animals_category>ΤΩΝ ΖΩΩΝ</emoji_animals_category>
+    <emoji_celebration_category>ΕΟΡΤΑΣΜΟΣ</emoji_celebration_category>
+    <emoji_dialy_category>ΚΑΘΗΜΕΡΙΝΑ</emoji_dialy_category>
+    <emoji_emotion_category>συγκίνηση</emoji_emotion_category>
+    <emoji_food_category>ΦΑΓΗΤΟ</emoji_food_category>
+    <emoji_gesture_category>ΧΕΙΡΟΝΟΜΙΑ</emoji_gesture_category>
+    <emoji_nature_category>ΦΥΣΗ</emoji_nature_category>
+    <emoji_objects_category>ΑΝΤΙΚΕΙΜΕΝΑ</emoji_objects_category>
+    <emoji_people_category>ΑΝΘΡΩΠΟΙ</emoji_people_category>
+    <emoji_recent_category>ΠΡΟΣΦΑΤΑ</emoji_recent_category>
+    <emoji_smile_category>ΣΥΓΚΙΝΗΣΗ</emoji_smile_category>
+    <emoji_symbols_category>ΣΥΜΒΟΛΑ</emoji_symbols_category>
+    <emoji_transit_category>ΔΙΑΜΕΤΑΚΟΜΙΣΗ</emoji_transit_category>
+    <erase>διαγραφή</erase>
+    <error>Απέτυχε! Δοκιμάστε ξανά!</error>
+    <examine_result>%d κλιπ δεν μπορούν να εισαχθούν.</examine_result>
+    <exit>Εξοδος</exit>
+    <exit_app_discard_edit_warn>Πιέστε ξανά για απόρριψη</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>Έξοδος</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Πατήστε το κουμπί Αποθήκευση για να αποθηκεύσετε και να μοιραστείτε τα έργα σας.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Έξοδος χωρίς αποθήκευση?</exit_before_save_dlg_title>
+    <exit_tip>Πιέστε ξανά για έξοδο</exit_tip>
+    <exo_controls_cc_disabled_description>Ενεργοποίηση υπότιτλων</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Απενεργοποίηση υπότιτλων</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Γρήγορη προώθηση</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Πλήρης οθόνη</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Έξοδος από πλήρη οθόνη</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Απόκρ. στοιχείων ελέγχου προγράμματος αναπαραγωγής</exo_controls_hide>
+    <exo_controls_next_description>Επόμενο</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Απόκρυψη πρόσθετων ρυθμίσεων</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Εμφάνιση πρόσθετων ρυθμίσεων</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Παύση</exo_controls_pause_description>
+    <exo_controls_play_description>Αναπαραγωγή</exo_controls_play_description>
+    <exo_controls_playback_speed>Ταχύτητα</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Κανονική</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Προηγούμενο</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Επανάληψη όλων</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Καμία επανάληψη</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Επανάληψη ενός κομματιού</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Επαναφορά</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Πρόοδος αναπαραγωγής</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Ρυθμίσεις</exo_controls_settings_description>
+    <exo_controls_show>Εμφάν. στοιχείων ελέγχου προγράμματος αναπαραγωγής</exo_controls_show>
+    <exo_controls_shuffle_off_description>Τυχαία αναπαραγωγή: Ανενεργή</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Τυχαία αναπαραγωγή: Ενεργή</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Διακοπή</exo_controls_stop_description>
+    <exo_controls_vr_description>Λειτουργία VR mode</exo_controls_vr_description>
+    <exo_download_completed>Η λήψη ολοκληρώθηκε</exo_download_completed>
+    <exo_download_description>Λήψη</exo_download_description>
+    <exo_download_downloading>Λήψη</exo_download_downloading>
+    <exo_download_failed>Η λήψη απέτυχε</exo_download_failed>
+    <exo_download_notification_channel_name>Λήψεις</exo_download_notification_channel_name>
+    <exo_download_removing>Κατάργηση λήψεων</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Μονοφωνικό</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Εναλλακτικό</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Υπότιτλοι</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Σχολιασμός</exo_track_role_commentary>
+    <exo_track_role_supplementary>Συμπληρωματικό</exo_track_role_supplementary>
+    <exo_track_selection_auto>Αυτόματο</exo_track_selection_auto>
+    <exo_track_selection_none>Κανένα</exo_track_selection_none>
+    <exo_track_selection_title_audio>Ήχος</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Κείμενο</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Βίντεο</exo_track_selection_title_video>
+    <exo_track_stereo>Στερεοφωνικό</exo_track_stereo>
+    <exo_track_surround>Περιφερειακός ήχος</exo_track_surround>
+    <exo_track_surround_5_point_1>Περιφερειακός ήχος 5.1</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>Περιφερειακός ήχος 7.1</exo_track_surround_7_point_1>
+    <exo_track_unknown>Άγνωστο</exo_track_unknown>
+    <extract>Εξάγω</extract>
+    <extract_audio>Εξαγωγή ήχου</extract_audio>
+    <extract_audio_from_video>Εξαγωγή ήχου από βίντεο</extract_audio_from_video>
+    <extract_failed>Η εξαγωγή δεν ήταν δυνατή</extract_failed>
+    <fade>Ξεθωριάζει</fade>
+    <fade_in>Εξαφανίστε</fade_in>
+    <fade_new>Ξεθώριασμα</fade_new>
+    <failed_to_load_blur_image>Η φόρτωση της επιλεγμένης εικόνας απέτυχε, επιλέξτε ξανά!</failed_to_load_blur_image>
+    <failed_to_load_image>Ωχ! Απέτυχε η φόρτωση της εικόνας</failed_to_load_image>
+    <fast_motion>ΓΡΉΓΟΡΗ ΚΊΝΗΣΗ</fast_motion>
+    <favourite>Αγαπημένη</favourite>
+    <featured>ΣΕ ΠΑΡΟΥΣΙΑΣΗ</featured>
+    <feedback_and_suggestion_hint>Ανάδρασης και υπόδειξη</feedback_and_suggestion_hint>
+    <feedback_not_now>ΌΧΙ ΤΏΡΑ</feedback_not_now>
+    <feedback_subject>Σχόλια για την εφαρμογή instaShot</feedback_subject>
+    <feedback_submit>ΥΠΟΤΆΣΣΟΜΑΙ</feedback_submit>
+    <festival>Φεστιβάλ</festival>
+    <file_corrupted_description>Το αρχείο είναι κατεστραμμένο, πραγματοποιήστε επανεγκατάσταση της εφαρμογής InstaShot από το επίσημο κατάστημα εφαρμογών.</file_corrupted_description>
+    <file_corrupted_note>Το αρχείο είναι κατεστραμμένο, πραγματοποιήστε επανεγκατάσταση της εφαρμογής InstaShot από το Google Play</file_corrupted_note>
+    <file_corrupted_title>Αγαπητή/-έ χρήστη</file_corrupted_title>
+    <file_not_support>Μη υποστηριζόμενος τύπος αρχείου.</file_not_support>
+    <film>φιλμ</film>
+    <film_grain>Κόκκος φίλμ</film_grain>
+    <filter>Φίλτρα</filter>
+    <filter_manage>Διαχείριση φίλτρου</filter_manage>
+    <filter_not_supported_in_photo>Το πακέτο ρέων αποτελεσμάτων δεν είναι διαθέσιμο για φωτογραφίες.</filter_not_supported_in_photo>
+    <filters>Φίλτρα</filters>
+    <first_month>Πρώτος μήνας</first_month>
+    <first_year>Πρώτο έτος</first_year>
+    <fit>χωρέσει</fit>
+    <fit_bottom>Κάτω</fit_bottom>
+    <fit_fit>χωρέσει</fit_fit>
+    <fit_full>γεμάτος</fit_full>
+    <fit_left>Αριστερά</fit_left>
+    <fit_original>Αρχικό</fit_original>
+    <fit_right>Δεξιά</fit_right>
+    <fit_top>πάνω</fit_top>
+    <flip>Αναστροφή</flip>
+    <folder_cannot_write>Ο φάκελος δεν μπορεί να τροποποιηθεί! Επιλέξτε άλλο φάκελο.</folder_cannot_write>
+    <follow_ins_to_unlock>Ακολουθήστε το InShot στο Instagram για να</follow_ins_to_unlock>
+    <follow_setting_title>Επικόλληση ειδών στο πλαίσιο</follow_setting_title>
+    <follow_tiktok_to_unlock>Εγγραφείτε στο κανάλι InShot TikTok για να</follow_tiktok_to_unlock>
+    <follow_toggle_tip>Μετά από το τριμάρισμα ή τη διαγραφή του κλιπ, τα είδη (ηχογράφηση, ηχητικά εφέ, PIP, αυτοκόλλητα, κείμενα, εφέ) θα παγιωθούν στο αρχικό πλαίσιο</follow_toggle_tip>
+    <follow_toggle_tip_2>Μετά από το τριμάρισμα ή τη διαγραφή του κλιπ, τα είδη (PIP, αυτοκόλλητα, κείμενα...) θα παγιωθούν στο αρχικό πλαίσιο</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Ακολουθήστε μας στα μέσα κοινωνικής δικτύωσης για να λαμβάνετε τα τελευταία νέα σχετικά με InShot.</follow_us_fun_media_tip>
+    <follow_us_to>Ακολουθήστε μας για</follow_us_to>
+    <follow_youtube_to_unlock>Γίνετε συνδρομητής στο YouTube κανάλι του InShot για να</follow_youtube_to_unlock>
+    <font>Γραμματοσειρά</font>
+    <font_color>χρώμα γραμματοσειράς</font_color>
+    <font_copyright_des>Αυτή η γραμματοσειρά προορίζεται για προσωπική (μη εμπορική) χρήση μόνο.</font_copyright_des>
+    <fonts>Γραμματοσειρές</fonts>
+    <for_you>Για εσάς</for_you>
+    <format>Μορφή</format>
+    <frame>κορνίζα</frame>
+    <frame_rate>Ρυθμός καρέ</frame_rate>
+    <free>ΔΩΡΕΆΝ</free>
+    <free_download>ΔΩΡΕΑΝ ΛΗΨΗ</free_download>
+    <free_unlock>Ξεκλειδώστε Δωρεάν</free_unlock>
+    <freeze>Πάγωμα</freeze>
+    <full_park_emoji>Πλήρες πακέτο Emoji</full_park_emoji>
+    <gallery>γκάλερι</gallery>
+    <gdpr_consent>"We never stop trying to provide a higher quality user experience in every detail. The privacy policy is updated to adapt to the EU General Data Protection Regulation (GDPR). You can read it in “Settings” - “Privacy policy”.
+
+Please click “Continue” to agree to the policy and use this app. If you don’t want personal data to be collected by the advertising providers, please go to “setting” - “Privacy Policy” page and Click “I don’t agree”."</gdpr_consent>
+    <get>Αποκτήστε</get>
+    <gif_compress>Συμπίεση Gif</gif_compress>
+    <string name="gif_compress_description" formatted="false">Gif μεγαλύτερα από %s θα συμπιεστούν αυτόματα σε %s.</string>
+    <gif_supported_tip>Τα GIF υποστηρίζονται τώρα.</gif_supported_tip>
+    <give_5star>Δώστε 5 Αστέρια</give_5star>
+    <glitch>ΣΦΑΛΜΑ</glitch>
+    <go_setting>Πηγαίνετε Ρυθμίσεις</go_setting>
+    <go_to_logout>Διαγραφή μόνιμου λογαριασμού InShot</go_to_logout>
+    <go_to_the_shop>μετάβαση στο κατάστημα</go_to_the_shop>
+    <gps_not_installed>Ελέγξτε αν έχετε εγκαταστήσει την τελευταία έκδοση των υπηρεσιών Google Play.</gps_not_installed>
+    <gradient>Κλίση</gradient>
+    <grain>Υφή</grain>
+    <has_no_photo_hint>Επιλέξτε 1-9 φωτογραφίες για να δημιουργήσετε όμορφα κολάζ.</has_no_photo_hint>
+    <have_purchased>Έχετε αγοράσει!</have_purchased>
+    <help>Βοήθεια</help>
+    <help_Keyframe_desc>Προσθέστε βασικά καρέ στη χρονική σειρά για να επισημάνετε εύκολα την αρχή και το τέλος του εφέ κίνησης (ζουμ, κίνηση, περιστροφή, διαφάνεια) για αυτοκόλλητο/κείμενο/PIP.</help_Keyframe_desc>
+    <help_Keyframe_title>Βασικό καρέ</help_Keyframe_title>
+    <help_Keyframe_youtube_des>Πώς να χρησιμοποιήσετε βασικά καρέ για να προσθέσετε εφέ κίνησης για στρώμα</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Μπείτε στο μενού των Αυτοκόλλητων, εισαγάγετε εικόνες από άλμπουμ ή φακέλους</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Τώρα υποστηρίζουμε και GIF.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Προσθήκη προσαρμοσμένων αυτοκόλλητων</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Μπείτε στο μενού μουσικής.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Πατήστε στο χρονοδιάγραμμα μουσικής για να ρυθμίσετε την ένταση της μουσικής/τα ηχητικά εφέ/την ηχογράφηση.
+Πατήστε στο βίντεο κλιπ για να προσαρμόσετε την αρχική ένταση του βίντεο."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Προσαρμογή έντασης ήχου</help_adjust_audio_volume_title>
+    <help_adjust_volume>Κάντε κλικ στη χρονική γραμμή για να προσαρμόσετε την ένταση του βίντεο.</help_adjust_volume>
+    <help_animation_desc>Επιλογή εμφάνισης/μη εμφάνισης κινούμενης εικόνας για κείμενο και αυτοκόλλητο.</help_animation_desc>
+    <help_animation_title>Επιλογή εμφάνισης/μη εμφάνισης κινούμενης εικόνας</help_animation_title>
+    <help_apply_to_all_desc>Χρησιμοποιήστε την επιλογή Εφαρμόστε σε όλους για να εφαρμόσετε το φίλτρα, πλαίσια, τον φόντο ή την ένταση ήχου σε όλα τα κλιπ.</help_apply_to_all_desc>
+    <help_apply_to_all_title>Εφαρμογή επεξεργασίας σε όλα τα κλιπ</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Τα ατμοσφαιρικά υλικά και τα εφέ ανάμειξη είναι το καλύτερο συνταίριασμα.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Ατμοσφαιρικά υλικά</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Πώς θα προσθέσετε δωρεάν επικαλύψεις</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Πώς να προσαρμόσετε την αρχική ένταση του ήχου</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Ανοίξτε το μενού χωρέσει, ορίστε τον λόγο φόντου για το βίντεο ή αφαιρέστε το φόντο βίντεο.</help_background_ratio_desc>
+    <help_background_ratio_title>Αλλαγή αναλογίας φόντου βίντεο</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Πώς να ρυθμίσετε το φόντο του βίντεο</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Επιλέξτε ένα κομμάτι για επεξεργασία</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Πατήστε εδώ για επεξεργασία του ήχου του βίντεο</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Ανατρέξτε στις Ρυθμίσεις InShot 
+Πατήστε \"ύθμιση βίντεο\" και απενεργοποιήστε την επιλογή \"Επικόλληση ειδών στο πλαίσιο\"."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Γιατί αφαιρούνται τα αυτοκόλλητα/το κείμενο/τα εφέ/τα PIPs/οι εγγραφές/τα ηχητικά εφέ μου όταν διαγράφω ένα κλιπ;</help_disable_stick_frame_title>
+    <help_edit_music>Κάντε κλικ για να επεξεργαστείτε τη μουσική.</help_edit_music>
+    <help_edit_music_desc>Κάντε κλικ στη μουσική που έχει εισαχθεί για να την επεξεργαστείτε.</help_edit_music_desc>
+    <help_edit_music_title>Επεξεργασία μουσικής</help_edit_music_title>
+    <help_extract_audio_desc>Πατήστε [Εξαγωγή ήχου από βίντεο] στην καρτέλα μουσικής και εισαγάγετε ένα βίντεο για εξαγωγή ήχου.</help_extract_audio_desc>
+    <help_extract_audio_title>Εξαγωγή ήχου από βίντεο</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Πώς να εξάγετε ήχο από βίντεο</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Για όλα τα ενσωματωμένα μουσικά κομμάτια έχουν υπογραφεί συμφωνίες άδειας χρήσης με τους μουσικούς.
+
+Αν λάβετε ειδοποίηση για τα πνευματικά δικαιώματα ή το βίντεό σας διαγραφεί από το Instagram, πατήστε \"Συμφωνώ\", υπογράψτε το όνομά σας και πατήστε Προσφυγή."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Μην ανησυχείτε, ο μουσικός θα σας υποστηρίξει ενεργά στην προσφυγή και το βίντεό σας θα ανακτηθεί σε 2–3 λεπτά.</help_faq_album_desc_2>
+    <help_faq_album_title>Τι πρέπει να κάνω αν το μουσικό μου βίντεο διαγραφεί από το Instagram;</help_faq_album_title>
+    <help_faq_auto_update_dest>Μεταβείτε στη διαχείριση λογαριασμού Google Play, πατήστε Ρυθμίσεις, πατήστε Αυτόματη ενημέρωση εφαρμογών στις Προτιμήσεις δικτύου.</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>Πώς να διατηρήσετε το InShot ενημερωμένο με την τελευταία έκδοση;</help_faq_auto_update_title>
+    <help_faq_four_desc>Δυστυχώς, δεν είναι δυνατή η ανάκτηση των διαγραμμένων προχείρων. Συμμορφωνόμαστε πλήρως με την πολιτική απορρήτου και δεν αποθηκεύουμε αρχεία χρηστών.</help_faq_four_desc>
+    <help_faq_four_title>Μπορώ να επαναφέρω ένα πρόχειρο αφού το διαγράψω;</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>Κατά τη διαδικασία αποθήκευσης βίντεο, δημιουργούνται πολλά προσωρινά αρχεία, τα οποία θα διαγραφούν αυτόματα μετά από την ολοκλήρωση της διαδικασίας αποθήκευσης. Για την επίλυση αυτού του θέματος, ελευθερώστε περισσότερο χώρο στη συσκευή σας (ΟΧΙ τον αποθηκευτικό χώρο της κάρτας SD).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Γιατί το τηλέφωνό μου έχει χώρο αλλά παρόλα αυτά με ειδοποιεί ότι η μνήμη δεν είναι επαρκής;</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Όλες οι γραμματοσειρές έχουν την αντίστοιχη άδεια, ελέγξτε προσεκτικά πριν από τη χρήση. Ορισμένες γραμματοσειρές είναι μόνο για προσωπική χρήση.</help_faq_one_desc>
+    <help_faq_one_title>Μπορώ να χρησιμοποιήσω ενσωματωμένες γραμματοσειρές για εμπορικούς σκοπούς;</help_faq_one_title>
+    <help_faq_three_desc>Aν διαγράψετε τυχόν πρωτότυπα αρχεία στη συλλογή, τα σχετικά πρόχειρα θα χαθούν και δεν θα ανοίγουν. Δοκιμάστε ανάκτηση των αρχείων από το Πρόσφατα Διαγραμμένο Άλμπουμ.</help_faq_three_desc>
+    <help_faq_three_title>Γιατί το μήνυμα μηνύματος σφάλματος \"Πρόχειρο κατεστραμμένο\" ή \"Λείπουν τα αρχικά αρχεία στο πρόχειρο\";</help_faq_three_title>
+    <help_faq_two_desc>"Οι αξιώσεις σχετικά με το αναγνωριστικό περιεχομένου δεν οδηγούν σε απεργίες σχετικά με τα πνευματικά δικαιώματα, αναστολή καναλιού ή διακοπή καναλιού. Συνήθως, η αξίωση αφορά απλώς την ανίχνευση του βίντεο ή τη δημιουργία εσόδων από αυτό, όχι τον αποκλεισμό του. Έτσι, το βίντεο εξακολουθεί να υπάρχει με αυτές τις αξιώσεις (αλλά ενδέχεται να προβάλλεται με διαφημίσεις) και εξακολουθείτε να μπορείτε να το μοιράζεστε με άλλους.
+
+Για να μάθετε περισσότερα σχετικά με τις αξιώσεις που αφορούν το αναγνωριστικό περιεχομένου, επισκεφθείτε το https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Γιατί έλαβα αξιώσεις πνευματικών δικαιωμάτων μουσικής στο YouTube;</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>βίντεο</help_group_video_edit_title>
+    <help_import_fonts_desc>Βεβαιωθείτε ότι υπάρχουν αρχεία γραμματοσειρών στο τηλέφωνό σας. Πατήστε το κουμπί εισαγωγής για εισαγωγή γραμματοσειρών.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Οι χρήστες εκδόσεων μεταγενέστερων της έκδοσης Android 11, πατήστε εισαγωγή γραμματοσειράς, μεταβείτε στη σελίδα επιλογής αρχείων
+1. Πατήστε το κουμπί πάνω αριστερά, επιλέξτε την κάρτα SD σας και μετά επιλέξτε ευρετήριο αρχείων."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Πατήστε στη γραμμή αναζήτησης στο πάνω μέρος, αναζητήστε όνομα γραμματοσειράς ή αρχεία TTF/OTF.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Εισαγωγή γραμματοσειράς</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Πώς να εισάγετε γραμματοσειρές στο InShot Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Μεταβείτε στο Google Play Store. Εισέλθετε στο μενού Συνδρομές, Επιλέξτε τη συνδρομή που θέλετε να ακυρώσετε.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Πώς μπορώ να διαχειριστώ/ακυρώσω τη συνδρομή μου;</help_manager_subscribe_title>
+    <help_mask_desc>Προσθέστε μια μάσκα σχήματος στο στρώμα PIP.</help_mask_desc>
+    <help_mask_title>Μάσκα PIP</help_mask_title>
+    <help_mask_youtube_des>Πώς να χρησιμοποιήσετε το εργαλείο μάσκας για στρώματα PIP.</help_mask_youtube_des>
+    <help_merge_video_desc>Κάντε κλικ στο κουμπί \"+\" για να επιλέξετε βίντεο για συγχώνευση.</help_merge_video_desc>
+    <help_merge_video_title>Συγχώνευση βίντεο</help_merge_video_title>
+    <help_move_music>Πατήστε παρατεταμένα και σύρετε για να ρυθμίσετε τη θέση.</help_move_music>
+    <help_one_time_purchase_des>Αν κάνετε εφάπαξ αγορά, μπορείτε να αποκτήσετε για πάντα την premium έκδοση του InShot. Δεν χρειάζεται να κάνετε νέα αγορά στο μέλλον, ακόμα και αν το InShot προσθέσει νέο αποκλειστικό υλικό ή δυνατότητες επεξεργασίας.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Τι είναι η Μόνιμη Αγορά;</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Πατήστε «Φόντο» για να προσθέσετε φόντο στην αποκοπή σας</help_photo_cutout_desc>
+    <help_photo_cutout_title>Αποκοπή φωτογραφίας</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Δοκιμάστε οποιοδήποτε χρώμα και αφαιρέστε το.
+1. Χρησιμοποιήστε το εργαλείο επιλογής και επιλέξτε το χρώμα που θέλετε να αφαιρέσετε.
+2. Προσαρμόστε την ένταση και τη σκιά για να το βελτιώσετε."</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP Χρώμα</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Πώς να αφαιρέσετε το φόντο πράσινης οθόνης με το Χρώμα (οδηγός InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Μεταβείτε στο Google Play, πατήστε στο εικονίδιο λογαριασμού στην επάνω δεξιά γωνία.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Καταργήστε προσωρινά άλλους λογαριασμούς εκτός από τον αγορασμένο και δοκιμάστε πάλι να επαναφέρετε την αγορά στις Ρυθμίσεις InShot.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. Αν υπάρχουν πολλοί λογαριασμοί Google συνδεδεμένοι, πατήστε στην επιλογή Διαχείριση λογαριασμών.</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Γιατί απέτυχα να επαναφέρω την αγορά αφού συνδέθηκα στον σωστό λογαριασμό Google Play;</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Δοκιμάστε να διαγράψετε τα δεδομένα του InShot στις ρυθμίσεις της συσκευής σας και έπειτα πατήστε στην επιλογή \"Επαναφορά αγορών\" στις ρυθμίσεις του InShot.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Βεβαιωθείτε ότι έχετε συνδεθεί ΜΟΝΟ ΣΕ ΕΝΑΝ σωστό λογαριασμό Google Play και όχι σε πολλαπλούς λογαριασμούς. Προς το παρόν το Google Play δεν αναγνωρίζει πολλαπλούς λογαριασμούς.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Πώς μπορώ να ανακτήσω την αγορά μου;</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Αν θέλετε να διατηρήσετε το τρέχον έργο, επιλέξτε \"Πρόχειρο\" όταν πατάτε για επιστροφή.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Μπορείτε να διαχειριστείτε (διαγραφή/αντιγραφή/μετονομασία) τα πρόχειρα στην αρχική σελίδα.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Αποθήκευση/απόρριψη πρόχειρου</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Προσθήκη μεταβάσεων</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Προσαρμογή διάρκειας φωτογραφιών</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Εισαγωγή εικόνων από άλμπουμ και αρχεία</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Αγγίξτε για εναλλαγή βίντεο &amp; φωτογραφίας</help_slideshow_reminder>
+    <help_slideshow_title>Δημιουργία προβολής διαφανειών</help_slideshow_title>
+    <help_slideshow_youtube_des>Πώς να δημιουργήσετε μια μουσική παρουσίαση διαφανειών</help_slideshow_youtube_des>
+    <help_smooth_des>Χρησιμοποιήστε το εργαλείο Ομαλή για να δημιουργήσετε απόλυτα ομαλό βίντεο αργής κίνησης (ταχύτητα &lt; 1,0Χ)</help_smooth_des>
+    <help_smooth_title>Ομαλής Αργής Κίνησης</help_smooth_title>
+    <help_speed_ramp_des_one>Επεξεργασία κόμβων ταχύτητας. Πατήστε το κουμπί «Προσθήκη/Αφαίρεση» για να προσθέσετε/αφαιρέσετε κόμβους στην καμπύλη.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Προσαρμογή ράμπας ταχύτητας. Επιλέξτε κόμβους ταχύτητας και σύρετε κάθετα για να ρυθμίσετε την ταχύτητα βίντεο, σύρετε οριζόντια για να ρυθμίσετε τη διάρκεια της ταχύτητας.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Ράμπα ταχύτητας | Δημιουργήστε ένα ομαλό εφέ ράμπας ταχύτητας με το InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Ράμπα ταχύτητας (καμπύλη)</help_speed_ramp_title>
+    <help_swap_clip>Πατήστε παρατεταμένα για εναλλαγή θέσης</help_swap_clip>
+    <help_timeline_desc>Πατήστε στο πλαίσιο για να πλοηγηθείτε γρήγορα στο τέλος του κλιπ ή του βίντεο.</help_timeline_desc>
+    <help_timeline_title>Γρήγορη πλοήγηση σε αυτοκόλλητα &amp; κείμενα</help_timeline_title>
+    <help_transition_desc>Εισαγάγετε τουλάχιστον 2 βίντεο κλιπ, πατήστε το κουμπί ανάμεσα στα 2 εικονίδια των κλιπ για να προσθέσετε μεταβάσεις.</help_transition_desc>
+    <help_transition_title>Βίντεο μετάβαση</help_transition_title>
+    <help_translate_content>Επιθυμώ να βοηθήσω στη μετάφραση της εφαρμογής instaShot. Παρακαλώ επικοινωνήστε μαζί μου. Γλώσσα:</help_translate_content>
+    <help_translate_subject>Μετάφραση</help_translate_subject>
+    <help_volume_adjust_desc>Κάντε κλικ στις μικρογραφίες βίντεο, για να ανοίξετε το μενού συντόμευσης και σύρετε το ρυθμιστικό για να προσαρμόσετε την ένταση ήχου του βίντεο.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Προσαρμογή έντασης ήχου βίντεο</help_volume_adjust_title>
+    <help_youtube_title>Οδηγίες YouTube</help_youtube_title>
+    <help_zoom_drag>Σύρετε τη χειρολαβή για τριμάρισμα βίντεο.</help_zoom_drag>
+    <help_zoom_timeline>"Μεγέθυνση στο χρονολόγιο για ακριβέστερη επεξεργασία.
+Άρση μεγέθυνσης για προεπισκόπηση όλου του χρονολογίου."</help_zoom_timeline>
+    <help_zoom_title>Επεξεργασία βίντεο</help_zoom_title>
+    <hide>Κρύβω</hide>
+    <highlight>Δίδω έμφασιν</highlight>
+    <hint_install_googleplay>Η αγορά απέτυχε επειδή χρειάζεται Google Play Υπηρεσίες στις οποίες δεν υποστηρίζεται από τη συσκευή σας.</hint_install_googleplay>
+    <hint_items_to_frame>Ανατρέξτε στη ρύθμιση βίντεο, μπορείτε να ενεργοποιήσετε/απενεργοποιήσετε τη δυνατότητα</hint_items_to_frame>
+    <hot>Δημοφιλή</hot>
+    <hua_wei_login_error>Η σύνδεση στο HUAWEI απέτυχε</hua_wei_login_error>
+    <hua_wei_login_success>Συνδεθείτε με επιτυχία στο HUAWEI</hua_wei_login_success>
+    <hue>Απόχρωση</hue>
+    <i_receive_effect_success>Αποθηκεύτηκε επιτυχώς στο φάκελο \"Εφέ - Εισαγμένα\".</i_receive_effect_success>
+    <i_receive_music_success>Αποθηκεύτηκε επιτυχώς στο φάκελο \"Σε παρουσιαση - Εισαγμένα\".</i_receive_music_success>
+    <import_font>Εισαγωγή γραμματοσειρών</import_font>
+    <import_video_failed_content>Η ανάλυση του βίντεο υπερβαίνει το όριο απόδοση του τηλεφώνου σας.</import_video_failed_content>
+    <import_video_failed_title>Η εισαγωγή απέτυχε</import_video_failed_title>
+    <imported>Εισαγμένα</imported>
+    <imported_effect>Εισηγμένο εφέ</imported_effect>
+    <imported_music>Εισηγμένη μουσική</imported_music>
+    <improvement_plan_desc>Θα χρειαζόμασταν πληροφορίες για το αναγνωριστικό της συσκευής σας, για να βελτιώσουμε την εμπειρία των χρηστών του InShot. Ευχαριστώ.</improvement_plan_desc>
+    <improvement_plan_title>Σχέδιο βελτίωσης εμπειρίας χρήστη</improvement_plan_title>
+    <index_create_new>Δημιουργία νέου</index_create_new>
+    <index_more_take_photo>Λήψη φωτογραφίας</index_more_take_photo>
+    <index_more_take_video>Λήψη βίντεο</index_more_take_video>
+    <index_more_use_recent>Χρησιμοποίησε πρόσφατη</index_more_use_recent>
+    <info_code>Πληροφορίες Κωδικός:</info_code>
+    <ins_crop_hint_1>Το έργο σας μπορεί να περικοπεί από το Instagram.</ins_crop_hint_1>
+    <ins_crop_hint_2>αναλογία Instagram είναι μεταξύ 1,91: 1 έως 4: 5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Παρακαλείστε να χορηγήσει <b>την άδεια αποθήκευσης</b> με <b>Instagram</b> για να ανεβάσετε τη φωτογραφία σας.</string>
+    <install>Εγκαθιστώ</install>
+    <installed>ΕΓΚΑΤΑΣΤΑΘΕΙ</installed>
+    <interval>Διάλειμμα</interval>
+    <invalid_delete>Το τελευταίο κλιπ δεν μπορεί να διαγραφεί.</invalid_delete>
+    <invalid_position>Η επιλεγμένη θέση δεν είναι έγκυρη.</invalid_position>
+    <invalidate_name>Δεν υποστηρίζονται ειδικά σύμβολα.</invalidate_name>
+    <item_already_owned>Κάντε κλικ στο Επαναφέρω για να επανενεργοποιήσετε την αγορά εντός εφαρμογής.</item_already_owned>
+    <items>Στοιχεία</items>
+    <join_inshot_pro>Εγγραφείτε στο InShot Pro</join_inshot_pro>
+    <jump_to_font_language>Μετάβαση σε %s</jump_to_font_language>
+    <keep_draft>Κρατήστε Σχέδιο</keep_draft>
+    <keep_on>Διατήρηση της επιλογής</keep_on>
+    <keyframe>ΒΑΣΙΚΌ ΚΑΡΈ</keyframe>
+    <label>ΕΠΙΓΡΑΦΉ</label>
+    <label_quick_selection>ΓΡΗΓΟΡΗ ΕΠΙΛΟΓΗ ΕΤΙΚΕΤΑΣ</label_quick_selection>
+    <last_draft>ΤΕΛΕΥΤΑΊΟ ΣΧΈΔΙΟ</last_draft>
+    <layout>διάταξη</layout>
+    <letter_animation>Μεμονωμένο Γράμμα</letter_animation>
+    <lib_rate_btn_go_market>Βαθμολογήστε στο Google play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>Το καλύτερο που μπορούμε να πάρουμε :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Αφήστε μας μερικά σχόλια.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Κι εμείς σας συμπαθούμε!</lib_rate_like_you>
+    <lib_rate_oh_no>Ωχ, όχι!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Ευχαριστούμε για τα σχόλιά σας.</lib_rate_thanks_feedback>
+    <license>Αδεια</license>
+    <light>ΦΩΤΙΣΜΟΣ</light>
+    <lightness>Λάμψη</lightness>
+    <loading>Φόρτωση…</loading>
+    <loading_progress_title>Φόρτωση…</loading_progress_title>
+    <login_tip>"Συνδέστε τον λογαριασμό για 
+ να συνεχίσετε να πληρώνετε ή να επαναφέρετε αγορές"</login_tip>
+    <login_with>Συνδεθείτε με το %s</login_with>
+    <login_with_wechat>Συνδεδεμένοι με WeChat</login_with_wechat>
+    <logout>Διαγράφω</logout>
+    <logout_hint>Εάν έχετε εγγραφεί στο InShot Pro, η διαγραφή του λογαριασμού σας θα διαγράψει επίσης το Inshot Pro και δεν μπορεί να γίνει επαναφορά !!!</logout_hint>
+    <logout_success>Διαγραφή με επιτυχία</logout_success>
+    <long_press_delete>Πατήστε παρατεταμένα για διαγραφή</long_press_delete>
+    <long_press_preview>Πατήστε παρατεταμένα για προεπισκόπηση.</long_press_preview>
+    <looking_for_music_content_1>Επισκεφθείτε το YouTube Audio Library από το PC ή το Mac για καταφόρτωση δωρεάν μουσικής.</looking_for_music_content_1>
+    <looking_for_music_content_2>Μετά, στείλετε μουσικά αρχεία στο τηλέφωνο Android σας.</looking_for_music_content_2>
+    <looking_for_music_title>Αναζητάτε μουσική για τα βίντεο σας;</looking_for_music_title>
+    <loop_animation>ΒΡΟΧΟΣ</loop_animation>
+    <low_storage_space>Μη επαρκής χώρος αποθήκευσης</low_storage_space>
+    <luminance>Φωτεινότητα</luminance>
+    <manage>Διαχείριση</manage>
+    <manage_subscription>Διαχείριση Συνδρομής</manage_subscription>
+    <mask>Μάσκα</mask>
+    <material>Υλικό</material>
+    <material_selected_hint>Περιέχει υλικά Pro.</material_selected_hint>
+    <max_hash_tags_num>Instagram επιτρέπει τη μέγιστη 29 #hashtags ανά φωτογραφία/βίντεο</max_hash_tags_num>
+    <merge_video_hint>Συγχώνευση βίντεο επαγγελματικά με</merge_video_hint>
+    <message>Μήνυμα</message>
+    <modern>μοντέρνο</modern>
+    <month>Μήνας</month>
+    <mood>Διάθεση</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>Λεπτομέρειες του InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000+ Περισσότερα</more_emoji>
+    <string name="more_info"><u>Περισσότερες πληροφορίες</u>:</string>
+    <mosaic>Μωσαϊκό</mosaic>
+    <multi_cut>Πολλαπλή κοπή</multi_cut>
+    <multi_split>πολλαπλών διάσπαση</multi_split>
+    <music>Μουσική</music>
+    <music_limit>Όριο διάρκειας μουσικής</music_limit>
+    <musician>Μουσικός</musician>
+    <my_filter>Το φίλτρο μου</my_filter>
+    <my_material>Το υλικό μου</my_material>
+    <my_music>Η ΜΟΥΣΙΚΉ ΜΟΥ</my_music>
+    <new_>ΤΟ ΝΈΟ</new_>
+    <new_album>Νέο Άλμπουμ</new_album>
+    <new_five_stars_rate>Εργαζόμαστε σκληρά για μια καλύτερη εμπειρία χρήστη. Θα το εκτιμούσαμε πολύ αν μας βαθμολογούσατε.</new_five_stars_rate>
+    <next>ΕΠΌΜΕΝΟΣ</next>
+    <no>Όχι</no>
+    <no_actionable_items>Δεν υπάρχουν εφαρμόσιμα είδη</no_actionable_items>
+    <no_audio>Χωρίς Ήχο</no_audio>
+    <no_audio_files>Κανένα αρχείο ήχου</no_audio_files>
+    <no_draft_profile>Δεν σχέδιο προφίλ</no_draft_profile>
+    <no_fonts_found>Δεν βρέθηκαν γραμματοσειρές</no_fonts_found>
+    <no_network>δεν δίκτυο</no_network>
+    <no_photos_or_videos>Δεν υπάρχουν φωτογραφίες ή βίντεο</no_photos_or_videos>
+    <note_if_you_clear>Σημειώστε ότι εάν διαγράψετε την προσωρινή μνήμη, θα χάσετε τη ρύθμιση εξαίρεσης.</note_if_you_clear>
+    <off>Απενεργοποίηση</off>
+    <offline_notification_text>Πατήστε για να ανοίξετε τη διαφήμιση.</offline_notification_text>
+    <offline_notification_title>Δείτε τη διαφήμιση που αποθηκεύσατε ενώ ήσασταν εκτός σύνδεσης</offline_notification_title>
+    <offline_opt_in_confirm>ΟΚ</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Θα λάβετε μια ειδοποίηση με έναν σύνδεσμο όταν συνδεθείτε ξανά στο διαδίκτυο.</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Όχι</offline_opt_in_decline>
+    <offline_opt_in_message>Θα σας στείλουμε μια ειδοποίηση με έναν σύνδεσμο στον ιστότοπο του διαφημιζόμενου.</offline_opt_in_message>
+    <offline_opt_in_title>Άνοιγμα της διαφήμισης όταν συνδεθείτε ξανά στο διαδίκτυο</offline_opt_in_title>
+    <ok>OK</ok>
+    <on>Ενεργοποίηση</on>
+    <only_support_effects>Υποστηρίζει μόνο το είδος \"Εφέ\"</only_support_effects>
+    <oom_tip>Μνήμη πλήρης, δοκιμάστε ξανά!</oom_tip>
+    <opacity>ΑΔΙΑΦΆΝΕΙΑ</opacity>
+    <open_font_failed>Το αρχείο γραμματοσειράς δεν είναι έγκυρο.</open_font_failed>
+    <open_from>ΑΝΟΙΚΤΗ ΑΠΟ</open_from>
+    <open_from_photos>Ανοιχτό από τις Φωτογραφίες</open_from_photos>
+    <open_image_failed_hint>Απέτυχε το άνοιγμα της φωτογραφίας, δοκιμάστε ξανά ή επιλέξτε διαφορετική φωτογραφία</open_image_failed_hint>
+    <open_music_failed_hint>Απέτυχε το άνοιγμα του αρχείου μουσικής, δοκιμάστε ξανά ή επιλέξτε διαφορετικό αρχείο μουσικής</open_music_failed_hint>
+    <open_settings_0>1.Ανοίξτε τις Ρυθμίσεις</open_settings_0>
+    <open_settings_1>ΑΝΟΊΞΤΕ ΤΙΣ ΡΥΘΜΊΣΕΙΣ</open_settings_1>
+    <open_video_failed_hint>Απέτυχε το άνοιγμα του βίντεο, δοκιμάστε ξανά ή επιλέξτε διαφορετικό βίντεο</open_video_failed_hint>
+    <origin_pitch>Αρχικό βήμα</origin_pitch>
+    <original>Αρχικό</original>
+    <original_image_not_found>Το αρχικό αρχείο εικόνας δεν υπάρχει πια, παρακαλώ ελέγξτε ξανά..</original_image_not_found>
+    <original_music_not_found>Το αρχικό αρχείο ήχου δεν υπάρχει πια，ελέγξτε ξανά.</original_music_not_found>
+    <original_video_not_found>Το αρχικό αρχείο δεν υπάρχει πια，ελέγξτε ξανά.</original_video_not_found>
+    <other_app_recording>Η φωνητική εγγραφή δεν είναι διαθέσιμη αυτήν τη στιγμή, επειδή χρησιμοποιείται από άλλες εφαρμογές.</other_app_recording>
+    <outline>Περίγραμμα</outline>
+    <page>ΣΧΙΣΜΈΝΟ ΧΑΡΤΊ</page>
+    <parent_directory>Μητρική Κατάλογος</parent_directory>
+    <part_original_files_miss_in_draft>"Λείπουν ένα ή περισσότερα πρωτότυπα αρχεία, συνέχεια επεξεργασίας; 
+
+Η συνέχιση της επεξεργασίας ενδέχεται να προκαλέσει εσφαλμένη τοποθέτηση υλικών στο πρόχειρο. 
+
+Η ανάκτηση των αρχικών αρχείων από τα [Πρόσφατα Διαγραμμένα/Κάδο απορριμμάτων] ενδέχεται να διορθώσει αυτό το πρόχειρο."</part_original_files_miss_in_draft>
+    <pattern>Πρότυπο</pattern>
+    <pay_success>Αγοράστηκε με επιτυχία!</pay_success>
+    <permission_read_external_storage>Χρειάζεται άδεια αποθήκευσης.</permission_read_external_storage>
+    <photo>Μία μόνο</photo>
+    <pinch_zoom_in>Πιέστε για μεγέθυνση.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Yπερβαίνει τα μέγιστα όρια.</pip_track_reach_max>
+    <play_video_via>Αναπαραγωγή βίντεο μέσω</play_video_via>
+    <popular>Δημοφιλής</popular>
+    <precode>ΠΡΟΚΩΔΙΚΟΠΟΙΗΣΗ</precode>
+    <precode_failed>Η Προκωδικοποίηση Απέτυχε.</precode_failed>
+    <precut>Εισαγωγική περικοπή</precut>
+    <preset>Προρύθμιση</preset>
+    <string name="privacy_policy_content" formatted="false">Καλώς ήρθατε στο InShot!&lt;br>&lt;br> Δεσμευόμαστε ότι θα παρέχουμε στους χρήστες μια καλύτερη εμπειρία σε όλες τις πτυχές και θα επικαιροποιούμε κατά καιρούς τους &lt;a href=%s>Όρους χρήσης &lt;/a> και την &lt;a href=%s> Πολιτική απορρήτου&lt;/a>.&lt;br>&lt;br>Αν συμφωνείτε, κάντε κλικ στο \"Συμφωνώ\" και αρχίστε να χρησιμοποιείτε InShot.</string>
+    <string name="privacy_policy_content_gdpr">Θα λαμβάνετε εξατομικευμένες διαφημίσεις κατά τη χρήση του InShot. Για να εξαιρεθείτε, μεταβείτε στη σελίδα &lt;a href=%s>“Πολιτική απορρήτου”&lt;/a> και πατήστε \"I don’t agree\".&lt;br>&lt;br></string>
+    <privacy_policy_title>Όρους χρήσης και την Πολιτική απορρήτου</privacy_policy_title>
+    <pro_detail>Λεπτομέρειες InShot Pro</pro_detail>
+    <pro_expire_time_format>Λήγει στις %s</pro_expire_time_format>
+    <pro_expired_tip>Το InShot Pro έληξε στις %s.</pro_expired_tip>
+    <pro_one_time_purchase>Μόνιμη αγορά</pro_one_time_purchase>
+    <pro_purchase_new_desc>Πρόσβαση σε όλες τις πληρωμένες μεταβάσεις, εφέ, αυτοκόλλητα και άλλα. Χωρίς λογότυπο InShot, Χωρίς διαφημίσεις.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Πρόσβαση σε όλες τις πληρωμένες μεταβάσεις, εφέ, αυτοκόλλητα και άλλα. Χωρίς διαφημίσεις.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Είστε ήδη μέλος του InShot Pro.</pro_purchased_info>
+    <pro_restore_not_purchased>Η επαναφορά ολοκληρώθηκε, αλλά δεν είστε ακόμη μέλος του InShot Pro.</pro_restore_not_purchased>
+    <pro_subscription_details>ΣΤΟΙΧΕΊΑ ΣΥΝΔΡΟΜΉς</pro_subscription_details>
+    <pro_unavailable>Η έκδοση Pro δεν είναι διαθέσιμη</pro_unavailable>
+    <pro_unavailable_detail>Δείτε εάν είστε συνδεδεμένοι στο σωστό Google Play λογαριασμό. Mπορείτε να ανατρέξτε στη σελίδα Ε&amp;Α για περισσότερη βοήθεια.</pro_unavailable_detail>
+    <processing_error>Σφάλμα επεξεργασίας</processing_error>
+    <processing_progress_title>Μεταποίηση…</processing_progress_title>
+    <procode_progress>Προκωδικοποίηση...</procode_progress>
+    <promotion_subscribe_title>Ειδική προσφορά Holi</promotion_subscribe_title>
+    <purchase_failed>Η αγορά απέτυχε, δοκιμάστε ξανα;</purchase_failed>
+    <purchase_failed_tile>Η αγορά απέτυχε</purchase_failed_tile>
+    <range>Εύρος</range>
+    <rate>Βαθμολογία</rate>
+    <rate_feedback_message>Θα θέλατε να μας υποβάλετε τα σχόλιά σας;</rate_feedback_message>
+    <rate_later>αργότερα</rate_later>
+    <rate_like>Ναι!</rate_like>
+    <rate_main_message>Είστε ικανοποιημένη από το InShot?</rate_main_message>
+    <rate_not_like>Μάλλον όχι</rate_not_like>
+    <rate_review_message>Θα θέλατε να μας δώσετε μια θετική κριτική; Θα μας βοηθούσε πολύ.</rate_review_message>
+    <ratio>Αναλογία</ratio>
+    <recent>Πρόσφατα</recent>
+    <recommend>Προτεινόμενα</recommend>
+    <record>Εγγραφή</record>
+    <redo>Επανάληψη</redo>
+    <refresh_state>Επαναφορά αγορών</refresh_state>
+    <reject>Όχι, ευχαριστώ</reject>
+    <remove_ads>REMOVE ΥΔΑΤΟΓΡΑΦΗΜΑ ΚΑΙ ΤΙΣ ΔΙΑΦΗΜΊΣΕΙΣ</remove_ads>
+    <remove_ads_1>ΚΑΤΆΡΓΗΣΗ ΔΙΑΦΗΜΊΣΕΩΝ</remove_ads_1>
+    <remove_ads_1_desc>Αφαιρέστε μόνιμα διαφημιστικά πλαίσια.</remove_ads_1_desc>
+    <remove_ads_desc>Αφαιρέστε μόνιμα υδατογραφήματα και διαφημιστικά πλαίσια. Δεν χρειάζεται πια μη αυτόματη αφαίρεση υδατογραφημάτων.</remove_ads_desc>
+    <remove_all_ads>Αφαίρεσε τις διαφημίσεις</remove_all_ads>
+    <remove_all_split_marks>Κατάργηση όλων των σημαδιών που έχετε προσθέσει;</remove_all_split_marks>
+    <remove_pro_materials>Κατάργηση υλικών Pro.</remove_pro_materials>
+    <remove_watermark>Κατάργηση υδατογραφήματος</remove_watermark>
+    <remove_watermark_ad>ΑΦΑΊΡΕΣΗ ΑΥΤΟΎ ΤΟΥ ONCE</remove_watermark_ad>
+    <remove_watermark_ad_2>ΔΩΡΕΑΝ ΑΦΑΙΡΕΣΤΕ</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Κατάργηση υδατογραφήματος και διαφημίσεων</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Κατάργηση διαφημίσεων</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Κατάργηση διαφημίσεις σε μόνιμη βάση.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Κατάργηση υδατογραφήματος και διαφημίσεις σε μόνιμη βάση.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>ΚΑΤΑΡΓΉΣΕΤΕ ΜΌΝΙΜΑ</remove_watermark_buy>
+    <rename>Νέα ονομασία</rename>
+    <renew_pro>Ανανεώστε το InShot Pro</renew_pro>
+    <replace>αντικατάσταση</replace>
+    <replace_draft_des>Απόρριψη του προσχεδίου και έναρξη νέου έργου;</replace_draft_des>
+    <report>Εκθεση</report>
+    <report_fix_description>Στείλτε μας αρχεία καταγραφής και ήχου για να μας βοηθήσετε να διορθώσουμε αυτό το πρόβλημα.</report_fix_description>
+    <report_fix_ok>ΑΠΟΣΤΟΛΉ ΑΡΧΕΊΩΝ ΚΑΤΑΓΡΑΦΉς ΚΑΙ ΉΧΟΥ</report_fix_ok>
+    <report_fix_title>Η επεξεργασία ήχου απέτυχε</report_fix_title>
+    <request_record_rationale>Επιτρέψτε στο InShot να χρησιμοποιεί μικρόφωνο στη συσκευή σας.</request_record_rationale>
+    <request_storage_rationale>Επιτρέψτε InShot να έχουν πρόσβαση στις φωτογραφίες και τα μέσα ενημέρωσης στη συσκευή σας.</request_storage_rationale>
+    <reselect>επιλέγω</reselect>
+    <reset>Επαναρρύθμιση</reset>
+    <reset_adjust>Ρυθμίστε Προσαρμογής</reset_adjust>
+    <reset_all>Επαναφορά όλων</reset_all>
+    <reset_hue>Επαναφορά απόχρωσης</reset_hue>
+    <reset_luminance>Επαναφορά φωτεινότητας</reset_luminance>
+    <reset_saturation>Επαναφορά κορεσμού</reset_saturation>
+    <reset_speed>Επαναρρύθμιση ταχύτητας</reset_speed>
+    <resolution>Ανάλυση</resolution>
+    <restore>ΕΠΑΝΑΦΈΡΩ</restore>
+    <restore_failed>Η επαναφορά απέτυχε!</restore_failed>
+    <restore_ok_Pro>Επαναφέρετε με επιτυχία και είστε ήδη μέλος του InShot Pro.</restore_ok_Pro>
+    <restore_ok_not_Pro>Επαναφέρετε με επιτυχία, αλλά δεν είστε ακόμη μέλος του InShot Pro.</restore_ok_not_Pro>
+    <restore_pro_assets>Ανάκτηση των στοιχείων Pro</restore_pro_assets>
+    <restore_success>Επαναφορά επιτυχία</restore_success>
+    <restore_trim_message>Να ακυρώσετε όλες τις λειτουργίες περιποίησης και αποκοπής, πίσω στο αρχικό βίντεο?</restore_trim_message>
+    <results_page_save_complete>Η αποθήκευση ολοκληρώθηκε</results_page_save_complete>
+    <results_page_share_other>Λοιπά</results_page_share_other>
+    <results_page_wait_video_transcoding>Περιμένετε όσο πραγματοποιείται η μετατροπή του βίντεο</results_page_wait_video_transcoding>
+    <retro>Ρετρό</retro>
+    <retry_save_title>Η προηγούμενη εξαγωγή βίντεο απέτυχε. Επανεξαγωγή;</retry_save_title>
+    <returnapp_tip>Πιέστε ΕΠΙΣΤΡΟΦΗ στο instaShot.</returnapp_tip>
+    <reverse>Αναστροφή</reverse>
+    <rewarded_unlock_content>Παρακολουθήστε μια διαφήμιση βίντεο για να ξεκλειδώσετε όλες τις λειτουργίες δωρεάν(%s)</rewarded_unlock_content>
+    <rewinding>Γύρισμα προς τα πίσω…</rewinding>
+    <rotate>Περιστρέψτε</rotate>
+    <rotate90>Περιστροφή 90</rotate90>
+    <s1>Αποθήκευση εικόνας</s1>
+    <s2>Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στο gallery φωτογραφιών;</s2>
+    <s3>Αποδοχή</s3>
+    <s4>Απόρριψη</s4>
+    <s5>Δημιουργία συμβάντος ημερολογίου</s5>
+    <s6>Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν ημερολογίου;</s6>
+    <s7>Δοκιμαστική διαφήμιση</s7>
+    <saturation>Κορεσμός</saturation>
+    <save>Αποθήκευση</save>
+    <save_extracted_audio>Αποθήκευση εξαχθέντος ήχου</save_extracted_audio>
+    <save_fail>Αποτυχία αποθήκευσης</save_fail>
+    <save_image_failed_hint>Απέτυχε η αποθήκευση της φωτογραφίας</save_image_failed_hint>
+    <save_imported_sticker>Αποθηκεύστε τα εισαγόμενα αυτοκόλλητα</save_imported_sticker>
+    <save_success_hint>Αποθήκευση σε %s</save_success_hint>
+    <save_type_description>Αποθήκευση εισηγμένων αρχείων ως</save_type_description>
+    <save_video_failed_dlg_btn_retry>Επανάληψη</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Επιλέξτε άλλο ψήφισμα</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Επιλέξτε χαμηλότερη ανάλυση ή προσπαθήστε ξανά!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Η αποθήκευση απέτυχε</save_video_failed_dlg_title>
+    <save_video_failed_hint>Αυτό το βίντεο δεν υποστηρίζεται λόγω της κωδικοποίησης του ήχου ή της εικόνας. Επιλέξτε διαφορετικό βίντεο.</save_video_failed_hint>
+    <saved>Αποθηκεύτηκε</saved>
+    <scanning>Σάρωση…</scanning>
+    <string name="sd_card_error">Η θέση που επιλέξατε δεν είναι προσβάσιμη. Επιλέξτε μια διαφορετική θέση από το μενού Ρυθμίσεις.-> %s.</string>
+    <sd_card_full_tip>Δεν υπάρχει αρκετός χώρος αποθήκευσης, παρακαλούμε να καθαρίσει λίγο χώρο και δοκιμάστε ξανά.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>Δεν βρέθηκε εξωτερική κάρτα μνήμης!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Απαιτείται περίπου %dM του αποθηκευτικού χώρου!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Απαιτείται περισσότερος χώρος αποθήκευσης για αποθήκευση βίντεο, ελευθερώστε περισσότερο χώρο αποθήκευσης ή μειώστε την ανάλυση και δοκιμάστε ξανά.</sd_card_space_not_enough_hint>
+    <search_menu_title>Αναζήτηση</search_menu_title>
+    <see_all_material>Δείτε όλα</see_all_material>
+    <select>Επιλογή</select>
+    <select_all>Επιλογή Όλων</select_all>
+    <select_one_to_edit>Επιλέξτε ένα για επεξεργασία.</select_one_to_edit>
+    <select_one_track_to_edit>Επιλέξτε βίντεο για επεξ/σία</select_one_track_to_edit>
+    <select_photo>Επιλέξτε Φωτογραφία</select_photo>
+    <send_feedback>Αφίστε feedback</send_feedback>
+    <setting_addtags_title>Προσθέστε ετικέτες</setting_addtags_title>
+    <setting_clear_cache_title>Διαγραφή κρυφής μνήμης</setting_clear_cache_title>
+    <setting_faq_title>Συνήθεις Ερωτήσεις</setting_faq_title>
+    <setting_feedback_title>Η γνώμη</setting_feedback_title>
+    <setting_follow_us>Ακολουθήστε μας (Λάβετε περισσότερα μαθήματα)</setting_follow_us>
+    <setting_general_title>Γενικά</setting_general_title>
+    <setting_language_title>Γλώσσα</setting_language_title>
+    <setting_legal_title>Νομικά</setting_legal_title>
+    <setting_localization_des>Βοηθήστε μας να μεταφράσουμε το InShot στη γλώσσα σας</setting_localization_des>
+    <setting_localization_title>Μετάφραση</setting_localization_title>
+    <setting_others>Οι υπολοιποι</setting_others>
+    <setting_privacypolicy_title>Πολιτική απορρήτου</setting_privacypolicy_title>
+    <setting_rate5star_des>Βαθμολογήστε την εφαρμογή InShot στο Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Ποσοστό 5 Αστέρων</setting_rate5star_title>
+    <setting_restore>Επαναφορά αγορών</setting_restore>
+    <setting_savepath_title>αποθηκεύσετε πορεία</setting_savepath_title>
+    <setting_share_title>Πρόσκληση φίλων</setting_share_title>
+    <setting_thankyou_title>Ευχαριστίες</setting_thankyou_title>
+    <shadow>Σκιά</shadow>
+    <shadow_off>μακριά από</shadow_off>
+    <shadow_on>Ανοιχτό</shadow_on>
+    <share>μετοχή</share>
+    <share_content>Διευκολύνετε την επεξεργασία βίντεο και φωτογραφιών στο τηλέφωνό σας. Δωρεάν λήψη InShot τώρα:https://inshotapp.page.link/invite</share_content>
+    <share_subject>Μία εκπληκτική εφαρμογή επεξεργασίας βίντεο &amp;φωτογραφίας για το Instagram</share_subject>
+    <sharpen>Ακονίζω</sharpen>
+    <shop>Κατάστημα</shop>
+    <short_preview>Σύντομη προεπισκόπηση</short_preview>
+    <show_read_video_ad_dlg_content>Δείτε το ένα διαφήμιση βίντεο για να καταργήσετε υδατογράφημα για δωρεάν.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Παρακολουθήστε μια διαφήμιση βίντεο για να καταργήσετε υδατογράφημα για αυτό το χρονικό διάστημα</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Αντιγραφή και μερίδιο</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>Ιστορία</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Ετικέτες για περισσότερο του αρέσει</show_tags_dlg_title>
+    <sign_out>Αποσύνδεση</sign_out>
+    <sign_out_account>Αποσυνδεθείτε από τον λογαριασμό</sign_out_account>
+    <signout_current_account>Αποσυνδεθείτε από τον τρέχοντα λογαριασμό</signout_current_account>
+    <signout_tip_common>Είστε βέβαιοι ότι έχετε αποσυνδεθεί από τον τρέχοντα λογαριασμό WeChat;</signout_tip_common>
+    <signout_tip_pro>Το InShot Pro δεν θα είναι προσβάσιμο όταν αποσυνδεθείτε από τον λογαριασμό.</signout_tip_pro>
+    <size>μέγεθος:%s</size>
+    <size_only>Εκτιμώμενο μέγεθος</size_only>
+    <slice>ΦΕΤΕΣ</slice>
+    <slow_motion>ΑΡΓΉ ΚΊΝΗΣΗ</slow_motion>
+    <smooth>Ομαλή</smooth>
+    <smooth_applied>Το εφέ ομαλής αργής κίνησης εφαρμόστηκε</smooth_applied>
+    <smooth_cancelled>Το εφέ ομαλής αργής κίνησης ακυρώθηκε</smooth_cancelled>
+    <smooth_click_preview>Κάντε κλικ στο κουμπί ελέγχου για προεπισκόπηση εφέ ομαλής αργής κίνησης</smooth_click_preview>
+    <smooth_preview_effect>Προεπισκόπηση εφέ ομαλής αργής κίνησης</smooth_preview_effect>
+    <smooth_slow_speed_available>Διαθέσιμο μόνο όταν η ταχύτητα είναι &lt; %sx</smooth_slow_speed_available>
+    <sorry>Συγνώμη</sorry>
+    <string name="space_not_enough_content">Απαιτείται &lt;b>%1$dM&lt;/b> περισσότερος εσωτερικός χώρος αποθήκευσης (ΟΧΙ τον αποθηκευτικό χώρο της κάρτας SD) για την αποθήκευση του %2$s. Ελευθερώστε χώρο στο τηλέφωνό σας και δοκιμάστε ξανά.</string>
+    <space_not_enough_title>Διαγράψτε χώρο στο τηλέφωνό σας</space_not_enough_title>
+    <special_offer>Ειδική προσφορά</special_offer>
+    <speed>Ταχύτητα</speed>
+    <speed_adjusts_precode_hint>Ρύθμιση ταχύτητας μεγαλύτερη από %sx απαιτεί προκωδικοποίηση.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>Ταχύτητα μεγαλύτερη από 10.0x ενδέχεται να προκαλέσει απώλεια του αρχικού ηχητικού.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>Καμία ανάγκη προκωδικοποίησης πάλι στην πράσινη ζώνη.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Μην κλειδώνετε την οθόνη και μην μεταβαίνετε σε άλλες εφαρμογές.</speed_precode_warning_hint>
+    <split>Διαίρεση</split>
+    <spring_festival_pro_title>Σεληνιακό νέο έτος έκπτωση 50%</spring_festival_pro_title>
+    <standard>Πρότυπο</standard>
+    <start_over>ΞΑΝΆ ΑΠΌ ΤΗΝ ΑΡΧΉ</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>δεν έχετε κατεβάσει το αυτοκόλλητο</sticker_empty>
+    <sticker_text>Αυτοκόλλητο</sticker_text>
+    <stickers>Αυτοκόλλητα</stickers>
+    <strength>Δύναμη</strength>
+    <style>Στυλ</style>
+    <subscription_detail>"
+
+- Με Aπεριόριστη Συνδρομή InShot Pro, έχετε πρόσβαση σε όλες τις λειτουργίες και τα υλικά επεξεργασίας επί πληρωμεί, συμπεριλαμβανομένων των αυτοκόλλητων, των πακέτων φίλτρων κ.τ.λ. Τα υδατογραφήματα και οι διαφημίσεις θα αφαιρούνται αυτόματα. 
+
+- Η Απεριόριστη Συνδρομή InShot Pro τιμολογείται μηνιαίως ή ετησίως με το επιτόκιο που αντιστοιχεί στο επιλεγμένο πρόγραμμα. Επιπλέον, θα προσφέρεται μια εφάπαξ πληρωμή αν χρειαστεί, η οποία δεν είναι ένα από τα προγράμματα εγγραφής. 
+
+- Η πληρωμή θα χρεωθεί στον λογαριασμό Google Play κατά την επιβεβαίωση της αγοράς. 
+
+- Η συνδρομή ανανεώνεται αυτόματα αν δεν απενεργοποιηθεί η αυτόματη ανανέωση τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. 
+
+- Ο λογαριασμός θα χρεωθεί για ανανέωση εντός 24 ωρών πριν από το τέλος της τρέχουσας περιόδου και θα προσδιοριστεί το κόστος της ανανέωσης. 
+
+- Οι συνδρομές μπορούν να υφίστανται διαχείριση από τον χρήστη και η αυτόματη ανανέωση μπορεί να απενεργοποιηθεί μεταβαίνοντας στις Ρυθμίσεις λογαριασμού του χρήστη μετά την αγορά. 
+ n- Κάθε αχρησιμοποίητο τμήμα μιας δωρεάν δοκιμαστικής περιόδου, αν προσφέρεται, θα αφαιρείταθ όταν ο χρήστης αγοράσει μια εγγραφή σε αυτή τη δημοσίευση, κατά περίπτωση."</subscription_detail>
+    <subscription_detail_1>"
+
+- Με Aπεριόριστη Συνδρομή InShot Pro, έχετε πρόσβαση σε όλες τις λειτουργίες και τα υλικά επεξεργασίας επί πληρωμεί, συμπεριλαμβανομένων των αυτοκόλλητων, των πακέτων φίλτρων κ.τ.λ. Τα διαφημίσεις θα αφαιρούνται αυτόματα. 
+
+- Η Απεριόριστη Συνδρομή InShot Pro τιμολογείται μηνιαίως ή ετησίως με το επιτόκιο που αντιστοιχεί στο επιλεγμένο πρόγραμμα. Επιπλέον, θα προσφέρεται μια εφάπαξ πληρωμή αν χρειαστεί, η οποία δεν είναι ένα από τα προγράμματα εγγραφής. 
+
+- Η πληρωμή θα χρεωθεί στον λογαριασμό Google Play κατά την επιβεβαίωση της αγοράς. 
+
+- Η συνδρομή ανανεώνεται αυτόματα αν δεν απενεργοποιηθεί η αυτόματη ανανέωση τουλάχιστον 24 ώρες πριν από το τέλος της τρέχουσας περιόδου. 
+
+- Ο λογαριασμός θα χρεωθεί για ανανέωση εντός 24 ωρών πριν από το τέλος της τρέχουσας περιόδου και θα προσδιοριστεί το κόστος της ανανέωσης. 
+
+- Οι συνδρομές μπορούν να υφίστανται διαχείριση από τον χρήστη και η αυτόματη ανανέωση μπορεί να απενεργοποιηθεί μεταβαίνοντας στις Ρυθμίσεις λογαριασμού του χρήστη μετά την αγορά. 
+ n- Κάθε αχρησιμοποίητο τμήμα μιας δωρεάν δοκιμαστικής περιόδου, αν προσφέρεται, θα αφαιρείταθ όταν ο χρήστης αγοράσει μια εγγραφή σε αυτή τη δημοσίευση, κατά περίπτωση."</subscription_detail_1>
+    <subscription_terms>Αυτή η αγορά μπορεί να χρησιμοποιηθεί μόνο σε σύστημα Android. Η πληρωμή χρεώνεται μέσω Google Play Store κατά την επιβεβαίωση της αγοράς. Η συνδρομή ανανεώνεται αυτόματα πριν τη λήξη της τρέχουσας περιόδου, εκτός αν δεν ακυρωθεί τουλάχιστον 24 ώρες πριν από τη λήξη της, και η ακύρωση αρχίζει να ισχύει στο τέλος της τρέχουσας περιόδου. Μπορείτε να διαχειρίζεστε τις συνδρομές σας και να απενεργοποιείτε την αυτόματη ανανέωση μέσω των ρυθμίσεων του λογαριασμού σας στο Google Play Store. Αν η συνδρομή ακυρωθεί στη διάρκεια της δοκιμαστικής περιόδου δεν θα υπάρξει χρέωση.</subscription_terms>
+    <subscription_terms_cn>Εγγραφείτε στο InShot Pro, μπορείτε να χρησιμοποιήσετε όλες τις δυνατότητες και το υλικό επεξεργασίας. Το υδατογράφημα και οι διαφημίσεις θα καταργηθούν αυτόματα. Το InShot Pro δεν ανανεώνεται αυτόματα, ανανεώστε μη αυτόματα πριν από το τέλος της τρέχουσας περιόδου. Δεν είναι δυνατή η μεταφορά της συνδρομής μεταξύ συσκευών Android και iOS. Εάν το έχετε αγοράσει σε συσκευές iOS, θα πρέπει να το αγοράσετε σε συσκευές Android. Μόλις εγγραφείτε στο InShot Pro, δεν θα υπάρξει ακύρωση ή επιστροφή χρημάτων, αποφασίστε προσεκτικά πριν από την αγορά.</subscription_terms_cn>
+    <subscription_terms_cn_1>Εγγραφείτε στο InShot Pro, μπορείτε να χρησιμοποιήσετε όλες τις δυνατότητες και το υλικό επεξεργασίας. Το διαφημίσεις θα καταργηθούν αυτόματα. Το InShot Pro δεν ανανεώνεται αυτόματα, ανανεώστε μη αυτόματα πριν από το τέλος της τρέχουσας περιόδου. Δεν είναι δυνατή η μεταφορά της συνδρομής μεταξύ συσκευών Android και iOS. Εάν το έχετε αγοράσει σε συσκευές iOS, θα πρέπει να το αγοράσετε σε συσκευές Android. Μόλις εγγραφείτε στο InShot Pro, δεν θα υπάρξει ακύρωση ή επιστροφή χρημάτων, αποφασίστε προσεκτικά πριν από την αγορά.</subscription_terms_cn_1>
+    <subscription_terms_hw>Οι αγορές στο AppGallery μπορούν να γίνουν μόνο μέσω του HUAWEI IAP. Η πληρωμή θα χρεωθεί στον λογαριασμό σας κατά την επιβεβαίωση της αγοράς. Οι συνδρομές ανανεώνονται αυτόματα μετά το τέλος της τρέχουσας περιόδου και ταυτόχρονα προσδιορίζουν το κόστος της ανανέωσης. Μπορείτε να διαχειριστείτε τις συνδρομές σας και να απενεργοποιήσετε την αυτόματη ανανέωση από τις ρυθμίσεις του λογαριασμού σας στο AppGallery. Η συνδρομή που ακυρώθηκε κατά τη διάρκεια της δωρεάν δοκιμής δεν θα χρεωθεί.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>Οι αγορές στο AppGallery μπορούν να γίνουν μόνο μέσω του HUAWEI IAP. Η πληρωμή θα χρεωθεί στον λογαριασμό σας κατά την επιβεβαίωση της αγοράς. Μπορείτε να επικοινωνήσετε με την Εξυπηρέτηση Πελατών της Huawei για να ακυρώσετε την αγορά εντός 14 ημερών από την οποία θα λάβετε την επιβεβαίωση παραγγελίας. Οι συνδρομές ανανεώνονται αυτόματα μετά το τέλος της τρέχουσας περιόδου. Μπορείτε να διαχειριστείτε τις συνδρομές σας και να απενεργοποιήσετε την αυτόματη ανανέωση από τις ρυθμίσεις του λογαριασμού σας στο AppGallery.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>Οι αγορές στο AppGallery μπορούν να γίνουν μόνο μέσω του HUAWEI IAP. Η πληρωμή θα χρεωθεί στον λογαριασμό σας κατά την επιβεβαίωση της αγοράς. Μπορείτε να επικοινωνήσετε με την Εξυπηρέτηση Πελατών της Huawei για να ακυρώσετε την αγορά εντός 7 ημερών από την οποία θα λάβετε την επιβεβαίωση παραγγελίας. Οι συνδρομές ανανεώνονται αυτόματα μετά το τέλος της τρέχουσας περιόδου. Μπορείτε να διαχειριστείτε τις συνδρομές σας και να απενεργοποιήσετε την αυτόματη ανανέωση από τις ρυθμίσεις του λογαριασμού σας στο AppGallery.</subscription_terms_hw_ru>
+    <subscription_title>InShot Pro Απεριόριστη Συνδρομή</subscription_title>
+    <super1>SUPER</super1>
+    <support_musician>Για να υποστηρίξετε τον μουσικό, προσθέστε πληροφορίες μουσικής στην περιγραφή του βίντεό σας.</support_musician>
+    <sure>Εντάξει</sure>
+    <swap>ανταλλαγή</swap>
+    <swap_order_hint>Πιέστε παρατεταμένα και σύρετέ για να αλλάξετε σειρά</swap_order_hint>
+    <switch_account>Εναλλαγή λογαριασμού</switch_account>
+    <tags>Ετικέτες</tags>
+    <tags_policies>Καταργήσαμε όλες τις άσχετες ετικέτες λόγω ορισμένων πολιτικών.</tags_policies>
+    <take_video>Λήψη Βίντεο</take_video>
+    <tap_permissions>2.δικαιώματα Πατήστε</tap_permissions>
+    <template>Πρότυπο</template>
+    <terms_of_use>Όροι χρήσης</terms_of_use>
+    <text>κείμενο</text>
+    <text_spacing>Διάστημα κειμένου</text_spacing>
+    <then>Επειτα</then>
+    <time_24_hours>%s ώρες μόνο</time_24_hours>
+    <time_limited_offer>Προσφορά περιορισμένου χρόνου</time_limited_offer>
+    <tint>Βάφω ελαφρώς</tint>
+    <tip>Πληροφορία</tip>
+    <tip_close_ad_personalization>Μετά την απενεργοποίηση της επιλογής μπορεί να δείτε άσχετες διαφημίσεις</tip_close_ad_personalization>
+    <title_optout_ads>Να εξαιρεθείτε από διαφημίσεις βάσει ενδιαφέροντος</title_optout_ads>
+    <too_many_pip_tip>Μεγάλος αριθμός στρωμάτων μπορεί να προκαλέσει καθυστερήσεις ή σφάλματα αποθήκευσης.</too_many_pip_tip>
+    <total>Σύνολο</total>
+    <track_count>%d ΤΡΑΓΟΎΔΙΑ</track_count>
+    <tracks>Τραγούδια</tracks>
+    <transition>Μετάβαση</transition>
+    <transition_prompt>Η προσθήκη ή τροποποίηση της μετάβασης θα αλλάξει τη διάρκεια του βίντεο.</transition_prompt>
+    <trim>Κόψτε</trim>
+    <trim_clip_help_tip>Περικοπή βίντεο και ρύθμιση της διάρκειας της φωτογραφίας</trim_clip_help_tip>
+    <trim_music>διαγωγής μουσικής</trim_music>
+    <turn_off>Απενεργοποίηση</turn_off>
+    <turn_off_tags_context>Απενεργοποιήστε ετικέτες επιλογές, και μπορείτε να το ενεργοποιήσετε στο μενού ρυθμίσεων</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Απενεργοποίηση</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. Ενεργοποιήστε το μικρόφωνο</turn_on_microphone>
+    <turn_on_storage>3. Ενεργοποιήστε την αποθήκευση και την κάμερα</turn_on_storage>
+    <type_something>Πληκτρολογείστε κείμενο</type_something>
+    <un_select>Αποεπιλογή</un_select>
+    <undo>Αναίρεση</undo>
+    <undo_reversed>Αναίρεση Αναστροφής</undo_reversed>
+    <unlock>ξεκλειδώστε</unlock>
+    <unlock_all_features>Ξεκλείδωμα όλων</unlock_all_features>
+    <unlock_for_free>Ξεκλειδώστε Δωρεάν</unlock_for_free>
+    <unlock_for_sticker_tip>Παρακολουθήστε μια διαφήμιση βίντεο για να πάρετε αυτό το πακέτο για την ελεύθερη</unlock_for_sticker_tip>
+    <unlock_the_features>Ξεκλειδώσετε τη λειτουργία</unlock_the_features>
+    <unsupported_file_format>Μη υποστηριζόμενη μορφή αρχείου</unsupported_file_format>
+    <update>Ενημέρωση</update>
+    <update_files>Ενημέρωση αρχείων</update_files>
+    <use>ΧΡΉΣΗ</use>
+    <user_cancel>Ακυρώθηκε</user_cancel>
+    <valid_for>Ισχύει για %s</valid_for>
+    <valid_for_days>ισχύει για %s ημέρες</valid_for_days>
+    <valid_for_hours>ισχύει για %s ώρες</valid_for_hours>
+    <value>Αξία</value>
+    <video>Βίντεο</video>
+    <video_background_convert_finished_hint>Ολοκληρώθηκε η μετατροπή του βίντεο!</video_background_convert_finished_hint>
+    <video_beginning>Έναρξη βίντεο</video_beginning>
+    <video_compress>Συμπίεση βίντεο</video_compress>
+    <string name="video_compress_description" formatted="false">Βίντεο μεγαλύτερο από %s θα συμπιεστεί αυτόματα σε %s.</string>
+    <video_continue_convert_hint>Η εφαρμογή instaShot συνεχίζει την μετατροπή …</video_continue_convert_hint>
+    <video_conversion_failure>Απέτυχε η μετατροπή του βίντεο</video_conversion_failure>
+    <video_convert_failed_hint>Απέτυχε η μετατροπή του βίντεο, δοκιμάστε ξανά!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Απέτυχε η μετατροπή του βίντεο, δοκιμάστε διαφορετικό βίντεο!</video_convert_failed_hint2>
+    <video_cut_bar_duration>Σύνολο:</video_cut_bar_duration>
+    <video_end>Τέλος βίντεο</video_end>
+    <video_less_than_one_second_not_allow>Δεν μπορείτε να ανεβάσετε τα βίντεο λιγότερο από %s.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Κάντε κλικ στη μικρογραφία για περισσότερες επιλογές</video_more_option_hint2>
+    <video_not_support>Δεν υποστηρίζει βίντεο η συγκεκριμένη συσκευή. Μπορείτε να συνεχίσετε με την επεξεργασία εικόνας.</video_not_support>
+    <video_not_support_detail>Η επεξεργασία βίντεο δεν είναι διαθέσιμη σε αυτήν την συσκευή. Μπορείτε να συνεχίσετε με την επεξεργασία εικόνας.</video_not_support_detail>
+    <video_not_support_reasons_one>Η έκδοση Android της συσκευής σας είναι παλαιότερη από 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>Ο επεξεργαστής (CPU) δεν είναι ARM V7 συμβατός με Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>Το βίντεο δεν είναι συμβατό</video_not_support_title_one>
+    <video_not_support_title_two>Το υλικό της συσκευής δεν είναι συμβατό</video_not_support_title_two>
+    <video_only>Μόνο βίντεο</video_only>
+    <video_quality_customize>Προσαρμογή</video_quality_customize>
+    <video_quality_normal>κανονική</video_quality_normal>
+    <video_quality_recommend>Προτεινόμενη</video_quality_recommend>
+    <video_replace_trim_info>Σύρτε για να επιλέξετε ένα τμήμα.</video_replace_trim_info>
+    <video_resolution>Ανάλυση βίντεο</video_resolution>
+    <video_setting>Ρύθμιση βίντεο</video_setting>
+    <video_sharing_progress_title1>αρχικοποίησης…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>Μετατροπή βίντεο…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>Ακύρωση…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>Μπορείτε να προσθέσετε μέχρι 20 στοιχεία κειμένου.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">Υποστηρίζει μόνο βίντεο διάρκειας άνω των %s(>%s)</string>
+    <video_too_short_after_cut_hint>Το βίντεο είναι πολύ σύντομο.</video_too_short_after_cut_hint>
+    <vignette>Βινιέτα</vignette>
+    <voice_effect>Εφέ Φωνής</voice_effect>
+    <voice_effect_support>Υποστήριξη ηχογράφησης/εισηγμένου ήχου μόνο</voice_effect_support>
+    <volume>Ένταση</volume>
+    <warmth>Ζεστασιά</warmth>
+    <warning>Προειδοποίηση</warning>
+    <watch>παρακολουθήστε</watch>
+    <what_new_audio_draft>ΑΠΟΘΉΚΕΥΣΗ ΠΡΌΧΕΙΡΟΥ ΒΊΝΤΕΟ</what_new_audio_draft>
+    <what_new_audio_track>ΠΟΛΛΑΠΛΆ ΜΟΥΣΙΚΆ ΚΟΜΜΆΤΙΑ</what_new_audio_track>
+    <what_new_crop_video>ΒΊΝΤΕΟ ΚΑΛΛΙΈΡΓΕΙΑς</what_new_crop_video>
+    <what_new_cut>Αποκοπή &amp; διαίρεση βίντεο</what_new_cut>
+    <what_new_music>ΔΗΜΟΦΙΛΉ ΜΟΥΣΙΚΉ VLOG</what_new_music>
+    <what_new_special_effects_filters_vol1>ΦΊΛΤΡΑ ΕΙΔΙΚΏΝ ΕΦΈ ΤΌΜΟς 1</what_new_special_effects_filters_vol1>
+    <what_news_collage>καλύτερη λειτουργία κολάζ</what_news_collage>
+    <what_news_filter>ΦΙΛΤΡΆΡΕΤΕ ΤΗ ΛΕΙΤΟΥΡΓΊΑ ΒΊΝΤΕΟ</what_news_filter>
+    <what_news_thanksgiving>ΧΑΡΟΎΜΕΝΗ ΗΜΈΡΑ ΤΩΝ ΕΥΧΑΡΙΣΤΙΏΝ</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Προσθέστε κενή οθόνη</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Μοτίβο φόντου</whats_new_background_pattern>
+    <whats_new_beats_effects>Ρυθμός εφέ</whats_new_beats_effects>
+    <whats_new_blend>PIP - Ανάμειξη</whats_new_blend>
+    <whats_new_brand_music>Ολοκαίνουργιο περιβάλλον μουσικής</whats_new_brand_music>
+    <whats_new_create_gifs>Δημιουργία GIF</whats_new_create_gifs>
+    <whats_new_customer_color>Προσαρμοσμένο χρώμα</whats_new_customer_color>
+    <whats_new_cutout>Αποκοπή προσαρμοσμένων αυτοκόλλητων</whats_new_cutout>
+    <whats_new_cutout_outline>Αποκοπή &amp; περίγραμμα φωτογραφίας</whats_new_cutout_outline>
+    <whats_new_effect>Χρονολόγιο Εφέ</whats_new_effect>
+    <whats_new_effect_retro2>Καινούργια εφέ - Retro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Νέα Εφέ_Διαίρεση</whats_new_effect_split>
+    <whats_new_fade_base>Νέα εφέ-ΒΑΣΙΚΟ,Ξεθώριασμα</whats_new_fade_base>
+    <whats_new_filter_fresh>Νέα Φίλτρα_Φρέσκο</whats_new_filter_fresh>
+    <whats_new_frame_rate>Νέα Ρυθμός καρέ</whats_new_frame_rate>
+    <whats_new_freeze_tool>Εφέ παγώματος</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>Ρύθμιση HSL</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Επικόλληση ειδών στο πλαίσιο</whats_new_item_frame>
+    <whats_new_magnifier>Αυτοκόλλητο Μεγεθυντικό Φακό</whats_new_magnifier>
+    <whats_new_mask>Μάσκα για PIP</whats_new_mask>
+    <whats_new_material>Ολοκαίνουργια βιβλιοθήκη υλικού</whats_new_material>
+    <whats_new_music_fade_in_and_out>Η μουσική ξεθωριάζει &amp; εξαφανίζεται</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Νέο Άλμπουμ</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Νέα εφέ και μεταβάσεις</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Καινούργια εφέ - Φιλμ</whats_new_new_effect_film>
+    <whats_new_new_filters>Νέο Φίλτρο</whats_new_new_filters>
+    <whats_new_new_transition>Νέες Μεταβάσεις - Σχισμένο χαρτί</whats_new_new_transition>
+    <whats_new_pip>PIP - Επικάλυψη βίντεο</whats_new_pip>
+    <whats_new_smooth>Ομαλής Αργής Κίνησης για Ρύθμιση Ταχύτητας</whats_new_smooth>
+    <whats_new_speed_curve>Καμπύλη ταχύτητας</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Προρύθμιση Καμπύλη Ταχύτητας</whats_new_speed_curve_preset>
+    <whats_new_store>Ολοκαίνουργιο κατάστημα υλικών</whats_new_store>
+    <whats_new_text_animation>Νέο κινούμενο κείμενο</whats_new_text_animation>
+    <whats_new_transition_film>Νέες μεταβάσεις - Φιλμ</whats_new_transition_film>
+    <whats_new_video_full_screen>Προεπισκόπηση βίντεο σε πλήρη οθόνη</whats_new_video_full_screen>
+    <whats_new_voice_effect>Φωνητικά Εφέ</whats_new_voice_effect>
+    <whatsnew_advance_timeline>ΠΡΟΗΓΜΕΝΗ ΧΡΟΝΟΔΙΑΓΡΑΜΜΑ</whatsnew_advance_timeline>
+    <whatsnew_christmas>ΜΟΥΣΙΚΉ ΓΙΑ ΤΑ ΧΡΙΣΤΟΎΓΕΝΝΑ</whatsnew_christmas>
+    <whatsnew_color_pallette>Νέα παλέτα χρωμάτων</whatsnew_color_pallette>
+    <whatsnew_font_style>Νέο στυλ γραμματοσειράς</whatsnew_font_style>
+    <whatsnew_loop_animation>Κίνηση βρόχου</whatsnew_loop_animation>
+    <whatsnew_music>Νέα μουσική</whatsnew_music>
+    <whatsnew_recording>Εγγραφή</whatsnew_recording>
+    <whatsnew_slide>ΜΊΞΗ ΒΊΝΤΕΟ ΜΕ ΦΩΤΟΓΡΑΦΊΕς</whatsnew_slide>
+    <whatsnew_sound_effects>Ηχητικά εφφέ</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Διαχωρίστε μουσική, κείμενο και αυτοκόλλητο</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>ΚΙΝΟΎΜΕΝΑ ΣΧΈΔΙΑ ΑΥΤΟΚΌΛΛΗΤΟ</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>ΑΥΤΟΚΌΛΛΗΤΟ ΚΑΙ ΤΟ ΚΕΊΜΕΝΟ ΚΙΝΟΎΜΕΝΑ ΣΧΈΔΙΑ</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>ΚΙΝΟΎΜΕΝΑ ΣΧΈΔΙΑ ΚΕΊΜΕΝΟ</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Απεριόριστα σχέδια</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot Φωτογραφία</widgetphoto>
+    <widgetvideo>InShotτο βίντεο</widgetvideo>
+    <year>Ετος</year>
+    <yes>Ναι</yes>
+    <you_are_not_login>Δεν έχετε συνδεθεί</you_are_not_login>
+    <you_will_still_see_ads>Θα εξακολουθείτε να βλέπετε διαφημίσεις, αλλά μπορεί να μην βασίζονται στα ενδιαφέροντά σας.</you_will_still_see_ads>
+    <zoom>Μεγέθυνση</zoom>
+    <zoom_selection>ΕΠΙΛΟΓΉ ΜΕΓΈΘΥΝΣΗς</zoom_selection>
+</resources>

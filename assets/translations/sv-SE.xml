@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro-detaljer</InShot_detail>
+    <abc_action_bar_home_description>Navigera hem</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Navigera uppåt</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Fler alternativ</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Klar</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Visa alla</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Välj en app</abc_activitychooserview_choose_application>
+    <abc_capital_off>AV</abc_capital_off>
+    <abc_capital_on>PÅ</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt + </abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl + </abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>retur</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Funktion + </abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta + </abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Skift + </abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>blanksteg</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Symbol + </abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Meny + </abc_prepend_shortcut_label>
+    <abc_search_hint>Sök …</abc_search_hint>
+    <abc_searchview_description_clear>Ta bort frågan</abc_searchview_description_clear>
+    <abc_searchview_description_query>Sökfråga</abc_searchview_description_query>
+    <abc_searchview_description_search>Sök</abc_searchview_description_search>
+    <abc_searchview_description_submit>Skicka fråga</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Röstsökning</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Dela med</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Dela med %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Komprimera</abc_toolbar_collapse_description>
+    <account>Konto</account>
+    <acknowledge>Kvittenser</acknowledge>
+    <action_settings>Inställningar</action_settings>
+    <actual_price_year_format>Köp det för %s/år</actual_price_year_format>
+    <ad_personalization>AD-anpassning</ad_personalization>
+    <ad_personalization_tip>"Cookies är textfiler som skapats på din enhet av webbservern. För att ge en bättre service kan vi använda relaterad teknik för att skicka en eller flera cookies till din enhet för att samla in och lagra information om användningen av denna produkt.
+
+Admob, Mopub, Vungle, Facebook, Smaato, myTarget som annonsörer för InShot kan samla in information som genereras under din användning av våra produkter och tjänster, extrahera dina preferenser och använda dem för att visa dig annonser som är mer anpassade till dina individuella behov. Vi delar inga användares data med Facebook eller andra parter (Verifierad av BBC &amp; Privacy International).
+
+Vi kommer att använda tekniska medel för att anonymisera data, och den anonymiserade informationen kommer inte att kunna identifiera ämnet. Om du inte är intresserad av personlig visning kan du välja att stänga av visningen av personligt innehåll genom Inställningar-Annonsanpassning. Observera att du fortfarande kan se annonser efter att du har stängt av det här alternativet, men relevansen av annonser kommer att minska."</ad_personalization_tip>
+    <add>Lägg till</add>
+    <add_favorite>Lägg till en favorit</add_favorite>
+    <adjust>Justera</adjust>
+    <agree>Godkänn</agree>
+    <album>ALBUM</album>
+    <album_sleepless_desc>Glöm inte att lägga till följande i videons beskrivning när du delar publikt.</album_sleepless_desc>
+    <all>Alla</all>
+    <all_inclusive>Allt inkluderat</all_inclusive>
+    <all_original_files_miss_in_draft>"Utkastet är skadat eftersom alla originalfilerna saknas. 
+
+Du kan prova att korrigera utkastet genom att återställa originalfilerna från [Nyligen borttagna/Papperskorgen]"</all_original_files_miss_in_draft>
+    <all_premium>Tillgång till alla premiumfilter, effekter, klistermärken, teckensnitt. Inget vattenstämpel, inga annonser.</all_premium>
+    <all_premium_1>Tillgång till alla premiumfilter, effekter, klistermärken, teckensnitt. Inga annonser.</all_premium_1>
+    <allow_camera_access>Tillåt Kameraåtkomst</allow_camera_access>
+    <allow_record_access>Tillåt mikrofonåtkomst</allow_record_access>
+    <allow_record_access_hint>InShot kräver mikrofontillstånd för att spela in ljud.</allow_record_access_hint>
+    <allow_storage_access>Tillåt lagringsåtkomst</allow_storage_access>
+    <allow_storage_access_hint>För att skapa vackra videoklipp och foton behöver InShot tillgång till ditt fotobibliotek.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>För att skapa vackra videoklipp och foton behöver InShot tillgång till ditt fotobibliotek och kamera.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Du är redan medlem i InShot Pro</already_InShot_pro>
+    <already_purchased>Redan köpt?</already_purchased>
+    <angle>Vinkel</angle>
+    <animation_in>IN</animation_in>
+    <animation_out>UT</animation_out>
+    <animation_stickers>Animerade klistermärken</animation_stickers>
+    <app_latest_version_available_title>Senaste versionen (%s)</app_latest_version_available_title>
+    <app_latest_version_title>Du har senaste versionen!</app_latest_version_title>
+    <app_not_installed_content>Ladda ner %s eller dela med andra appar</app_not_installed_content>
+    <app_not_installed_download_app>LADDA NER %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>Dela med andra</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s är inte installerad</app_not_installed_title>
+    <app_wall_entrance_action>CHECKA UT</app_wall_entrance_action>
+    <app_wall_entrance_title>Dagens populäraste appar</app_wall_entrance_title>
+    <apply_to_all>Tillämpad för alla</apply_to_all>
+    <apply_to_all_clips>Verkställ på alla klipp</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>Ljudlängden är för kort.</audio_too_short_after_cut_hint>
+    <authorization>Tillstånd</authorization>
+    <background>bakgrunden</background>
+    <background_color>Bakgrundsfärg</background_color>
+    <basic>GRUNDLÄGGANDE</basic>
+    <basic_animation>GRUNDLÄGGANDE</basic_animation>
+    <beats>Taktslag</beats>
+    <billing_unavailable>Du har inte konfigurerat något Google Play-konto.</billing_unavailable>
+    <billing_unavailable_hw>Du har inte skapat ett Huawei-konto.</billing_unavailable_hw>
+    <blank>Tom</blank>
+    <blend>Blanda</blend>
+    <blocked>Blockerad</blocked>
+    <blur>Suddighet</blur>
+    <blur_background>Suddig bakgrund</blur_background>
+    <blur_bg>Suddig</blur_bg>
+    <blur_bg_custom_hint>Använd ditt eget foto som bakgrund</blur_bg_custom_hint>
+    <blur_bg_options_merged>Suddighets- och bakgrundsalternativ har slagits ihop</blur_bg_options_merged>
+    <blur_off>Av</blur_off>
+    <blur_on>På</blur_on>
+    <border>Kant</border>
+    <brush>pensel</brush>
+    <buy>Köpa</buy>
+    <can_not_add_more_tracks>Det går inte att lägga till fler låtar</can_not_add_more_tracks>
+    <can_not_add_tracks>Spår kan inte läggas till här</can_not_add_tracks>
+    <cancel>Avbryt</cancel>
+    <cancel_save_video_dlg_btn_no>Ingen</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>Ja</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Vill du avbryta video konvertering?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Varning</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Klippet är för kort för att övergången ska kunna göras.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>Det går inte att spara spara GIF:ar som är längre än 1 minut. Byt format eller gör GIF:en kortare.</cannot_save_gif_over_one_minute>
+    <canvas>Kanfas</canvas>
+    <celebrate>Fira</celebrate>
+    <change_beginning_too_short>Längden är för kort för att det ska gå att navigera till videons/klippets början</change_beginning_too_short>
+    <change_end_too_short>Längden är för kort för att det ska gå att navigera till videons/klippets slut</change_end_too_short>
+    <change_language_title>Välj språk</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Om du överför video till Instagram misslyckats och det beror inte på nätet, försök MPEG-4. Standard är H.264, bättre kvalitet och mindre storlek.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Ändra Video Codec</change_video_codec_dialog_title>
+    <character>Figur</character>
+    <check>Kolla upp</check>
+    <choose_pay_method>Välj betalningsmetod</choose_pay_method>
+    <choose_video_quality_hint>Kvalitet</choose_video_quality_hint>
+    <chroma>Chroma</chroma>
+    <classic>klassisk</classic>
+    <clear>Rensa</clear>
+    <string name="clear_cache_content">&lt;b>%s&lt;/b> lagringsutrymme kommer att frigöras när du rensar. Ditt utkast kommer inte att påverkas. Vill du fortsätta?</string>
+    <clearing>Rensar …</clearing>
+    <click_here>Klicka här</click_here>
+    <click_track_tip>Klicka på tidslinjen för att redigera musik och justera videovolymen.</click_track_tip>
+    <clip_beginning>Klipp början</clip_beginning>
+    <clip_end>Klippänden</clip_end>
+    <clip_mute_adjust_volume_retry>Slå på ljudet och försök igen</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>Totallängden minskas och tidslinjen ändras därefter.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Det nya klippet är kortare än det befintliga.</clip_replace_shorter_title>
+    <clip_reversed>Klippet har inverterats</clip_reversed>
+    <clip_video_tip>Klipp videon till den längd som du behöver importera.</clip_video_tip>
+    <collage>Collage</collage>
+    <collage_long_press_swap_photo>Långt tryck för att byta foton.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>Du kan välja högst 9 bilder!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Klicka på en bild för att byta med</collage_swap_photo>
+    <color>Färg</color>
+    <color_palette>Färgpalett</color_palette>
+    <common_google_play_services_enable_button>Aktivera</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>%1$s fungerar inte om du inte aktiverar Google Play-tjänster.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Aktivera Google Play-tjänster</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Installera</common_google_play_services_install_button>
+    <common_google_play_services_install_text>%1$s kan inte köras utan Google Play-tjänsterna, som saknas på enheten.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Hämta Google Play-tjänster</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Tillgänglighet för Google Plays tjänster</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Fel på Google Play-tjänster</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s fungerar inte utan Google Play-tjänsterna, som inte stöds på enheten.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Uppdatera</common_google_play_services_update_button>
+    <common_google_play_services_update_text>%1$s kan inte köras om du inte uppdaterar Google Play-tjänsterna.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Uppdatera Google Play-tjänster</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>%1$s kan inte köras utan Google Play-tjänster, och dessa uppdateras för närvarande.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>En ny version av Google Play-tjänster krävs. Den uppdateras automatiskt inom kort.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Öppna på mobilen</common_open_on_phone>
+    <common_signin_button_text>Logga in</common_signin_button_text>
+    <common_signin_button_text_long>Logga in med Google</common_signin_button_text_long>
+    <contact_creator>Kontakta skaparen</contact_creator>
+    <continue_buy>Efter att ha förnyat ett år kommer InShot Pro att förlängas til %s.</continue_buy>
+    <continue_text>Fortsätt</continue_text>
+    <continue_title>Fortsätta</continue_title>
+    <contrast>Kontrast</contrast>
+    <convert_failed>konverteringen misslyckades</convert_failed>
+    <copied>Kopierade</copied>
+    <copy>Kopiera</copy>
+    <crop>Beskär</crop>
+    <curve>Kurva</curve>
+    <custom_background>Anpassa bakgrunden</custom_background>
+    <custom_sticker>Överla bilder på video</custom_sticker>
+    <cut>Skära</cut>
+    <cut_both_ends>Klipp</cut_both_ends>
+    <cut_import>Importera</cut_import>
+    <cut_video>Klipp Videon</cut_video>
+    <cutout>Utskärning</cutout>
+    <day_free_trial>%s dagars gratis försök</day_free_trial>
+    <days_left>%d dagar kvar</days_left>
+    <delete>Radera</delete>
+    <delete_confirm_dialog_content>Vill du ta bort?</delete_confirm_dialog_content>
+    <delete_drafts_note>Observera att borttagna utkast inte kan återställas!</delete_drafts_note>
+    <delete_material_tip>Utkast kommer att påverkas om materialet tas bort!</delete_material_tip>
+    <denoise>Brusreducering</denoise>
+    <detail>Detalj</detail>
+    <detail_mosaic>Detalj</detail_mosaic>
+    <directories>Katalog</directories>
+    <disable_follow>Inaktivera</disable_follow>
+    <discard_edit_dlg_confirm>KASSERA</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Kassera redigera?</discard_edit_dlg_title>
+    <discount>Rabatt</discount>
+    <discount_format>%s rabatt</discount_format>
+    <dissolve>LÖS UPP</dissolve>
+    <distort>Förvräng</distort>
+    <do_not_use_tags>Använd inte etiketter?</do_not_use_tags>
+    <donate>DONERA</donate>
+    <done>Klar</done>
+    <double_click_reset_zoom>Dubbelklicka för att återgå</double_click_reset_zoom>
+    <download>Ladda ner</download>
+    <download_failed>Nedladdning misslyckad!</download_failed>
+    <download_video_progress_title>Laddar video från servern…</download_video_progress_title>
+    <draft>UTKAST</draft>
+    <draft_clip_missing_tip>Vissa klipp i utkastet kunde inte hämtas eftersom originalfilerna inte längre är tillgängliga.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Ersätt dem med andra tillgångar för att fortsätta.</draft_clip_missing_tip1>
+    <draft_corrupted>Vissa delar av videoprojektet saknas.</draft_corrupted>
+    <draft_delete_video_hint>Om du raderar den ursprungliga videon skadas utkastet.</draft_delete_video_hint>
+    <draft_load_err>Inläsningsfel</draft_load_err>
+    <draft_open_hint>När du har startat ett nytt videoprojekt kommer ditt utkast att ersättas.</draft_open_hint>
+    <draft_saved>Utkastet har sparats</draft_saved>
+    <drafts>%s UTKASTEN</drafts>
+    <drafts_not_backward_compatible>Appversionen är för låg för att öppna utkasten.</drafts_not_backward_compatible>
+    <drag_to_swap>Dra för att byta</drag_to_swap>
+    <duplicate>Duplicera</duplicate>
+    <duration>Längd</duration>
+    <edit>Redigera</edit>
+    <edit_music_dialog_music_volume>Musikvolym</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Video Volym</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Redigera volym</edit_music_dialog_title>
+    <edit_volume_fade_out>Tona ut</edit_volume_fade_out>
+    <edit_with_inshot>Redigera med InShot:</edit_with_inshot>
+    <effect>Effekt</effect>
+    <effect_count>%d EFFEKTER</effect_count>
+    <effects>Ljudeffekter</effects>
+    <emoji_activity_category>AKTIVITET</emoji_activity_category>
+    <emoji_animals_category>DJUR</emoji_animals_category>
+    <emoji_celebration_category>FIRANDE</emoji_celebration_category>
+    <emoji_dialy_category>DAGLIGEN</emoji_dialy_category>
+    <emoji_emotion_category>känslor</emoji_emotion_category>
+    <emoji_food_category>MAT</emoji_food_category>
+    <emoji_gesture_category>GEST</emoji_gesture_category>
+    <emoji_nature_category>NATUR</emoji_nature_category>
+    <emoji_objects_category>OBJEKT</emoji_objects_category>
+    <emoji_people_category>PERSONER</emoji_people_category>
+    <emoji_recent_category>NY</emoji_recent_category>
+    <emoji_smile_category>SMILEYS</emoji_smile_category>
+    <emoji_symbols_category>SYMBOLER</emoji_symbols_category>
+    <emoji_transit_category>GENOMRESA</emoji_transit_category>
+    <erase>radera</erase>
+    <error>Misslyckades! Försök igen!</error>
+    <examine_result>%d klipp kan inte importeras.</examine_result>
+    <exit>Lämna</exit>
+    <exit_app_discard_edit_warn>Tryck igen för att kasta</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>UTGÅNG</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Tryck på knappen spara för att spara och dela dina verk.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Avsluta innan du sparar?</exit_before_save_dlg_title>
+    <exit_tip>Tryck igen för att avsluta</exit_tip>
+    <exo_controls_cc_disabled_description>Aktivera undertexter</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Inaktivera undertexter</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Snabbspola framåt</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Aktivera helskärm</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Lämna helskärm</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Dölj spelarkontroller</exo_controls_hide>
+    <exo_controls_next_description>Nästa</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Dölj ytterligare inställningar</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Visa ytterligare inställningar</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Pausa</exo_controls_pause_description>
+    <exo_controls_play_description>Spela upp</exo_controls_play_description>
+    <exo_controls_playback_speed>Hastighet</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Normal</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Föregående</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Upprepa alla</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Upprepa inga</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Upprepa en</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Spola tillbaka</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Uppspelningsförlopp</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Inställningar</exo_controls_settings_description>
+    <exo_controls_show>Visa spelarkontroller</exo_controls_show>
+    <exo_controls_shuffle_off_description>Blanda inte spår</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Blanda spår</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Stoppa</exo_controls_stop_description>
+    <exo_controls_vr_description>VR-läge</exo_controls_vr_description>
+    <exo_download_completed>Nedladdningen är klar</exo_download_completed>
+    <exo_download_description>Ladda ned</exo_download_description>
+    <exo_download_downloading>Laddar ned</exo_download_downloading>
+    <exo_download_failed>Nedladdningen misslyckades</exo_download_failed>
+    <exo_download_notification_channel_name>Nedladdningar</exo_download_notification_channel_name>
+    <exo_download_removing>Nedladdningar tas bort</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbit/s</exo_track_bitrate>
+    <exo_track_mono>Mono</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Alternativ</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Undertexter</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Kommentar</exo_track_role_commentary>
+    <exo_track_role_supplementary>Tillägg</exo_track_role_supplementary>
+    <exo_track_selection_auto>Automatiskt</exo_track_selection_auto>
+    <exo_track_selection_none>Ingen</exo_track_selection_none>
+    <exo_track_selection_title_audio>Ljud</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Text</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Video</exo_track_selection_title_video>
+    <exo_track_stereo>Stereo</exo_track_stereo>
+    <exo_track_surround>Surroundljud</exo_track_surround>
+    <exo_track_surround_5_point_1>5.1-kanaligt surroundljud</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1-kanaligt surroundljud</exo_track_surround_7_point_1>
+    <exo_track_unknown>Okänt</exo_track_unknown>
+    <extract>Extrahera</extract>
+    <extract_audio>Extrahera ljud</extract_audio>
+    <extract_audio_from_video>Extrahera ljud från videon</extract_audio_from_video>
+    <extract_failed>Utvinning misslyckades</extract_failed>
+    <fade>Blekna</fade>
+    <fade_in>Tona in</fade_in>
+    <fade_new>Tona</fade_new>
+    <failed_to_load_blur_image>Den valda bilden kunde inte laddas, välj igen!</failed_to_load_blur_image>
+    <failed_to_load_image>Hoppsan! Det gick inte att läsa in bilden</failed_to_load_image>
+    <fast_motion>SNABB RÖRELSE</fast_motion>
+    <favourite>Favorit</favourite>
+    <featured>FEATURED</featured>
+    <feedback_and_suggestion_hint>Återkoppling och förslag</feedback_and_suggestion_hint>
+    <feedback_not_now>INTE NU</feedback_not_now>
+    <feedback_subject>Återkoppling till InShot</feedback_subject>
+    <feedback_submit>ÖVERLÄMNA</feedback_submit>
+    <festival>Festival</festival>
+    <file_corrupted_description>Fil skadad, vänligen installera InShot från officiell app store.</file_corrupted_description>
+    <file_corrupted_note>Fil skadad, vänligen installera InShot från Google Play</file_corrupted_note>
+    <file_corrupted_title>Bästa användare</file_corrupted_title>
+    <file_not_support>Denna typ av fil stöds inte av InShot.</file_not_support>
+    <film>film</film>
+    <film_grain>Filmkornighet</film_grain>
+    <filter>FILTER</filter>
+    <filter_manage>Filtrera Hantera</filter_manage>
+    <filter_not_supported_in_photo>Aktuellt effektpaket är inte tillgängligt för foton.</filter_not_supported_in_photo>
+    <filters>Filters</filters>
+    <first_month>Första månaden</first_month>
+    <first_year>Första året</first_year>
+    <fit>Plats</fit>
+    <fit_bottom>Botten</fit_bottom>
+    <fit_fit>Plats</fit_fit>
+    <fit_full>Fullt</fit_full>
+    <fit_left>vänster</fit_left>
+    <fit_original>Originell</fit_original>
+    <fit_right>höger</fit_right>
+    <fit_top>topp</fit_top>
+    <flip>Vänd</flip>
+    <folder_cannot_write>Mapp kan inte skriva! Vänligen välj en annan.</folder_cannot_write>
+    <follow_ins_to_unlock>Följ InShot på Instagram för att</follow_ins_to_unlock>
+    <follow_setting_title>Objekt fastnar på ramen</follow_setting_title>
+    <follow_tiktok_to_unlock>Prenumerera på InShot TikTok Channel för att</follow_tiktok_to_unlock>
+    <follow_toggle_tip>När ett klipp har beskurits eller raderats kommer objekten (inspelning, ljudeffekter, PIP, klistermärken, texter, effekter) att vara fast kopplade till originalramen</follow_toggle_tip>
+    <follow_toggle_tip_2>När ett klipp har beskurits eller raderats kommer objekten (PIP, klistermärken, texter...) att vara fast kopplade till originalramen</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Följ oss på sociala medier för att få de senaste nyheterna om InShot.</follow_us_fun_media_tip>
+    <follow_us_to>Följ oss till</follow_us_to>
+    <follow_youtube_to_unlock>Prenumerera på InShots YouTube-kanal för att</follow_youtube_to_unlock>
+    <font>Typsnitt</font>
+    <font_color>Teckenfärg</font_color>
+    <font_copyright_des>Det här teckensnittet är enbart för personlig (icke-kommersiell) användning.</font_copyright_des>
+    <fonts>Typsnitt</fonts>
+    <for_you>För dig</for_you>
+    <format>Format</format>
+    <frame>ram</frame>
+    <frame_rate>Bildfrekvens</frame_rate>
+    <free>GRATIS</free>
+    <free_download>GRATIS NEDLADDNING</free_download>
+    <free_unlock>Lås upp gratis</free_unlock>
+    <freeze>Frysa</freeze>
+    <full_park_emoji>Full Emoji Pack</full_park_emoji>
+    <gallery>Galleri</gallery>
+    <gdpr_consent>"We never stop trying to provide a higher quality user experience in every detail. The privacy policy is updated to adapt to the EU General Data Protection Regulation (GDPR). You can read it in “Settings” - “Privacy policy”.
+
+Please click “Continue” to agree to the policy and use this app. If you don’t want personal data to be collected by the advertising providers, please go to “setting” - “Privacy Policy” page and Click “I don’t agree”."</gdpr_consent>
+    <get>Hämta</get>
+    <gif_compress>GIF-komprimering</gif_compress>
+    <string name="gif_compress_description" formatted="false">GIF:ar som är större än %s kommer automatiskt att komprimeras till %s.</string>
+    <gif_supported_tip>GIF:ar stöds nu.</gif_supported_tip>
+    <give_5star>Ge 5 stjärnor</give_5star>
+    <glitch>FÖRVRÄNGNING</glitch>
+    <go_setting>Gå Inställningar</go_setting>
+    <go_to_logout>Radera InShot-konto permanent</go_to_logout>
+    <go_to_the_shop>besök butiken</go_to_the_shop>
+    <gps_not_installed>Kontrollera att du har installerat den senaste versionen av Google Play Services.</gps_not_installed>
+    <gradient>Gradient</gradient>
+    <grain>Korn</grain>
+    <has_no_photo_hint>Välj 1-9 bilder för att skapa vackra collage.</has_no_photo_hint>
+    <have_purchased>Du har köpt!</have_purchased>
+    <help>Hjälp</help>
+    <help_Keyframe_desc>Lägg till en nyckelbild i tidslinjen för att enkelt markera början och slutet på en animering (zoom/rörelse/rotation/transparens) för ett klistermärke/text/PIP.</help_Keyframe_desc>
+    <help_Keyframe_title>Nyckelbild</help_Keyframe_title>
+    <help_Keyframe_youtube_des>Så här använder du nyckelbild för att lägga till animering i ett lager</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Gå till menyn \"Klistermärken\", importera bilder från album eller kataloger.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Nu stöder vi också GIF-bilder.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Justera egna klistermärken</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Gå till musikmenyn.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Klicka på musiktidslinjen för att justera volymen på musik/ljud effekter/inspelning;
+Klicka på videoklippet för att justera den ursprungliga videovolymen."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Justera ljudvolym</help_adjust_audio_volume_title>
+    <help_adjust_volume>Klicka på tidslinjen för att justera videovolymen.</help_adjust_volume>
+    <help_animation_desc>Välj in/ut för animering av text och klistermärken.</help_animation_desc>
+    <help_animation_title>Välj in/ut för animering</help_animation_title>
+    <help_apply_to_all_desc>Använd alternativet \"Tillämpad för alla\" för att använda filtren ramen eller volymen i alla klipp.</help_apply_to_all_desc>
+    <help_apply_to_all_title>Använd redigering på alla klipp</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Rymdmaterial och blandningseffekter passar särskilt bra ihop.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Rymdmaterial</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Så här lägger du till gratis överlägg</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Så justerar man originalvolymen</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Ange menyn \"Plats\", ange bakgrundsförhållande för videon eller ta bort videobakgrunden.</help_background_ratio_desc>
+    <help_background_ratio_title>Byt förhållande på videobakgrund</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Så anger man videobakgrund</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Välj ett spår att redigera.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Klicka här för att redigera videovolym</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Öppna \"Inställningar\" i InShot
+Tryck på \"Videoinställning\" och avmarkera alternativet \"Objekt fastnar på ramen\"."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Varför togs klistermärken/text/effekter/BiBs/inspelare/ljudeffekter bort när jag raderade ett klipp?</help_disable_stick_frame_title>
+    <help_edit_music>Klicka för att redigera musik.</help_edit_music>
+    <help_edit_music_desc>Klicka på den infogade musiken för att redigera.</help_edit_music_desc>
+    <help_edit_music_title>Redigera musik</help_edit_music_title>
+    <help_extract_audio_desc>Tryck på [Extrahera ljud från videon] på musikfliken och importera en video för att extrahera ljudet.</help_extract_audio_desc>
+    <help_extract_audio_title>Extrahera ljud från video</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Så här extraherar du ljud från videor</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Allt inbyggt musikmaterial omfattas av avtal som upprättats med respektive musiker.
+
+Om du får ett upphovsrättsmeddelande eller om din video tas bort av Instagram, klicka på \"Jag godkänner\", skriv under med ditt namn och klicka på \"Överklaga\"."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Oroa dig inte - musikern i fråga kommer aktivt att stötta dig under överklagan och din video kommer att återställas inom 2–3 minuter.</help_faq_album_desc_2>
+    <help_faq_album_title>Vad gör jag om min musikvideo tas bort av Instagram?</help_faq_album_title>
+    <help_faq_auto_update_dest>Gå till ditt Google Play-konto och klicka på \"Inställningar\". Klicka därefter på \"Uppdatera appar automatiskt\" under \"Nätverksinställningar\".</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>Hur håller jag InShot uppdaterad med senaste versionen?</help_faq_auto_update_title>
+    <help_faq_four_desc>Tyvärr kan inte borttagna utkast återställas. Vi följer integritetspolicyn helt och hållet och kommer inte att lagra några användares filer.</help_faq_four_desc>
+    <help_faq_four_title>Kan jag återställa ett utkast efter att ha tagit bort det?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>När videofiler sparas skapas många tillfälliga filer som tas bort automatiskt när processen är klar. För att lösa detta kan man frigöra mer utrymme på sin enhet (INTE på SD-kortet).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Varför står det att det inte finns tillräckligt med minne på min telefon trots att det gör det?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Alla fonter har motsvarande licens. Kontrollera därför noggrant före användning. Vissa fonter är endast ämnade för persponligt bruk.</help_faq_one_desc>
+    <help_faq_one_title>Kan jag använda inbyggda fonter i kommersiellt syfte?</help_faq_one_title>
+    <help_faq_three_desc>Om du tar bort originalfiler från galleriet kommer anknutna utkast att gå förlorade och kan inte öppnas. Försök att återställa filerna från albumet \"Nyligen borttagna\".</help_faq_three_desc>
+    <help_faq_three_title>Varför visas meddelandet \"Utkast skadat\" eller \"De ursprungliga filerna i utkastet saknas\"?</help_faq_three_title>
+    <help_faq_two_desc>"Krav gällande innehålls-ID leder varken till upphovsrättsförläggande eller att kanaler spärras eller avslutas. Vanligtvis gäller kravet bara att videon ska spåras eller monetäriseras. Din video ligger därför kvar som vanligt trots kraven (däremot kan de innehålla reklam) och du kan fortfarande dela den med andra.
+
+För mer information om krav gällande innehålls-ID, se https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Varför fick jag upphovsrättsanspråk från YouTube gällande musik?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Edigering</help_group_video_edit_title>
+    <help_import_fonts_desc>Kontrollera att det finns teckensnittsfiler på din telefon. Tryck på importknappen för att importera teckensnitten.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Användare med Android 11 eller högre klickar på importera teckensnitt, hoppa till sidan för filval
+1.Klicka på knappen längst upp till vänster, välj ditt SD-kort och välj sedan filkatalog."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Klicka på sökfältet högst upp, sök efter teckensnittsnamn eller TTF/OTF-filer.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Importera teckensnitt</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Så här importerar du teckensnitt i InShot för Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Öppna Google Play Store. Välj abonnemangsmenyn och markera det abonnemang du vill avsluta.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Hur hanterar/avslutar jag mitt abonnemang?</help_manager_subscribe_title>
+    <help_mask_desc>Lägg till en formmask till BIB -lagren.</help_mask_desc>
+    <help_mask_title>BIB -mask</help_mask_title>
+    <help_mask_youtube_des>Hur man använder maskverktyg för BIB -lager.</help_mask_youtube_des>
+    <help_merge_video_desc>Klicka på knappen \"+\" för att välja videor som ska slås ihop.</help_merge_video_desc>
+    <help_merge_video_title>Slå samman videor</help_merge_video_title>
+    <help_move_music>Långt tryck och dra för att ställa in läget.</help_move_music>
+    <help_one_time_purchase_des>Om du gör ett engångsköp kan du få en permanent premiumversion av InShot. Du behöver inte göra något köp igen i framtiden även om InShot lägger till nya och exklusiva redigeringsmaterial eller funktioner.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Vad är Engångsinköp?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Tryck på \"BAKGRUND\" för att lägga till en bakgrund till ditt urklipp</help_photo_cutout_desc>
+    <help_photo_cutout_title>Urklipp Foto</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Välj valfri färg och ta bort den.
+1. Använd färgvalsverktyget för att markera den färg du vill ta bort.
+2. Justera intensitet och skuggning för att förbättra den."</help_pip_chroma_desc>
+    <help_pip_chroma_title>Chroma för BiB</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Så här tar du bort en grön skärmbakgrund med Chroma (handledning för InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Gå till Google Play, klicka på kontoikonen i översta högra hörnet.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Ta tillfälligt bort alla konton förutom det inköpta och försök återställa köp i InShot-inställningarna igen.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. Om flera Google-konton är inloggade, klicka på \"Förvalta konton\".</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Varför kunde jag inte återställa köpet efter att ha loggat in i rätt Google Play-kontot?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Prova att rensa InShot-data från inställningarna på din enhet och klicka sedan på \"Återställa köp\" i inställningarna för InShot.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Kontrollerad att du är inloggad på ETT ENDA korrekt Google Play-konto, inte flera konton. Google Play kan inte hantera flera konton för närvarande.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Hur återställer jag mina köp?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Om du vill behålla det befintliga projektet, klicka på \"Utkast\" när du klickar för att komma tillbaka.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Du kan förvalta (ta bort/kopiera/byt namn) utkast på hemsidan.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Sparar/kasta utkast</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Lägg till övergångar</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Justera tiden för fotot</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Importera bilder från album och filer</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Klicka för att byta mellan video och foto</help_slideshow_reminder>
+    <help_slideshow_title>Skapa bildspel</help_slideshow_title>
+    <help_slideshow_youtube_des>Så gör man ett bildspel med musik</help_slideshow_youtube_des>
+    <help_smooth_des>Använd Mjuk verktyget för att skapa en helt jämn slow motion-video (hastighet&lt;1,0X)</help_smooth_des>
+    <help_smooth_title>Mjuk Slowmotion-effekt</help_smooth_title>
+    <help_speed_ramp_des_one>Redigera hastighetsnoder. Tryck på \"Lägg till/ta bort\"-knappen för att lägga till/ta bort noder på kurvan.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Justera hastighetsökning. Välj hastighetsnoder och dra dem i höjdled för att justera videons hastighet, dra i sidled för att justera hastighetens varaktighet.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Hastighetsökning | Skapa smidiga hastighetsövergångar med InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Hastighetsökning (kurva)</help_speed_ramp_title>
+    <help_swap_clip>Tryck länge för att byta</help_swap_clip>
+    <help_timeline_desc>Klicka på reglaget för att snabbt flytta till slutet av klippet eller videon.</help_timeline_desc>
+    <help_timeline_title>Snabbnavigering för klistermärken och text</help_timeline_title>
+    <help_transition_desc>Importera minst 2 videoklipp och klicka på knappen mellan två miniatyrbilder i klippen för att lägga till övergångar.</help_transition_desc>
+    <help_transition_title>Videoövergång</help_transition_title>
+    <help_translate_content>Jag vill hjälpa dig att översätta InShot. Vänligen kontakta mig. Språk:</help_translate_content>
+    <help_translate_subject>Lokalisering</help_translate_subject>
+    <help_volume_adjust_desc>Klicka på miniatyrbilden för respektive video för att öppna snabbmenyn. Dra sedan reglaget för att justera videovolymen.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Justering av videovolym</help_volume_adjust_title>
+    <help_youtube_title>YouTube-guider</help_youtube_title>
+    <help_zoom_drag>Dra handtaget för att beskära videon.</help_zoom_drag>
+    <help_zoom_timeline>"Zooma in på tidslinjen för mer exakt redigering.
+Zooma ut för att förhandsgranska hela tidslinjen."</help_zoom_timeline>
+    <help_zoom_title>Videoredigering</help_zoom_title>
+    <hide>Dölja</hide>
+    <highlight>Markera</highlight>
+    <hint_install_googleplay>Köp misslyckades eftersom den behöver Google Play tjänster, som inte stöds av din enhet.</hint_install_googleplay>
+    <hint_items_to_frame>Öppna videoinställning, där du kan aktivera/inaktivera den här funktionen</hint_items_to_frame>
+    <hot>Het</hot>
+    <hua_wei_login_error>HUAWEI-inloggning misslyckades</hua_wei_login_error>
+    <hua_wei_login_success>HUAWEI-inloggningen lyckades</hua_wei_login_success>
+    <hue>Nyans</hue>
+    <i_receive_effect_success>Sparat i mappen \"Ljudeffekter – Importerade\"</i_receive_effect_success>
+    <i_receive_music_success>Sparat i mappen \"Featured – importerade\".</i_receive_music_success>
+    <import_font>Importera teckensnitt</import_font>
+    <import_video_failed_content>Videoupplösningen överstiger effektgränsen i telefonen.</import_video_failed_content>
+    <import_video_failed_title>Import misslyckades</import_video_failed_title>
+    <imported>Importerade</imported>
+    <imported_effect>Importerad effekt</imported_effect>
+    <imported_music>Importerad musik</imported_music>
+    <improvement_plan_desc>Vi behöver din ID-information för att förbättra användarupplevelsen av InShot. Tack.</improvement_plan_desc>
+    <improvement_plan_title>Användarupplevelse förbättringsplan</improvement_plan_title>
+    <index_create_new>Skapa ny</index_create_new>
+    <index_more_take_photo>Ta Ett Foto</index_more_take_photo>
+    <index_more_take_video>Ta En Video</index_more_take_video>
+    <index_more_use_recent>Använd Senaste</index_more_use_recent>
+    <info_code>Info kod:</info_code>
+    <ins_crop_hint_1>Ditt arbete kan beskäras på instagram.</ins_crop_hint_1>
+    <ins_crop_hint_2>Instagram-förhållandet är mellan 1,91: 1 till 4: 5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Vänligen ge <b>lagringstillåtelse</b> att <b>Instagram</b> för att ladda upp ditt foto.</string>
+    <install>Installera</install>
+    <installed>INSTALLERAD</installed>
+    <interval>Intervall</interval>
+    <invalid_delete>Det sista klippet kan inte tas bort.</invalid_delete>
+    <invalid_position>Den valda positionen är ogiltig.</invalid_position>
+    <invalidate_name>Särskilda symboler stöds inte.</invalidate_name>
+    <item_already_owned>Klicka på Återställa för att återaktivera ditt köp i appen.</item_already_owned>
+    <items>Artiklar</items>
+    <join_inshot_pro>Gå med i InShot Pro</join_inshot_pro>
+    <jump_to_font_language>Hoppa till %s</jump_to_font_language>
+    <keep_draft>Håll utkast</keep_draft>
+    <keep_on>Lämna på</keep_on>
+    <keyframe>NYCKELBILD</keyframe>
+    <label>ETIKETT</label>
+    <label_quick_selection>SNABBVAL FÖR ETIKETT</label_quick_selection>
+    <last_draft>SISTA UTKASTET</last_draft>
+    <layout>layout</layout>
+    <letter_animation>Enstaka bokstav</letter_animation>
+    <lib_rate_btn_go_market>Betygsätt på Google Play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>Det bästa vi kan få :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Lämna gärna feedback till oss.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Vi gillar dig också!</lib_rate_like_you>
+    <lib_rate_oh_no>Åh nej!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Tack för din feedback.</lib_rate_thanks_feedback>
+    <license>Licens</license>
+    <light>LJUS</light>
+    <lightness>Ljusstyrka</lightness>
+    <loading>Lastning…</loading>
+    <loading_progress_title>Laddar…</loading_progress_title>
+    <login_tip>"Vänligen bind kontot för
+ att fortsätta betala eller återställa köp"</login_tip>
+    <login_with>Logga in med %s</login_with>
+    <login_with_wechat>Loggad in med WeChat</login_with_wechat>
+    <logout>Radera</logout>
+    <logout_hint>Om du har prenumererat på InShot Pro, raderar du också Inshot Pro om du tar bort ditt konto och det kan inte återställas !!!</logout_hint>
+    <logout_success>Radera framgångsrikt</logout_success>
+    <long_press_delete>Tryck länge för att radera</long_press_delete>
+    <long_press_preview>Långt tryck för att förhandsgranska.</long_press_preview>
+    <looking_for_music_content_1>Besök YouTube Audio Library från en PC eller Mac-dator och ladda ner gratis musik.</looking_for_music_content_1>
+    <looking_for_music_content_2>Skicka sedan musiken till din Android-mobil.</looking_for_music_content_2>
+    <looking_for_music_title>Letar du efter musik till dina videor?</looking_for_music_title>
+    <loop_animation>SLINGA</loop_animation>
+    <low_storage_space>För lite minne</low_storage_space>
+    <luminance>Luminans</luminance>
+    <manage>Hantera</manage>
+    <manage_subscription>Hantera prenumeration</manage_subscription>
+    <mask>Mask</mask>
+    <material>Material</material>
+    <material_selected_hint>Detta innehåller Pro-material.</material_selected_hint>
+    <max_hash_tags_num>Instagram tillåter maximalt 29 #hashtags per foto/video.</max_hash_tags_num>
+    <merge_video_hint>Sammanfoga video professionellt</merge_video_hint>
+    <message>Meddelande</message>
+    <modern>modern</modern>
+    <month>Månad</month>
+    <mood>Humör</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>Mer om InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000+ Mer</more_emoji>
+    <string name="more_info"><u>Mer info</u>:</string>
+    <mosaic>Mosaik</mosaic>
+    <multi_cut>Multi klippa</multi_cut>
+    <multi_split>Multi dela</multi_split>
+    <music>MUSIK</music>
+    <music_limit>Minsta musiklängd</music_limit>
+    <musician>Musiker</musician>
+    <my_filter>Mitt filter</my_filter>
+    <my_material>Mitt material</my_material>
+    <my_music>MIN MUSIK</my_music>
+    <new_>NY</new_>
+    <new_album>Nytt album</new_album>
+    <new_five_stars_rate>Vi jobbar hårt för att skapa en bättre användarupplevelse. Vi skulle verkligen uppskatta om du kunde betygsätta oss.</new_five_stars_rate>
+    <next>NÄSTA</next>
+    <no>Ingen</no>
+    <no_actionable_items>Inga utförbara objekt</no_actionable_items>
+    <no_audio>Inget ljud</no_audio>
+    <no_audio_files>Inga ljudfiler</no_audio_files>
+    <no_draft_profile>Ingen utkastsprofil</no_draft_profile>
+    <no_fonts_found>Inga teckensnitt hittades</no_fonts_found>
+    <no_network>Inget nätverk</no_network>
+    <no_photos_or_videos>Inga foton eller videor</no_photos_or_videos>
+    <note_if_you_clear>Observera att om du rensar cacheminnet förlorar du inställningen för borttagning.</note_if_you_clear>
+    <off>Stäng av</off>
+    <offline_notification_text>Tryck för att öppna annonsen</offline_notification_text>
+    <offline_notification_title>Se annonsen som du sparade när du var offline</offline_notification_title>
+    <offline_opt_in_confirm>OK</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Du får en avisering med en länk när du är online igen</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Nej tack</offline_opt_in_decline>
+    <offline_opt_in_message>Vi skickar en avisering med en länk till annonsörens webbplats.</offline_opt_in_message>
+    <offline_opt_in_title>Öppna annonsen när du är online igen.</offline_opt_in_title>
+    <ok>OK</ok>
+    <on>Slå på</on>
+    <only_support_effects>Stöder endast typen \"Effekt\"</only_support_effects>
+    <oom_tip>Slut på minne, försök igen!</oom_tip>
+    <opacity>OPACITET</opacity>
+    <open_font_failed>Skriftfilen är ogiltig.</open_font_failed>
+    <open_from>Öppet Från</open_from>
+    <open_from_photos>Öppet från Foton</open_from_photos>
+    <open_image_failed_hint>Det gick inte att öppna bildfilen, var god försök igen eller försök med en annan bild</open_image_failed_hint>
+    <open_music_failed_hint>Det gick inte att öppna musikfil, försök igen eller prova en annan musikfil</open_music_failed_hint>
+    <open_settings_0>1.Öppna inställningar</open_settings_0>
+    <open_settings_1>ÖPPNA INSTÄLLNINGAR</open_settings_1>
+    <open_video_failed_hint>Det gick inte att öppna videofil Försök igen eller prova en annan video</open_video_failed_hint>
+    <origin_pitch>Originaltonläge</origin_pitch>
+    <original>Originell</original>
+    <original_image_not_found>Original bildfil finns inte längre, snälla dubbelkoll.</original_image_not_found>
+    <original_music_not_found>Original musikfil inte längre finns, dubbelkolla.</original_music_not_found>
+    <original_video_not_found>Ursprungliga videofilen inte längre finns, dubbelkolla.</original_video_not_found>
+    <other_app_recording>Röstinspelning är för närvarande inte tillgänglig, för den används av andra appar.</other_app_recording>
+    <outline>Kontur</outline>
+    <page>RIVIT PAPPER</page>
+    <parent_directory>Förälder katalog</parent_directory>
+    <part_original_files_miss_in_draft>"En eller flera originalfiler saknas, vill du fortsätta redigera? 
+
+Om du fortsätter att redigera kan det hända att vissa objekt hamnar på fel ställe i utkastet. 
+
+Du kan prova att korrigera utkastet genom att återställa originalfilerna från [Nyligen borttagna/Papperskorgen]."</part_original_files_miss_in_draft>
+    <pattern>Mönster</pattern>
+    <pay_success>Köpt framgångsrikt!</pay_success>
+    <permission_read_external_storage>Behöver lagringsbehörighet.</permission_read_external_storage>
+    <photo>Foto</photo>
+    <pinch_zoom_in>Knippa för att zooma in.</pinch_zoom_in>
+    <pip>BiB</pip>
+    <pip_track_reach_max>Överskrider maxgränsen.</pip_track_reach_max>
+    <play_video_via>Spela upp video via</play_video_via>
+    <popular>Populär</popular>
+    <precode>FÖRKODA</precode>
+    <precode_failed>Förkodning misslyckades.</precode_failed>
+    <precut>Förhandsklipp</precut>
+    <preset>Förval</preset>
+    <string name="privacy_policy_content" formatted="false">Välkommen till InShot!&lt;br>&lt;br> Vi är fast beslutna att förbättra alla aspekter av användarupplevelsen och kommer därmed med jämna mellanrum att uppdatera &lt;a href=%s>användarvillkoren&lt;/a> och &lt;a href=%s>Integritetspolicy&lt;/a>.&lt;br>&lt;br>Om du samtycker, klicka på \"Godkänn\" och börja använda InShot.</string>
+    <string name="privacy_policy_content_gdpr">Du kommer att få personliga annonser när du använder InShot. Om du inte vill det kan du gå till sidan &lt;a href=%s>\"Integritetspolicy\"&lt;/a> och klicka på \"I don’t agree\"&lt;br>&lt;br></string>
+    <privacy_policy_title>Användarvillkoren och sekretesspolicyn</privacy_policy_title>
+    <pro_detail>InShot Pro-detaljer</pro_detail>
+    <pro_expire_time_format>Löper ut %s</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro har löpt ut %s.</pro_expired_tip>
+    <pro_one_time_purchase>Engångsinköp</pro_one_time_purchase>
+    <pro_purchase_new_desc>Tillgång till alla betalda övergångar, effekter, klistermärken och mer. Ingen InShot-logotyp, inga annonser.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Tillgång till alla betalda övergångar, effekter, klistermärken och mer. Inga annonser.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Du är redan en InShot Pro-medlem.</pro_purchased_info>
+    <pro_restore_not_purchased>Återställningen slutförd men du är inte InShot Pro-medlem ännu.</pro_restore_not_purchased>
+    <pro_subscription_details>PRENUMERATIONSUPPGIFTER</pro_subscription_details>
+    <pro_unavailable>Pro inte tillgänglig</pro_unavailable>
+    <pro_unavailable_detail>Kontrollera att du endast är inloggad på ett korrekt Google Play-konto. Se frågor och svar för ytterligare hjälp.</pro_unavailable_detail>
+    <processing_error>Bearbetningsfel</processing_error>
+    <processing_progress_title>Bearbetning…</processing_progress_title>
+    <procode_progress>Förkodar ...</procode_progress>
+    <promotion_subscribe_title>Holi Specialerbjudande</promotion_subscribe_title>
+    <purchase_failed>Inköp misslyckades, försök igen?</purchase_failed>
+    <purchase_failed_tile>Inköp misslyckades</purchase_failed_tile>
+    <range>Räckvidd</range>
+    <rate>Hastighet</rate>
+    <rate_feedback_message>Vill du ge oss lite feedback?</rate_feedback_message>
+    <rate_later>Senare</rate_later>
+    <rate_like>Ja!</rate_like>
+    <rate_main_message>Gillar du InShot?</rate_main_message>
+    <rate_not_like>Inte riktigt</rate_not_like>
+    <rate_review_message>Har du lust att skriva en bra recension? Det hjälper oss verkligen.</rate_review_message>
+    <ratio>Förhållande</ratio>
+    <recent>nyligen</recent>
+    <recommend>rekommenderas</recommend>
+    <record>Spela in</record>
+    <redo>Gör om</redo>
+    <refresh_state>Återställa inköp</refresh_state>
+    <reject>Nej tack</reject>
+    <remove_ads>TA BORT VATTENSTÄMPEL OCH ADS</remove_ads>
+    <remove_ads_1>TA BORT ADS</remove_ads_1>
+    <remove_ads_1_desc>Ta bort annonser permanent.</remove_ads_1_desc>
+    <remove_ads_desc>Ta bort vattenmärke och annonser permanent. Du behöver inte längre ta bort vattenmärket manuellt.</remove_ads_desc>
+    <remove_all_ads>Ta bort annonser</remove_all_ads>
+    <remove_all_split_marks>Vill du ta bort alla delningsmärken du har lagt till?</remove_all_split_marks>
+    <remove_pro_materials>Ta bort Pro-material</remove_pro_materials>
+    <remove_watermark>Avlägsna vattenstämpel</remove_watermark>
+    <remove_watermark_ad>TA BORT DENNA GÅNG</remove_watermark_ad>
+    <remove_watermark_ad_2>GRATIS TA BORT</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Ta bort vattenstämpel och annonser</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Ta bort annonser</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Ta bort annonser permanent.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Ta bort vattenstämpel och annonser permanent.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>TA BORT PERMANENT</remove_watermark_buy>
+    <rename>Byt namn</rename>
+    <renew_pro>Förnya InShot Pro</renew_pro>
+    <replace>ersätt</replace>
+    <replace_draft_des>Vill du avfärda utkastet och starta ett nytt projekt?</replace_draft_des>
+    <report>Rapportera</report>
+    <report_fix_description>Vänligen skicka oss logg och ljudfiler för att hjälpa oss att åtgärda detta problem.</report_fix_description>
+    <report_fix_ok>SKICKA LOGG OCH LJUDFILER</report_fix_ok>
+    <report_fix_title>Ljudbehandling misslyckades</report_fix_title>
+    <request_record_rationale>Låt InShot använda mikrofonen på din enhet.</request_record_rationale>
+    <request_storage_rationale>Låt InShot för att komma åt bilder och media på enheten.</request_storage_rationale>
+    <reselect>Markera</reselect>
+    <reset>Nollställ</reset>
+    <reset_adjust>Återställ Justera</reset_adjust>
+    <reset_all>Återställ alla</reset_all>
+    <reset_hue>Återställ nyans</reset_hue>
+    <reset_luminance>Återställ luminans</reset_luminance>
+    <reset_saturation>Återställ mättnad</reset_saturation>
+    <reset_speed>Nollställ hastighet</reset_speed>
+    <resolution>Upplösning</resolution>
+    <restore>ÅTERSTÄLLA</restore>
+    <restore_failed>Återställ misslyckades!</restore_failed>
+    <restore_ok_Pro>Återställ framgångsrikt och du är redan InShot Pro-medlem.</restore_ok_Pro>
+    <restore_ok_not_Pro>Återställ framgångsrikt men du är inte InShot Pro-medlem ännu.</restore_ok_not_Pro>
+    <restore_pro_assets>Återställ Pro -tillgångar</restore_pro_assets>
+    <restore_success>Återställa framgångsrikt</restore_success>
+    <restore_trim_message>Avbryt alla trim och klippa operationer, tillbaka till originalvideoen?</restore_trim_message>
+    <results_page_save_complete>Spara färdig</results_page_save_complete>
+    <results_page_share_other>Annat</results_page_share_other>
+    <results_page_wait_video_transcoding>Vänta på video konvertera</results_page_wait_video_transcoding>
+    <retro>Retro</retro>
+    <retry_save_title>Förra projektexporten misslyckades, försök igen?</retry_save_title>
+    <returnapp_tip>Tryck på retur till InShot.</returnapp_tip>
+    <reverse>Invertera</reverse>
+    <rewarded_unlock_content>Titta på en videoannons för att låsa upp alla funktioner gratis(%s)</rewarded_unlock_content>
+    <rewinding>Spolar tillbaka…</rewinding>
+    <rotate>Rotera</rotate>
+    <rotate90>Rotera 90°</rotate90>
+    <s1>Spara bild</s1>
+    <s2>Tillåter du att annonsen sparar bilden i Bildgalleriet?</s2>
+    <s3>Godkänn</s3>
+    <s4>Godkänn inte</s4>
+    <s5>Skapa kalenderhändelse</s5>
+    <s6>Tillåter du att annonsen skapar en kalenderhändelse?</s6>
+    <s7>Testannons</s7>
+    <saturation>Mättnad</saturation>
+    <save>SPARA</save>
+    <save_extracted_audio>Spara extraherat ljud</save_extracted_audio>
+    <save_fail>Spara misslyckande</save_fail>
+    <save_image_failed_hint>Det gick inte att spara bildfilen</save_image_failed_hint>
+    <save_imported_sticker>Spara det importerade klistermärket</save_imported_sticker>
+    <save_success_hint>sparas till %s</save_success_hint>
+    <save_type_description>Spara importerade filer som</save_type_description>
+    <save_video_failed_dlg_btn_retry>Försöka igen</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Välj annan upplösning</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Välj en lägre upplösning eller Testa igen!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Spara misslyckades</save_video_failed_dlg_title>
+    <save_video_failed_hint>Denna video stöds inte på grund av video eller ljud-codec. Vänligen försök med en annan video.</save_video_failed_hint>
+    <saved>Sparad</saved>
+    <scanning>Skannar …</scanning>
+    <string name="sd_card_error">Din sökväg / SDCard är inte tillgänglig. Välj en annan sökväg / lagring i Inställningar -> %s.</string>
+    <sd_card_full_tip>Inte tillräckligt med lagringsutrymme , rensar utrymme och försök igen.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>SD-kort är inte monterade!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Behov omkring %dM utrymme!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Mer cacheutrymme krävs för att spara videon, frigör mer lagringsutrymme eller minska upplösningen och försök igen.</sd_card_space_not_enough_hint>
+    <search_menu_title>Sök</search_menu_title>
+    <see_all_material>Visa alla</see_all_material>
+    <select>Välj</select>
+    <select_all>Välj alla</select_all>
+    <select_one_to_edit>Välj en för att redigera.</select_one_to_edit>
+    <select_one_track_to_edit>Välj en video att redigera</select_one_track_to_edit>
+    <select_photo>Välj Bild</select_photo>
+    <send_feedback>Skicka återkoppling</send_feedback>
+    <setting_addtags_title>Lägg taggar</setting_addtags_title>
+    <setting_clear_cache_title>Rensa cacheminne</setting_clear_cache_title>
+    <setting_faq_title>FAQ</setting_faq_title>
+    <setting_feedback_title>Återkoppling</setting_feedback_title>
+    <setting_follow_us>Följ oss (Få fler tutorials)</setting_follow_us>
+    <setting_general_title>Generell</setting_general_title>
+    <setting_language_title>Språk</setting_language_title>
+    <setting_legal_title>Legal</setting_legal_title>
+    <setting_localization_des>Hjälp oss översätta InShot till ditt språk</setting_localization_des>
+    <setting_localization_title>Lokalisering</setting_localization_title>
+    <setting_others>Andra</setting_others>
+    <setting_privacypolicy_title>Integritetspolicy</setting_privacypolicy_title>
+    <setting_rate5star_des>Betyg InShot 5 stjärna på Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Betyg 5 stjärnigt</setting_rate5star_title>
+    <setting_restore>Återställa köp</setting_restore>
+    <setting_savepath_title>spara bana</setting_savepath_title>
+    <setting_share_title>Bjuda in vänner</setting_share_title>
+    <setting_thankyou_title>Tack</setting_thankyou_title>
+    <shadow>Skugga</shadow>
+    <shadow_off>Av</shadow_off>
+    <shadow_on>På</shadow_on>
+    <share>AKTIE</share>
+    <share_content>Gör det enkelt att redigera videor och foton på din telefon. Gratis nedladdning InShot nu:https://inshotapp.page.link/invite</share_content>
+    <share_subject>En utmärkt video- och bildredaktör för instagram rekommenderas till dig</share_subject>
+    <sharpen>Vässa</sharpen>
+    <shop>Butik</shop>
+    <short_preview>Kort förhandsvisning</short_preview>
+    <show_read_video_ad_dlg_content>Titta på en videoannons att ta bort vattenstämpel gratis.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Titta på en videoannons att ta bort vattenstämpel för denna gång</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Kopiera och dela</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>Historik</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Taggar för fler gillar</show_tags_dlg_title>
+    <sign_out>Logga ut</sign_out>
+    <sign_out_account>Logga ut från kontot</sign_out_account>
+    <signout_current_account>Logga ut från det nuvarande kontot</signout_current_account>
+    <signout_tip_common>Är du säker på att du vill logga ut från det aktuella WeChat-kontot?</signout_tip_common>
+    <signout_tip_pro>InShot Pro kommer inte att vara tillgängligt när du loggar ut från kontot.</signout_tip_pro>
+    <size>storlek:%s</size>
+    <size_only>Uppskattad storlek</size_only>
+    <slice>UPPDELNING</slice>
+    <slow_motion>ULTRARAPID</slow_motion>
+    <smooth>Mjuk</smooth>
+    <smooth_applied>Mjuk slowmotion-effekt används</smooth_applied>
+    <smooth_cancelled>Mjuk slowmotion-effekt har avbrutits</smooth_cancelled>
+    <smooth_click_preview>Klicka på bocken för att förhandsvisa den mjuka slowmotion-effekten</smooth_click_preview>
+    <smooth_preview_effect>Förhandsvisa mjuk effekt</smooth_preview_effect>
+    <smooth_slow_speed_available>Endast tillgängligt när hastigheten &lt; %sx</smooth_slow_speed_available>
+    <sorry>Ledsen</sorry>
+    <string name="space_not_enough_content">&lt;b>%1$dM&lt;/b> mer internt lagringsutrymme (INTE på SD-kortet) krävs för att spara %2$s. Frigör ditt telefonutrymme och försök igen.</string>
+    <space_not_enough_title>Rensa utrymme på din telefon</space_not_enough_title>
+    <special_offer>Specialerbjudande</special_offer>
+    <speed>Fart</speed>
+    <speed_adjusts_precode_hint>Hastighetsjustering på mer än %sx kräver förkodning.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>Hastigheter över 10.0x kan leda till att originalljudet går förlorat.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>Du behöver inte förkoda igen inom det gröna området.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Lås inte skärmen och byt inte till någon annan app.</speed_precode_warning_hint>
+    <split>Dela</split>
+    <spring_festival_pro_title>Lunar nyår 50% rabatt</spring_festival_pro_title>
+    <standard>Standard</standard>
+    <start_over>BÖRJA OMA</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>du har inte laddat ner klistermärket</sticker_empty>
+    <sticker_text>Klistermärke</sticker_text>
+    <stickers>Klistermärken</stickers>
+    <strength>Styrka</strength>
+    <style>Stil</style>
+    <subscription_detail>"
+
+- Med ett obegränsat InShot Pro-abonnemang får du tillgång till alla funktioner och kostnadsbelagda redigeringsmaterial, inklusive klistermärken, filterpaket med mera. Vattenstämplar och annonser kommer att försvinna automatiskt. 
+
+- Det obegränsade InShot Pro-abonnemanget debiteras månadsvis eller årsvis, till den kostnad som gäller för den valda planen. Dessutom kommer engångsbetalning att tas ut om så önskas. Denna ingår inte i någon av abonnemangen. 
+
+- Betalningen kommer att debiteras ditt Google Play -konto när köpet bekräftats. 
+
+- Abonnemanget förnyas automatiskt såvida automatisk förnyelse inte stängs av minst 24 timmar före slutet av innevarande period. 
+
+- Kontot kommer att debiteras för förnyelse inom 24 timmar före slutet av innevarande giltighetsperiod, till priset för förnyelse. 
+
+- Abonnemang kan hanteras av användaren och automatisk förnyelse kan stängas av i användarens kontoinställningar efter köp. 
+
+- Eventuell kvarvarande period av en gratis provperiod kommer att gå förlorad om användaren köper ett abonnemang på produkten i fråga."</subscription_detail>
+    <subscription_detail_1>"
+
+- Med ett obegränsat InShot Pro-abonnemang får du tillgång till alla funktioner och kostnadsbelagda redigeringsmaterial, inklusive klistermärken, filterpaket med mera. Annonser kommer att försvinna automatiskt. 
+
+- Det obegränsade InShot Pro-abonnemanget debiteras månadsvis eller årsvis, till den kostnad som gäller för den valda planen. Dessutom kommer engångsbetalning att tas ut om så önskas. Denna ingår inte i någon av abonnemangen. 
+
+- Betalningen kommer att debiteras ditt Google Play -konto när köpet bekräftats. 
+
+- Abonnemanget förnyas automatiskt såvida automatisk förnyelse inte stängs av minst 24 timmar före slutet av innevarande period. 
+
+- Kontot kommer att debiteras för förnyelse inom 24 timmar före slutet av innevarande giltighetsperiod, till priset för förnyelse. 
+
+- Abonnemang kan hanteras av användaren och automatisk förnyelse kan stängas av i användarens kontoinställningar efter köp. 
+
+- Eventuell kvarvarande period av en gratis provperiod kommer att gå förlorad om användaren köper ett abonnemang på produkten i fråga."</subscription_detail_1>
+    <subscription_terms>Detta köp kan endast användas på Android-system. Betalningen utförs via Google Play Store när köpet bekräftats. Abonnemanget förnyas automatiskt före slutet av innevarande giltighetsperiod, såvida det inte annullerats minst 24 timmar i förväg, och avbokningen träder i kraft i slutet av den aktuella perioden. Du kan hantera dina abonnemang och stänga av automatisk förnyelse i inställningarna för ditt konto på Google Play Store. Ingen avgift tas ut för abonnemang som annulleras under provperioden.</subscription_terms>
+    <subscription_terms_cn>Prenumerera på InShot Pro, du kan använda alla funktioner och redigeringsmaterial. Vattenmärke och annonser tas bort automatiskt. InShot Pro förnyas inte automatiskt, vänligen förnya manuellt före utgången av den aktuella perioden. Prenumerationen kan inte överföras mellan Android- och iOS-enheter. Om du har köpt den på iOS-enheter måste du fortfarande köpa den på Android-enheter. När du prenumererar på InShot Pro kommer ingen avbokning eller återbetalning att ske. Vänligen bestäm dig noggrant innan du köper.</subscription_terms_cn>
+    <subscription_terms_cn_1>Prenumerera på InShot Pro, du kan använda alla funktioner och redigeringsmaterial. Annonser tas bort automatiskt. InShot Pro förnyas inte automatiskt, vänligen förnya manuellt före utgången av den aktuella perioden. Prenumerationen kan inte överföras mellan Android- och iOS-enheter. Om du har köpt den på iOS-enheter måste du fortfarande köpa den på Android-enheter. När du prenumererar på InShot Pro kommer ingen avbokning eller återbetalning att ske. Vänligen bestäm dig noggrant innan du köper.</subscription_terms_cn_1>
+    <subscription_terms_hw>Köp på AppGallery kan endast göras via HUAWEI IAP. Betalning kommer att debiteras ditt konto när du har bekräftat köpet. Prenumerationen förnyas automatiskt efter utgången av den aktuella perioden och identifierar kostnaden för förnyelsen. Du kan hantera dina prenumerationer och stänga av automatisk förnyelse från dina AppGallery-kontoinställningar. Prenumeration som avbryts under den kostnadsfria prövningen debiteras inte.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>Köp på AppGallery kan endast göras via HUAWEI IAP. Betalning debiteras på ditt konto vid bekräftelse av köp. Du kan kontakta Huawei kundtjänst för att avbryta köpet inom 14 dagar då du får orderbekräftelsen. Prenumerationer förnyas automatiskt efter utgången av den aktuella perioden. Du kan hantera dina prenumerationer och stänga av automatisk förnyelse från dina AppGallery-kontoinställningar.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>Köp på AppGallery kan endast göras via HUAWEI IAP. Betalning debiteras på ditt konto vid bekräftelse av köp. Du kan kontakta Huawei kundtjänst för att avbryta köpet inom 7 dagar då du får orderbekräftelsen. Prenumerationer förnyas automatiskt efter utgången av den aktuella perioden. Du kan hantera dina prenumerationer och stänga av automatisk förnyelse från dina AppGallery-kontoinställningar.</subscription_terms_hw_ru>
+    <subscription_title>InShot Pro obegränsat abonnemang</subscription_title>
+    <super1>SUPER</super1>
+    <support_musician>För att stödja musiker, lägg till musikinformation i beskrivningen av din video.</support_musician>
+    <sure>OK</sure>
+    <swap>byta</swap>
+    <swap_order_hint>Långt tryck och dra för att byta ordning</swap_order_hint>
+    <switch_account>Byt konto</switch_account>
+    <tags>Tags</tags>
+    <tags_policies>Vi tog bort alla irrelevanta taggar på grund av vissa policyer.</tags_policies>
+    <take_video>Videon</take_video>
+    <tap_permissions>2.Tryck behörigheter</tap_permissions>
+    <template>Mall</template>
+    <terms_of_use>Användarvillkor</terms_of_use>
+    <text>TEXT</text>
+    <text_spacing>Textavstånd</text_spacing>
+    <then>Sedan</then>
+    <time_24_hours>Endast %s timmar</time_24_hours>
+    <time_limited_offer>Tidsbegränsat erbjudande</time_limited_offer>
+    <tint>Färgton</tint>
+    <tip>Tips</tip>
+    <tip_close_ad_personalization>Om det här alternativet inaktiveras kan det hända att du får se reklam som är irrelevant för dig.</tip_close_ad_personalization>
+    <title_optout_ads>Välj bort intressebaserade annonser</title_optout_ads>
+    <too_many_pip_tip>För många lager kan leda till fördröjningar eller fel.</too_many_pip_tip>
+    <total>Totalt</total>
+    <track_count>%d SPÅR</track_count>
+    <tracks>Spår</tracks>
+    <transition>Övergång</transition>
+    <transition_prompt>Videons längd ändras om övergångar läggs till eller ändras</transition_prompt>
+    <trim>Klipp</trim>
+    <trim_clip_help_tip>Trim video och justera bildens längd</trim_clip_help_tip>
+    <trim_music>Trim musik</trim_music>
+    <turn_off>Stäng av</turn_off>
+    <turn_off_tags_context>Stäng av taggar alternativ, och du kan aktivera den i inställningsmenyn.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Stäng av</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. Slå på mikrofonen</turn_on_microphone>
+    <turn_on_storage>3. Slå på Kamera</turn_on_storage>
+    <type_something>skriv något</type_something>
+    <un_select>Avmarkera</un_select>
+    <undo>Ångra</undo>
+    <undo_reversed>Ångra invertering</undo_reversed>
+    <unlock>Låsa upp</unlock>
+    <unlock_all_features>Lås upp alla funktioner</unlock_all_features>
+    <unlock_for_free>Lås upp gratis</unlock_for_free>
+    <unlock_for_sticker_tip>Titta på en video annons för att få denna förpackning gratis</unlock_for_sticker_tip>
+    <unlock_the_features>få tillgång till funktionen</unlock_the_features>
+    <unsupported_file_format>Filformat som inte stöds</unsupported_file_format>
+    <update>Uppdatera</update>
+    <update_files>Uppdaterar filer</update_files>
+    <use>ANVÄNDA</use>
+    <user_cancel>Inställt</user_cancel>
+    <valid_for>Gäller i %s</valid_for>
+    <valid_for_days>gäller i %s dagar</valid_for_days>
+    <valid_for_hours>gäller i %s timmar</valid_for_hours>
+    <value>Värde</value>
+    <video>Videon</video>
+    <video_background_convert_finished_hint>Din video konvertering är klar!</video_background_convert_finished_hint>
+    <video_beginning>Video början</video_beginning>
+    <video_compress>Videokomprimering</video_compress>
+    <string name="video_compress_description" formatted="false">Videor större än %s kommer att komprimeras till %s automatiskt.</string>
+    <video_continue_convert_hint>InShot Fortsätter att omvandla…</video_continue_convert_hint>
+    <video_conversion_failure>Misslyckande</video_conversion_failure>
+    <video_convert_failed_hint>Det gick inte att konvertera video, försök igen!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Det gick inte att konvertera video, försök en annan video!</video_convert_failed_hint2>
+    <video_cut_bar_duration>totalt:</video_cut_bar_duration>
+    <video_end>Videoänden</video_end>
+    <video_less_than_one_second_not_allow>Kan inte ladda upp videor mindre än %s.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Klicka på miniatyren för mer alternativ</video_more_option_hint2>
+    <video_not_support>Videon stöds inte på den här enheten. Du kan fortsätta att använda fotofunktioner.</video_not_support>
+    <video_not_support_detail>Videofunktioner är inte tillgängliga på enheten eftersom din %s. Du kan fortsätta att använda fotofunktioner.</video_not_support_detail>
+    <video_not_support_reasons_one>Android-versionen är lägre än 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU inte är ARM v7 kompatibel med Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>Video inte kompatibla</video_not_support_title_one>
+    <video_not_support_title_two>Hårdvara inte kompatibla</video_not_support_title_two>
+    <video_only>Endast Video</video_only>
+    <video_quality_customize>Anpassa</video_quality_customize>
+    <video_quality_normal>Normal</video_quality_normal>
+    <video_quality_recommend>Rekommendera</video_quality_recommend>
+    <video_replace_trim_info>Drag för att välja ett område.</video_replace_trim_info>
+    <video_resolution>Videoupplösning</video_resolution>
+    <video_setting>Videoinställning</video_setting>
+    <video_sharing_progress_title1>Initialisering…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>konvertera video…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>Avbryta…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>Du kan bara lägga till upp till 20 textobjekt.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">Stöd endast video längre än %s(>%s)</string>
+    <video_too_short_after_cut_hint>Videon tiden är för kort.</video_too_short_after_cut_hint>
+    <vignette>Vinjett</vignette>
+    <voice_effect>Rösteffekt</voice_effect>
+    <voice_effect_support>Fungerar bara för inspelning/importerat ljud</voice_effect_support>
+    <volume>Volym</volume>
+    <warmth>Värme</warmth>
+    <warning>Varning</warning>
+    <watch>titta på</watch>
+    <what_new_audio_draft>SPARA VIDEOUTKAST</what_new_audio_draft>
+    <what_new_audio_track>FLERA MUSIKSPÅR</what_new_audio_track>
+    <what_new_crop_video>GRÖDA VIDEO</what_new_crop_video>
+    <what_new_cut>Klipp och dela video</what_new_cut>
+    <what_new_music>POPULÄR VLOG-MUSIK</what_new_music>
+    <what_new_special_effects_filters_vol1>SPECIALEFFEKTER FILTER VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>BÄTTRE COLLAGE MODE</what_news_collage>
+    <what_news_filter>FILTRERA EFTER VIDEOLÄGE</what_news_filter>
+    <what_news_thanksgiving>GLAD THANKSGIVING</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Lägg till en tom skärm</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Bakgrundsmönster</whats_new_background_pattern>
+    <whats_new_beats_effects>Beat effekter</whats_new_beats_effects>
+    <whats_new_blend>PIP - Blanda</whats_new_blend>
+    <whats_new_brand_music>Helt nytt musikgränssnitt</whats_new_brand_music>
+    <whats_new_create_gifs>Skapa GIFs</whats_new_create_gifs>
+    <whats_new_customer_color>Anpassad färg</whats_new_customer_color>
+    <whats_new_cutout>Anpassade utskärningar i klistermärken</whats_new_cutout>
+    <whats_new_cutout_outline>Urklipp &amp; kontur av foto</whats_new_cutout_outline>
+    <whats_new_effect>Effekt Tidslinje</whats_new_effect>
+    <whats_new_effect_retro2>Nya effekter - Retro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Nya Effekter_Dela</whats_new_effect_split>
+    <whats_new_fade_base>Nya effekter-Grundläggande,Tona</whats_new_fade_base>
+    <whats_new_filter_fresh>Nya Filter_Färsk</whats_new_filter_fresh>
+    <whats_new_frame_rate>Ny bildfrekvens</whats_new_frame_rate>
+    <whats_new_freeze_tool>Frys verktyget</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>HSL-justering</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Objekt fastnar på ramen</whats_new_item_frame>
+    <whats_new_magnifier>Förstoringsglas Klistermärke</whats_new_magnifier>
+    <whats_new_mask>Mask för PIP</whats_new_mask>
+    <whats_new_material>Helt nytt materialbibliotek</whats_new_material>
+    <whats_new_music_fade_in_and_out>Musik tona in &amp; ut</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Nytt Album</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Nya effekter och övergångar</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Nya effekter - Film</whats_new_new_effect_film>
+    <whats_new_new_filters>Nytt Filter</whats_new_new_filters>
+    <whats_new_new_transition>Nya Övergångar – Rivit papper</whats_new_new_transition>
+    <whats_new_pip>BIB - Videoöverlägg</whats_new_pip>
+    <whats_new_smooth>Mjuk Slowmotion-effekt för Hastighetsjustering</whats_new_smooth>
+    <whats_new_speed_curve>Hastighetskurva</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Hastighetskurva Förval</whats_new_speed_curve_preset>
+    <whats_new_store>Helt ny materialbutik</whats_new_store>
+    <whats_new_text_animation>Ny textanimering</whats_new_text_animation>
+    <whats_new_transition_film>Nya övergångar – film</whats_new_transition_film>
+    <whats_new_video_full_screen>Förhandsgranska videor i helskärm</whats_new_video_full_screen>
+    <whats_new_voice_effect>Rösteffekter</whats_new_voice_effect>
+    <whatsnew_advance_timeline>AVANCERAD TIDSLINJE</whatsnew_advance_timeline>
+    <whatsnew_christmas>MUSIK TILL JUL</whatsnew_christmas>
+    <whatsnew_color_pallette>Ny färgpalett</whatsnew_color_pallette>
+    <whatsnew_font_style>NY TYPSNITT</whatsnew_font_style>
+    <whatsnew_loop_animation>Loop Animation</whatsnew_loop_animation>
+    <whatsnew_music>NY MUSIK</whatsnew_music>
+    <whatsnew_recording>Inspelning</whatsnew_recording>
+    <whatsnew_slide>MIXA VIDEOR MED FOTON</whatsnew_slide>
+    <whatsnew_sound_effects>Ljudeffekter</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Delad Klistermärke, Text och Musik</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>ANIMERING DEKAL</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>KLISTERMÄRKE OCH TEXT ANIMATION</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>TEXTANIMERING</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Obegränsade utkast</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot Foto</widgetphoto>
+    <widgetvideo>InShot Videon</widgetvideo>
+    <year>År</year>
+    <yes>Ja</yes>
+    <you_are_not_login>Du har inte loggat in.</you_are_not_login>
+    <you_will_still_see_ads>Du kommer fortfarande att se annonser, men de kanske inte baseras på dina intressen.</you_will_still_see_ads>
+    <zoom>Zooma</zoom>
+    <zoom_selection>ZOOM VAL</zoom_selection>
+</resources>

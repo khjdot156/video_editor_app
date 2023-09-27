@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>Perincian InShot Pro</InShot_detail>
+    <abc_action_bar_home_description>Navigasi laman utama</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Navigasi ke atas</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Lagi pilihan</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Selesai</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Lihat semua</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Pilih apl</abc_activitychooserview_choose_application>
+    <abc_capital_off>MATI</abc_capital_off>
+    <abc_capital_on>HIDUP</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Fungsi+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>ruang</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>Cari…</abc_search_hint>
+    <abc_searchview_description_clear>Kosongkan pertanyaan</abc_searchview_description_clear>
+    <abc_searchview_description_query>Pertanyaan carian</abc_searchview_description_query>
+    <abc_searchview_description_search>Cari</abc_searchview_description_search>
+    <abc_searchview_description_submit>Serah pertanyaan</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Carian suara</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Kongsi dengan</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>Kongsi dengan %s</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Runtuhkan</abc_toolbar_collapse_description>
+    <account>Akaun</account>
+    <acknowledge>Penghargaan</acknowledge>
+    <action_settings>Tetapan</action_settings>
+    <actual_price_year_format>Beli dengan harga %s/tahun</actual_price_year_format>
+    <ad_personalization>Pemperibadian IKLAN</ad_personalization>
+    <ad_personalization_tip>"Kuki adalah fail teks yang dibuat pada peranti anda oleh pelayan web. Untuk memberikan perkhidmatan yang lebih baik, kami mungkin menggunakan teknologi yang berkaitan untuk mengirim satu atau lebih kuki ke peranti anda untuk mengumpulkan dan menyimpan maklumat mengenai penggunaan produk ini.
+
+Admob, Mopub, Vungle, Facebook, Smaato, myTarget sebagai pengiklan InShot, mungkin mengumpulkan maklumat yang dihasilkan semasa penggunaan produk dan perkhidmatan kami, mengekstrak pilihan anda, dan menggunakannya untuk menunjukkan kepada anda iklan yang lebih sesuai dengan keperluan individu anda. Kami tidak berkongsi data pengguna dengan Facebook atau pihak lain (Disahkan oleh BBC &amp; Privacy International).
+
+Kami akan menggunakan kaedah teknikal untuk menganonimkan data, dan maklumat tanpa nama tidak dapat mengenal pasti subjek. Sekiranya anda tidak berminat dengan paparan yang diperibadikan, anda dapat memilih untuk mematikan paparan kandungan yang diperibadikan melalui Tetapan - Pemperibadian Iklan. Harap perhatikan bahawa anda mungkin masih melihat iklan setelah mematikan pilihan ini, tetapi relevansi iklan akan berkurang."</ad_personalization_tip>
+    <add>Tambah</add>
+    <add_favorite>Tambahkan ke kegemaran anda</add_favorite>
+    <adjust>Melaraskan</adjust>
+    <agree>Bersetuju</agree>
+    <album>ALBUM</album>
+    <album_sleepless_desc>Sila pastikan anda menambah maklumat berikut pada huraian video apabila anda berkongsi kepada umum.</album_sleepless_desc>
+    <all>Semua</all>
+    <all_inclusive>Semua termasuk</all_inclusive>
+    <all_original_files_miss_in_draft>"Draf rosak kerana semua fail asal tiada. 
+
+Memulihkan fail asal daripada [Dipadamkan/Dibuang Baru-baru Ini] boleh membetulkan draf ini."</all_original_files_miss_in_draft>
+    <all_premium>Akses kepada semua Penapis Premium, Kesan, Pelekat, Font. Tiada tanda air, Tiada iklan.</all_premium>
+    <all_premium_1>Akses kepada semua Penapis Premium, Kesan, Pelekat, Font. Tiada iklan.</all_premium_1>
+    <allow_camera_access>Benarkan Akses Kamera</allow_camera_access>
+    <allow_record_access>Benarkan akses mikrofon</allow_record_access>
+    <allow_record_access_hint>InShot memerlukan kebenaran mikrofon untuk merakam audio.</allow_record_access_hint>
+    <allow_storage_access>Benarkan Akses Penyimpanan</allow_storage_access>
+    <allow_storage_access_hint>Untuk membuat video dan gambar cantik, InShot memerlukan akses ke pustaka foto anda.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>Untuk membuat video dan gambar cantik, InShot memerlukan akses ke pustaka foto anda dan kamera.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Anda sudah menjadi ahli InShot Pro</already_InShot_pro>
+    <already_purchased>Sudah Membeli?</already_purchased>
+    <angle>Sudut</angle>
+    <animation_in>MASUK</animation_in>
+    <animation_out>KELUAR</animation_out>
+    <animation_stickers>Pelekat animasi</animation_stickers>
+    <app_latest_version_available_title>Versi terkini tersedia (%s)</app_latest_version_available_title>
+    <app_latest_version_title>Anda berada di versi terkini!</app_latest_version_title>
+    <app_not_installed_content>Muat %s atau berkongsi dengan aplikasi lain</app_not_installed_content>
+    <app_not_installed_download_app>MUAT TURUN %s</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>KONGSI BERSAMA ORANG LAIN</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s tidak dipasang</app_not_installed_title>
+    <app_wall_entrance_action>MEMERIKSANYA</app_wall_entrance_action>
+    <app_wall_entrance_title>Aplikasi paling popular hari ini</app_wall_entrance_title>
+    <apply_to_all>Diterapkan kepada semua</apply_to_all>
+    <apply_to_all_clips>Terapkan pada semua klip</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>Tempoh audio terlalu pendek.</audio_too_short_after_cut_hint>
+    <authorization>Kebenaran</authorization>
+    <background>latar</background>
+    <background_color>Warna latar belakang</background_color>
+    <basic>ASAS</basic>
+    <basic_animation>ASAS</basic_animation>
+    <beats>Rentak</beats>
+    <billing_unavailable>Anda belum menyediakan sebarang akaun Google Play.</billing_unavailable>
+    <billing_unavailable_hw>Anda belum menyediakan akaun Huawei.</billing_unavailable_hw>
+    <blank>Kosong</blank>
+    <blend>Campur</blend>
+    <blocked>Dikeluarkan</blocked>
+    <blur>Blur</blur>
+    <blur_background>latar belakang kabur</blur_background>
+    <blur_bg>latar kabur</blur_bg>
+    <blur_bg_custom_hint>Gunakan foto anda sebagai latar belakang</blur_bg_custom_hint>
+    <blur_bg_options_merged>Pilihan Kabur &amp; Latar Belakang digabungkan</blur_bg_options_merged>
+    <blur_off>Off</blur_off>
+    <blur_on>Pada</blur_on>
+    <border>sempadan</border>
+    <brush>berus</brush>
+    <buy>Membeli</buy>
+    <can_not_add_more_tracks>Tidak dapat menambah lagi trek</can_not_add_more_tracks>
+    <can_not_add_tracks>Runut tidak boleh ditambah di sini</can_not_add_tracks>
+    <cancel>batalkan</cancel>
+    <cancel_save_video_dlg_btn_no>Tiada</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>Ya</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Adakah anda ingin membatalkan video yang memeluk agama?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Amaran</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Klip terlalu pendek untuk menggunakan peralihan</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>Tidak boleh simpan GIF yang lebih lama daripada 1 minit. Sila tukar format atau pendekkan tempoh Gif.</cannot_save_gif_over_one_minute>
+    <canvas>Canvas</canvas>
+    <celebrate>Raikan</celebrate>
+    <change_beginning_too_short>Tempoh terlalu pendek untuk menavigasi ke permulaan video/klip</change_beginning_too_short>
+    <change_end_too_short>Tempoh terlalu pendek untuk menavigasi ke penghujung video/klip</change_end_too_short>
+    <change_language_title>Pilih Bahasa</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>Jika memuat naik video ke Instagram gagal dan ia tidak disebabkan oleh rangkaian, sila cuba MPEG-4. Lalai adalah H.264, kualiti lebih baik dan saiz yang lebih kecil.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Perubahan Video Codec</change_video_codec_dialog_title>
+    <character>Watak</character>
+    <check>Semak</check>
+    <choose_pay_method>Pilih Kaedah Pembayaran</choose_pay_method>
+    <choose_video_quality_hint>Kualiti</choose_video_quality_hint>
+    <chroma>Kroma</chroma>
+    <classic>klasik</classic>
+    <clear>Kosongkan</clear>
+    <string name="clear_cache_content">&lt;b>%s&lt;/b> ruang storan akan disimpan selepas pengosongan. Ia tidak akan menjejaskan draf anda, teruskan?</string>
+    <clearing>Mengosongkan…</clearing>
+    <click_here>Tekan di sini</click_here>
+    <click_track_tip>Klik garis masa untuk mengedit muzik dan melaraskan kelantangan video.</click_track_tip>
+    <clip_beginning>Permulaan klip</clip_beginning>
+    <clip_end>Akhir klip</clip_end>
+    <clip_mute_adjust_volume_retry>Sila menyahsenyapkan audio dan cuba semula</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>Jumlah tempoh akan dikurangkan dan garis masa akan berubah dengan sewajarnya.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Klip baru lebih pendek daripada yang ada.</clip_replace_shorter_title>
+    <clip_reversed>Klip Diundurkan</clip_reversed>
+    <clip_video_tip>Potong video dengan panjang yang anda perlu import.</clip_video_tip>
+    <collage>Collage</collage>
+    <collage_long_press_swap_photo>Tekan lama untuk menukar foto.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>Anda boleh memilih di kebanyakan 9 photos!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Klik foto untuk menukarkan dengan</collage_swap_photo>
+    <color>Warna</color>
+    <color_palette>Palet Warna</color_palette>
+    <common_google_play_services_enable_button>Dayakan</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>%1$s tidak akan berfungsi melainkan anda mendayakan perkhidmatan Google Play.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Dayakan perkhidmatan Google Play</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Pasang</common_google_play_services_install_button>
+    <common_google_play_services_install_text>%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Dapatkan perkhidmatan Google Play</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Ketersediaan perkhidmatan Google Play</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Ralat perkhidmatan Google Play</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Kemas kini</common_google_play_services_update_button>
+    <common_google_play_services_update_text>%1$s tidak akan berfungsi kecuali anda mengemas kini perkhidmatan Google Play.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Kemaskinikan perkhidmatan Google Play</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini sedang dikemaskinikan.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>Versi baharu perkhidmatan Google Play diperlukan. Kemas kini automatik akan dijalankan sebentar lagi.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Buka pada telefon</common_open_on_phone>
+    <common_signin_button_text>Log masuk</common_signin_button_text>
+    <common_signin_button_text_long>Log masuk dengan Google</common_signin_button_text_long>
+    <contact_creator>Hubungi pencipta</contact_creator>
+    <continue_buy>Setelah diperbaharui selama satu tahun, InShot Pro akan dilanjutkan hingga %s.</continue_buy>
+    <continue_title>Teruskan</continue_title>
+    <contrast>Kontras</contrast>
+    <convert_failed>penukaran gagal</convert_failed>
+    <copied>Disalin</copied>
+    <copy>Salinan</copy>
+    <crop>Pangkas</crop>
+    <curve>Melengkung</curve>
+    <custom_background>Peribadikan latar belakang</custom_background>
+    <custom_sticker>Imej overlay pada video</custom_sticker>
+    <cut>Potong</cut>
+    <cut_both_ends>Trim</cut_both_ends>
+    <cut_import>Mengimport</cut_import>
+    <cut_video>memotong video</cut_video>
+    <cutout>Potongan</cutout>
+    <day_free_trial>Percubaan percuma %s hari</day_free_trial>
+    <days_left>%d hari lagi</days_left>
+    <delete>Padam</delete>
+    <delete_confirm_dialog_content>Adakah anda mahu memadamkan?</delete_confirm_dialog_content>
+    <delete_drafts_note>Harap maklum, draf yang dipadamkan tidak dapat dipulihkan!</delete_drafts_note>
+    <delete_material_tip>Pemadaman bahan akan menjejaskan draf!</delete_material_tip>
+    <denoise>Mengurangkan Bunyi</denoise>
+    <detail>Butiran</detail>
+    <detail_mosaic>Butiran</detail_mosaic>
+    <directories>Direktori</directories>
+    <disable_follow>Nyahdaya</disable_follow>
+    <discard_edit_dlg_confirm>BUANG</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Buang edit?</discard_edit_dlg_title>
+    <discount>Diskaun</discount>
+    <discount_format>Diskaun %s</discount_format>
+    <dissolve>LENYAP</dissolve>
+    <distort>Gangguan</distort>
+    <do_not_use_tags>Jangan gunakan tag?</do_not_use_tags>
+    <donate>Menderma</donate>
+    <done>Selesai</done>
+    <double_click_reset_zoom>Klik dua kali untuk membalikkan</double_click_reset_zoom>
+    <download>Muat turun</download>
+    <download_failed>Muat turun gagal!</download_failed>
+    <download_video_progress_title>Memuatkan video dari pelayan…</download_video_progress_title>
+    <draft>DRAF</draft>
+    <draft_clip_missing_tip>Tidak dapat memuatkan beberapa klip dalam draf kerana fail asal tidak lagi tersedia.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Sila cuba gantikannya dengan aset lain untuk teruskan.</draft_clip_missing_tip1>
+    <draft_corrupted>Beberapa elemen draf hilang.</draft_corrupted>
+    <draft_delete_video_hint>Memadamkan video asal akan merosakkan fail draf.</draft_delete_video_hint>
+    <draft_load_err>Ralat Pemuatan</draft_load_err>
+    <draft_open_hint>Setelah memulakan projek video baru, draf anda akan diganti.</draft_open_hint>
+    <draft_saved>Draf disimpan</draft_saved>
+    <drafts>%s DRAF</drafts>
+    <drafts_not_backward_compatible>Versi aplikasi terlalu rendah untuk membuka draf.</drafts_not_backward_compatible>
+    <drag_to_swap>Seret untuk Bertukar</drag_to_swap>
+    <duplicate>Duplikat</duplicate>
+    <duration>Tempoh</duration>
+    <edit>sunting</edit>
+    <edit_music_dialog_music_volume>Jumlah dagangan Muzik</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Jumlah dagangan Video</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Modifier le volume</edit_music_dialog_title>
+    <edit_volume_fade_out>Disparaître</edit_volume_fade_out>
+    <edit_with_inshot>Edit dengan InShot:</edit_with_inshot>
+    <effect>Kesan</effect>
+    <effect_count>%d KESAN</effect_count>
+    <effects>Kesan</effects>
+    <emoji_activity_category>AKTIVITI</emoji_activity_category>
+    <emoji_animals_category>HAIWAN</emoji_animals_category>
+    <emoji_celebration_category>SAMBUTAN</emoji_celebration_category>
+    <emoji_dialy_category>HARIAN</emoji_dialy_category>
+    <emoji_emotion_category>EMOSI</emoji_emotion_category>
+    <emoji_food_category>MAKANAN</emoji_food_category>
+    <emoji_gesture_category>GERAK ISYARAT</emoji_gesture_category>
+    <emoji_nature_category>NATURE</emoji_nature_category>
+    <emoji_objects_category>OBJEK</emoji_objects_category>
+    <emoji_people_category>RAKYAT</emoji_people_category>
+    <emoji_recent_category>TERKINI</emoji_recent_category>
+    <emoji_smile_category>SENYUMAN</emoji_smile_category>
+    <emoji_symbols_category>SIMBOL</emoji_symbols_category>
+    <emoji_transit_category>TRANSIT</emoji_transit_category>
+    <erase>padam</erase>
+    <error>Gagal! Sila cuba lagi!</error>
+    <examine_result>%d klip tidak boleh diimport.</examine_result>
+    <exit>Berhenti</exit>
+    <exit_app_discard_edit_warn>Tekan sekali lagi untuk membuang</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>KELUAR</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Tekan butang simpan untuk menyimpan dan berkongsi kerja anda.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Keluar sebelum menyimpan?</exit_before_save_dlg_title>
+    <exit_tip>Tekan sekali lagi untuk keluar</exit_tip>
+    <exo_controls_cc_disabled_description>Dayakan sari kata</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Lumpuhkan sari kata</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>Mundar laju</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Masuk ke skrin penuh</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Keluar dari skrin penuh</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Sembunyikan kawalan pemain</exo_controls_hide>
+    <exo_controls_next_description>Seterusnya</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Sembunyikan tetapan tambahan</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Tunjukkan tetapan tambahan</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Jeda</exo_controls_pause_description>
+    <exo_controls_play_description>Main</exo_controls_play_description>
+    <exo_controls_playback_speed>Kelajuan</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Biasa</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Sebelumnya</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Ulang semua</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Jangan ulang</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Ulang satu</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Mandir</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Kemajuan main balik</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Tetapan</exo_controls_settings_description>
+    <exo_controls_show>Tunjukkan kawalan pemain</exo_controls_show>
+    <exo_controls_shuffle_off_description>Matikan rombak</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Hidupkan rombak</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Berhenti</exo_controls_stop_description>
+    <exo_controls_vr_description>Mod VR</exo_controls_vr_description>
+    <exo_download_completed>Muat turun selesai</exo_download_completed>
+    <exo_download_description>Muat turun</exo_download_description>
+    <exo_download_downloading>Memuat turun</exo_download_downloading>
+    <exo_download_failed>Muat turun gagal</exo_download_failed>
+    <exo_download_notification_channel_name>Muat turun</exo_download_notification_channel_name>
+    <exo_download_removing>Mengalih keluar muat turun</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Mono</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Alternatif</exo_track_role_alternate>
+    <exo_track_role_closed_captions>SK</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Ulasan</exo_track_role_commentary>
+    <exo_track_role_supplementary>Tambahan</exo_track_role_supplementary>
+    <exo_track_selection_auto>Automatik</exo_track_selection_auto>
+    <exo_track_selection_none>Tiada</exo_track_selection_none>
+    <exo_track_selection_title_audio>Audio</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Teks</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Video</exo_track_selection_title_video>
+    <exo_track_stereo>Stereo</exo_track_stereo>
+    <exo_track_surround>Bunyi keliling</exo_track_surround>
+    <exo_track_surround_5_point_1>Bunyi keliling 5.1</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>Bunyi keliling 7.1</exo_track_surround_7_point_1>
+    <exo_track_unknown>Tidak diketahui</exo_track_unknown>
+    <extract>Ekstrak</extract>
+    <extract_audio>Ekstrak audio</extract_audio>
+    <extract_audio_from_video>Ekstrak audio dari video</extract_audio_from_video>
+    <extract_failed>Ekstrak Gagal</extract_failed>
+    <fade>Fade</fade>
+    <fade_in>Pudar di</fade_in>
+    <fade_new>Pudar</fade_new>
+    <failed_to_load_blur_image>Gambar yang dipilih gagal dimuat, sila pilih lagi!</failed_to_load_blur_image>
+    <failed_to_load_image>Alamak! Gagal memuatkan gambar</failed_to_load_image>
+    <fast_motion>GERAKAN PANTAS</fast_motion>
+    <favourite>Kegemaran</favourite>
+    <featured>DITAMPILKAN</featured>
+    <feedback_and_suggestion_hint>Maklum balas dan cadangan</feedback_and_suggestion_hint>
+    <feedback_not_now>BUKAN SEKARANG</feedback_not_now>
+    <feedback_subject>Maklumbalas InShot</feedback_subject>
+    <feedback_submit>KEMUKAKAN</feedback_submit>
+    <festival>Perayaan</festival>
+    <file_corrupted_description>Fail rosak, sila memasang semula InShot dari kedai aplikasi rasmi.</file_corrupted_description>
+    <file_corrupted_note>Fail rosak, sila memasang semula InShot dari Google Play</file_corrupted_note>
+    <file_corrupted_title>pengguna dikasihi</file_corrupted_title>
+    <file_not_support>Ini jenis fail tidak disokong oleh InShot.</file_not_support>
+    <film>filem</film>
+    <film_grain>Ira FILEM</film_grain>
+    <filter>Penapis</filter>
+    <filter_manage>Penapis menguruskan</filter_manage>
+    <filter_not_supported_in_photo>Pek kesan semasa tidak tersedia untuk foto.</filter_not_supported_in_photo>
+    <filters>Penapis</filters>
+    <first_month>Bulan pertama</first_month>
+    <first_year>Tahun pertama</first_year>
+    <fit>posisi</fit>
+    <fit_bottom>bawah</fit_bottom>
+    <fit_fit>posisi</fit_fit>
+    <fit_full>penuh</fit_full>
+    <fit_left>kiri</fit_left>
+    <fit_original>asli</fit_original>
+    <fit_right>hak</fit_right>
+    <fit_top>teratas</fit_top>
+    <flip>Terbalikkan</flip>
+    <folder_cannot_write>Folder tidak boleh menulis! Sila pilih yang lain.</folder_cannot_write>
+    <follow_ins_to_unlock>Ikuti InShot di Instagram untuk</follow_ins_to_unlock>
+    <follow_setting_title>Item melekat ke bingkai</follow_setting_title>
+    <follow_tiktok_to_unlock>Langgan Saluran TikTok InShot untuk</follow_tiktok_to_unlock>
+    <follow_toggle_tip>Selepas memangkas atau memadamkan klip, item-item (rakaman, kesan bunyi,PIP,pelekat,teks,efek) akan ditetapkan pada bingkai asal</follow_toggle_tip>
+    <follow_toggle_tip_2>Selepas memangkas atau memadamkan klip, item-item (PIP, pelekat, teks...) akan ditetapkan pada bingkai asal</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Ikuti kami di laman sosial untuk mendapatkan berita terkini mengenai InShot.</follow_us_fun_media_tip>
+    <follow_us_to>Ikut kami ke</follow_us_to>
+    <follow_youtube_to_unlock>Langgan Saluran YouTube InShot untuk</follow_youtube_to_unlock>
+    <font>Font</font>
+    <font_color>warna fon</font_color>
+    <font_copyright_des>Fon ini adalah untuk pengguna peribadi (bukan komersial) sahaja.</font_copyright_des>
+    <fonts>Fonts</fonts>
+    <for_you>Untuk Anda</for_you>
+    <format>Format</format>
+    <frame>rangka</frame>
+    <frame_rate>Kadar Bingkai</frame_rate>
+    <free>BEBAS</free>
+    <free_download>MUAT TURUN PERCUMA</free_download>
+    <free_unlock>Buka kunci percuma</free_unlock>
+    <freeze>Beku</freeze>
+    <full_park_emoji>Pek emoji penuh</full_park_emoji>
+    <gallery>Galeri</gallery>
+    <get>Dapatkan</get>
+    <gif_compress>Gif mampat</gif_compress>
+    <string name="gif_compress_description" formatted="false">Gif lebih tinggi daripada %s akan dimampatkan secara automatik kepada %s.</string>
+    <gif_supported_tip>Kini GIF disokong.</gif_supported_tip>
+    <give_5star>Memberikan 5 bintang</give_5star>
+    <glitch>GLIC</glitch>
+    <go_setting>Pergi Tetapan</go_setting>
+    <go_to_logout>Padamkan akaun InShot secara kekal</go_to_logout>
+    <go_to_the_shop>pergi ke kedai</go_to_the_shop>
+    <gps_not_installed>Sila semak jika anda telah memasang versi terkini perkhidmatan Google Play.</gps_not_installed>
+    <gradient>Gradien</gradient>
+    <grain>Butir</grain>
+    <has_no_photo_hint>Pilih 1-9 gambar untuk membuat kolaj indah.</has_no_photo_hint>
+    <have_purchased>Anda telah membeli!</have_purchased>
+    <help>Bantuan</help>
+    <help_Keyframe_desc>Tambah bingkai utama dalam garis masa bagi menandakan permulaan dan penamat animasi dengan mudah (zum/gerakan/putaran/kelutsinaran) untuk pelekat/teks/PIP.</help_Keyframe_desc>
+    <help_Keyframe_title>Bingkai Utama</help_Keyframe_title>
+    <help_Keyframe_youtube_des>Cara menggunakan bingkai utama bagi menambah animasi untuk lapisan</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Masuk menu Pelekat, import gambar daripada album atau folder.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Sekarang kita juga menyokong GIF.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Tambah pelekat tersuai</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Masukkan menu muzik.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Klik garis masa muzik untuk melaraskan kelantangan muzik/kesan bunyi/rakaman;
+Klik klip video untuk melaraskan kelantangan video asal."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Laraskan kelantangan audio</help_adjust_audio_volume_title>
+    <help_adjust_volume>Klik garis masa untuk melaraskan kelantangan video.</help_adjust_volume>
+    <help_animation_desc>Pilih animasi masuk/keluar untuk teks dan pelekat.</help_animation_desc>
+    <help_animation_title>Pilih animasi masuk/keluar</help_animation_title>
+    <help_apply_to_all_desc>Gunakan pilihan Guna Pada Semua untuk menggunakan penapis, bingkai, latar belakang atau kelantangan pada semua klip.</help_apply_to_all_desc>
+    <help_apply_to_all_title>Gunakan penyuntingan pada semua klip</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Bahan atmosfera dan kesan campur ialah padanan terbaik.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Bahan atmosfera</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Cara Menambah Tindanan Percuma</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Cara untuk Melaraskan Kelantangan Audio Asal</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Masuk menu Fit, tetapkan nisbah latar belakang untuk video atau alih keluar latar belakang video.</help_background_ratio_desc>
+    <help_background_ratio_title>Tukar nisbah latar belakang video</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Cara untuk Menetapkan Latar Belakang Video</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Pilih satu trek untuk edit.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Klik di sini untuk mengedit kelantangan video</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"Masuk Tetapan InShot
+Ketik \"Tetapan Video\" dan nyahdayakan pilihan \"Item melekat ke bingkai\"."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Mengapakah pelekat/teks/efek/PIPs/perakam/efek bunyi saya dialih keluar apabila saya memadamkan klip?</help_disable_stick_frame_title>
+    <help_edit_music>Klik untuk mengedit muzik.</help_edit_music>
+    <help_edit_music_desc>Klik pada muzik yang dimasukkan untuk mengeditnya.</help_edit_music_desc>
+    <help_edit_music_title>Edit Muzik</help_edit_music_title>
+    <help_extract_audio_desc>Ketik [Ekstrak audio dari video] dalam tab muzik dan import video untuk mengekstrak audio.</help_extract_audio_desc>
+    <help_extract_audio_title>Ekstrak audio dari video</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Cara Mengekstrak Audio daripada Video</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Semua muzik terbina dalam mempunyai perjanjian lesen yang bertandatangan dengan ahli muzik.
+
+Jika anda menerima notis hak cipta atau video anda dialih keluar oleh Instagram, sila ketik \"Saya setuju\" dan tandatangan nama anda serta ketik Rayu."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Jangan risau, ahli muzik akan secara aktif menyokong rayuan anda dan video anda akan dipulihkan dalam masa 2–3 minit.</help_faq_album_desc_2>
+    <help_faq_album_title>Apakah yang harus dilakukan jika video muzik saya dialih keluar oleh Instagram?</help_faq_album_title>
+    <help_faq_auto_update_dest>Pergi ke pengurusan akaun Google Play, ketik Tetapan, ketik Kemas kini aplikasi secara automatik di bawah Keutamaan rangkaian.</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>Bagaimanakah untuk memastikan InShot sentiasa terkini dengan versi terkini?</help_faq_auto_update_title>
+    <help_faq_four_desc>Maaf, draf yang dipadam tidak boleh dipulihkan. Kami mematuhi dasar privasi dan tidak menyimpan sebarang fail pengguna.</help_faq_four_desc>
+    <help_faq_four_title>Adakah saya boleh memulihkan draf selepas memadamnya?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>Semasa proses penyimpanan video, ia akan menjana banyak fail pertengahan, fail-fail ini akan dipadamkan secara automatik sebaik sahaja proses penyimpanan dilengkapkan. Untuk menyelesaikan masalah ini, sila kosongkan lebih banyak ruang pada peranti anda (BUKAN storan kad SD).</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Mengapakah telefon saya mempunyai ruang tetapi ia masih menggesa memori tidak mencukupi?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Semua fon mempunyai lesen yang sepadan, sila periksa dengan teliti sebelum digunakan. Beberapa fon hanya untuk kegunaan peribadi.</help_faq_one_desc>
+    <help_faq_one_title>Bolehkah saya menggunakan fon terbina dalam untuk yujuan komersil?</help_faq_one_title>
+    <help_faq_three_desc>Sekiranya anda memadamkan mana-mana fail asal di galeri, draf berkaitan akan hilang dan tidak dapat dibuka. Cuba pulihkan fail daripada album Baru Dipadamkan.</help_faq_three_desc>
+    <help_faq_three_title>Mengapakah mesej ralat memberi gesaan \"Draf rosak\" atau \"Fail asal dalam draf hilang\"?</help_faq_three_title>
+    <help_faq_two_desc>"Tuntutan ID Kandungan tidak menyebabkan serangan hak cipta, penggantungan saluran dan penamatan saluran. Biasanya, tuntutan tersebut hanya untuk menjejaki atau memperoleh pendapatan daripada video, bukan untuk menyekatnya. Oleh itu, video anda kekal bersiaran langsung dengan tuntutan tersebut (tetapi mungkin mempunyai iklan padanya) dan anda masih boleh berkongsikannya dengan orang lain.
+
+Ketahui lebih lanjut tentang tuntutan ID Kandungan, sila rujuk https://support.google.com/youtube/answer/7002106?hl=en"</help_faq_two_desc>
+    <help_faq_two_title>Mengapakah saya menerima tuntutan hak cipta muzik YouTube?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Pengeditan</help_group_video_edit_title>
+    <help_import_fonts_desc>Pastikan fail fon ada dalam telefon anda. Ketik butang import untuk mengimport fon.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Pengguna Android 11 ke atas, sila klik pada fon import, lompat ke halaman pemilihan fail
+1.Klik butang di bahagian atas kiri, pilih SDcard anda dan kemudian, pilih direktori fail."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Klik pada bar carian di bahagian atas, cari nama fon atau fail TTF/OTF.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Import fon</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>Cara Mengimport Fon dalam InShot Android</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Sila pergi ke Google Play Store. Masuk ke menu Langganan, Pilih langganan yang anda ingin batalkan.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Bagaimanakah untuk menguruskan/membatalkan langganan saya?</help_manager_subscribe_title>
+    <help_mask_desc>Tambahkan topeng bentuk ke lapisan PIP.</help_mask_desc>
+    <help_mask_title>Topeng PIP</help_mask_title>
+    <help_mask_youtube_des>Cara menggunakan alat topeng untuk lapisan PIP.</help_mask_youtube_des>
+    <help_merge_video_desc>Klik butang \"+\" untuk memilih video yang akan digabungkan.</help_merge_video_desc>
+    <help_merge_video_title>Gabung video</help_merge_video_title>
+    <help_move_music>Tekan lama dan seret untuk menetapkan kedudukan.</help_move_music>
+    <help_one_time_purchase_des>Jika anda membuat pembelian satu kali, anda boleh mendapat versi premium InShot yang kekal. Tiada keperluan untuk membeli sekali lagi pada masa hadapan walaupun InShot menambah bahan atau ciri pengeditan eksklusif yang baharu.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Apakah itu Pembelian Satu Kali?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Ketik \"LATAR BELAKANG\" untuk menambah latar belakang kepada keratan anda</help_photo_cutout_desc>
+    <help_photo_cutout_title>Keratan Foto</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Ambil sampel sebarang warna dan buang.
+1. Gunakan alat pemilih warna, pilih warna yang ingin anda buang.
+2. Sesuaikan kekuatan dan bayang untuk menjadikannya lebih baik"</help_pip_chroma_desc>
+    <help_pip_chroma_title>Kroma PIP</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Cara Membuang Latar Belakang Skrin Hijau dengan Kroma (Tutorial InShot)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Sila ke Google Play, klik ikon akaun di penjuru kanan atas.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Keluarkan akaun selain daripada yang dibeli buat sementara waktu dan cuba pulihkan pembelian dalam Tetapan InShot sekali lagi.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>2. Sekiranya terdapat berbilang akaun Google yang dilog masuk, klik Urus Akaun.</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Mengapakah saya gagal memulihkan pembelian setelah log masuk ke akaun Google Play yang betul?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Cuba kosongkan data InShot dalam tetapan peranti anda dan kemudian klik \"Pulihkan Pembelian\" dalam tetapan InShot.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Pastikan anda log masuk ke HANYA SATU akaun Google Play yang betul, bukan berbilang akaun. Buat masa ini Google Play tidak mengenali berbilang akaun.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Bagaimanakah untuk memulihkan pembelian saya?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Sekiranya anda ingin menyimpan projek semasa, sila pilih \"Draf\" apabila anda mengklik untuk kembali.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Anda boleh menguruskan (memadam/menyalin/menamakan semula) draf di halaman utama.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Simpan/buang draf</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Tambahkan peralihan</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Laraskan tempoh foto</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Import fail daripada album dan fail</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Ketik untuk bertukar video &amp; foto</help_slideshow_reminder>
+    <help_slideshow_title>Buat tayangan slaid</help_slideshow_title>
+    <help_slideshow_youtube_des>Cara untuk Membuat Tayangan Slaid Muzik</help_slideshow_youtube_des>
+    <help_smooth_des>Gunakan alat Lancar untuk menghasilkan video gerak perlahan dengan sangat lancar(kelajuan&lt;1.0X)</help_smooth_des>
+    <help_smooth_title>Gerak Perlahan Lancar</help_smooth_title>
+    <help_speed_ramp_des_one>Edit nod kelajuan. Ketik butang \"Tambah\"/\"Padam\" untuk menambah/memadamkan nod pada lengkungan.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Laraskan tanjakan kelajuan. PIlih nod kelajuan dan seret secara menegak untuk melaraskan kelajuan video, seret secara mendatar untuk melaraskan tempoh kelajuan.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>Tanjakan Kelajuan | Cipta Kesan Tanjakan Kelajuan Yang Lancar dengan InShot</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Tanjakan Kelajuan (Lengkungan)</help_speed_ramp_title>
+    <help_swap_clip>Tekan lama untuk menukar</help_swap_clip>
+    <help_timeline_desc>Klik pada pemegang untuk menavigasi dengan cepat ke akhir klip atau akhir video.</help_timeline_desc>
+    <help_timeline_title>Navigasi cepat Pelekat &amp; Teks</help_timeline_title>
+    <help_transition_desc>Import sekurang-kurangnya 2 klip video, klik pada butang antara 2 imej kecil klip untuk menambah peralihan.</help_transition_desc>
+    <help_transition_title>Peralihan video</help_transition_title>
+    <help_translate_content>Saya ingin membantu anda menterjemahkan InShot. Sila hubungi saya. bahasa:</help_translate_content>
+    <help_translate_subject>penyetempatan</help_translate_subject>
+    <help_volume_adjust_desc>Klik imej kecil video untuk membuka menu cepat dan seret penggelongsor untuk melaraskan kelantangan video.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Pelarasan kelantangan video</help_volume_adjust_title>
+    <help_youtube_title>Tutorial YouTube</help_youtube_title>
+    <help_zoom_drag>Seret pemegang untuk memotong video.</help_zoom_drag>
+    <help_zoom_timeline>"Zum masuk dalam garis masa untuk pengeditan yang lebih tepat.
+Zum keluar untuk pratonton keseluruhan garis masa."</help_zoom_timeline>
+    <help_zoom_title>Pengeditan video</help_zoom_title>
+    <hide>Sembunyikan</hide>
+    <highlight>Serlahkan</highlight>
+    <hint_install_googleplay>Pembelian gagal kerana ia perlu Google Play Perkhidmatan, yang tidak disokong oleh peranti anda.</hint_install_googleplay>
+    <hint_items_to_frame>Pergi ke tetapan Video, anda boleh mendayakan/menyahdayakan pilihan tersebut</hint_items_to_frame>
+    <hot>Hangat</hot>
+    <hua_wei_login_error>Log masuk ke HUAWEI gagal</hua_wei_login_error>
+    <hua_wei_login_success>Log masuk ke HUAWEI berjaya</hua_wei_login_success>
+    <hue>Hue</hue>
+    <i_receive_effect_success>Berjaya simpan ke folder \"Kesan - Diimport\".</i_receive_effect_success>
+    <i_receive_music_success>Berjaya simpan ke folder \"Ditampilkan - Diimport\".</i_receive_music_success>
+    <import_font>Fon import</import_font>
+    <import_video_failed_content>Resolusi video melebihi had prestasi telefon anda.</import_video_failed_content>
+    <import_video_failed_title>Import gagal</import_video_failed_title>
+    <imported>Diimport</imported>
+    <imported_effect>Kesan diimport</imported_effect>
+    <imported_music>Muzik diimport</imported_music>
+    <improvement_plan_desc>Kami memerlukan maklumat ID peranti anda, untuk meningkatkan pengalaman pengguna InShot. Terima kasih.</improvement_plan_desc>
+    <improvement_plan_title>Pelan Penambahbaikan Pengalaman Pengguna</improvement_plan_title>
+    <index_create_new>Buat baru</index_create_new>
+    <index_more_take_photo>Mengambil Gambar</index_more_take_photo>
+    <index_more_take_video>Ambil Video</index_more_take_video>
+    <index_more_use_recent>Gunakan Terkini</index_more_use_recent>
+    <info_code>Maklumat Kod:</info_code>
+    <ins_crop_hint_1>Kerja anda mungkin timbul oleh instagram.</ins_crop_hint_1>
+    <ins_crop_hint_2>Nisbah Instagram adalah antara 1.91: 1 hingga 4: 5.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Sila <b>memberi kebenaran Storage</b> ke <b>Instagram</b> untuk memuat naik foto anda.</string>
+    <install>Memasang</install>
+    <installed>DIPASANG</installed>
+    <interval>Selang</interval>
+    <invalid_delete>Klip terakhir tidak dapat dipadamkan.</invalid_delete>
+    <invalid_position>Kedudukan yang dipilih tidak sah.</invalid_position>
+    <invalidate_name>Simbol khas tidak disokong.</invalidate_name>
+    <item_already_owned>Klik Mengembalikan untuk mengaktifkan semula pembelian dalam aplikasi anda.</item_already_owned>
+    <items>Item</items>
+    <join_inshot_pro>Sertailah InShot Pro</join_inshot_pro>
+    <jump_to_font_language>Lompat ke %s</jump_to_font_language>
+    <keep_draft>Simpan Draf</keep_draft>
+    <keep_on>Kekalkan hidup</keep_on>
+    <keyframe>BINGKAI UTAMA</keyframe>
+    <label>LABEL</label>
+    <label_quick_selection>PEMILIHAN CEPAT LABEL</label_quick_selection>
+    <last_draft>DRAF LEPAS</last_draft>
+    <layout>tata atur</layout>
+    <letter_animation>Huruf Tunggal</letter_animation>
+    <lib_rate_btn_go_market>Nilaikan di Google Play</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>Terbaik yang boleh kita dapat :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Sila tinggalkan maklum balas.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Kami juga menyukai anda!</lib_rate_like_you>
+    <lib_rate_oh_no>Oh, tidak!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Terimakasih atas maklum balas anda.</lib_rate_thanks_feedback>
+    <license>Lesen</license>
+    <light>PENCAHAYAAN</light>
+    <lightness>Kecerahan</lightness>
+    <loading>Memuatkan…</loading>
+    <loading_progress_title>Sedang muat…</loading_progress_title>
+    <login_tip>"Sila ikat akaun untuk terus
+ membayar atau memulihkan pembelian"</login_tip>
+    <login_with>Log masuk dengan %s</login_with>
+    <login_with_wechat>Log masuk dengan WeChat</login_with_wechat>
+    <logout>Padam</logout>
+    <logout_hint>Sekiranya anda melanggan InShot Pro, menghapus akaun anda juga akan menghapus Inshot Pro dan ia tidak dapat dipulihkan !!!</logout_hint>
+    <logout_success>Padam berjaya</logout_success>
+    <long_press_delete>Tekan lama untuk memadam</long_press_delete>
+    <long_press_preview>Tekan lama untuk pratonton.</long_press_preview>
+    <looking_for_music_content_1>Lawati YouTube Audio Library dari PC atau Mac anda untuk memuat turun muzik percuma.</looking_for_music_content_1>
+    <looking_for_music_content_2>Kemudian, hantar fail muzik ke telefon Android anda.</looking_for_music_content_2>
+    <looking_for_music_title>Mencari muzik untuk video anda?</looking_for_music_title>
+    <loop_animation>GELUNG</loop_animation>
+    <low_storage_space>Tidak cukup ruang</low_storage_space>
+    <luminance>Luminance</luminance>
+    <manage>Mengurus</manage>
+    <manage_subscription>Urus Langganan</manage_subscription>
+    <mask>Topeng</mask>
+    <material>Bahan</material>
+    <material_selected_hint>Ia mengandungi bahan pro.</material_selected_hint>
+    <max_hash_tags_num>Instagram membolehkan maksimum 29 #hashtags setiap gambar/video</max_hash_tags_num>
+    <merge_video_hint>Merge video secara profesional</merge_video_hint>
+    <message>Mesej</message>
+    <modern>moden</modern>
+    <month>Bulan</month>
+    <mood>Mood</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>Butiran InShot Pro</more_about_inshot_pro>
+    <more_emoji>1000+ Lagi</more_emoji>
+    <string name="more_info"><u>Maklumat lanjut</u>:</string>
+    <mosaic>Mozek</mosaic>
+    <multi_cut>Potong pelbagai</multi_cut>
+    <multi_split>Perpecahan pelbagai</multi_split>
+    <music>Muzik</music>
+    <music_limit>Had tempoh muzik</music_limit>
+    <musician>Pemuzik</musician>
+    <my_filter>Penapis saya</my_filter>
+    <my_material>Bahan Saya</my_material>
+    <my_music>MUZIK SAYA</my_music>
+    <new_>BARU</new_>
+    <new_album>Album Baru</new_album>
+    <new_five_stars_rate>Kami berusaha keras untuk pengalaman pengguna yang lebih baik. Kami amat menghargai jika anda sudi menilaikan kami.</new_five_stars_rate>
+    <next>SETERUSNYA</next>
+    <no>tiada</no>
+    <no_actionable_items>Tiada item yang boleh diambil tindakan</no_actionable_items>
+    <no_audio>Tiada Audio</no_audio>
+    <no_audio_files>Tiada fail audio.</no_audio_files>
+    <no_draft_profile>Tiada profil draf</no_draft_profile>
+    <no_fonts_found>Tiada fon dijumpai</no_fonts_found>
+    <no_network>Tiada rangkaian</no_network>
+    <no_photos_or_videos>Tiada Foto atau Video</no_photos_or_videos>
+    <note_if_you_clear>Perhatikan jika anda mengosongkan cache, anda akan kehilangan tetapan penyisihan.</note_if_you_clear>
+    <off>Matikan</off>
+    <offline_notification_text>Ketik untuk membuka iklan</offline_notification_text>
+    <offline_notification_title>Lihat iklan yang anda simpan apabila anda di luar talian</offline_notification_title>
+    <offline_opt_in_confirm>OK</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>Anda akan menerima pemberitahuan dengan pautan apabila anda kembali ke dalam talian</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Tidak</offline_opt_in_decline>
+    <offline_opt_in_message>Kami akan menghantar pemberitahuan dengan pautan ke tapak pengiklan kepada anda.</offline_opt_in_message>
+    <offline_opt_in_title>Buka iklan apabila anda kembali ke dalam talian.</offline_opt_in_title>
+    <ok>OK</ok>
+    <on>Hidupkan</on>
+    <only_support_effects>Hanya menyokong jenis \"Efek\"</only_support_effects>
+    <oom_tip>Keluar dari memori, sila cuba lagi!</oom_tip>
+    <opacity>KELEGAPAN</opacity>
+    <open_font_failed>Fail fon tidak sah.</open_font_failed>
+    <open_from>DIBUKA DARI</open_from>
+    <open_from_photos>Dibuka dari Foto</open_from_photos>
+    <open_image_failed_hint>Gagal membuka fail imej, sila cuba sekali lagi atau cuba imej yang lain</open_image_failed_hint>
+    <open_music_failed_hint>Tidak dapat membuka fail muzik, sila cuba lagi atau cuba fail muzik lain</open_music_failed_hint>
+    <open_settings_0>1.Tetapan yang Terbuka</open_settings_0>
+    <open_settings_1>TETAPAN YANG TERBUKA</open_settings_1>
+    <open_video_failed_hint>Gagal membuka fail video, sila cuba sekali lagi atau cuba video lain</open_video_failed_hint>
+    <origin_pitch>Pic Asal</origin_pitch>
+    <original>Asli</original>
+    <original_image_not_found>Fail imej asal tidak lagi wujud, sila semak semula.</original_image_not_found>
+    <original_music_not_found>Fail muzik asal tidak lagi wujud, sila menggandakan cek.</original_music_not_found>
+    <original_video_not_found>Fail video asal tidak lagi wujud, sila menggandakan cek.</original_video_not_found>
+    <other_app_recording>Rakaman suara kini tidak tersedia, kerana ia digunakan oleh aplikasi lain.</other_app_recording>
+    <outline>Garis luar</outline>
+    <page>KERTAS KOYAK</page>
+    <parent_directory>Direktori Ibu Bapa</parent_directory>
+    <part_original_files_miss_in_draft>"Satu atau lebih fail asal tiada, teruskan mengedit？ 
+
+Meneruskan pengeditan boleh menyebabkan salah letak bahan dalam draf anda. 
+
+Memulihkan fail asal daripada [Dipadamkan/Dibuang Baru-baru Ini] boleh membetulkan draf ini."</part_original_files_miss_in_draft>
+    <pattern>Corak</pattern>
+    <pay_success>Berjaya dibeli!</pay_success>
+    <permission_read_external_storage>Perlu kebenaran storan.</permission_read_external_storage>
+    <photo>Foto</photo>
+    <pinch_zoom_in>Cubit untuk mengezum masuk.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Melebihi had maksimum.</pip_track_reach_max>
+    <play_video_via>Bermain video melalui</play_video_via>
+    <popular>Popular</popular>
+    <precode>PRAKOD</precode>
+    <precode_failed>Prakod Gagal.</precode_failed>
+    <precut>Prapotong</precut>
+    <preset>Praset</preset>
+    <string name="privacy_policy_content" formatted="false">Selamat Datang di InShot!&lt;br>&lt;br> Kami komited untuk memberikan pengalaman yang lebih baik kepada pengguna dalam semua aspek dan akan dikemas kini dari semasa ke semasa &lt;a href=%s>Terma Penggunaan&lt;/a> dan &lt;a href=%s>Dasar Privasi&lt;/a>.&lt;br>&lt;br>Sekiranya anda bersetuju, klik \"Bersetuju\" dan mula menggunakan InShot.</string>
+    <string name="privacy_policy_content_gdpr">Anda akan menerima iklan yang diperibadikan semasa menggunakan InShot. Untuk memilih keluar, sila pergi ke halaman &lt;a href=%s>“Dasar Privasi”&lt;/a> dan Klik “I don’t agree”.&lt;br>&lt;br></string>
+    <privacy_policy_title>Terma Penggunaan dan Dasar Privasi</privacy_policy_title>
+    <pro_detail>Perincian InShot Pro</pro_detail>
+    <pro_expire_time_format>Tamat pada %s</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro telah tamat pada %s.</pro_expired_tip>
+    <pro_one_time_purchase>Pembelian satu kali</pro_one_time_purchase>
+    <pro_purchase_new_desc>Akses ke semua Peralihan Berbayar, Kesan, Pelekat dan banyak lagi. Tanpa Logo InShot, Tanpa iklan.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Akses ke semua Peralihan Berbayar, Kesan, Pelekat dan banyak lagi. Tanpa iklan.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Anda belum menjadi ahli InShot Pro.</pro_purchased_info>
+    <pro_restore_not_purchased>Pemulihan selesai tetapi anda belum menjadi ahli InShot Pro.</pro_restore_not_purchased>
+    <pro_subscription_details>BUTIRAN LANGGANAN</pro_subscription_details>
+    <pro_unavailable>Pro tidak tersedia</pro_unavailable>
+    <pro_unavailable_detail>Periksa sama ada anda dilog masuk hanya ke dalam satu akaun Google Play yang betul. Anda boleh merujuk halaman Soal Jawab untuk bantuan lebih lanjut.</pro_unavailable_detail>
+    <processing_error>Ralat pemprosesan</processing_error>
+    <processing_progress_title>pemprosesan…</processing_progress_title>
+    <procode_progress>Prapengekodan...</procode_progress>
+    <promotion_subscribe_title>Tawaran Istimewa Holi</promotion_subscribe_title>
+    <purchase_failed>Pembelian gagal, cuba lagi?</purchase_failed>
+    <purchase_failed_tile>Pembelian gagal</purchase_failed_tile>
+    <range>Jarak</range>
+    <rate>Kadar</rate>
+    <rate_feedback_message>Adakah anda keberatan untuk memberikan sedikit maklum balas?</rate_feedback_message>
+    <rate_later>Kemudian</rate_later>
+    <rate_like>Ya!</rate_like>
+    <rate_main_message>Seronok menggunakan InShot?</rate_main_message>
+    <rate_not_like>Tidak seberapa</rate_not_like>
+    <rate_review_message>Sudikah anda meninggalkan ulasan yang bagus? Ia benar-benar membantu.</rate_review_message>
+    <ratio>Nisbah</ratio>
+    <recent>baru-baru ini</recent>
+    <recommend>syor</recommend>
+    <record>Rekod</record>
+    <redo>Buat semula</redo>
+    <refresh_state>Pulihkan pembelian</refresh_state>
+    <reject>Tidak, Terima kasih.</reject>
+    <remove_ads>MEMBUANG WATERMARK DAN ADS</remove_ads>
+    <remove_ads_1>MEMBUANG ADS</remove_ads_1>
+    <remove_ads_1_desc>Alih keluar iklan sepanduk secara kekal.</remove_ads_1_desc>
+    <remove_ads_desc>Alih keluar tera air dan iklan sepanduk secara kekal. Anda tidak lagi perlu mengalih keluar tera air secara manual.</remove_ads_desc>
+    <remove_all_ads>Alih Keluar Iklan</remove_all_ads>
+    <remove_all_split_marks>Alih keluar semua tanda pisah yang telah anda tambah?</remove_all_split_marks>
+    <remove_pro_materials>Alih Keluar Bahan Pro</remove_pro_materials>
+    <remove_watermark>Membuang watermark</remove_watermark>
+    <remove_watermark_ad>MEMBUANG ONCE INI</remove_watermark_ad>
+    <remove_watermark_ad_2>KELUARKAN PERCUMA</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Keluarkan Watermark dan Iklan</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Keluarkan Watermark dan Iklan</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Membuang iklan selama-lamanya.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Membuang watermark dan iklan selama-lamanya.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>MENGALIH KELUAR SECARA KEKAL</remove_watermark_buy>
+    <rename>Namakan Semula</rename>
+    <renew_pro>Perbaharui InShot Pro</renew_pro>
+    <replace>ganti</replace>
+    <replace_draft_des>Buang draf dan mulakan projek baharu?</replace_draft_des>
+    <report>Laporkan</report>
+    <report_fix_description>Sila hantarkan fail log &amp; audio untuk membantu kami menyelesaikan masalah ini.</report_fix_description>
+    <report_fix_ok>HANTAR LOG &amp; FAIL AUDIO</report_fix_ok>
+    <report_fix_title>Pemprosesan audio gagal</report_fix_title>
+    <request_record_rationale>Benarkan InShot untuk menggunakan mikrofon pada peranti anda.</request_record_rationale>
+    <request_storage_rationale>Benarkan InShot mengakses foto dan media pada peranti anda.</request_storage_rationale>
+    <reselect>Pilih</reselect>
+    <reset>Tetapkan Semula</reset>
+    <reset_adjust>Melaraskan Tetapan Semula</reset_adjust>
+    <reset_all>Tetapkan Semula Semua</reset_all>
+    <reset_hue>Tetapkan semula hue</reset_hue>
+    <reset_luminance>Tetapkan semula luminance</reset_luminance>
+    <reset_saturation>Tetapkan semula ketepuan</reset_saturation>
+    <reset_speed>Tetapkan Semula Kelajuan</reset_speed>
+    <resolution>Resolusi</resolution>
+    <restore>MENGEMBALIKAN</restore>
+    <restore_failed>Pemulihan gagal!</restore_failed>
+    <restore_ok_Pro>Pulihkan dengan jayanya dan anda sudah menjadi ahli InShot Pro.</restore_ok_Pro>
+    <restore_ok_not_Pro>Pulihkan dengan jayanya tetapi anda belum menjadi ahli InShot Pro.</restore_ok_not_Pro>
+    <restore_pro_assets>Pulihkan Aset Pro</restore_pro_assets>
+    <restore_success>Simpan semula berjaya</restore_success>
+    <restore_trim_message>Batalkan semua operasi trim dan potong, kembali ke video asal?</restore_trim_message>
+    <results_page_save_complete>Simpan selesai</results_page_save_complete>
+    <results_page_share_other>Lain-lain</results_page_share_other>
+    <results_page_wait_video_transcoding>Sila tunggu video transkod</results_page_wait_video_transcoding>
+    <retro>Retro</retro>
+    <retry_save_title>Eksport video terakhir gagal. Cuba lagi?</retry_save_title>
+    <returnapp_tip>Tekan kembali ke InShot.</returnapp_tip>
+    <reverse>Undur</reverse>
+    <rewarded_unlock_content>Tonton iklan video untuk membuka kunci semua ciri secara percuma(%s)</rewarded_unlock_content>
+    <rewinding>Memandir…</rewinding>
+    <rotate>Putar</rotate>
+    <rotate90>Putar 90 °</rotate90>
+    <s1>Simpan imej</s1>
+    <s2>Benarkan Iklan menyimpan imej dalam galeri Gambar?</s2>
+    <s3>Terima</s3>
+    <s4>Tolak</s4>
+    <s5>Buat acara kalendar</s5>
+    <s6>Benarkan Iklan membuat acara kalendar?</s6>
+    <s7>Iklan Ujian</s7>
+    <saturation>Ketepuan</saturation>
+    <save>Menyelamatkan</save>
+    <save_extracted_audio>Simpan petikan audio</save_extracted_audio>
+    <save_fail>kegagalan menyimpan</save_fail>
+    <save_image_failed_hint>Gagal untuk menyimpan fail imej</save_image_failed_hint>
+    <save_imported_sticker>Simpan pelekat yang diimport</save_imported_sticker>
+    <save_success_hint>disimpan ke %s</save_success_hint>
+    <save_type_description>Fail fail diimport sebagai</save_type_description>
+    <save_video_failed_dlg_btn_retry>Cuba semula</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Pilih resolusi lain</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Sila pilih resolusi yang lebih rendah atau Cuba lagi!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Simpan gagal</save_video_failed_dlg_title>
+    <save_video_failed_hint>Video ini tidak disokong kerana video atau codec audio. Sila cuba video lain.</save_video_failed_hint>
+    <saved>Disimpan</saved>
+    <scanning>Mengimbas…</scanning>
+    <string name="sd_card_error">Jalan / sdcard anda tidak boleh diakses. Sila memilih jalan yang berbeza / simpanan dalam Tetapan -> %s.</string>
+    <sd_card_full_tip>Tiada ruang storan mencukupi, sila kosongkan sedikit ruang dan cuba lagi.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>Kad SD tidak dipasang!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Perlu tentang angkasa %dM!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Lebih banyak ruang cache diperlukan untuk menyimpan video, kosongkan lebih banyak storan atau turunkan resolusi dan cuba lagi.</sd_card_space_not_enough_hint>
+    <search_menu_title>Cari</search_menu_title>
+    <see_all_material>Lihat semua</see_all_material>
+    <select>Pilih</select>
+    <select_all>Pilih Semua</select_all>
+    <select_one_to_edit>Pilih satu untuk diedit.</select_one_to_edit>
+    <select_one_track_to_edit>Pilih satu trek untuk edit</select_one_track_to_edit>
+    <select_photo>Pilih Foto</select_photo>
+    <send_feedback>Hantar maklumbalas</send_feedback>
+    <setting_addtags_title>Tambah tags</setting_addtags_title>
+    <setting_clear_cache_title>Kosongkan Cache</setting_clear_cache_title>
+    <setting_faq_title>FAQ</setting_faq_title>
+    <setting_feedback_title>Maklum balas</setting_feedback_title>
+    <setting_follow_us>Ikut kami (Dapatkan lebih banyak tutorial)</setting_follow_us>
+    <setting_general_title>umum</setting_general_title>
+    <setting_language_title>bahasa</setting_language_title>
+    <setting_legal_title>Undang-undang</setting_legal_title>
+    <setting_localization_des>Membantu kami menterjemah InShot ke bahasa anda</setting_localization_des>
+    <setting_localization_title>penyetempatan</setting_localization_title>
+    <setting_others>Lain-lain</setting_others>
+    <setting_privacypolicy_title>Dasar privasi</setting_privacypolicy_title>
+    <setting_rate5star_des>Kadar InShot 5 bintang di Google Play</setting_rate5star_des>
+    <setting_rate5star_title>Kadar 5 Bintang</setting_rate5star_title>
+    <setting_restore>Pulihkan Pembelian</setting_restore>
+    <setting_savepath_title>menyelamatkan jalan</setting_savepath_title>
+    <setting_share_title>Beritahu Rakan</setting_share_title>
+    <setting_thankyou_title>Terima kasih</setting_thankyou_title>
+    <shadow>Pembayang</shadow>
+    <shadow_off>Off</shadow_off>
+    <shadow_on>Pada</shadow_on>
+    <share>berkongsi</share>
+    <share_content>Permudahkan untuk mengedit video dan foto di telefon anda. Muat turun Percuma InShot Sekarang:https://inshotapp.page.link/invite</share_content>
+    <share_subject>Video dan foto editor yang sangat baik untuk instagram disyorkan kepada anda</share_subject>
+    <sharpen>Tajamkan</sharpen>
+    <shop>Kedai</shop>
+    <short_preview>Pratonton ringkas</short_preview>
+    <show_read_video_ad_dlg_content>Tonton iklan video untuk membuang watermark secara percuma.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Menonton iklan video untuk membuang watermark untuk masa ini</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>Salinan dan dikongsi</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>Sejarah</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Tags untuk lebih suka</show_tags_dlg_title>
+    <sign_out>Log keluar</sign_out>
+    <sign_out_account>Keluar dari akaun</sign_out_account>
+    <signout_current_account>Keluar dari akaun semasa</signout_current_account>
+    <signout_tip_common>Adakah anda pasti mahu keluar dari akaun WeChat semasa?</signout_tip_common>
+    <signout_tip_pro>InShot Pro tidak akan dapat diakses semasa anda log keluar dari akaun.</signout_tip_pro>
+    <size>saiz:%s</size>
+    <size_only>Anggaran saiz</size_only>
+    <slice>KEPINGAN</slice>
+    <slow_motion>GERAK PERLAHAN</slow_motion>
+    <smooth>Lancar</smooth>
+    <smooth_applied>Gerak perlahan lancar digunakan</smooth_applied>
+    <smooth_cancelled>Gerak perlahan lancar dibatalkan</smooth_cancelled>
+    <smooth_click_preview>Klik butang semak untuk pratonton efek gerak perlahan lancar</smooth_click_preview>
+    <smooth_preview_effect>Pratonton efek lancar</smooth_preview_effect>
+    <smooth_slow_speed_available>Hanya tersedia apabila kelajuan &lt; %sx</smooth_slow_speed_available>
+    <sorry>Maaf</sorry>
+    <string name="space_not_enough_content">&lt;b>%1$dM&lt;/b> lebih banyak ruang simpanan dalaman (BUKAN storan kad SD) diperlukan untuk menyimpan %2$s, kosongkan ruang telefon anda dan cuba lagi.</string>
+    <space_not_enough_title>Kosongkan ruang di telefon anda</space_not_enough_title>
+    <special_offer>Tawaran Istimewa</special_offer>
+    <speed>Kelajuan</speed>
+    <speed_adjusts_precode_hint>Pelarasan kelajuan yang lebih besar daripada %sx memerlukan prapengekodan.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>Kelajuan melebihi 10x boleh menyebabkan audio asal hilang.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>Tidak perlu melakukan prakod semula di zon hijau.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Jangan kunci skrin atau beralih ke aplikasi lain.</speed_precode_warning_hint>
+    <split>Berpecah</split>
+    <spring_festival_pro_title>Jualan Tahun Baru Imlek diskaun 50%</spring_festival_pro_title>
+    <standard>Standard</standard>
+    <start_over>MULA SEMULA</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>anda belum memuat turun pelekat</sticker_empty>
+    <sticker_text>Sticker</sticker_text>
+    <stickers>Pelekat</stickers>
+    <strength>Kekuatan</strength>
+    <style>Gaya</style>
+    <subscription_detail>"
+
+- Dengan langganan InShot Pro Tanpa Had, anda mempunyai akses ke semua ciri dan bahan pengeditan berbayar termasuk pelekat, pakej penapis dsb. Tera air dan iklan akan dialih keluar secara automatik. 
+
+- Langganan InShot Pro Tanpa Had dibilkan secara bulanan atau tahunan pada kadar yang sepadan dengan pelan yang dipilih. Seain itu, pembayaran satu kali akan ditawarkan jika perlu, iaitu bukan salah satu pelan langganan. 
+
+- Pembayaran akan dikenakan caj ke Akaun Google Play semasa pengesahan pembelian. 
+
+- Langganan diperbaharui secara automatik kecuali pembaharuan auto dimatikan sekurang-kurangnya 24 jam sebelum berakhirnya tempoh semasa. 
+
+- Akaun akan dikenakan caj kerana pembaharuan dalam masa 24 jam sebelum berakhirnya tempoh semasa dan mengenal pasti kos pembaharuan. 
+
+- Langganan boleh diuruskan oleh pengguna dan pembaharuan auto boleh dimatikan dengan pergi ke Tetapan Akaun pengguna selepas pembelian. 
+
+- Sebarang bahagian tempoh percubaan percuma yang tidak digunakan, jika ditawarkan, akan terbatal apabila pengguna membeli langganan kepada penerbitan tersebut, jika berkenaan."</subscription_detail>
+    <subscription_detail_1>"
+
+- Dengan langganan InShot Pro Tanpa Had, anda mempunyai akses ke semua ciri dan bahan pengeditan berbayar termasuk pelekat, pakej penapis dsb. Iklan akan dialih keluar secara automatik. 
+
+- Langganan InShot Pro Tanpa Had dibilkan secara bulanan atau tahunan pada kadar yang sepadan dengan pelan yang dipilih. Seain itu, pembayaran satu kali akan ditawarkan jika perlu, iaitu bukan salah satu pelan langganan. 
+
+- Pembayaran akan dikenakan caj ke Akaun Google Play semasa pengesahan pembelian. 
+
+- Langganan diperbaharui secara automatik kecuali pembaharuan auto dimatikan sekurang-kurangnya 24 jam sebelum berakhirnya tempoh semasa. 
+
+- Akaun akan dikenakan caj kerana pembaharuan dalam masa 24 jam sebelum berakhirnya tempoh semasa dan mengenal pasti kos pembaharuan. 
+
+- Langganan boleh diuruskan oleh pengguna dan pembaharuan auto boleh dimatikan dengan pergi ke Tetapan Akaun pengguna selepas pembelian. 
+
+- Sebarang bahagian tempoh percubaan percuma yang tidak digunakan, jika ditawarkan, akan terbatal apabila pengguna membeli langganan kepada penerbitan tersebut, jika berkenaan."</subscription_detail_1>
+    <subscription_terms>Pembelian ini hanya dapat digunakan pada sistem Android. Pembayaran dicaj melalui Google Play Store pada pengesahan pembelian. Langganan diperbaharui secara automatik pada akhir tempoh semasa, melainkan dibatalkan 24 jam lebih awal, dan pembatalan langganan berlaku pada akhir tempoh semasa. Anda boleh menguruskan langganan dan menyahaktifkan pembaharuan automatik dari tetapan akaun Gedung Google Play. Langganan yang dibatalkan semasa tempoh percubaan tidak akan dikenakan.</subscription_terms>
+    <subscription_terms_cn>Langgan InShot Pro, anda boleh menggunakan semua ciri dan bahan penyuntingan. Tanda air dan iklan akan dikeluarkan secara automatik. InShot Pro tidak diperbaharui secara automatik, sila perbaharui secara manual sebelum akhir tempoh semasa. Langganan tidak dapat dipindahkan antara peranti Android dan iOS. Sekiranya anda membelinya pada peranti iOS, anda masih perlu membelinya pada peranti Android. Setelah anda melanggan InShot Pro, tidak akan ada pembatalan atau pengembalian dana, sila tentukan dengan teliti sebelum membeli.</subscription_terms_cn>
+    <subscription_terms_cn_1>Langgan InShot Pro, anda boleh menggunakan semua ciri dan bahan penyuntingan. Iklan akan dikeluarkan secara automatik. InShot Pro tidak diperbaharui secara automatik, sila perbaharui secara manual sebelum akhir tempoh semasa. Langganan tidak dapat dipindahkan antara peranti Android dan iOS. Sekiranya anda membelinya pada peranti iOS, anda masih perlu membelinya pada peranti Android. Setelah anda melanggan InShot Pro, tidak akan ada pembatalan atau pengembalian dana, sila tentukan dengan teliti sebelum membeli.</subscription_terms_cn_1>
+    <subscription_terms_hw>Pembelian di AppGallery hanya dapat dilakukan melalui HUAWEI IAP. Pembayaran akan dikenakan ke akaun anda setelah pengesahan pembelian. Langganan diperbaharui secara automatik selepas akhir tempoh semasa, dan mengenal pasti kos pembaharuan. Anda boleh menguruskan langganan dan mematikan pembaharuan automatik dari tetapan akaun AppGallery anda. Langganan yang dibatalkan semasa percubaan percuma tidak akan dikenakan bayaran.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>Pembelian di AppGallery hanya dapat dilakukan melalui HUAWEI IAP. Pembayaran akan dikenakan ke akaun anda pada pengesahan pembelian. Anda boleh menghubungi Perkhidmatan Pelanggan Huawei untuk membatalkan pembelian dalam masa 14 hari setelah anda menerima pengesahan pesanan. Langganan diperbaharui secara automatik selepas akhir tempoh semasa. Anda boleh menguruskan langganan dan mematikan pembaharuan automatik dari tetapan akaun AppGallery anda.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>Pembelian di AppGallery hanya dapat dilakukan melalui HUAWEI IAP. Pembayaran akan dikenakan ke akaun anda pada pengesahan pembelian. Anda boleh menghubungi Perkhidmatan Pelanggan Huawei untuk membatalkan pembelian dalam masa 7 hari setelah anda menerima pengesahan pesanan. Langganan diperbaharui secara automatik selepas akhir tempoh semasa. Anda boleh menguruskan langganan dan mematikan pembaharuan automatik dari tetapan akaun AppGallery anda.</subscription_terms_hw_ru>
+    <subscription_title>Langganan InShot Pro Tanpa Had</subscription_title>
+    <super1>SUPER</super1>
+    <support_musician>Untuk menyokong pemuzik, sila tambahkan maklumat muzik dalam perihalan video anda.</support_musician>
+    <sure>Okey</sure>
+    <swap>swap</swap>
+    <swap_order_hint>Tekan lama dan seret untuk menukar pesanan</swap_order_hint>
+    <switch_account>Tukar akaun</switch_account>
+    <tags>Tags</tags>
+    <tags_policies>Kami mengalih keluar semua tanda tidak relevan kerana beberapa dasar.</tags_policies>
+    <take_video>Video</take_video>
+    <tap_permissions>2.Kebenaran Ketik</tap_permissions>
+    <template>templat</template>
+    <terms_of_use>Syarat penggunaan</terms_of_use>
+    <text>Teks</text>
+    <text_spacing>Jarak teks</text_spacing>
+    <then>Kemudian</then>
+    <time_24_hours>%s jam sahaja</time_24_hours>
+    <time_limited_offer>Tawaran masa terhad</time_limited_offer>
+    <tint>Tint</tint>
+    <tip>Petua</tip>
+    <tip_close_ad_personalization>Setelah menyahdayakan pilihan, anda mungkin melihat beberapa iklan yang tidak berkaitan.</tip_close_ad_personalization>
+    <title_optout_ads>Menyisih daripada iklan berdasarkan minat</title_optout_ads>
+    <too_many_pip_tip>Terlalu banyak lapisan boleh menyebabkan lengah atau ralat menyimpan.</too_many_pip_tip>
+    <total>Jumlah</total>
+    <track_count>%d TREK</track_count>
+    <tracks>Trek</tracks>
+    <transition>Peralihan</transition>
+    <transition_prompt>Menambah atau mengubah suai peralihan akan mengubah tempoh video</transition_prompt>
+    <trim>Trim</trim>
+    <trim_clip_help_tip>Potong video dan selaraskan tempoh foto</trim_clip_help_tip>
+    <trim_music>Muzik Trim</trim_music>
+    <turn_off>Matikan</turn_off>
+    <turn_off_tags_context>Matikan tag pilihan, dan anda boleh menghidupkannya dalam menu tetapan.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>Matikan</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3.Melukar Mikrofon</turn_on_microphone>
+    <turn_on_storage>3. Hidupkan Storan dan Kamera</turn_on_storage>
+    <type_something>taipkan Sesuatu</type_something>
+    <un_select>Nyahpilih</un_select>
+    <undo>Buat asal</undo>
+    <undo_reversed>Buat Asal Undur</undo_reversed>
+    <unlock>Buka kunci</unlock>
+    <unlock_all_features>Buka kunci semua ciri</unlock_all_features>
+    <unlock_for_free>Membuka kunci Untuk PercumaE</unlock_for_free>
+    <unlock_for_sticker_tip>Menonton iklan video untuk mendapatkan pek ini secara percuma</unlock_for_sticker_tip>
+    <unlock_the_features>Buka kunci ciri</unlock_the_features>
+    <unsupported_file_format>Format fail yang tidak disokong</unsupported_file_format>
+    <update>Kemaskini</update>
+    <update_files>Mengemaskinikan fail</update_files>
+    <use>MENGGUNAKAN</use>
+    <user_cancel>Dibatalkan</user_cancel>
+    <valid_for>Sah selama %s</valid_for>
+    <valid_for_days>sah selama %s hari</valid_for_days>
+    <valid_for_hours>sah selama %s jam</valid_for_hours>
+    <value>Nilai</value>
+    <video>Video</video>
+    <video_background_convert_finished_hint>Video anda menukar dilakukan!</video_background_convert_finished_hint>
+    <video_beginning>Permulaan video</video_beginning>
+    <video_compress>Mampatan video</video_compress>
+    <string name="video_compress_description" formatted="false">Video yang lebih tinggi daripada %s akan dimampatkan secara automatik menjadi %s.</string>
+    <video_continue_convert_hint>InShot sedang meneruskan menukarkan…</video_continue_convert_hint>
+    <video_conversion_failure>Kegagalan penukaran Video</video_conversion_failure>
+    <video_convert_failed_hint>Gagal untuk menukar video, sila cuba lagi!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Gagal untuk menukar video, sila cuba video lain!</video_convert_failed_hint2>
+    <video_cut_bar_duration>jumlah:</video_cut_bar_duration>
+    <video_end>Akhir video</video_end>
+    <video_less_than_one_second_not_allow>Tidak dapat memuat naik video kurang dari %s.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Klik thumbnail untuk lebih banyak pilihan</video_more_option_hint2>
+    <video_not_support>Video tidak disokong pada peranti ini. Anda boleh terus menggunakan ciri-ciri gambar.</video_not_support>
+    <video_not_support_detail>Video ciri tidak terdapat pada peranti ini kerana %s. Anda boleh terus menggunakan ciri-gambar.</video_not_support_detail>
+    <video_not_support_reasons_one>Android versi lebih rendah daripada 4.0</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU tidak ARM v7 serasi dengan Neon</video_not_support_reasons_two>
+    <video_not_support_title_one>Video tidak serasi</video_not_support_title_one>
+    <video_not_support_title_two>Hardware tidak serasi</video_not_support_title_two>
+    <video_only>Video Sahaja</video_only>
+    <video_quality_customize>Menyesuaikan</video_quality_customize>
+    <video_quality_normal>biasa</video_quality_normal>
+    <video_quality_recommend>Mengesyorkan</video_quality_recommend>
+    <video_replace_trim_info>Seret untuk memilih bahagian.</video_replace_trim_info>
+    <video_resolution>Resolusi Video</video_resolution>
+    <video_setting>Tetapan Video</video_setting>
+    <video_sharing_progress_title1>inisialisasi…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>menukar video…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>membatalkan…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>Anda hanya boleh menambah sehingga 20 item teks.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">Hanya menyokong video yang melebihi %s(>%s)</string>
+    <video_too_short_after_cut_hint>Tempoh video adalah terlalu pendek.</video_too_short_after_cut_hint>
+    <vignette>Skets</vignette>
+    <voice_effect>Kesan Suara</voice_effect>
+    <voice_effect_support>Hanya menyokong audio rakaman/diimport</voice_effect_support>
+    <volume>Kelantangan</volume>
+    <warmth>Kehangatan</warmth>
+    <warning>Amaran</warning>
+    <watch>tonton</watch>
+    <what_new_audio_draft>SIMPAN DRAF VIDEO</what_new_audio_draft>
+    <what_new_audio_track>PELBAGAI TREK MUZIK</what_new_audio_track>
+    <what_new_crop_video>VIDEO TANAMAN</what_new_crop_video>
+    <what_new_cut>Potong &amp; Pisah Video</what_new_cut>
+    <what_new_music>MUZIK VLOG YANG POPULAR</what_new_music>
+    <what_new_special_effects_filters_vol1>PENAPIS KESAN KHAS VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>MOD KOLAJ LEBIH BAIK</what_news_collage>
+    <what_news_filter>PENAPIS UNTUK MOD VIDEO</what_news_filter>
+    <what_news_thanksgiving>TERIMA KASIH SAYANG</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Tambah skrin kosong</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Corak latar belakang</whats_new_background_pattern>
+    <whats_new_beats_effects>Kesan pukulan</whats_new_beats_effects>
+    <whats_new_blend>PIP - Campur</whats_new_blend>
+    <whats_new_brand_music>Antaramuka Muzik Baru</whats_new_brand_music>
+    <whats_new_create_gifs>Cipta GIF</whats_new_create_gifs>
+    <whats_new_customer_color>Warna tersuai</whats_new_customer_color>
+    <whats_new_cutout>Potongan pelekat tersuai</whats_new_cutout>
+    <whats_new_cutout_outline>Keratan dan garis luar foto</whats_new_cutout_outline>
+    <whats_new_effect>Garis masa kesan</whats_new_effect>
+    <whats_new_effect_retro2>Kesan Baharu - Retro2</whats_new_effect_retro2>
+    <whats_new_effect_split>Kesan Baharu_Berpecah</whats_new_effect_split>
+    <whats_new_fade_base>Kesan Baru-Asas,Pudar</whats_new_fade_base>
+    <whats_new_filter_fresh>Penapis Baharu_Segar</whats_new_filter_fresh>
+    <whats_new_frame_rate>Kadar Bingkai Baru</whats_new_frame_rate>
+    <whats_new_freeze_tool>Alat beku</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>Pelarasan HSL</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Item melekat ke bingkai</whats_new_item_frame>
+    <whats_new_magnifier>Pelekat Pembesar</whats_new_magnifier>
+    <whats_new_mask>Topeng Untuk PIP</whats_new_mask>
+    <whats_new_material>Perpustakaan bahan baharu</whats_new_material>
+    <whats_new_music_fade_in_and_out>Muzik pudar di &amp; disparaître</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Album Baru</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Kesan &amp; peralihan baru</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Kesan Baharu - Filem</whats_new_new_effect_film>
+    <whats_new_new_filters>Penapis Baru</whats_new_new_filters>
+    <whats_new_new_transition>Peralihan Baharu - Kertas koyak</whats_new_new_transition>
+    <whats_new_pip>PIP - Hamparan Video</whats_new_pip>
+    <whats_new_smooth>Gerak Perlahan Lancar untuk Pelarasan Kelajuan</whats_new_smooth>
+    <whats_new_speed_curve>Lengkungan Kelajuan</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Praset Keluk Kelajuan</whats_new_speed_curve_preset>
+    <whats_new_store>Kedai bahan baharu</whats_new_store>
+    <whats_new_text_animation>Animasi teks baharu</whats_new_text_animation>
+    <whats_new_transition_film>Peralihan Baharu - Filem</whats_new_transition_film>
+    <whats_new_video_full_screen>Pratonton video dalam skrin penuh</whats_new_video_full_screen>
+    <whats_new_voice_effect>Kesan Suara</whats_new_voice_effect>
+    <whatsnew_advance_timeline>GARIS MASA VIDEO MAJU</whatsnew_advance_timeline>
+    <whatsnew_christmas>MUZIK UNTUK CHRISTMAS</whatsnew_christmas>
+    <whatsnew_color_pallette>Palet warna baru</whatsnew_color_pallette>
+    <whatsnew_font_style>GAYA FON BARU</whatsnew_font_style>
+    <whatsnew_loop_animation>Animasi Gelung</whatsnew_loop_animation>
+    <whatsnew_music>MUZIK BARU</whatsnew_music>
+    <whatsnew_recording>Rakaman</whatsnew_recording>
+    <whatsnew_slide>CAMPURKAN VIDEO DENGAN FOTO</whatsnew_slide>
+    <whatsnew_sound_effects>Kesan bunyi</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Muzik, Teks &amp; Pelekat Berpecah</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>ANIMASI PELEKAT</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>ANIMASI PELEKAT DAN TEKS</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>ANIMASI TEKS</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Draf tanpa had</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot foto</widgetphoto>
+    <widgetvideo>InShot Video</widgetvideo>
+    <year>Tahun</year>
+    <yes>Ya</yes>
+    <you_are_not_login>Anda belum log masuk.</you_are_not_login>
+    <you_will_still_see_ads>Anda masih akan melihat iklan, tetapi iklan tersebut mungkin tidak berdasarkan minat anda.</you_will_still_see_ads>
+    <zoom>Zoom</zoom>
+    <zoom_selection>PEMILIHAN ZUM</zoom_selection>
+</resources>

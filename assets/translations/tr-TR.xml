@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro ayrıntıları</InShot_detail>
+    <abc_action_bar_home_description>Eve gidiş yolunu göster</abc_action_bar_home_description>
+    <abc_action_bar_up_description>Yukarı git</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>Diğer seçenekler</abc_action_menu_overflow_description>
+    <abc_action_mode_done>Bitti</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>Tümünü göster</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>Bir uygulama seçin</abc_activitychooserview_choose_application>
+    <abc_capital_off>KAPAT</abc_capital_off>
+    <abc_capital_on>AÇ</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>sil</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Üst Karakter+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>boşluk</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menü+</abc_prepend_shortcut_label>
+    <abc_search_hint>Ara…</abc_search_hint>
+    <abc_searchview_description_clear>Sorguyu temizle</abc_searchview_description_clear>
+    <abc_searchview_description_query>Arama sorgusu</abc_searchview_description_query>
+    <abc_searchview_description_search>Ara</abc_searchview_description_search>
+    <abc_searchview_description_submit>Sorguyu gönder</abc_searchview_description_submit>
+    <abc_searchview_description_voice>Sesli arama</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>Şununla paylaş:</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>%s ile paylaş</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>Daralt</abc_toolbar_collapse_description>
+    <account>Hesap</account>
+    <acknowledge>Teşekkür</acknowledge>
+    <action_settings>Ayarlar</action_settings>
+    <actual_price_year_format>%s/yıl için satın</actual_price_year_format>
+    <ad_personalization>Reklam Kişiselleştirme</ad_personalization>
+    <ad_personalization_tip>"Çerezler, web sunucusu tarafından cihazınızda oluşturulan metin dosyalarıdır. Daha iyi bir hizmet sunmak için, bu ürünün kullanımı hakkında bilgi toplamak ve depolamak için cihazınıza bir veya daha fazla tanımlama bilgisi göndermek için ilgili teknolojileri kullanabiliriz.
+
+InShot reklam verenleri olarak Admob, Mopub, Vungle, Facebook, Smaato, myTarget, ürünlerimizi ve hizmetlerimizi kullanımınız sırasında oluşturulan bilgileri toplayabilir, tercihlerinizi çıkarabilir ve bunları size bireysel ihtiyaçlarınıza daha uygun reklamlar göstermek için kullanabilir. Hiçbir kullanıcının verilerini Facebook veya diğer taraflarla paylaşmıyoruz (BBC &amp; Privacy International tarafından doğrulanmıştır).
+
+Verileri anonimleştirmek için teknik araçlar kullanacağız ve anonimleştirilmiş bilgiler konuyu tanımlayamayacaktır. Kişiselleştirilmiş görüntüyle ilgilenmiyorsanız, Ayarlar-Reklam Kişiselleştirme aracılığıyla kişiselleştirilmiş içeriğin görüntülenmesini kapatabilirsiniz. Bu seçeneği kapattıktan sonra reklamları görmeye devam edebileceğinizi ancak reklamların alaka düzeyinin azalacağını lütfen unutmayın."</ad_personalization_tip>
+    <add>Ekle</add>
+    <add_favorite>Favorilerinize ekleyin</add_favorite>
+    <adjust>Ayarlama</adjust>
+    <agree>Kabul</agree>
+    <album>ALBÜM</album>
+    <album_sleepless_desc>Herkese açık paylaştığınızda videonun açıklamasına aşağıdaki bilgileri eklediğinizden emin olun.</album_sleepless_desc>
+    <all>Tümü</all>
+    <all_inclusive>Her şey dahil</all_inclusive>
+    <all_original_files_miss_in_draft>"Taslak zarar görmüş, tüm orijinal dosyalar eksik. 
+
+Orijinal dosyaların [Son Silinen/Çöp Kutusu]'ndan kurtarılması bu taslağı düzeltebilir."</all_original_files_miss_in_draft>
+    <all_premium>Tüm Premium Filtrelere, Efektlere, Çıkartmalara, Yazı Tiplerine erişim. Filigran yok, reklam yok.</all_premium>
+    <all_premium_1>Tüm Premium Filtrelere, Efektlere, Çıkartmalara, Yazı Tiplerine erişim. Reklam yok.</all_premium_1>
+    <allow_camera_access>Kamera erişimine izin ver</allow_camera_access>
+    <allow_record_access>Mikrofon erişimine izin ver</allow_record_access>
+    <allow_record_access_hint>InShot, ses kaydı için mikrofon iznini gerektirir.</allow_record_access_hint>
+    <allow_storage_access>Depolama Erişimine İzin Ver</allow_storage_access>
+    <allow_storage_access_hint>Güzel videolar ve fotoğraflar yapmak için lütfen fotoğraf kitaplığınıza erişmek için InShot izni verin.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>Güzel videolar ve fotoğraflar yapmak için lütfen fotoğraf kitaplığınıza ve kamerayı erişmek için InShot izni verin.</allow_storage_camera_access_hint>
+    <already_InShot_pro>Zaten bir InShot Pro üyesisiniz</already_InShot_pro>
+    <already_purchased>Zaten satın alındı mı?</already_purchased>
+    <angle>Açı</angle>
+    <animation_in>ÇIKIŞ</animation_in>
+    <animation_out>GİRİŞ</animation_out>
+    <animation_stickers>Animasyon çıkartmaları</animation_stickers>
+    <app_latest_version_available_title>En son sürüm kullanılabilir (%s)</app_latest_version_available_title>
+    <app_latest_version_title>En son sürümü kullanıyorsunuz!</app_latest_version_title>
+    <app_not_installed_content>%s indirin veya diğer uygulamalar ile paylaşın</app_not_installed_content>
+    <app_not_installed_download_app>%s İNDİR</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>DİĞERLERİ İLE PAYLAŞ</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s kurulu değil</app_not_installed_title>
+    <app_wall_entrance_action>ÇIKIŞ YAP</app_wall_entrance_action>
+    <app_wall_entrance_title>Bugünkü en popüler uygulamalar</app_wall_entrance_title>
+    <apply_to_all>Hepsine başvur</apply_to_all>
+    <apply_to_all_clips>Tüm kliplere uygula</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>Ses süresi çok kısa.</audio_too_short_after_cut_hint>
+    <authorization>YETKI</authorization>
+    <background>ARKA PLAN</background>
+    <background_color>Arka plan Rengi</background_color>
+    <basic>TEMEL</basic>
+    <basic_animation>TEMEL</basic_animation>
+    <beats>Ritmi</beats>
+    <billing_unavailable>Herhangi bir Google Play hesabı oluşturmadınız.</billing_unavailable>
+    <billing_unavailable_hw>Bir Huawei hesabı oluşturmadınız.</billing_unavailable_hw>
+    <blank>Boş</blank>
+    <blend>Karıştır</blend>
+    <blocked>Tıkalı</blocked>
+    <blur>Bulanıklık</blur>
+    <blur_background>Bulanık Arka plan</blur_background>
+    <blur_bg>BULANIK AP</blur_bg>
+    <blur_bg_custom_hint>Kendi fotoğrafınızı arka plan olarak kullanın</blur_bg_custom_hint>
+    <blur_bg_options_merged>Bulanıklık ve arka plan seçenekleri birleştirildi</blur_bg_options_merged>
+    <blur_off>Kapalı</blur_off>
+    <blur_on>Açık</blur_on>
+    <border>Kenar</border>
+    <brush>fırçala</brush>
+    <buy>Satın al</buy>
+    <can_not_add_more_tracks>Daha fazla parça eklenemiyor</can_not_add_more_tracks>
+    <can_not_add_tracks>Buraya parça eklenemiyor</can_not_add_tracks>
+    <cancel>İptal</cancel>
+    <cancel_save_video_dlg_btn_no>HAYIR</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>EVET</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>Video dönüştürme işlemini iptal etmek mi istiyorsunuz?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>Uyarı</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>Bu klip, geçişi uygulamak için çok kısa.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>1 dakikadan daha uzun süreli GIF kaydedilemez. Lütfen biçimi değiştir veya Gif süresini kısalt.</cannot_save_gif_over_one_minute>
+    <canvas>Tuval</canvas>
+    <celebrate>Kutlamak</celebrate>
+    <change_beginning_too_short>Süre video/klip başına gitmek için çok kısa</change_beginning_too_short>
+    <change_end_too_short>Süre video/klip sonuna gitmek için çok kısa</change_end_too_short>
+    <change_language_title>Dil Seçin</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>"Instagram'a video yükleme işlemi başarısız olduysa ve ağda bir sorun yoksa, lütfen MPEG-4 dosya türünü deneyin. Varsayılan H.264, daha kaliteli ve küçük boyutta."</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>Video Kodçözücüsünü Değiştir</change_video_codec_dialog_title>
+    <character>Karakter</character>
+    <check>Kontrol</check>
+    <choose_pay_method>Ödeme türünü seçin</choose_pay_method>
+    <choose_video_quality_hint>Kalite</choose_video_quality_hint>
+    <chroma>Kroma</chroma>
+    <classic>klasik</classic>
+    <clear>Temizle</clear>
+    <string name="clear_cache_content">Temizleme sonrası &lt;b>%s&lt;/b> depolama alanı kazanılacak. Bu işlem taslağınızı etkilemeyecek, devam edilsin mi?</string>
+    <clearing>Temizliyor…</clearing>
+    <click_here>Beni tıkla</click_here>
+    <click_track_tip>Müziği düzenlemek ve video sesini ayarlamak için zaman çizelgesine tıklayın.</click_track_tip>
+    <clip_beginning>Klip başlangıcı</clip_beginning>
+    <clip_end>Klip sonu</clip_end>
+    <clip_mute_adjust_volume_retry>Lütfen sesi aç ve tekrar dene</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>Toplam süre kısaltılacak ve zaman çizelgesi buna göre değişecektir.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>Yeni klip mevcut klipten kısa.</clip_replace_shorter_title>
+    <clip_reversed>Klip Ters Çevrildi</clip_reversed>
+    <clip_video_tip>Videonuzu içe aktarmanız gereken uzunluğa uygun bir hale getirin.</clip_video_tip>
+    <collage>Kolaj</collage>
+    <collage_long_press_swap_photo>Fotoğrafları değiştirmek için uzun basın.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>En fazla 9 fotoğraf seçebilirsiniz!</collage_select_photo_limit_hint>
+    <collage_swap_photo>Değiştirmek için üzerine tıklayın</collage_swap_photo>
+    <color>Renk</color>
+    <color_palette>Renk paleti</color_palette>
+    <common_google_play_services_enable_button>Etkinleştir</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Google Play hizmetlerini etkinleştirin</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>Yükle</common_google_play_services_install_button>
+    <common_google_play_services_install_text>%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Google Play hizmetlerini edinin</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Google Play hizmetlerinin kullanılabilirliği</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Google Play Hizmetleri hatası</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>Güncelle</common_google_play_services_update_button>
+    <common_google_play_services_update_text>Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Google Play hizmetlerini güncelleyin</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>Telefonda aç</common_open_on_phone>
+    <common_signin_button_text>Oturum aç</common_signin_button_text>
+    <common_signin_button_text_long>"Google'da oturum aç"</common_signin_button_text_long>
+    <contact_creator>İçerik oluşturucuyla iletişime geçin</contact_creator>
+    <continue_buy>Bir yıl boyunca yenilendikten sonra InShot Pro %s tarihine kadar genişletilecek</continue_buy>
+    <continue_title>Devam Et</continue_title>
+    <contrast>Kontrast</contrast>
+    <convert_failed>dönüştürme başarısız</convert_failed>
+    <copied>kopyaladığınız</copied>
+    <copy>Kopyala</copy>
+    <crop>Kesip</crop>
+    <curve>Eğriler</curve>
+    <custom_background>Arka planı özelleştirme</custom_background>
+    <custom_sticker>Videodaki görüntüleri kaplama</custom_sticker>
+    <cut>Kes</cut>
+    <cut_both_ends>KIRP</cut_both_ends>
+    <cut_import>Ithal etmek</cut_import>
+    <cut_video>Videoyu kes</cut_video>
+    <cutout>Kesmek</cutout>
+    <day_free_trial>%s gün ücretsiz deneme</day_free_trial>
+    <days_left>%d gün kaldı</days_left>
+    <delete>Sil</delete>
+    <delete_confirm_dialog_content>Silmek istiyor musunuz?</delete_confirm_dialog_content>
+    <delete_drafts_note>Lütfen unutmayın, silinen taslaklar kurtarılamaz!</delete_drafts_note>
+    <delete_material_tip>Malzeme silimi taslakları etkileyecek!</delete_material_tip>
+    <denoise>Gürültü Giderme</denoise>
+    <detail>Detay</detail>
+    <detail_mosaic>Detay</detail_mosaic>
+    <directories>Dizini</directories>
+    <disable_follow>Devre dışı bırak</disable_follow>
+    <discard_edit_dlg_confirm>İPTAL ET</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>Düzenleme iptal edilsin mi?</discard_edit_dlg_title>
+    <discount>İndirim</discount>
+    <discount_format>%s indirim</discount_format>
+    <dissolve>ÇÖZ</dissolve>
+    <distort>Bozmak</distort>
+    <do_not_use_tags>Etiketler kullanılmasın mı?</do_not_use_tags>
+    <donate>BAĞIŞ</donate>
+    <done>Bitti</done>
+    <double_click_reset_zoom>Geri almak için iki kez tıklayın</double_click_reset_zoom>
+    <download>Indir</download>
+    <download_failed>Yükleme başarısız!</download_failed>
+    <download_video_progress_title>… sunucusundan video yükleniyor</download_video_progress_title>
+    <draft>TASLAK</draft>
+    <draft_clip_missing_tip>Bazı klipler taslak olarak yüklenemedi çünkü orijinal dosyaları artık mevcut değil.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>Devam etmek için lütfen diğer öğelerle değiştirmeyi deneyin.</draft_clip_missing_tip1>
+    <draft_corrupted>Taslağın bazı unsurları eksik.</draft_corrupted>
+    <draft_delete_video_hint>Orijinal videoyu silmek taslak dosyasına zarar verecektir.</draft_delete_video_hint>
+    <draft_load_err>Yükleme Hatası</draft_load_err>
+    <draft_open_hint>Yeni bir video projesine başladıktan sonra, taslağınız değiştirilecek.</draft_open_hint>
+    <draft_saved>Taslak kaydedildi</draft_saved>
+    <drafts>%s TASLAK</drafts>
+    <drafts_not_backward_compatible>Uygulama sürümü taslakları açmak için çok düşük.</drafts_not_backward_compatible>
+    <drag_to_swap>Sürükleyip değiştirin</drag_to_swap>
+    <duplicate>Tekrarla</duplicate>
+    <duration>Süre</duration>
+    <edit>Düzenle</edit>
+    <edit_music_dialog_music_volume>Müzik ses seviyesi</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>Video Büyüklüğü</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>Ses seviyesini düzenle</edit_music_dialog_title>
+    <edit_volume_fade_out>Soluklaştır</edit_volume_fade_out>
+    <edit_with_inshot>InShot ile düzenleyin:</edit_with_inshot>
+    <effect>Efekt</effect>
+    <effect_count>%d EFEKT</effect_count>
+    <effects>Efektler</effects>
+    <emoji_activity_category>FAALİYET</emoji_activity_category>
+    <emoji_animals_category>HAYVANLAR</emoji_animals_category>
+    <emoji_celebration_category>KUTLAMA</emoji_celebration_category>
+    <emoji_dialy_category>GÜNLÜK</emoji_dialy_category>
+    <emoji_emotion_category>DUYGU</emoji_emotion_category>
+    <emoji_food_category>YEMEK</emoji_food_category>
+    <emoji_gesture_category>GESTURE</emoji_gesture_category>
+    <emoji_nature_category>DOĞA</emoji_nature_category>
+    <emoji_objects_category>NESNELER</emoji_objects_category>
+    <emoji_people_category>İNSANLAR</emoji_people_category>
+    <emoji_recent_category>SON</emoji_recent_category>
+    <emoji_smile_category>SURATLAR</emoji_smile_category>
+    <emoji_symbols_category>SEMBOLLER</emoji_symbols_category>
+    <emoji_transit_category>TRANSİT</emoji_transit_category>
+    <erase>sil</erase>
+    <error>Başarısız oldu! Lütfen tekrar deneyiniz!</error>
+    <examine_result>%d klip alınamıyor.</examine_result>
+    <exit>Çıkmak</exit>
+    <exit_app_discard_edit_warn>İptal etmek için tekrar basın</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>ÇIK</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>Kaydetmek için Kaydet butonuna tıklayın ve çalışmalarınızı kaydedin.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>Kaydetmeden çıkılsın mı?</exit_before_save_dlg_title>
+    <exit_tip>Çıkmak için tekrar basın</exit_tip>
+    <exo_controls_cc_disabled_description>Altyazıları etkinleştir</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>Altyazıları devre dışı bırak</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>İleri sar</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>Tam ekrana geç</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>Tam ekrandan çık</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>Oynatıcı kontrollerini gizle</exo_controls_hide>
+    <exo_controls_next_description>Sonraki</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>Ek ayarları gizle</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>Ek ayarları göster</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>Duraklat</exo_controls_pause_description>
+    <exo_controls_play_description>Çal</exo_controls_play_description>
+    <exo_controls_playback_speed>Hız</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>Normal</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>Önceki</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>Tümünü tekrarla</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>Hiçbirini tekrarlama</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>Birini tekrarla</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>Geri sar</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>Çalma ilerleme durumu</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>Ayarlar</exo_controls_settings_description>
+    <exo_controls_show>Oynatıcı kontrollerini göster</exo_controls_show>
+    <exo_controls_shuffle_off_description>Karıştırma kapalı</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>Karıştırma açık</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>Durdur</exo_controls_stop_description>
+    <exo_controls_vr_description>VR modu</exo_controls_vr_description>
+    <exo_download_completed>İndirme işlemi tamamlandı</exo_download_completed>
+    <exo_download_description>İndir</exo_download_description>
+    <exo_download_downloading>İndiriliyor</exo_download_downloading>
+    <exo_download_failed>İndirilemedi</exo_download_failed>
+    <exo_download_notification_channel_name>İndirilenler</exo_download_notification_channel_name>
+    <exo_download_removing>İndirilenler kaldırılıyor</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2f Mbps</exo_track_bitrate>
+    <exo_track_mono>Mono</exo_track_mono>
+    <exo_track_resolution>%1$d × %2$d</exo_track_resolution>
+    <exo_track_role_alternate>Alternatif</exo_track_role_alternate>
+    <exo_track_role_closed_captions>Altyazı</exo_track_role_closed_captions>
+    <exo_track_role_commentary>Anlatım</exo_track_role_commentary>
+    <exo_track_role_supplementary>Ek kanal</exo_track_role_supplementary>
+    <exo_track_selection_auto>Otomatik</exo_track_selection_auto>
+    <exo_track_selection_none>Yok</exo_track_selection_none>
+    <exo_track_selection_title_audio>Ses</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>Metin</exo_track_selection_title_text>
+    <exo_track_selection_title_video>Video</exo_track_selection_title_video>
+    <exo_track_stereo>Stereo</exo_track_stereo>
+    <exo_track_surround>Surround ses</exo_track_surround>
+    <exo_track_surround_5_point_1>5.1 surround ses</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1 surround ses</exo_track_surround_7_point_1>
+    <exo_track_unknown>Bilinmiyor</exo_track_unknown>
+    <extract>Ayıkla</extract>
+    <extract_audio>Sesi çıkar</extract_audio>
+    <extract_audio_from_video>Videodan ses ayıkla</extract_audio_from_video>
+    <extract_failed>Çıkarma başarısız oldu</extract_failed>
+    <extract_music_from_video>Videodan Kolay ve Hızlı müzik çıkartın</extract_music_from_video>
+    <fade>Solgunluk</fade>
+    <fade_in>Işikla aç</fade_in>
+    <fade_new>Solma</fade_new>
+    <failed_to_load_blur_image>Seçilen resim yüklenemedi, lütfen tekrar seçin!</failed_to_load_blur_image>
+    <failed_to_load_image>Oops! Görüntü yüklenemedi</failed_to_load_image>
+    <fast_motion>HıZLı HAREKET</fast_motion>
+    <favourite>Favori</favourite>
+    <featured>ÖNE ÇIKAN</featured>
+    <feedback_and_suggestion_hint>Görüş ve önerileriniz</feedback_and_suggestion_hint>
+    <feedback_not_now>ŞİMDİ DEĞİL</feedback_not_now>
+    <feedback_subject>"InShot'a geribildirim"</feedback_subject>
+    <feedback_submit>GÖNDER</feedback_submit>
+    <festival>Festival</festival>
+    <file_corrupted_description>"Dosya bozuk, lütfen resmi uygulama mağazası'den InShot'u tekrar kurun."</file_corrupted_description>
+    <file_corrupted_note>"Dosya bozuk, lütfen Google Play'den InShot'u tekrar kurun"</file_corrupted_note>
+    <file_corrupted_title>Değerli kullanıcı</file_corrupted_title>
+    <file_not_support>Bu dosya türü InShot tarafından desteklenmiyor.</file_not_support>
+    <film>Film</film>
+    <film_grain>FİLM Greni</film_grain>
+    <filter>FİLTRE</filter>
+    <filter_manage>Filtre Yönet</filter_manage>
+    <filter_not_supported_in_photo>Geçerli efekt paketi fotoğraflar için kullanılamıyor.</filter_not_supported_in_photo>
+    <filters>Filtreler</filters>
+    <first_month>İlk ay</first_month>
+    <first_year>İlk yıl</first_year>
+    <fit>SIĞDIR</fit>
+    <fit_bottom>Alt</fit_bottom>
+    <fit_fit>Sığdır</fit_fit>
+    <fit_full>Tam</fit_full>
+    <fit_left>Sol</fit_left>
+    <fit_original>Orjinal</fit_original>
+    <fit_right>Sağ</fit_right>
+    <fit_top>Üst</fit_top>
+    <flip>TERS ÇEVİR</flip>
+    <folder_cannot_write>Klasör yazılamıyor! Lütfen başka bir tane seçin.</folder_cannot_write>
+    <follow_ins_to_unlock>"Şunun için InShot'ı Instagram'da takip edin:"</follow_ins_to_unlock>
+    <follow_setting_title>Ögeler karede kalır</follow_setting_title>
+    <follow_tiktok_to_unlock>InShot TikTok Kanalına Abone Olun</follow_tiktok_to_unlock>
+    <follow_toggle_tip>Klip kırpıldıktan veya silindikten sonra ögeler (kayıt, ses efektleri, PIP, çıkartmalar, metinler, efektler) orijinal karede kalacaktır.</follow_toggle_tip>
+    <follow_toggle_tip_2>Klip kırpıldıktan veya silindikten sonra ögeler (PIP, çıkartmalar, metinler...) orijinal karede kalacaktır.</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>InShot hakkında en son haberleri almak için sosyal medyada bizi takip edin.</follow_us_fun_media_tip>
+    <follow_us_to>Bizi takip edin</follow_us_to>
+    <follow_youtube_to_unlock>"Şunun için InShot'ın YouTube Kanalına abone olun:"</follow_youtube_to_unlock>
+    <font>Yazı tipi</font>
+    <font_color>Yazı tipi rengi</font_color>
+    <font_copyright_des>Bu yazı sadece kişisel (ticari olmayan) kullanım içindir.</font_copyright_des>
+    <fonts>yazı</fonts>
+    <for_you>Sizin için</for_you>
+    <format>Formatı</format>
+    <frame>ÇERÇEVE</frame>
+    <frame_rate>Kare Hızı</frame_rate>
+    <free>ÜCRETSİZ</free>
+    <free_download>ÜCRETSİZ İNDİRİN</free_download>
+    <free_unlock>ÜCRETSİZ AÇ</free_unlock>
+    <freeze>Dondurmak</freeze>
+    <full_park_emoji>Tam emoji Paketi</full_park_emoji>
+    <gallery>Albüm</gallery>
+    <get>Al</get>
+    <gif_compress>GIF sıkıştırma</gif_compress>
+    <string name="gif_compress_description" formatted="false">"%s'den yüksek GIF otomatik olarak %s'ye sıkıştırılacaktır."</string>
+    <gif_supported_tip>GIF artık destekleniyor.</gif_supported_tip>
+    <give_5star>5 yıldız ver</give_5star>
+    <glitch>AKSAKLıK</glitch>
+    <go_setting>Ayarlar Git</go_setting>
+    <go_to_logout>InShot hesabını kalıcı olarak sil</go_to_logout>
+    <go_to_the_shop>dükkana git</go_to_the_shop>
+    <gps_not_installed>Lütfen Google Play hizmetinin en son sürümünü yüklediğinden emin ol.</gps_not_installed>
+    <gradient>Gradyan</gradient>
+    <grain>Tahıl</grain>
+    <has_no_photo_hint>Güzel kolaj oluşturmak için 1-9 fotoğraf seçin.</has_no_photo_hint>
+    <have_purchased>Satın aldınız!</have_purchased>
+    <help>Yardım</help>
+    <help_Keyframe_desc>Çıkartma/metin/PIP için animasyonun(yaklaştırma/hareket/rotasyon/saydamlık) başına ve sonuna kolayca işaretlemek için zaman çizgisinde bağımsız kare ekle.</help_Keyframe_desc>
+    <help_Keyframe_title>Anahtar kare</help_Keyframe_title>
+    <help_Keyframe_youtube_des>Katman için animasyon eklemek için bağımsız kare nasıl eklenir</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>Çıkartma menüsüne girin, albümlerden veya klasörlerden resimler aktarın.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>Şimdi artık GIF destekliyoruz.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>Özel çıkartmalar ekleyin</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>Müzik menüsüne girin.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"Müzik/ses efektleri/kayıt ses seviyesini ayarlamak için müzik zaman çizelgesine tıklayın;
+Orijinal video sesini ayarlamak için video klibe tıklayın."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>Ses seviyesini ayarlayın</help_adjust_audio_volume_title>
+    <help_adjust_volume>Video ses seviyesini ayarlamak için zaman çizelgesini tıklayın.</help_adjust_volume>
+    <help_animation_desc>Metin ve çıkartma için giriş/çıkış animasyonunu seçin.</help_animation_desc>
+    <help_animation_title>Giriş/çıkış animasyonunu seçin</help_animation_title>
+    <help_apply_to_all_desc>Tüm kliplere filtre, kenarlık genişliği, arka plan ya da ses seviyesi uygulamak için Hepsine başvur seçeneğini kullanın.</help_apply_to_all_desc>
+    <help_apply_to_all_title>Tüm kliplere düzenleme uygulayın</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>Atmosfer malzemeleri ve karıştır efektleri en iyi eşleşmedir.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>Atmosfer malzemeleri</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>Ücretsiz Katmanlar Nasıl Eklenir</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>Orijinal Ses Nasıl Ayarlanır</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>Sığdır menüsüne girin, video için arka plan oranını ayarlayın ya da video arka planını kaldırın.</help_background_ratio_desc>
+    <help_background_ratio_title>Video arka plan oranını değiştirin</help_background_ratio_title>
+    <help_background_ratio_youtube_des>Videonun Arkaplanı Nasıl Ayarlanır</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>Düzenlemek için bir parça seçin.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>Videonun sesini düzenlemek için buraya tıklayın</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"InShot Ayarına Girin
+\"Video Ayarı\" seçeneğine dokunun ve \"Ögeler karede kalır\" seçeneğini devre dışı bırakın."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>Bir klibi sildiğimde neden çıkartma/metin/efektler/PIPs/kayıtlar/ses efektleri de yok oluyor?</help_disable_stick_frame_title>
+    <help_edit_music>Müzik düzenlemek için tıklayın.</help_edit_music>
+    <help_edit_music_desc>Yerleştirilen müziği düzenlemek için üzerine tıklayın.</help_edit_music_desc>
+    <help_edit_music_title>Müzik düzenleyin</help_edit_music_title>
+    <help_extract_audio_desc>Müzik sekmesinde [Videodan ses ayıkla] a dokun ve ses çıkartmak için bir video içe aktar.</help_extract_audio_desc>
+    <help_extract_audio_title>Videodan ses ayıkla</help_extract_audio_title>
+    <help_extract_audio_youtube_des>Videolardan Nasıl Ses Çıkartılır</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"Tüm yerleşik müzikler müzisyenlerle lisans sözleşmeleri imzalamıştır.
+
+Bir telif hakkı bildirisi alırsanız ya da videonuz Instagram tarafından kaldırılırsa, lütfen \"Katılıyorum\" a dokunun ve adınızı imza olarak atın ve Temyiz'e dokunun."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>Lütfen endişe etmeyin, müzisyen sizi temyizde aktif olarak destekleyecektir ve videonuz 2–3 dakika içinde kurtarılacaktır.</help_faq_album_desc_2>
+    <help_faq_album_title>Müziğim Instagram tarafından kaldırılırsa ne yapacağım?</help_faq_album_title>
+    <help_faq_auto_update_dest>"Google Play hesabı yönetimine gidin, Ayarlar'a dokunun, Ağ Tercihleri altında Uygulamaları otomatik güncelle'ye dokunun."</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>InShot en son sürümle nasıl güncel tutulabilir?</help_faq_auto_update_title>
+    <help_faq_four_desc>Üzgünüz, silinen taslaklar kurtarılamaz. Gizlilik politikasına tamamen uyuyor ve hiçbir kullanıcının dosyasını saklamıyoruz.</help_faq_four_desc>
+    <help_faq_four_title>Bir taslağı sildikten sonra geri yükleyebilir miyim?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>Video kayıt işlemi sırasında, birçok ara dosya oluşturulur, kaydetme işlemi tamamlandığında bu dosyalar otomatik silinir. Bu sorunu çözmek için lütfen cihazınızda (hafıza kartı depolama alanında değil) daha fazla boş yer oluşturun.</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>Neden telefonumda yer olmasına rağmen hala yetersiz bellek uyarısı veriyor?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>Tüm yazı tipleri kendi ilgili lisanslarına sahiptir, lütfen kullanmadan önce dikkatlice göz atın. Bazı yazı tipleri yalnızca kişisel kullanım içindir.</help_faq_one_desc>
+    <help_faq_one_title>Dahili yazı tiplerini ticari amaçla kullanabilir miyim?</help_faq_one_title>
+    <help_faq_three_desc>Galerideki herhangi bir orijinal dosyayı silerseniz, ilgili taslaklar kaybolur ve açılamaz. Lütfen Dosyaları Son Silinenler albümünden kurtarmayı deneyin.</help_faq_three_desc>
+    <help_faq_three_title>Neden \"Taslak hasarlı\" veya \"Taslaktaki orijinal dosyalar eksik\" şeklinde bir hata mesajı gösteriliyor?</help_faq_three_title>
+    <help_faq_two_desc>"İçerik Kimliği şikayetleri telif hakkı grevleri, geçici olarak kanal durdurma veya kanalın kapatılması ile sonuçlanmaz. Genellikle şikayet sadece videoyu takip etmek veya paraya çevirmek içindir, engellemek için değildir. Bu yüzden videonuz bu şikayetlerle yayınlanmaya devam eder (ancak üzerinde reklamlar olabilir) ve yine de başkalarıyla paylaşabilirsiniz.
+
+İçerik Kimliği şikayetleri hakkında daha fazla bilgi için lütfen https://support.google.com/youtube/answer/7002106?hl=en adresine bakınız."</help_faq_two_desc>
+    <help_faq_two_title>Neden YouTube müzik telif hakkı talepleri aldım?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>Düzenleme</help_group_video_edit_title>
+    <help_import_fonts_desc>Telefonunda yazı tipi dosyaları olduğundan emin ol.Yazı tipleri içe aktarmak için içe aktar düğmesine dokun.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Android 11 üzeri kullanıcılar, lütfen yazı tipi içe aktarma seçeneğine tıklayın, dosya seçim sayfasına atlayın
+1.Sol üstteki düğmeye tıklayın, SDCard’ınızı seçin ve ardından dosya dizinini seçin."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.Üstteki arama çubuğuna tıklayın, yazı tipi adı veya TTF/OTF dosyalarını arayın.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>Yazı tipleri içe aktar</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>"InShot Android'te Yazı Tipleri Nasıl İçe Aktarılır"</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>"Lütfen Google Play Store'a gidin. Abonelikler menüsüne girin. İptal etmek istediğiniz aboneliği seçin."</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>Aboneliğimi nasıl yönetirim/iptal ederim?</help_manager_subscribe_title>
+    <help_mask_desc>PIP katmanına bir şekil maskesi ekleyin.</help_mask_desc>
+    <help_mask_title>PIP Maske</help_mask_title>
+    <help_mask_youtube_des>PIP Katmanı İçin Maske Nasıl Kullanılır</help_mask_youtube_des>
+    <help_merge_video_desc>Birleştirmek amacıyla videolar seçmek için\"+\"düğmesine tıklayın.</help_merge_video_desc>
+    <help_merge_video_title>Videoları birleştirin</help_merge_video_title>
+    <help_move_music>Konumu ayarlamak için uzun basın ve sürükleyin.</help_move_music>
+    <help_one_time_purchase_des>"Tek seferlik bir satın alma işlemi yaparsanız InShot'ın kalıcı premium sürümünü edinebilirsiniz. InShot yeni özel düzenleme malzemeleri veya özellikleri eklese bile gelecekte tekrar satın alma işlemi yapmanıza gerek yoktur."</help_one_time_purchase_des>
+    <help_one_time_purchase_title>Bir Kez Satın Alma Nedir?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>Kesiminize arka plan eklemek için \"ARKA PLAN\" seçeneğine dokunun</help_photo_cutout_desc>
+    <help_photo_cutout_title>Fotoğraf Kesimi</help_photo_cutout_title>
+    <help_pip_chroma_desc>"Herhangi bir rengi örnekleyin ve kaldırın.
+1. Renk seçici aracını kullanıp kaldırmak istediğiniz rengi seçin.
+2. Daha iyi hâle getirmek için gücü ve gölgeyi ayarlayın"</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP Kroma</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>Kroma ile Yeşil Ekran Arka Planı Nasıl Kaldırılır (InShot Eğitimi)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>"1. Lütfen Google Play'e gidin, sağ üst köşedeki hesap simgesine tıklayın."</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. Satın alımın yapıldığı hesap dışındaki diğer hesapları geçici olarak kaldırın ve satın alımı InShot Ayarlarından tekrar geri yüklemeyi deneyin.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>"2. Oturum açılmış birden çok Google hesabı varsa, Hesapları Yönet'e tıklayın."</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>Doğru Google Play hesabında oturum açtıktan sonra neden satın alımı geri yükleyemedim?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>Lütfen cihaz ayarlarınızda InShot verilerini temizlemeyi deneyin ve sonra InShot ayarlarında \"Satın Alma İşlemlerini Geri Yükle\"ye tıklayın.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>Birden çok hesapta değil, YALNIZCA TEK BİR doğru Google Play hesabında oturum açmış olduğunuzdan emin olun. Google Play şimdilik birden çok hesabı tanımamaktadır.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>Satın alımımı nasıl geri yüklerim?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>Geçerli projeyi korumak istiyorsanız,geri dönmek için tıkladığınızda lütfen \"Taslak\" seçeneğini seçin.</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>Taslakları ana sayfadan yönetebilirsiniz (silme/kopyalama/yeniden adlandırma gibi).</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>Taslağı kaydet/vazgeç</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>Buna geçişler ekleyin</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>Fotoğraf süresini ayarlayın</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>Albüm ve dosyalardan resimleri içe aktarın</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>Video ve fotoğraf değiştirmek için dokun</help_slideshow_reminder>
+    <help_slideshow_title>Slayt gösterisi yapın</help_slideshow_title>
+    <help_slideshow_youtube_des>Müzik Slayt Gösterisi Nasıl Yapılır</help_slideshow_youtube_des>
+    <help_smooth_des>Mükemmel akıcılıkta bir ağır çekim video (hız&lt;1,0X) oluşturmak için Yumuşak aracını kullan</help_smooth_des>
+    <help_smooth_title>Yumuşak Yavaş Çekim</help_smooth_title>
+    <help_speed_ramp_des_one>Hız noktalarını düzenleyin. Eğri üzerinde noktalar eklemek/silmek için \"Ekle/Sil\" düğmesine dokunun.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>Videoları hızlandırın ve yavaşlatın. Hız noktaları seçin ve hızı ayarlamak için dikey, hız süresini ayarlamak için yatay sürükleyin.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>"Hızlandır ve Yavaşlat| InShot'la Videolarını Hızlandır ve yavaşlat"</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>Hızlandırma ve Yavaşlatma (Eğri)</help_speed_ramp_title>
+    <help_swap_clip>Uzun basıp değiştirin</help_swap_clip>
+    <help_timeline_desc>klibin veya videonun sonuna hızlı bir şekilde getirmek için akış da kaydırıcıya tıklayın.</help_timeline_desc>
+    <help_timeline_title>Çıkartmalar ve Metinler hızlı gezintisi</help_timeline_title>
+    <help_transition_desc>En az 2 video klibi içe aktarın, geçişler eklemek için 2 klip küçük resmi arasındaki düğmeye tıklayın.</help_transition_desc>
+    <help_transition_title>Video geçişi</help_transition_title>
+    <help_translate_content>"InShot'u tercüme etmenize yardımcı olmak istiyorum. Lütfen benimle temasa geçin. Dil:"</help_translate_content>
+    <help_translate_subject>Yerelleştirme</help_translate_subject>
+    <help_volume_adjust_desc>Hızlı menüyü açmak için video küçük resimlerine tıklayın ve video sesini ayarlamak için kaydırıcıyı sürükleyin.</help_volume_adjust_desc>
+    <help_volume_adjust_title>Video sesi ayarı</help_volume_adjust_title>
+    <help_youtube_title>YouTube Öğreticileri</help_youtube_title>
+    <help_zoom_drag>Videoyu kırpmak için kolu sürükleyin.</help_zoom_drag>
+    <help_zoom_timeline>"Daha hassas düzenleme için zaman çizelgesini yakınlaştırın.
+Tüm zaman çizelgesini önizleme yapmak için uzaklaştırın."</help_zoom_timeline>
+    <help_zoom_title>Video düzenleme</help_zoom_title>
+    <hide>Saklamak</hide>
+    <highlight>Röfle</highlight>
+    <hint_install_googleplay>Satın alma işlemi için bu cihazda desteklenmeyen Google Play Services gerektiğinden, satın alma başarısız.</hint_install_googleplay>
+    <hint_items_to_frame>"Video ayarı'e gidin, seçeneği etkinleştirebilir/devre dışı bırakabilirsiniz"</hint_items_to_frame>
+    <hot>En Revaçta</hot>
+    <hua_wei_login_error>HUAWEI girişi başarısız oldu</hua_wei_login_error>
+    <hua_wei_login_success>HUAWEI girişi başarılı</hua_wei_login_success>
+    <hue>Renk</hue>
+    <i_receive_effect_success>\"Efektler - İthal\" klasörüne başarıyla kaydedildi.</i_receive_effect_success>
+    <i_receive_music_success>\"Öne çikan - İthal\" klasörüne başarıyla kaydedildi.</i_receive_music_success>
+    <import_font>Yazı tipi içe aktar</import_font>
+    <import_video_failed_content>Video çözünürlüğü, telefonunuzun performans sınırını aşıyor.</import_video_failed_content>
+    <import_video_failed_title>Alma başarısız oldu</import_video_failed_title>
+    <imported>İthal</imported>
+    <imported_effect>Efekt içe aktarıldı</imported_effect>
+    <imported_music>Müzik içe aktarıldı</imported_music>
+    <improvement_plan_desc>"InShot'ın kullanıcı deneyimini geliştirmek için cihaz kimliğinize ihtiyacımız var. Teşekkürler."</improvement_plan_desc>
+    <improvement_plan_title>Kullanıcı deneyimi geliştirme planı</improvement_plan_title>
+    <index_create_new>Yeni oluştur</index_create_new>
+    <index_more_take_photo>Fotoğraf çek</index_more_take_photo>
+    <index_more_take_video>Video çek</index_more_take_video>
+    <index_more_use_recent>Son Kullanılanları Kullan</index_more_use_recent>
+    <info_code>Bilgi Kodu:</info_code>
+    <ins_crop_hint_1>Çalışmanız instagram tarafından kırpılabilir.</ins_crop_hint_1>
+    <ins_crop_hint_2>Instagram oranı 1.91:1 ile 4:5 arasında.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">Fotoğrafınızı yüklemek için lütfen<b>Instagram</b>"'a "<b>Depolama izni</b> verin.</string>
+    <install>Kurmak</install>
+    <installed>YÜKLÜ</installed>
+    <interval>Aralık</interval>
+    <invalid_delete>Son klip silinemez.</invalid_delete>
+    <invalid_position>Seçilmiş pozisyon geçersizdir.</invalid_position>
+    <invalidate_name>Özel semboller desteklenmez.</invalidate_name>
+    <item_already_owned>Uygulama içi satın alma işleminizi yeniden etkinleştirmek için lütfen Geri yükle i tıklayın.</item_already_owned>
+    <items>öğe</items>
+    <join_inshot_pro>"InShot Pro'ya katılın"</join_inshot_pro>
+    <jump_to_font_language>"%s'e atla"</jump_to_font_language>
+    <keep_draft>Taslak tutun</keep_draft>
+    <keep_on>Açık bırak</keep_on>
+    <keyframe>ANAHTAR KARE</keyframe>
+    <label>ETIKET</label>
+    <label_quick_selection>ETİKET HIZLI SEÇİMİ</label_quick_selection>
+    <last_draft>SON TASLAK</last_draft>
+    <layout>Tasarım</layout>
+    <letter_animation>Tek Harf</letter_animation>
+    <lib_rate_btn_go_market>"Google Play'de puan verin"</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>Alabileceğimizin en iyisi :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>Lütfen bize geri bildirimde bulunun.</lib_rate_leave_feedback>
+    <lib_rate_like_you>Biz de sizi seviyoruz!</lib_rate_like_you>
+    <lib_rate_oh_no>Hayır, olamaz!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>Geri bildiriminiz için teşekkürler.</lib_rate_thanks_feedback>
+    <license>Lisans</license>
+    <light>IŞıK</light>
+    <lightness>Parlaklık</lightness>
+    <loading>Yükleniyor…</loading>
+    <loading_progress_title>… yükleniyor</loading_progress_title>
+    <login_tip>"Satın alma işlemlerini ödemeye veya geri yüklemeye devam
+ etmek için lütfen hesabı bağlayın"</login_tip>
+    <login_with>%s ile giriş yap</login_with>
+    <login_with_wechat>WeChat ile giriş yapıldı</login_with_wechat>
+    <logout>Sil</logout>
+    <logout_hint>"InShot Pro'ya abone olduysanız, hesabınızı sildiğinizde Inshot Pro da silinir ve geri yüklenemez !!!"</logout_hint>
+    <logout_success>Başarıyla sil</logout_success>
+    <long_press_delete>Silmek için uzun süre basılı tutun</long_press_delete>
+    <long_press_preview>Önizlemek için uzun basın.</long_press_preview>
+    <looking_for_music_content_1>"Ücretsiz müzik indirmek için PC veya Mac bilgisayarınızdan YouTube Audio Library'i ziyaret edin."</looking_for_music_content_1>
+    <looking_for_music_content_2>Daha sonra müzik dosyalarını Android telefonunuza gönderin.</looking_for_music_content_2>
+    <looking_for_music_title>Videolarınız için müzik mi arıyorsunuz?</looking_for_music_title>
+    <loop_animation>DÖNGÜ</loop_animation>
+    <low_storage_space>Yeterli depolama yok</low_storage_space>
+    <luminance>Parlaklık</luminance>
+    <manage>Yönet</manage>
+    <manage_subscription>Aboneliği Yönet</manage_subscription>
+    <mask>Maske</mask>
+    <material>Malzeme</material>
+    <material_selected_hint>Pro materyal içeriyor.</material_selected_hint>
+    <max_hash_tags_num>"Instagram fotoğraf/video başına maksimum 29 #hashtag'e izin veriyor"</max_hash_tags_num>
+    <merge_video_hint>Videoları profesyonelce birleştirme</merge_video_hint>
+    <message>Mesaj</message>
+    <modern>modern</modern>
+    <month>Ay</month>
+    <mood>Ruh hali</mood>
+    <morandi>morandi</morandi>
+    <more_about_inshot_pro>InShot Pro detayları</more_about_inshot_pro>
+    <more_emoji>1000+ Daha Fazlası</more_emoji>
+    <string name="more_info"><u>Daha fazla bilgi</u>:</string>
+    <mosaic>Mozaik</mosaic>
+    <multi_cut>Çoklu kes</multi_cut>
+    <multi_split>Çoklu böl</multi_split>
+    <music>MÜZİK</music>
+    <music_limit>Müzik süresi limiti</music_limit>
+    <musician>Müzisyen</musician>
+    <my_filter>Benim filtre</my_filter>
+    <my_material>Malzemem</my_material>
+    <my_music>MÜZİĞİM</my_music>
+    <new_>YENI</new_>
+    <new_album>Yeni Albüm</new_album>
+    <new_five_stars_rate>Daha iyi bir kullanıcı deneyimi için çok çalışıyoruz. Bize puan verebilirseniz buna çok memnun oluruz.</new_five_stars_rate>
+    <next>SONRAKİ</next>
+    <no>Hayır</no>
+    <no_actionable_items>İşlem yapılacak öğe yok</no_actionable_items>
+    <no_audio>Ses Yok</no_audio>
+    <no_audio_files>Hiç ses dosyası yok.</no_audio_files>
+    <no_draft_profile>Taslak profili yok</no_draft_profile>
+    <no_fonts_found>Yazı tipi bulunamadı</no_fonts_found>
+    <no_network>Ağ yok</no_network>
+    <no_photos_or_videos>Hiç Resim veya Video</no_photos_or_videos>
+    <note_if_you_clear>Önbelleğinizi temizlerseniz devre dışı bırakma ayarınızı kaybedeceğinizi unutmayın.</note_if_you_clear>
+    <off>kapalı</off>
+    <offline_notification_text>Reklamı açmak için dokunun</offline_notification_text>
+    <offline_notification_title>Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</offline_notification_title>
+    <offline_opt_in_confirm>Tamam</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>İnternete tekrar bağlandığınızda bağlantı içeren bir bildirim alacaksınız</offline_opt_in_confirmation>
+    <offline_opt_in_decline>Hayır</offline_opt_in_decline>
+    <offline_opt_in_message>Size reklamverenin sitesine bir bağlantının olduğu bildirim göndereceğiz.</offline_opt_in_message>
+    <offline_opt_in_title>İnternete tekrar bağlandığınızda reklamı açın.</offline_opt_in_title>
+    <ok>Tamam</ok>
+    <on>açık</on>
+    <only_support_effects>Yalnızca \"Efektler\" türünü destekler</only_support_effects>
+    <oom_tip>Bellek yetersiz, lütfen tekrar deneyin!</oom_tip>
+    <opacity>OPAKLıK</opacity>
+    <open_font_failed>Yazı tipi dosyası geçersiz.</open_font_failed>
+    <open_from>ŞURADAN AÇ</open_from>
+    <open_from_photos>Fotoğraflardan Aç</open_from_photos>
+    <open_image_failed_hint>Görüntü dosyası açılamadı, lütfen tekrar deneyin veya başka bir görüntü kullanın</open_image_failed_hint>
+    <open_music_failed_hint>Müzik dosyası açılamadı, lütfen tekrar deneyin veya başka bir müzik dosyası kullanın</open_music_failed_hint>
+    <open_settings_0>1.Açık ayarları</open_settings_0>
+    <open_settings_1>AÇIK AYARLARI</open_settings_1>
+    <open_video_failed_hint>Video dosyası açılamadı, lütfen tekrar deneyin veya başka bir video kullanın</open_video_failed_hint>
+    <origin_pitch>Orijinal Perde</origin_pitch>
+    <original>Orjinal</original>
+    <original_image_not_found>Orijinal resim dosyası artık mevcut değil ， lütfen iki kez kontrol edin.</original_image_not_found>
+    <original_music_not_found>Orijinal müzik dosyası artık yok, lütfen iki kez kontrol edin.</original_music_not_found>
+    <original_video_not_found>Orijinal video dosyası artık yok, lütfen iki kez kontrol edin.</original_video_not_found>
+    <other_app_recording>Ses kaydı şu anda kullanılamıyor, çünkü diğer uygulamalar tarafından kullanılıyor.</other_app_recording>
+    <outline>Anahat</outline>
+    <page>YIRTIK KAĞIT</page>
+    <parent_directory>Üst Dizin</parent_directory>
+    <part_original_files_miss_in_draft>"Bir ya da daha fazla orijinal dosya eksik, düzenlemeye devam edilsin mi？ 
+
+Düzenlemeye devam etmek taslağınızdaki malzemelerin yer değiştirmesine sebep olabilir. 
+
+Orijinal dosyaların [Son Silinen/Çöp Kutusu]'ndan kurtarılması bu taslağı düzeltebilir."</part_original_files_miss_in_draft>
+    <pattern>Desen</pattern>
+    <pay_success>Başarıyla satın alındı!</pay_success>
+    <permission_read_external_storage>Depolama izni gerekiyor.</permission_read_external_storage>
+    <photo>Fotoğraf</photo>
+    <pinch_zoom_in>Yakınlaştırmak için tutunun.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>Maksimum sayıyı aşıyor. </pip_track_reach_max>
+    <play_video_via>Üzerinden video oynat</play_video_via>
+    <popular>Popüler</popular>
+    <precode>ÖN KODLAMA</precode>
+    <precode_failed>Ön Kodlama Başarısız.</precode_failed>
+    <precut>Ön kesim</precut>
+    <preset>Ön ayar</preset>
+    <string name="privacy_policy_content" formatted="false">"InShot'a hoş geldiniz!&lt;br>&lt;br> Kullanıcılara tüm yönleriyle daha iyi bir deneyim sağlamaya kendimizi adadık ve zaman zaman &lt;a href=%s>Kullanım Şartları &lt;/a> ve &lt;a href=%s> Gizlilik politikası&lt;/a>nı güncelleyeceğiz.&lt;br>&lt;br>Kabul ediyorsanız, 'Kabul' a tıklayın ve InShot kullanmaya başlayın."</string>
+    <string name="privacy_policy_content_gdpr">InShot kullanırken kişiselleştirilmiş reklamlar alacaksınız. Devre dışı bırakmak için lütfen &lt;a href=%s>“Gizlilik politikası”&lt;/a> sayfasına gidin ve “I don’t agree” seçeneğine tıklayın.&lt;br>&lt;br></string>
+    <privacy_policy_title>Kullanım Şartları ve Gizlilik Politikası</privacy_policy_title>
+    <pro_detail>InShot Pro ayrıntıları</pro_detail>
+    <pro_expire_time_format>%s tarihinde sona eriyor</pro_expire_time_format>
+    <pro_expired_tip>"InShot Pro'nun süresi %s tarihinde sona erdi"</pro_expired_tip>
+    <pro_one_time_purchase>Bir Kez Satın Alma</pro_one_time_purchase>
+    <pro_purchase_new_desc>Tüm Ücretli Geçişlere, Efektlere, Çıkartmalara ve daha fazlasına erişim. InShot Logo yok, reklam yok.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>Tüm Ücretli Geçişlere, Efektlere, Çıkartmalara ve daha fazlasına erişim. Reklam yok.</pro_purchase_new_desc_1>
+    <pro_purchased_info>Zaten bir InShot Pro üyesin.</pro_purchased_info>
+    <pro_restore_not_purchased>Geri yükleme tamamlandı, ancak henüz bir InShot Pro üyesi değilsiniz.</pro_restore_not_purchased>
+    <pro_subscription_details>ABONELIK DETAYLAR</pro_subscription_details>
+    <pro_unavailable>Pro kullanılamıyor</pro_unavailable>
+    <pro_unavailable_detail>Lütfen yalnızca doğru olan Google Play hesabında oturum açıp açmadığınızı kontrol edin. Daha fazla yardım için Soru-Cevap bölümüne bakabilirsiniz.</pro_unavailable_detail>
+    <processing_error>İşleme hatası</processing_error>
+    <processing_progress_title>… işleniyor</processing_progress_title>
+    <procode_progress>Ön kodlama yapılıyor...</procode_progress>
+    <promotion_subscribe_title>Holi Özel Teklif</promotion_subscribe_title>
+    <purchase_failed>Satın alma başarısız, tekrar denensin mi?</purchase_failed>
+    <purchase_failed_tile>Satın alma başarısız</purchase_failed_tile>
+    <range>Alan</range>
+    <rate>Puan ver</rate>
+    <rate_feedback_message>Bize geri bildirim verebilir misiniz?</rate_feedback_message>
+    <rate_later>Daha sonra</rate_later>
+    <rate_like>Evet!</rate_like>
+    <rate_main_message>InShot kullanmaktan keyif alıyor musunuz?</rate_main_message>
+    <rate_not_like>PEK DEĞİL</rate_not_like>
+    <rate_review_message>Bizim için güzel bir yorum yazar mısınız? Gerçekten çok yardımcı oluyor.</rate_review_message>
+    <ratio>Oran</ratio>
+    <recent>En son</recent>
+    <recommend>tavsiye edilen</recommend>
+    <record>Kayıt</record>
+    <redo>Yinele</redo>
+    <refresh_state>Satın almayı geri yükle</refresh_state>
+    <reject>Hayır, teşekkürler</reject>
+    <remove_ads>FİLİGRAN VE REKLAMLARI KALDIR</remove_ads>
+    <remove_ads_1>REKLAMLARI KALDIR</remove_ads_1>
+    <remove_ads_1_desc>Reklam bantlarını kalıcı olarak kaldırın.</remove_ads_1_desc>
+    <remove_ads_desc>Filigranı ve reklam bantlarını kalıcı olarak kaldırın. Filigranı artık elle kaldırmanız gerekmeyecek.</remove_ads_desc>
+    <remove_all_ads>Reklamları kaldırmak</remove_all_ads>
+    <remove_all_split_marks>Eklediğiniz tüm bölünmüş izleri kaldırın?</remove_all_split_marks>
+    <remove_pro_materials>Pro Materyalleri Kaldır</remove_pro_materials>
+    <remove_watermark>Filigranı kaldır</remove_watermark>
+    <remove_watermark_ad>BUNU BİR KEZ KALDIRIN</remove_watermark_ad>
+    <remove_watermark_ad_2>ÜCRETSIZ KALDıR</remove_watermark_ad_2>
+    <remove_watermark_and_ads>Filigranı ve Reklamları Kaldırma</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>Reklamları Kaldırma</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>Reklamları kalıcı olarak kaldırın.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>Filigran ve reklamları kalıcı olarak kaldırın.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>KALICI OLARAK KALDIR</remove_watermark_buy>
+    <rename>Yeniden adlandır</rename>
+    <renew_pro>"InShot Pro'yu Yenile"</renew_pro>
+    <replace>değiştir</replace>
+    <replace_draft_des>Taslağı sil ve yeni bir proje başlat?</replace_draft_des>
+    <report>raporla</report>
+    <report_fix_description>Lütfen bu sorunu çözmemize yardımcı olması için günlük ve ses dosyalarını bize gönderin.</report_fix_description>
+    <report_fix_ok>GÜNLÜK VE SES DOSYALARı GÖNDER</report_fix_ok>
+    <report_fix_title>Ses işleme başarısız oldu</report_fix_title>
+    <request_record_rationale>"InShot'un cihazınızda mikrofon kullanmasına izin verin."</request_record_rationale>
+    <request_storage_rationale>"InShot'un cihazınızdaki fotoğraflara ve medyaya erişmesine izin verin."</request_storage_rationale>
+    <reselect>Yeniden seçin</reselect>
+    <reset>Sıfırla</reset>
+    <reset_adjust>Ayarlama Sıfırla</reset_adjust>
+    <reset_all>Tümünü sıfırla</reset_all>
+    <reset_hue>Renk sıfırla</reset_hue>
+    <reset_luminance>Parlaklık sıfırla</reset_luminance>
+    <reset_saturation>Doyma sıfırla</reset_saturation>
+    <reset_speed>Hızı sıfırla</reset_speed>
+    <resolution>Çözünürlük</resolution>
+    <restore>GERI YÜKLE</restore>
+    <restore_failed>Kurtarma başarısız!</restore_failed>
+    <restore_ok_Pro>Başarıyla geri yükleyin ve zaten bir InShot Pro üyesisiniz.</restore_ok_Pro>
+    <restore_ok_not_Pro>Başarılı bir şekilde geri yükleyin, ancak henüz bir InShot Pro üyesi değilsiniz.</restore_ok_not_Pro>
+    <restore_pro_assets>Pro Varlıkları Geri Yükle</restore_pro_assets>
+    <restore_success>Başarıyla geri yükle</restore_success>
+    <restore_trim_message>Tüm kırpma ve kesme işlemlerini iptal edip, orijinal videonun geri mi döndürüyorsunuz?</restore_trim_message>
+    <results_page_save_complete>Kayıt tamamlandı</results_page_save_complete>
+    <results_page_share_other>Diğer</results_page_share_other>
+    <results_page_wait_video_transcoding>Lütfen video kod çevrimi için bekleyin</results_page_wait_video_transcoding>
+    <retro>Retro</retro>
+    <retry_save_title>Son video dışa aktarma başarısız oldu. Tekrar deneyin?</retry_save_title>
+    <returnapp_tip>"InShot'a GERİ DÖN'e basın."</returnapp_tip>
+    <reverse>Geri sarma</reverse>
+    <rewarded_unlock_content>Tüm özelliklerin kilidini ücretsiz açmak için bir video reklam izleyin(%s)</rewarded_unlock_content>
+    <rewinding>Geri sarılıyor…</rewinding>
+    <rotate>Döndür</rotate>
+    <rotate90>90° DÖNDÜR</rotate90>
+    <s1>Resmi kaydet</s1>
+    <s2>Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?</s2>
+    <s3>Kabul et</s3>
+    <s4>Reddet</s4>
+    <s5>Takvim etkinliği oluştur</s5>
+    <s6>Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?</s6>
+    <s7>Test Reklamı</s7>
+    <saturation>Doyma</saturation>
+    <save>KAYDET</save>
+    <save_extracted_audio>Ayıklanan sesi kaydet</save_extracted_audio>
+    <save_fail>Başarısızlığı kaydet</save_fail>
+    <save_image_failed_hint>Görüntü dosyası kaydedilemedi</save_image_failed_hint>
+    <save_imported_sticker>İçe aktarılan etiketi kaydet</save_imported_sticker>
+    <save_success_hint>Şuraya Kaydedildi %s</save_success_hint>
+    <save_type_description>İçe aktarılan dosyaları şu biçimde kaydet:</save_type_description>
+    <save_video_failed_dlg_btn_retry>Tekrar dene</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>Başka çözünürlük seç</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>Lütfen daha düşük bir çözünürlük seçin veya tekrar deneyin!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>Kayıt başarısız</save_video_failed_dlg_title>
+    <save_video_failed_hint>Video veya video kod çözücüsü nedeniyle bu müzik dosyası desteklenmiyor. Lütfen başka bir video kullanın.</save_video_failed_hint>
+    <saved>Kaydedilen</saved>
+    <scanning>Taranıyor…</scanning>
+    <string name="sd_card_error">Yolunuza/SD kartınıza erişilemiyor. Lütfen Ayarlar -> %s bölümünden farklı bir yol/depolama alanı seçin.</string>
+    <sd_card_full_tip>Yeterli depolama alanı yok, lütfen biraz boş alan yaratın ve tekrar deneyin.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>SD kart takılmadı!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>Yaklaşık %dM alan gerekli!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>Videoyu kaydetmek için daha fazla önbellek alanına ihtiyaç var, lütfen daha fazla depolama alanı açın veya çözünürlüğü azaltıp tekrar deneyin.</sd_card_space_not_enough_hint>
+    <search_menu_title>Ara</search_menu_title>
+    <see_all_material>Hepsini gör</see_all_material>
+    <select>Seç</select>
+    <select_all>Tümünü Seç</select_all>
+    <select_one_to_edit>Düzenlemek için birini seçin.</select_one_to_edit>
+    <select_one_track_to_edit>Düzenlenecek parçayı seçin</select_one_track_to_edit>
+    <select_photo>FOTOĞRAF SEÇ</select_photo>
+    <selfie_ad_desc>Beyazlatma Etkisi ve Canlı Filtreler ile kendinizde Doğal Güzelliği yakalayın.</selfie_ad_desc>
+    <selfie_ad_title>Selfie Kamera - Love Selfie</selfie_ad_title>
+    <send_feedback>Geri bildirim gönder</send_feedback>
+    <setting_addtags_title>Etiket ekle</setting_addtags_title>
+    <setting_clear_cache_title>Önbelleği Temizle</setting_clear_cache_title>
+    <setting_faq_title>SSS</setting_faq_title>
+    <setting_feedback_title>Geribildirim</setting_feedback_title>
+    <setting_follow_us>Bizi takip edin (Daha fazla eğitim alın)</setting_follow_us>
+    <setting_general_title>Genel</setting_general_title>
+    <setting_language_title>Dil</setting_language_title>
+    <setting_legal_title>Yasal</setting_legal_title>
+    <setting_localization_des>"InShot'u dilinize çevirmemize yardım edin"</setting_localization_des>
+    <setting_localization_title>Yerelleştirme</setting_localization_title>
+    <setting_others>Diğer</setting_others>
+    <setting_privacypolicy_title>Gizlilik politikası</setting_privacypolicy_title>
+    <setting_rate5star_des>"InShot'a Google Play'de 5 yıldız verin"</setting_rate5star_des>
+    <setting_rate5star_title>5 Yıldız Ver</setting_rate5star_title>
+    <setting_restore>Satın Alma İşlemlerini Geri Yükle</setting_restore>
+    <setting_savepath_title>Yolu Kaydet</setting_savepath_title>
+    <setting_share_title>Arkadaşları davet et</setting_share_title>
+    <setting_thankyou_title>Teşekkürler</setting_thankyou_title>
+    <shadow>Gölgeler</shadow>
+    <shadow_off>Kapalı</shadow_off>
+    <shadow_on>Açık</shadow_on>
+    <share>PAYLAŞ</share>
+    <share_content>"Telefonunuzdaki videoları ve fotoğrafları düzenlemeyi kolaylaştırın. InShot'u Şimdi Ücretsiz İndirin:https://inshotapp.page.link/invite"</share_content>
+    <share_subject>Instagram için size harika bir video&amp;fotoğraf düzenleyicisi önerildi</share_subject>
+    <sharpen>Keskinlik</sharpen>
+    <shop>Mağaza</shop>
+    <short_preview>Kısa önizleme</short_preview>
+    <show_read_video_ad_dlg_content>Filigranı ücretsiz kaldırmak için bir video reklam izleyin.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>Filigranı bu seferlik kaldırmak için bir video reklam izleyin</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>KOPYALA VE PAYLAŞ</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>GEÇMİŞ</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>Daha fazla beğeni için etiket</show_tags_dlg_title>
+    <sign_out>Çıkış Yap</sign_out>
+    <sign_out_account>Hesaptan çıkış yap</sign_out_account>
+    <signout_current_account>Mevcut hesaptan çıkış yap</signout_current_account>
+    <signout_tip_common>Mevcut WeChat hesabından çıkmak istediğinizden emin misiniz?</signout_tip_common>
+    <signout_tip_pro>"Hesaptan çıkış yaptığınızda InShot Pro'ya erişilemez."</signout_tip_pro>
+    <size>boyut:%s</size>
+    <size_only>Tahmini boyut</size_only>
+    <slice>DILIM</slice>
+    <slow_motion>AĞıR ÇEKIM</slow_motion>
+    <smooth>Yumuşak</smooth>
+    <smooth_applied>Yumuşak yavaş çekim uygulandı</smooth_applied>
+    <smooth_cancelled>Yumuşak yavaş çekim iptal edildi</smooth_cancelled>
+    <smooth_click_preview>Yumuşak yavaş çekim önizlemesi için onay işaretine tıklayın</smooth_click_preview>
+    <smooth_preview_effect>Yumuşatma etkisi önizleme</smooth_preview_effect>
+    <smooth_slow_speed_available>Sadece hız &lt; %sx iken kullanılabilir</smooth_slow_speed_available>
+    <sorry>Üzgünüm</sorry>
+    <string name="space_not_enough_content">%2$s kaydetmek için &lt;b>%1$dM&lt;/b> daha fazla dahili depolama alanı (hafıza kartı depolama alanında değil) gerekiyor, lütfen telefon alanınızı boşaltın ve tekrar deneyin.</string>
+    <space_not_enough_title>Telefonunuzda yer açın</space_not_enough_title>
+    <special_offer>Özel Teklif</special_offer>
+    <speed>Hız</speed>
+    <speed_adjusts_precode_hint>%sx değerinden daha büyük hız ayarı ön kodlama gerektirir.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>10x katı aşan hızlar orijinal seste kayba neden olabilir.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>Yeşil bölgede yeniden ön kodlama yapılmasına gerek yok.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>Lütfen ekranı kilitlemeyin veya başka uygulamalara geçiş yapın.</speed_precode_warning_hint>
+    <split>Böl</split>
+    <spring_festival_pro_title>Yeni Ay Yılı %50 İndirim</spring_festival_pro_title>
+    <standard>Standart</standard>
+    <start_over>BAŞTAN BAŞLAMAK</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>çıkartmayı indirmediniz</sticker_empty>
+    <sticker_text>Çıkartma</sticker_text>
+    <stickers>Çıkartma</stickers>
+    <strength>Kuvvet</strength>
+    <style>Stili</style>
+    <subscription_detail>"
+
+- InShot Sınırsız abonelikle, özelliklerin tümüne ve çıkartmalar, filtre paketleri vb. dahil ücretli düzenleme malzemelerine erişime sahipsiniz. Filigran ve reklamlar otomatik olarak kaldırılacaktır. 
+
+- InShot Sınırsız abonelik, seçilen plana karşılık gelen fiyatla aylık ya da yıllık olarak faturalandırılmaktadır. İlave olarak, gerek duyulması halinde, abonelik planlarından biri olmayan bir kerelik ödeme teklif edilecektir. 
+
+- InShot Sınırsız abonelik bir sonraki faturalama tarihinizde otomatik yenilenir. Geçerli dönemin bitiminden 24 önce otomatik yenilemeyi devre dışı bırakabilirsiniz. Google Play mağazası, satın alımın doğrulanmasıyla abonelik ücretlerini almaktadır. Ve otomatik yenileme, satın alımın ardından Hesap Ayarlarında devre dışı bırakılabilir."</subscription_detail>
+    <subscription_detail_1>"
+
+- InShot Sınırsız abonelikle, özelliklerin tümüne ve çıkartmalar, filtre paketleri vb. dahil ücretli düzenleme malzemelerine erişime sahipsiniz. Reklamlar otomatik olarak kaldırılacaktır. 
+
+- InShot Sınırsız abonelik, seçilen plana karşılık gelen fiyatla aylık ya da yıllık olarak faturalandırılmaktadır. İlave olarak, gerek duyulması halinde, abonelik planlarından biri olmayan bir kerelik ödeme teklif edilecektir. 
+
+- InShot Sınırsız abonelik bir sonraki faturalama tarihinizde otomatik yenilenir. Geçerli dönemin bitiminden 24 önce otomatik yenilemeyi devre dışı bırakabilirsiniz. Google Play mağazası, satın alımın doğrulanmasıyla abonelik ücretlerini almaktadır. Ve otomatik yenileme, satın alımın ardından Hesap Ayarlarında devre dışı bırakılabilir."</subscription_detail_1>
+    <subscription_terms>Bu satın alma işlemi yalnızca Android sisteminde kullanılabilir. Ödeme satın almanın onaylanması ile birlikte Google Play Store üzerinden tahsil edilir. Abonelik mevcut dönemin bitmesine 24 saat kalana kadar iptal edilmediği sürece, otomatik olarak yenilenir, ve iptal işlemi geçerli sürenin sonunda yürürlüğe girer. Google Play Store hesap ayarlarından aboneliklerinizi yönetebilir ve otomatik yenilemeyi kapatabilirsiniz. Deneme süresi içinde iptal edilen abonelik için ücretlendirme yapılmaz.</subscription_terms>
+    <subscription_terms_cn>"InShot Pro'ya abone olun, tüm özellikleri ve düzenleme malzemelerini kullanabilirsiniz. Filigran ve reklamlar otomatik olarak kaldırılacak. InShot Pro otomatik olarak yenilenmez, lütfen geçerli sürenin bitiminden önce manuel olarak yenileyin. Abonelik Android ve iOS cihazlar arasında aktarılamaz. İOS cihazlardan satın aldıysanız, yine de Android cihazlardan satın almanız gerekir. InShot Pro'ya abone olduktan sonra, iptal veya geri ödeme yapılmaz, lütfen satın almadan önce dikkatlice karar verin."</subscription_terms_cn>
+    <subscription_terms_cn_1>"InShot Pro'ya abone olun, tüm özellikleri ve düzenleme malzemelerini kullanabilirsiniz. Reklamlar otomatik olarak kaldırılacak. InShot Pro otomatik olarak yenilenmez, lütfen geçerli sürenin bitiminden önce manuel olarak yenileyin. Abonelik Android ve iOS cihazlar arasında aktarılamaz. İOS cihazlardan satın aldıysanız, yine de Android cihazlardan satın almanız gerekir. InShot Pro'ya abone olduktan sonra, iptal veya geri ödeme yapılmaz, lütfen satın almadan önce dikkatlice karar verin."</subscription_terms_cn_1>
+    <subscription_terms_hw>"AppGallery'den satın alma işlemleri yalnızca HUAWEI IAP üzerinden yapılabilir. Ödeme, satın alma onayı ile hesabınıza yansıtılacaktır. Abonelik, cari dönemin bitiminden sonra otomatik olarak yenilenir ve yenileme maliyetini belirler. Aboneliklerinizi yönetebilir ve otomatik yenilemeyi AppGallery hesap ayarlarınızdan kapatabilirsiniz. Ücretsiz deneme sırasında iptal edilen abonelik ücretlendirilmez."</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>"AppGallery'den satın alma yalnızca HUAWEI IAP üzerinden yapılabilir. Ödeme, satın alma işleminin onaylanmasından sonra hesabınızdan tahsil edilecektir. Sipariş onayını aldığınız 14 gün içinde satın alma işlemini iptal etmek için Huawei Müşteri Hizmetleri ile iletişime geçebilirsiniz. Abonelikler, geçerli sürenin bitiminden sonra otomatik olarak yenilenir. Aboneliklerinizi yönetebilir ve otomatik yenilemeyi AppGallery hesap ayarlarınızdan kapatabilirsiniz."</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>"AppGallery'den satın alma yalnızca HUAWEI IAP üzerinden yapılabilir. Ödeme, satın alma işleminin onaylanmasından sonra hesabınızdan tahsil edilecektir. Sipariş onayını aldığınız 7 gün içinde satın alma işlemini iptal etmek için Huawei Müşteri Hizmetleri ile iletişime geçebilirsiniz. Abonelikler, geçerli sürenin bitiminden sonra otomatik olarak yenilenir. Aboneliklerinizi yönetebilir ve otomatik yenilemeyi AppGallery hesap ayarlarınızdan kapatabilirsiniz."</subscription_terms_hw_ru>
+    <subscription_title>InShot Sınırsız Abonelik</subscription_title>
+    <super1>SÜPER</super1>
+    <support_musician>Müzisyene destek vermek için lütfen videonun açıklama kısmında müzisyenin bilgilerini paylaşın.</support_musician>
+    <sure>Tamam</sure>
+    <swap>DEĞİŞİM</swap>
+    <swap_order_hint>Siparişi değiştirmek için uzun basın ve sürükleyin.</swap_order_hint>
+    <switch_account>Hesap değiştir</switch_account>
+    <tags>Etiketler</tags>
+    <tags_policies>Bazı politikalar nedeniyle alakasız etiketleri kaldırdık.</tags_policies>
+    <take_video>Video</take_video>
+    <tap_permissions>2.Izinlere dokunun</tap_permissions>
+    <template>Şablon</template>
+    <terms_of_use>Kullanım Koşulları</terms_of_use>
+    <text>METİN</text>
+    <text_spacing>Metin aralığı</text_spacing>
+    <then>Daha sonra</then>
+    <time_24_hours>Sadece %s saat</time_24_hours>
+    <time_limited_offer>Sınırlı zaman teklif</time_limited_offer>
+    <tint>Ton</tint>
+    <tip>İpucu</tip>
+    <tip_close_ad_personalization>Seçeneği etkisiz kıldıktan sonra, bazı alakasız reklamlar görebilirsiniz.</tip_close_ad_personalization>
+    <title_optout_ads>İlgi alanına dayalı reklamlar devre dışı bırakılsın mı</title_optout_ads>
+    <too_many_pip_tip>Çok fazla katman, takılmalara veya kaydetme hatalarına neden olabilir.</too_many_pip_tip>
+    <total>Toplam</total>
+    <track_count>%d PARÇALAR</track_count>
+    <tracks>Parçalar</tracks>
+    <transition>Geçişler</transition>
+    <transition_prompt>Geçişler uygulandıktan sonra video uzunluğu değişecektir.</transition_prompt>
+    <trim>KIRP</trim>
+    <trim_clip_help_tip>Videoyu kırpma ve fotoğraf süresini ayarlama.</trim_clip_help_tip>
+    <trim_music>Müziği kırp</trim_music>
+    <turn_off>Kapat</turn_off>
+    <turn_off_tags_context>Etiket seçeneğini kapatın ve bu seçeneği ayarlar menüsünden açabilirsiniz.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>KAPAT</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. Mikrofon Açın</turn_on_microphone>
+    <turn_on_storage>3. Depolamayı ve Kamerayı Aç</turn_on_storage>
+    <type_something>Birşeyler yazın</type_something>
+    <un_select>Seçme</un_select>
+    <undo>Geri Al</undo>
+    <undo_reversed>Ters Çevirmeyi Geri Al</undo_reversed>
+    <unlock>Kilidini aç</unlock>
+    <unlock_all_features>Tüm özelliklerin kilidini açın</unlock_all_features>
+    <unlock_for_free>ÜCRETSİZ AÇ</unlock_for_free>
+    <unlock_for_sticker_tip>Bu paketi ücretsiz almak için bir video reklam izleyin</unlock_for_sticker_tip>
+    <unlock_the_features>Özelliğin kildini açın</unlock_the_features>
+    <unsupported_file_format>Desteklenmeyen dosya formatı</unsupported_file_format>
+    <update>Güncelle</update>
+    <update_files>Dosyalar güncelleniyor</update_files>
+    <use>KULLAN</use>
+    <user_cancel>İptal edildi</user_cancel>
+    <valid_for>%s geçerlidir</valid_for>
+    <valid_for_days>%s gün geçerlidir</valid_for_days>
+    <valid_for_hours>%s saat geçerlidir</valid_for_hours>
+    <value>Değer</value>
+    <video>Video</video>
+    <video_background_convert_finished_hint>Video dönüştürme işleminiz tamamlandı!</video_background_convert_finished_hint>
+    <video_beginning>Video başlangıç</video_beginning>
+    <video_compress>Video sıkıştırma</video_compress>
+    <string name="video_compress_description" formatted="false">"%s'den büyük çözünürlüğe sahip video, otomatik olarak %s şeklinde sıkıştırılır."</string>
+    <video_continue_convert_hint>InShot… dosyasını dönüştürmeye devam ediyor</video_continue_convert_hint>
+    <video_conversion_failure>Video dönüştürme başarısız</video_conversion_failure>
+    <video_convert_failed_hint>Video dönüştürülemedi, lütfen tekrar deneyin!</video_convert_failed_hint>
+    <video_convert_failed_hint2>Video dönüştürülemedi, lütfen başka bir video deneyin!</video_convert_failed_hint2>
+    <video_cut_bar_duration>TOPLAM:</video_cut_bar_duration>
+    <video_end>Video sonu</video_end>
+    <video_less_than_one_second_not_allow>%s kısa videolar yüklenemez.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>Daha fazla seçenek için küçük resmi tıklayın</video_more_option_hint2>
+    <video_not_support>Bu cihazda video desteklenmiyor. Fotoğraf özelliklerini kullanmaya devam edebilirsiniz.</video_not_support>
+    <video_not_support_detail>"%s'iniz nedeniyle bu cihazda video özelliği bulunmuyor. Fotoğraf özelliklerini kullanmaya devam edebilirsiniz."</video_not_support_detail>
+    <video_not_support_reasons_one>Android sürümü 4.0 dan daha eski</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU Neon ile uyumlu bir ARM V7 değil</video_not_support_reasons_two>
+    <video_not_support_title_one>Video uyumlu değil</video_not_support_title_one>
+    <video_not_support_title_two>Donanım uyumlu değil</video_not_support_title_two>
+    <video_only>Yalnızca Video</video_only>
+    <video_quality_customize>Özelleştir</video_quality_customize>
+    <video_quality_normal>Normal</video_quality_normal>
+    <video_quality_recommend>Önerilen</video_quality_recommend>
+    <video_replace_trim_info>Bölüm seçmek için sürükleyin.</video_replace_trim_info>
+    <video_resolution>Video Çözünürlüğü</video_resolution>
+    <video_setting>Video Ayarı</video_setting>
+    <video_sharing_progress_title1>… Başlatılıyor</video_sharing_progress_title1>
+    <video_sharing_progress_title2>… Videosu Dönüştürülüyor</video_sharing_progress_title2>
+    <video_sharing_progress_title3>… iptal ediliyor</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>En fazla 20 öğe ekleyebilirsiniz.</video_text_quantity_limit_hint>
+    <video_to_mp3_converter>"Video'dan MP3'e Dönüştürücüsüdür"</video_to_mp3_converter>
+    <string name="video_too_short" formatted="false">Yalnızca %s(>%s) uzun videoları destekleyin</string>
+    <video_too_short_after_cut_hint>Video süresi çok kısa.</video_too_short_after_cut_hint>
+    <vignette>Skeç</vignette>
+    <voice_effect>Ses Efekti</voice_effect>
+    <voice_effect_support>Yalnızca ses kaydetme/içe aktarma desteklenir</voice_effect_support>
+    <volume>Hacim</volume>
+    <warmth>Sıcaklık</warmth>
+    <warning>Uyarı</warning>
+    <watch>izle</watch>
+    <what_new_audio_draft>TASLAĞı KAYDET</what_new_audio_draft>
+    <what_new_audio_track>ÇOKLU MÜZIK PARÇALARı</what_new_audio_track>
+    <what_new_crop_video>KıRPMA VIDEOSU</what_new_crop_video>
+    <what_new_cut>Kes ve Video Böl</what_new_cut>
+    <what_new_music>POPÜLER VLOG MÜZIĞI</what_new_music>
+    <what_new_special_effects_filters_vol1>ÖZEL ETKİLER FİLTRELERİ VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>DAHA İYİ KOLAJ MOD</what_news_collage>
+    <what_news_filter>VİDEO MODU İÇİN FİLTRELER</what_news_filter>
+    <what_news_thanksgiving>ŞÜKRAN GÜNÜ KUTLU OLSUN</what_news_thanksgiving>
+    <whats_new_add_blank_screen>Boş ekran ekle</whats_new_add_blank_screen>
+    <whats_new_background_pattern>Arka plan deseni</whats_new_background_pattern>
+    <whats_new_beats_effects>Ritim etkileri</whats_new_beats_effects>
+    <whats_new_blend>PIP - Karıştır</whats_new_blend>
+    <whats_new_brand_music>Yepyeni Müzik Kullanıcı Arayüzü</whats_new_brand_music>
+    <whats_new_create_gifs>"GIF'ler Oluşturun"</whats_new_create_gifs>
+    <whats_new_customer_color>Özel renk</whats_new_customer_color>
+    <whats_new_cutout>Özel çıkartmalar kesmek</whats_new_cutout>
+    <whats_new_cutout_outline>Fotoğraf kesimi ve anahat</whats_new_cutout_outline>
+    <whats_new_effect>Etki zaman çizelgesi</whats_new_effect>
+    <whats_new_effect_retro2>Yeni Efektler - Geçmişe Ait 2</whats_new_effect_retro2>
+    <whats_new_effect_split>Yeni Efektler_Böl</whats_new_effect_split>
+    <whats_new_fade_base>Yeni Efektler-Temel,Solma</whats_new_fade_base>
+    <whats_new_filter_fresh>Yeni Filtreler_Taze</whats_new_filter_fresh>
+    <whats_new_frame_rate>Yeni Kare hızı</whats_new_frame_rate>
+    <whats_new_freeze_tool>Dondurma aracı</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>HSL ayarı</whats_new_hsl_adjustment>
+    <whats_new_item_frame>Ögeler karede kalır</whats_new_item_frame>
+    <whats_new_magnifier>Büyüteç Çıkartması</whats_new_magnifier>
+    <whats_new_mask>PIP için Maske</whats_new_mask>
+    <whats_new_material>Yepyeni malzeme kitaplığı</whats_new_material>
+    <whats_new_music_fade_in_and_out>Müzik işikla aç &amp; karart</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>Yeni Albüm</whats_new_new_album>
+    <whats_new_new_effect_and_transition>Yeni efektler ve geçişler</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>Yeni Efektler - Film</whats_new_new_effect_film>
+    <whats_new_new_filters>Yeni Filtre</whats_new_new_filters>
+    <whats_new_new_transition>Yeni Geçişler - Yirtik kağit</whats_new_new_transition>
+    <whats_new_pip>PIP - Video Yer Paylaşımı</whats_new_pip>
+    <whats_new_smooth>Hız Ayarı için Yumuşak Yavaş Çekim</whats_new_smooth>
+    <whats_new_speed_curve>Hız Eğrisi</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>Hız Eğrisi Ön ayarı</whats_new_speed_curve_preset>
+    <whats_new_store>Yepyeni malzeme mağazası</whats_new_store>
+    <whats_new_text_animation>Yeni metin animasyonu</whats_new_text_animation>
+    <whats_new_transition_film>Yeni Geçişler - Film</whats_new_transition_film>
+    <whats_new_video_full_screen>Videoları tam ekranda önizleyin</whats_new_video_full_screen>
+    <whats_new_voice_effect>Ses Efektleri</whats_new_voice_effect>
+    <whatsnew_advance_timeline>GELIŞMIŞ ZAMAN ÇIZELGESI</whatsnew_advance_timeline>
+    <whatsnew_christmas>NOEL IÇIN MÜZIK</whatsnew_christmas>
+    <whatsnew_color_pallette>Yeni Renk Paleti</whatsnew_color_pallette>
+    <whatsnew_font_style>YENI YAZı TIPI STILI</whatsnew_font_style>
+    <whatsnew_loop_animation>Döngü Animasyonu</whatsnew_loop_animation>
+    <whatsnew_music>YENI MÜZIK</whatsnew_music>
+    <whatsnew_recording>Kayit</whatsnew_recording>
+    <whatsnew_slide>FOTOĞRAFLARLA VIDEOLARı MIX</whatsnew_slide>
+    <whatsnew_sound_effects>Ses efektleri</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>Bölünmüş Müzik, Metin ve Etiket</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>ÇıKARTMALAR ANIMASYON</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>ETIKET VE METIN ANIMASYONU</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>METİN ANİMASYON</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>Sınırsız Taslaklar</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot Fotoğraf</widgetphoto>
+    <widgetvideo>InShot Video</widgetvideo>
+    <year>Yıl</year>
+    <yes>Evet</yes>
+    <you_are_not_login>Giriş yapmadınız.</you_are_not_login>
+    <you_will_still_see_ads>Yine de reklamlar göreceksiniz, ancak bunlar ilgi alanlarınıza dayalı olmayabilir.</you_will_still_see_ads>
+    <zoom>Yakınlaştır</zoom>
+    <zoom_selection>YAKıNLAŞTıRMA SEÇIMI</zoom_selection>
+</resources>

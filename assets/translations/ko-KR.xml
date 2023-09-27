@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <InShot_detail>InShot Pro 세부 사항</InShot_detail>
+    <abc_action_bar_home_description>홈으로 이동</abc_action_bar_home_description>
+    <abc_action_bar_up_description>위로 이동</abc_action_bar_up_description>
+    <abc_action_menu_overflow_description>추가 옵션</abc_action_menu_overflow_description>
+    <abc_action_mode_done>완료</abc_action_mode_done>
+    <abc_activity_chooser_view_see_all>전체 보기</abc_activity_chooser_view_see_all>
+    <abc_activitychooserview_choose_application>앱 선택</abc_activitychooserview_choose_application>
+    <abc_capital_off>사용 중지</abc_capital_off>
+    <abc_capital_on>사용</abc_capital_on>
+    <abc_menu_alt_shortcut_label>Alt+</abc_menu_alt_shortcut_label>
+    <abc_menu_ctrl_shortcut_label>Ctrl+</abc_menu_ctrl_shortcut_label>
+    <abc_menu_delete_shortcut_label>Delete</abc_menu_delete_shortcut_label>
+    <abc_menu_enter_shortcut_label>Enter</abc_menu_enter_shortcut_label>
+    <abc_menu_function_shortcut_label>Function+</abc_menu_function_shortcut_label>
+    <abc_menu_meta_shortcut_label>Meta+</abc_menu_meta_shortcut_label>
+    <abc_menu_shift_shortcut_label>Shift+</abc_menu_shift_shortcut_label>
+    <abc_menu_space_shortcut_label>스페이스바</abc_menu_space_shortcut_label>
+    <abc_menu_sym_shortcut_label>Sym+</abc_menu_sym_shortcut_label>
+    <abc_prepend_shortcut_label>Menu+</abc_prepend_shortcut_label>
+    <abc_search_hint>검색...</abc_search_hint>
+    <abc_searchview_description_clear>검색어 삭제</abc_searchview_description_clear>
+    <abc_searchview_description_query>검색어</abc_searchview_description_query>
+    <abc_searchview_description_search>검색</abc_searchview_description_search>
+    <abc_searchview_description_submit>검색어 보내기</abc_searchview_description_submit>
+    <abc_searchview_description_voice>음성 검색</abc_searchview_description_voice>
+    <abc_shareactionprovider_share_with>공유 대상:</abc_shareactionprovider_share_with>
+    <abc_shareactionprovider_share_with_application>%s과(와) 공유</abc_shareactionprovider_share_with_application>
+    <abc_toolbar_collapse_description>접기</abc_toolbar_collapse_description>
+    <account>계정</account>
+    <acknowledge>감사 인사</acknowledge>
+    <action_settings>세팅</action_settings>
+    <actual_price_year_format>%s/년에 구매</actual_price_year_format>
+    <ad_personalization>광고 개인화</ad_personalization>
+    <ad_personalization_tip>"쿠키는 웹 서버가 귀하의 장치에 생성하는 텍스트 파일입니다. 더 나은 서비스를 제공하기 위해 관련 기술을 사용하여 이 제품 사용에 대한 정보를 수집하고 저장하기 위해 하나 이상의 쿠키를 귀하의 장치에 보낼 수 있습니다.
+
+InShot의 광고주인 Admob, Mopub, Vungle, Facebook, Smaato, myTarget은 귀하가 당사 제품 및 서비스를 사용하는 동안 생성된 정보를 수집하고 귀하의 선호도를 추출하고 이를 사용하여 귀하의 개별 요구에 더 부합하는 광고를 표시할 수 있습니다. 우리는 사용자의 데이터를 Facebook 또는 다른 당사자와 공유하지 않습니다(BBC 및 Privacy International 인증).
+
+우리는 데이터를 익명화하기 위해 기술적 수단을 사용할 것이며, 익명화된 정보는 주체를 식별할 수 없을 것입니다. 개인화된 표시에 관심이 없는 경우 설정-광고 개인화를 통해 개인화된 콘텐츠의 표시를 끄도록 선택할 수 있습니다. 이 옵션을 끈 후에도 광고가 계속 표시될 수 있지만 광고의 관련성이 줄어듭니다."</ad_personalization_tip>
+    <add>더하다</add>
+    <add_favorite>즐겨찾기에 추가</add_favorite>
+    <adjust>조정</adjust>
+    <agree>동의</agree>
+    <album>앨범</album>
+    <album_sleepless_desc>공개적으로 공유 할 때 동영상 설명에 다음 정보를 추가하십시오.</album_sleepless_desc>
+    <all>모든파일</all>
+    <all_inclusive>모두 포함</all_inclusive>
+    <all_original_files_miss_in_draft>"모든 원본 파일이 소실되어 초안이 손상되었습니다. 
+
+[최근 삭제/휴지통]에서 원본 파일을 복구하면 초안의 오류가 수정될 수도 있습니다."</all_original_files_miss_in_draft>
+    <all_premium>모든 고급 필터에 대한 접근, 효과, 스티커, 글꼴. 워터 마크 없음, 광고 없음.</all_premium>
+    <all_premium_1>모든 고급 필터에 대한 접근, 효과, 스티커, 글꼴. 광고 없음.</all_premium_1>
+    <allow_camera_access>카메라 접근 허용</allow_camera_access>
+    <allow_record_access>마이크 액세스 허용</allow_record_access>
+    <allow_record_access_hint>InShot은 오디오 녹음을위한 마이크 권한이 필요합니다.</allow_record_access_hint>
+    <allow_storage_access>저장소 액세스 허용</allow_storage_access>
+    <allow_storage_access_hint>아름다운 영상과 사진을 만들려면, InShot은 사진 라이브러리에 액세스해야합니다.</allow_storage_access_hint>
+    <allow_storage_camera_access_hint>아름다운 영상과 사진을 만들려면, InShot은 사진 라이브러리 및 카메라에 액세스해야합니다.</allow_storage_camera_access_hint>
+    <already_InShot_pro>귀하는 이미 InShot Pro 회원입니다</already_InShot_pro>
+    <already_purchased>이미 구매하셨나요?</already_purchased>
+    <angle>각도</angle>
+    <animation_in>인</animation_in>
+    <animation_out>아웃</animation_out>
+    <animation_stickers>애니메이션 스티커</animation_stickers>
+    <app_latest_version_available_title>최신 버전 사용이 가능합니다(%s)</app_latest_version_available_title>
+    <app_latest_version_title>최신 버전 사용중입니다!</app_latest_version_title>
+    <app_not_installed_content>%s 다운로드 혹은 다른 앱에 공유하기</app_not_installed_content>
+    <app_not_installed_download_app>%s 다운로드</app_not_installed_download_app>
+    <app_not_installed_share_with_other_app>다른 사람과 공유</app_not_installed_share_with_other_app>
+    <app_not_installed_title>%s 가 설치되지 않았습니다</app_not_installed_title>
+    <app_wall_entrance_action>확인 해봐</app_wall_entrance_action>
+    <app_wall_entrance_title>오늘의 최고 인기 앱</app_wall_entrance_title>
+    <apply_to_all>모든 영역에 사용</apply_to_all>
+    <apply_to_all_clips>모든 클립에 적용</apply_to_all_clips>
+    <audio_too_short_after_cut_hint>오디오 지속 시간이 너무 짧습니다.</audio_too_short_after_cut_hint>
+    <authorization>권한 부여</authorization>
+    <background>배경</background>
+    <background_color>배경 색</background_color>
+    <basic>기본</basic>
+    <basic_animation>"기본 "</basic_animation>
+    <beats>비트</beats>
+    <billing_unavailable>Google Play 계정을 설정하지 않았습니다.</billing_unavailable>
+    <billing_unavailable_hw>Huawei 계정에 로그인하지 않았습니다</billing_unavailable_hw>
+    <blank>공백</blank>
+    <blend>혼합</blend>
+    <blocked>막힌</blocked>
+    <blur>흐림</blur>
+    <blur_background>배경 흐림</blur_background>
+    <blur_bg>배경 흐림</blur_bg>
+    <blur_bg_custom_hint>자신의 사진을 배경으로 사용하십시오.</blur_bg_custom_hint>
+    <blur_bg_options_merged>흐림 및 배경 옵션이 병합됩니다.</blur_bg_options_merged>
+    <blur_off>Off</blur_off>
+    <blur_on>On</blur_on>
+    <border>경계</border>
+    <brush>브러쉬</brush>
+    <buy>구매</buy>
+    <can_not_add_more_tracks>트랙을 추가할 수 없음</can_not_add_more_tracks>
+    <can_not_add_tracks>여기서는 트랙을 추가할 수 없습니다</can_not_add_tracks>
+    <cancel>취소</cancel>
+    <cancel_save_video_dlg_btn_no>아니</cancel_save_video_dlg_btn_no>
+    <cancel_save_video_dlg_btn_yes>예</cancel_save_video_dlg_btn_yes>
+    <cancel_save_video_dlg_context>당신은 비디오 변환 취소 하시겠습니까?</cancel_save_video_dlg_context>
+    <cancel_save_video_dlg_title>경고</cancel_save_video_dlg_title>
+    <cannot_apply_transitions_prompt>이 클립은 너무 짧아 전환을 적용 할 수 없습니다.</cannot_apply_transitions_prompt>
+    <cannot_save_gif_over_one_minute>1분이 넘는 GIF는 저장할 수 없음. 포맷은 전환하거나 GIF 길이를 줄이세요.</cannot_save_gif_over_one_minute>
+    <canvas>캔버스</canvas>
+    <celebrate>축하</celebrate>
+    <change_beginning_too_short>재생 시간이 너무 짧아서 동영상/클립의 처음 부분까지 이동할 수 없습니다</change_beginning_too_short>
+    <change_end_too_short>재생 시간이 너무 짧아서 동영상/클립의 끝 부분까지 이동할 수 없습니다</change_end_too_short>
+    <change_language_title>언어 선택</change_language_title>
+    <change_video_codec_dialog_codec_1>H.264</change_video_codec_dialog_codec_1>
+    <change_video_codec_dialog_codec_2>MPEG-4</change_video_codec_dialog_codec_2>
+    <change_video_codec_dialog_tip>인스 타 그램에 비디오 업로드에 실패하고이 네트워크에 의해 발생되지 않은 경우, MPEG-4를 시도하십시오. 기본값은 H.264, 더 나은 품질과 더 작은 크기입니다.</change_video_codec_dialog_tip>
+    <change_video_codec_dialog_title>변경 비디오 코덱</change_video_codec_dialog_title>
+    <character>캐릭터</character>
+    <check>확인해 봐</check>
+    <choose_pay_method>결제 수단 선택</choose_pay_method>
+    <choose_video_quality_hint>품질</choose_video_quality_hint>
+    <chroma>크로마키</chroma>
+    <classic>클래식</classic>
+    <clear>지우기</clear>
+    <string name="clear_cache_content">지운 후 &lt;b>%s&lt;/b> 스토리지 공간이 확보됩니다. 초안에는 영향을 주지 않습니다. 계속하시겠습니까?</string>
+    <clearing>지우기…</clearing>
+    <click_here>클릭 해주세요</click_here>
+    <click_track_tip>타임라인을 클릭하여 음악을 편집하고 동영상 볼륨을 조정하세요.</click_track_tip>
+    <clip_beginning>클립 시작</clip_beginning>
+    <clip_end>클립 끝</clip_end>
+    <clip_mute_adjust_volume_retry>오디오 음소거를 해제하고 다시 시도하세요</clip_mute_adjust_volume_retry>
+    <clip_replace_shorter_detail>총 기간이 줄고 이에 따라 타임라인이 변경됩니다.</clip_replace_shorter_detail>
+    <clip_replace_shorter_title>새로운 클립은 현재보다 짧습니다.</clip_replace_shorter_title>
+    <clip_reversed>클립이 반전됨</clip_reversed>
+    <clip_video_tip>가져오기 해야할 길이로 동영상 자르기</clip_video_tip>
+    <collage>콜라주</collage>
+    <collage_long_press_swap_photo>사진의 위치를 변경하려면 길게 누르세요.</collage_long_press_swap_photo>
+    <collage_select_photo_limit_hint>당신은 대부분의 9 사진을 선택할 수 있습니다!</collage_select_photo_limit_hint>
+    <collage_swap_photo>와 교환 할 수있는 사진을 클릭</collage_swap_photo>
+    <color>칼라</color>
+    <color_palette>색상 팔레트</color_palette>
+    <common_google_play_services_enable_button>사용 설정</common_google_play_services_enable_button>
+    <common_google_play_services_enable_text>Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</common_google_play_services_enable_text>
+    <common_google_play_services_enable_title>Google Play 서비스 사용</common_google_play_services_enable_title>
+    <common_google_play_services_install_button>설치</common_google_play_services_install_button>
+    <common_google_play_services_install_text>기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</common_google_play_services_install_text>
+    <common_google_play_services_install_title>Google Play 서비스 설치</common_google_play_services_install_title>
+    <common_google_play_services_notification_channel_name>Google Play 서비스 사용 가능 여부</common_google_play_services_notification_channel_name>
+    <common_google_play_services_notification_ticker>Google Play 서비스 오류</common_google_play_services_notification_ticker>
+    <common_google_play_services_unknown_issue>%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</common_google_play_services_unknown_issue>
+    <common_google_play_services_unsupported_text>%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</common_google_play_services_unsupported_text>
+    <common_google_play_services_update_button>업데이트</common_google_play_services_update_button>
+    <common_google_play_services_update_text>Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</common_google_play_services_update_text>
+    <common_google_play_services_update_title>Google Play 서비스 업데이트</common_google_play_services_update_title>
+    <common_google_play_services_updating_text>현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</common_google_play_services_updating_text>
+    <common_google_play_services_wear_update_text>새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</common_google_play_services_wear_update_text>
+    <common_open_on_phone>스마트폰에서 열기</common_open_on_phone>
+    <common_signin_button_text>로그인</common_signin_button_text>
+    <common_signin_button_text_long>Google 계정으로 로그인</common_signin_button_text_long>
+    <contact_creator>제작자에게 문의하십시오</contact_creator>
+    <continue_buy>1 년 동안 갱신 한 후 InShot Pro는 %s로 연장됩니다</continue_buy>
+    <continue_title>계속하기</continue_title>
+    <contrast>대조</contrast>
+    <convert_failed>변환 실패</convert_failed>
+    <copied>복사 됨</copied>
+    <copy>복사</copy>
+    <crop>자르기</crop>
+    <curve>곡선</curve>
+    <custom_background>배경 사용자 정의</custom_background>
+    <custom_sticker>비디오에 이미지 오버레이</custom_sticker>
+    <cut>자르기</cut>
+    <cut_both_ends>다듬기</cut_both_ends>
+    <cut_import>가져오기</cut_import>
+    <cut_video>비디오 자르기</cut_video>
+    <cutout>컷아웃</cutout>
+    <day_free_trial>%s 일 무료 이용</day_free_trial>
+    <days_left>%d 일 남음</days_left>
+    <delete>삭제</delete>
+    <delete_confirm_dialog_content>당신은 삭제 하시겠습니까?</delete_confirm_dialog_content>
+    <delete_drafts_note>삭제 된 초안을 복구 할 수 없습니다 유의하시기 바랍니다!</delete_drafts_note>
+    <delete_material_tip>재료 감지가 초안에 영향을 줍니다!</delete_material_tip>
+    <denoise>소음 감소</denoise>
+    <detail>세부 묘사</detail>
+    <detail_mosaic>세부 사항</detail_mosaic>
+    <directories>디렉토리</directories>
+    <disable_follow>비활성화</disable_follow>
+    <discard_edit_dlg_confirm>버리기</discard_edit_dlg_confirm>
+    <discard_edit_dlg_title>편집을 삭제 하시겠습니까?</discard_edit_dlg_title>
+    <discount>할인</discount>
+    <discount_format>%s 할인</discount_format>
+    <dissolve>디졸브</dissolve>
+    <distort>왜곡</distort>
+    <do_not_use_tags>태그를 사용하지 마십시오?</do_not_use_tags>
+    <donate>기부하다</donate>
+    <done>완료</done>
+    <double_click_reset_zoom>더블클릭으로 복구</double_click_reset_zoom>
+    <download>다운로드</download>
+    <download_failed>다운로드 실패!</download_failed>
+    <download_free_font>무료 한국어 글꼴을 다운로드</download_free_font>
+    <download_video_progress_title>서버에서 비디오로드…</download_video_progress_title>
+    <draft>초안</draft>
+    <draft_clip_missing_tip>원본 파일을 더 이상 이용할 수 없어서 초안에서 일부 클립을 불러올 수 없습니다.</draft_clip_missing_tip>
+    <draft_clip_missing_tip1>다른 애셋으로 교체해서 계속하세요.</draft_clip_missing_tip1>
+    <draft_corrupted>초안의 일부 요소가 누락되어 있습니다.</draft_corrupted>
+    <draft_delete_video_hint>원본 비디오를 삭제하면 초안 파일이 손상됩니다.</draft_delete_video_hint>
+    <draft_load_err>불러오기 오류</draft_load_err>
+    <draft_open_hint>새 비디오 프로젝트를 시작하면 초안이 교체됩니다.</draft_open_hint>
+    <draft_saved>초안이 저장되었습니다</draft_saved>
+    <drafts>%s 임시저장</drafts>
+    <drafts_not_backward_compatible>앱 버전이 너무 낮아 초안을 열 수 없습니다.</drafts_not_backward_compatible>
+    <drag_to_swap>드래그하여 교체</drag_to_swap>
+    <duplicate>반복</duplicate>
+    <duration>길이</duration>
+    <edit>편집</edit>
+    <edit_music_dialog_music_volume>음악 볼륨</edit_music_dialog_music_volume>
+    <edit_music_dialog_original_volume>비디오 볼륨</edit_music_dialog_original_volume>
+    <edit_music_dialog_title>볼륨 편집</edit_music_dialog_title>
+    <edit_volume_fade_out>페이드 아웃</edit_volume_fade_out>
+    <edit_with_inshot>InShot으로 편집:</edit_with_inshot>
+    <effect>효과</effect>
+    <effect_count>효과 %d개</effect_count>
+    <effects>효과</effects>
+    <emoji_activity_category>활동</emoji_activity_category>
+    <emoji_animals_category>동물</emoji_animals_category>
+    <emoji_celebration_category>축하</emoji_celebration_category>
+    <emoji_dialy_category>매일</emoji_dialy_category>
+    <emoji_emotion_category>감정</emoji_emotion_category>
+    <emoji_food_category>식품</emoji_food_category>
+    <emoji_gesture_category>몸짓</emoji_gesture_category>
+    <emoji_nature_category>자연</emoji_nature_category>
+    <emoji_objects_category>사물</emoji_objects_category>
+    <emoji_people_category>사람들</emoji_people_category>
+    <emoji_recent_category>최근</emoji_recent_category>
+    <emoji_smile_category>스마일</emoji_smile_category>
+    <emoji_symbols_category>상징</emoji_symbols_category>
+    <emoji_transit_category>운송</emoji_transit_category>
+    <erase>지우기</erase>
+    <error>실패한! 다시 시도하십시오!</error>
+    <examine_result>%d 개 클립을 가져올 수 없습니다.</examine_result>
+    <exit>종료</exit>
+    <exit_app_discard_edit_warn>저장하지 않으려면 한 번 더 누르세요</exit_app_discard_edit_warn>
+    <exit_before_save_dlg_confirm>출구</exit_before_save_dlg_confirm>
+    <exit_before_save_dlg_content>저장하고 작품을 공유 할 수있는 저장 버튼을 누릅니다.</exit_before_save_dlg_content>
+    <exit_before_save_dlg_title>저장하기 전에 종료?</exit_before_save_dlg_title>
+    <exit_tip>버튼을종료하려면 다시 누릅니다</exit_tip>
+    <exo_controls_cc_disabled_description>자막 사용 설정</exo_controls_cc_disabled_description>
+    <exo_controls_cc_enabled_description>자막 사용 중지</exo_controls_cc_enabled_description>
+    <exo_controls_fastforward_description>빨리 감기</exo_controls_fastforward_description>
+    <exo_controls_fullscreen_enter_description>전체 화면으로 전환</exo_controls_fullscreen_enter_description>
+    <exo_controls_fullscreen_exit_description>전체 화면 종료</exo_controls_fullscreen_exit_description>
+    <exo_controls_hide>플레이어 컨트롤 숨기기</exo_controls_hide>
+    <exo_controls_next_description>다음</exo_controls_next_description>
+    <exo_controls_overflow_hide_description>추가 설정 숨기기</exo_controls_overflow_hide_description>
+    <exo_controls_overflow_show_description>추가 설정 표시</exo_controls_overflow_show_description>
+    <exo_controls_pause_description>일시중지</exo_controls_pause_description>
+    <exo_controls_play_description>재생</exo_controls_play_description>
+    <exo_controls_playback_speed>속도</exo_controls_playback_speed>
+    <exo_controls_playback_speed_normal>일반</exo_controls_playback_speed_normal>
+    <exo_controls_previous_description>이전</exo_controls_previous_description>
+    <exo_controls_repeat_all_description>모두 반복</exo_controls_repeat_all_description>
+    <exo_controls_repeat_off_description>반복 안함</exo_controls_repeat_off_description>
+    <exo_controls_repeat_one_description>현재 미디어 반복</exo_controls_repeat_one_description>
+    <exo_controls_rewind_description>되감기</exo_controls_rewind_description>
+    <exo_controls_seek_bar_description>재생 진행률</exo_controls_seek_bar_description>
+    <exo_controls_settings_description>설정</exo_controls_settings_description>
+    <exo_controls_show>플레이어 컨트롤 표시</exo_controls_show>
+    <exo_controls_shuffle_off_description>셔플 사용 안함</exo_controls_shuffle_off_description>
+    <exo_controls_shuffle_on_description>셔플 사용</exo_controls_shuffle_on_description>
+    <exo_controls_stop_description>중지</exo_controls_stop_description>
+    <exo_controls_vr_description>가상 현실 모드</exo_controls_vr_description>
+    <exo_download_completed>다운로드 완료</exo_download_completed>
+    <exo_download_description>다운로드</exo_download_description>
+    <exo_download_downloading>다운로드 중</exo_download_downloading>
+    <exo_download_failed>다운로드 실패</exo_download_failed>
+    <exo_download_notification_channel_name>다운로드</exo_download_notification_channel_name>
+    <exo_download_removing>다운로드 항목 삭제 중</exo_download_removing>
+    <exo_item_list>%1$s, %2$s</exo_item_list>
+    <exo_track_bitrate>%1$.2fMbps</exo_track_bitrate>
+    <exo_track_mono>모노</exo_track_mono>
+    <exo_track_resolution>%1$d×%2$d</exo_track_resolution>
+    <exo_track_role_alternate>대체</exo_track_role_alternate>
+    <exo_track_role_closed_captions>자막</exo_track_role_closed_captions>
+    <exo_track_role_commentary>논평</exo_track_role_commentary>
+    <exo_track_role_supplementary>추가</exo_track_role_supplementary>
+    <exo_track_selection_auto>자동</exo_track_selection_auto>
+    <exo_track_selection_none>없음</exo_track_selection_none>
+    <exo_track_selection_title_audio>오디오</exo_track_selection_title_audio>
+    <exo_track_selection_title_text>텍스트</exo_track_selection_title_text>
+    <exo_track_selection_title_video>동영상</exo_track_selection_title_video>
+    <exo_track_stereo>스테레오</exo_track_stereo>
+    <exo_track_surround>서라운드 사운드</exo_track_surround>
+    <exo_track_surround_5_point_1>5.1 서라운드 사운드</exo_track_surround_5_point_1>
+    <exo_track_surround_7_point_1>7.1 서라운드 사운드</exo_track_surround_7_point_1>
+    <exo_track_unknown>알 수 없음</exo_track_unknown>
+    <extract>추출물</extract>
+    <extract_audio>오디오 추출</extract_audio>
+    <extract_audio_from_video>비디오에서 오디오 추출</extract_audio_from_video>
+    <extract_failed>추출 실패</extract_failed>
+    <fade>바래다</fade>
+    <fade_in>페이드 인</fade_in>
+    <fade_new>바래다</fade_new>
+    <failed_to_load_blur_image>선택한 이미지를로드하지 못했습니다. 다시 선택하십시오!</failed_to_load_blur_image>
+    <failed_to_load_image>아차! 이미지를로드하지 못했습니다.</failed_to_load_image>
+    <fast_motion>빠른 동작</fast_motion>
+    <favourite>특히 잘하는</favourite>
+    <featured>특색 지어진</featured>
+    <feedback_and_suggestion_hint>피드백과 제안</feedback_and_suggestion_hint>
+    <feedback_not_now>취소</feedback_not_now>
+    <feedback_subject>InShot에 대한 피드백</feedback_subject>
+    <feedback_submit>제출하기</feedback_submit>
+    <festival>제전</festival>
+    <file_corrupted_description>파일이 손상되었습니다. 공식 앱 스토어에서 InShot을 다시 다운로드하십시오.</file_corrupted_description>
+    <file_corrupted_note>로 파일이 손상된, 을 다시 설치하시기 바랍니다 InShot</file_corrupted_note>
+    <file_corrupted_title>친애하는 사용자</file_corrupted_title>
+    <file_not_support>이 종류의 파일을 InShot 지원하지 않</file_not_support>
+    <film>필름</film>
+    <film_grain>필름 그레인</film_grain>
+    <filter>필터</filter>
+    <filter_manage>필터 관리</filter_manage>
+    <filter_not_supported_in_photo>현재 효과 팩은 사진에 사용할 수 없습니다.</filter_not_supported_in_photo>
+    <filters>필터</filters>
+    <first_month>첫 월</first_month>
+    <first_year>첫해</first_year>
+    <fit>알맞다</fit>
+    <fit_bottom>아래로</fit_bottom>
+    <fit_fit>딱 맞게</fit_fit>
+    <fit_full>풀 화면</fit_full>
+    <fit_left>좌회전</fit_left>
+    <fit_original>원본</fit_original>
+    <fit_right>권리</fit_right>
+    <fit_top>위로</fit_top>
+    <flip>좌우반전</flip>
+    <folder_cannot_write>폴더는 쓸 수 없습니다! 다른 하나를 선택하십시오.</folder_cannot_write>
+    <follow_ins_to_unlock>Instagram에서 InShot 팔로우 하여</follow_ins_to_unlock>
+    <follow_setting_title>프레임에 항목 고정</follow_setting_title>
+    <follow_tiktok_to_unlock>InShot TikTok 채널을 구독하세요</follow_tiktok_to_unlock>
+    <follow_toggle_tip>클립을 자르거나 삭제한 후 항목(녹음, 음향 효과, PIP, 스티커, 텍스트, 효과)은 원래 프레임에 고정됩니다.</follow_toggle_tip>
+    <follow_toggle_tip_2>클립을 자르거나 삭제한 후 항목(PIP, 스티커, 텍스트...)은 원래 프레임에 고정됩니다.</follow_toggle_tip_2>
+    <follow_us_fun_media_tip>Inshot을 팔로워 하시면 더 많은 정보를 보실 수 있습니다.</follow_us_fun_media_tip>
+    <follow_us_to>우리를 따라</follow_us_to>
+    <follow_youtube_to_unlock>InShot YouTube 채널 구독하여</follow_youtube_to_unlock>
+    <font>글자</font>
+    <font_color>글꼴 색</font_color>
+    <font_copyright_des>이 글꼴은 개인용 (비상업적) 용도로만 사용됩니다.</font_copyright_des>
+    <fonts>세례반</fonts>
+    <for_you>추천</for_you>
+    <format>형식</format>
+    <frame>프레임</frame>
+    <frame_rate>프레임 레이트</frame_rate>
+    <free>무료</free>
+    <free_download>무료 다운로드</free_download>
+    <free_unlock>무료로 잠금 해제</free_unlock>
+    <freeze>동결</freeze>
+    <full_park_emoji>전체 이모티콘 팩</full_park_emoji>
+    <gallery>갤러리</gallery>
+    <get>받기</get>
+    <gif_compress>Gif 압축</gif_compress>
+    <string name="gif_compress_description" formatted="false">%s 이상인 Gif는 %s(으)로 자동 압축됩니다.</string>
+    <gif_supported_tip>이제 GIF도 지원됩니다.</gif_supported_tip>
+    <give_5star>별점 5점 주기</give_5star>
+    <glitch>글리치</glitch>
+    <go_setting>설정으로 이동</go_setting>
+    <go_to_logout>InShot 계정을 영구적으로 삭제</go_to_logout>
+    <go_to_the_shop>상점으로 이동</go_to_the_shop>
+    <gps_not_installed>최신 버전의 Google Play 서비스가 설치되어 있는지 확인하세요.</gps_not_installed>
+    <gradient>그라디언트</gradient>
+    <grain>노이즈</grain>
+    <has_no_photo_hint>1-9장의 사진을 골라 아름다운 콜라주를 만들어보세요.</has_no_photo_hint>
+    <have_purchased>구입하셨습니다!</have_purchased>
+    <help>도움말</help>
+    <help_Keyframe_desc>타임라인에 키프레임을 추가하여 스티커/텍스트/PIP 애니메이션(줌/움직임/회전/투명)의 시작 및 종료를 쉽게 표시하세요.</help_Keyframe_desc>
+    <help_Keyframe_title>키프레임</help_Keyframe_title>
+    <help_Keyframe_youtube_des>키프레임으로 레이어용 애니메이션을 추가하는 방법</help_Keyframe_youtube_des>
+    <help_add_custom_sticker_desc_one>스티커 메뉴로 들어가서, 앨범 또는 폴더에서 사진을 가져옵니다.</help_add_custom_sticker_desc_one>
+    <help_add_custom_sticker_desc_two>이제 GIF도 지원됩니다.</help_add_custom_sticker_desc_two>
+    <help_add_custom_sticker_title>사용자 지정 스티커 추가</help_add_custom_sticker_title>
+    <help_adjust_audio_volume_desc_one>음악 메뉴로 들어갑니다.</help_adjust_audio_volume_desc_one>
+    <help_adjust_audio_volume_desc_two>"음악 타임라인을 클릭하여 음악/효과음/녹음의 볼륨을 조정합니다.
+비디오 클립을 클릭하여 원본 동영상의 볼륨을 조정합니다."</help_adjust_audio_volume_desc_two>
+    <help_adjust_audio_volume_title>오디오 볼륨 조정</help_adjust_audio_volume_title>
+    <help_adjust_volume>비디오 볼륨을 조정하려면 타임 라인을 클릭하십시오.</help_adjust_volume>
+    <help_animation_desc>텍스트와 스티커의 인/아웃 애니메이션을 선택하세요.</help_animation_desc>
+    <help_animation_title>인/아웃 애니메이션을 선택하세요</help_animation_title>
+    <help_apply_to_all_desc>전체 적용 옵션을 사용해서 모든 클립에 필터, 테두리 길이, 배경 또는 볼륨을 적용하세요.</help_apply_to_all_desc>
+    <help_apply_to_all_title>모든 클립에 편집 적용</help_apply_to_all_title>
+    <help_atmosphere_materials_desc>분위기 재료와 혼합 효과는 최고의 짝꿍입니다.</help_atmosphere_materials_desc>
+    <help_atmosphere_materials_title>분위기 재료</help_atmosphere_materials_title>
+    <help_atmosphere_materials_youtube_des>무료 오버레이를 추가하는 방법</help_atmosphere_materials_youtube_des>
+    <help_audio_volume_youtube_des>오리지널 오디오 볼륨 조정 방법</help_audio_volume_youtube_des>
+    <help_background_ratio_desc>알맞다 메뉴를 입력하고, 비디오의 배경 비율을 설정하거나 비디오 배경을 제거하세요.</help_background_ratio_desc>
+    <help_background_ratio_title>동영상 배경 비율 변경</help_background_ratio_title>
+    <help_background_ratio_youtube_des>동영상에 배경 설정하는 법</help_background_ratio_youtube_des>
+    <help_click_to_edit_clip>편집할 트랙 하나를 선택하세요.</help_click_to_edit_clip>
+    <help_click_to_edit_volume>여기를 클릭하여 동영상 볼륨을 편집하세요</help_click_to_edit_volume>
+    <help_disable_stick_frame_desc>"InShot 설정으로 들어갑니다
+'동영상 설정'을 탭하고 '프레임에 항목 고정' 옵션을 비활성화합니다."</help_disable_stick_frame_desc>
+    <help_disable_stick_frame_title>클립을 삭제하면 왜 내 스티커/텍스트/효과가/PIPs/녹음/음향 효과 제거되나요?</help_disable_stick_frame_title>
+    <help_edit_music>음악을 편집하려면 클릭하십시오.</help_edit_music>
+    <help_edit_music_desc>삽입된 음악을 클릭해서 편집하세요.</help_edit_music_desc>
+    <help_edit_music_title>음악 편집</help_edit_music_title>
+    <help_extract_audio_desc>음악 탭에서 [비디오에서 오디오 추출]을 탭하여 오디오를 추출할 동영상을 불러오세요.</help_extract_audio_desc>
+    <help_extract_audio_title>비디오에서 오디오 추출</help_extract_audio_title>
+    <help_extract_audio_youtube_des>동영상에서 오디오 추출 방법</help_extract_audio_youtube_des>
+    <help_faq_album_desc_1>"탑재된 음악은 모두 음악가들과 라이선스 계약을 체결한 것입니다.
+
+저작권 통보를 받거나 Instagram에서 비디오를 삭제한 경우, \"동의함\"을 눌러 서명하고 호소하기를 탭하세요."</help_faq_album_desc_1>
+    <help_faq_album_desc_2>음악가가 호소에 대해 적극적으로 지원할 것이니 너무 걱정마세요. 비디오는 2–3분 내에 복구됩니다.</help_faq_album_desc_2>
+    <help_faq_album_title>Instagram에서 내 뮤직 비디오를 제거하면 어떻게 해야 하나요?</help_faq_album_title>
+    <help_faq_auto_update_dest>Google Play 계정 관리를 탭하고, 설정을 탭하고, 선호하는 네트워크 상태 아래 자동 업데이트를 탭한 뒤.</help_faq_auto_update_dest>
+    <help_faq_auto_update_title>InShot 최신 버전을 유지하는 방법은 무엇인가요?</help_faq_auto_update_title>
+    <help_faq_four_desc>죄송합니다만, 삭제된 초안은 복원할 수 없습니다. 저희는 개인정보 보호정책을 준수하여 사용자의 파일을 보관하지 않습니다.</help_faq_four_desc>
+    <help_faq_four_title>삭제 후 초안을 복원할 수 있나요?</help_faq_four_title>
+    <help_faq_insufficient_memory_desc>동영상 저장 과정 중 중간 파일이 많이 생성됩니다. 이 파일들은 저장 과정이 완료되면 자동으로 삭제됩니다. 이 문제를 해결하려면, 장치(SD 카드 저장 공간 아님)에서 더 많은 공간을 확보하세요.</help_faq_insufficient_memory_desc>
+    <help_faq_insufficient_memory_title>휴대폰에 여유 공간이 있는데 왜 여전히 메모리 부족이라고 표시되나요?</help_faq_insufficient_memory_title>
+    <help_faq_one_desc>모든 글꼴은 해당하는 라이선스가 있으므로, 사용 전 주의하여 확인하시기 바랍니다. 일부 글꼴은 개인적인 용도로만 사용이 가능합니다.</help_faq_one_desc>
+    <help_faq_one_title>내장된 글꼴을 상업적 목적으로 사용할 수 있나요?</help_faq_one_title>
+    <help_faq_three_desc>갤러리에서 원본 파일을 삭제할 경우 관련된 초안이 상실되고 열 수 없습니다. 최근 삭제된 앨범에서 파일을 복원해 보세요.</help_faq_three_desc>
+    <help_faq_three_title>\"초안이 손상됨\" 또는 \"초안에 원본 파일이 없습니다\"와 같은 오류 메시지가 표시되는 이유는 무엇입니까?</help_faq_three_title>
+    <help_faq_two_desc>"Content ID 소유권 주장이 저작권 위반 경고, 채널 정지 또는 채널 폐쇄로 이어지지는 않습니다. 일반적으로 소유권 주장의 목적은 동영상을 차단하는 것이 아니라 동영상을 추적하거나 수익을 창출하는 데 있습니다. 따라서 동영상은 소유권이 주장된 상태로 계속 게시되며(단, 광고가 게재될 수 있음), 동영상을 다른 사람과 계속 공유할 수 있습니다.
+
+Content ID 소유권 주장에 대해서는 https://support.google.com/youtube/answer/7002106?hl=ko 문서를 참조하시길 바랍니다."</help_faq_two_desc>
+    <help_faq_two_title>YouTube 음악 저작권 청구를 왜 받나요?</help_faq_two_title>
+    <help_group_inshot_pro_title>Pro</help_group_inshot_pro_title>
+    <help_group_video_edit_title>편집</help_group_video_edit_title>
+    <help_import_fonts_desc>휴대폰에 폰트 파일이 있는지 확인하세요. 불러오기 버튼을 탭하여 폰트를 불러오세요.</help_import_fonts_desc>
+    <help_import_fonts_desc2>"Android 11 이상을 사용하는 사용자는 글꼴 가져오기를 클릭한 후, 파일 선택 페이지로 이동합니다
+1.좌측 상단에 있는 버튼을 클릭하고, 해당 SD 카드를 선택한 다음, 파일 디렉터리를 선택합니다."</help_import_fonts_desc2>
+    <help_import_fonts_desc3>2.맨 위에 있는 검색창을 클릭한 후, 글꼴 이름 또는 TTF/OTF 파일을 검색합니다.</help_import_fonts_desc3>
+    <help_import_fonts_title_two>폰트 불러오기</help_import_fonts_title_two>
+    <help_import_fonts_youtube_des>InShot Android에서 폰트 불러오기 방법</help_import_fonts_youtube_des>
+    <help_manager_subscribe_desc>Google Play Store로 이동합니다. 구독 메뉴로 들어가서, 취소를 원하는 구독을 선택하세요.</help_manager_subscribe_desc>
+    <help_manager_subscribe_title>내 구독을 관리/취소하려면?</help_manager_subscribe_title>
+    <help_mask_desc>PIP 레이어에 모양 마스크를 추가합니다.</help_mask_desc>
+    <help_mask_title>PIP 마스크</help_mask_title>
+    <help_mask_youtube_des>PIP 레이어에 마스크 도구를 사용하는 방법</help_mask_youtube_des>
+    <help_merge_video_desc>+ 버튼을 클릭해서 병합할 비디오를 선택하세요.</help_merge_video_desc>
+    <help_merge_video_title>비디오 병합</help_merge_video_title>
+    <help_move_music>길게 눌러 위치를 설정하십시오.</help_move_music>
+    <help_one_time_purchase_des>일회성 구매를 하시면, InShot의 영구 프리미엄 버전을 받을 수 있습니다. 차후 InShot에 새로운 전용 편집 재료 또는 기능이 추가되는 경우에도, 다시 구매하실 필요가 없게 됩니다.</help_one_time_purchase_des>
+    <help_one_time_purchase_title>영구성 구매란 무엇인가?</help_one_time_purchase_title>
+    <help_photo_cutout_desc>\"배경\"을 탭하여 컷아웃에 배경을 추가하세요</help_photo_cutout_desc>
+    <help_photo_cutout_title>사진 자르기</help_photo_cutout_title>
+    <help_pip_chroma_desc>"색상을 샘플링 하고 제거하세요.
+1. 색상 선택 도구를 사용하여 제거하고자 하는 색상을 선택하세요.
+2. 강도와 그림자를 조정하여 다듬으세요"</help_pip_chroma_desc>
+    <help_pip_chroma_title>PIP 크로마키</help_pip_chroma_title>
+    <help_pip_chroma_youtube_des>크로마키로 녹색 화면 배경 지우는 법 (InShot 튜토리얼)</help_pip_chroma_youtube_des>
+    <help_restore_fail_reason_desc_one>1. Google Play로 가서 오른쪽 상단에 있는 계정 아이콘을 클릭하세요.</help_restore_fail_reason_desc_one>
+    <help_restore_fail_reason_desc_three>3. 구매한 계정을 제외한 모든 계정을 일시적으로 삭제한 후 InShot 설정에서 다시 구매 항목을 복원하세요.</help_restore_fail_reason_desc_three>
+    <help_restore_fail_reason_desc_two>"2. 로그인된 Google 계정이 여러 개일 경우, '계정 관리'를 클릭하세요."</help_restore_fail_reason_desc_two>
+    <help_restore_fail_reason_title>올바른 Google Play 계정에 로그인했는데 왜 구매 항목이 복원되지 않나요?</help_restore_fail_reason_title>
+    <help_restore_purchase_desc_one>기기 설정에서 InShot 데이터를 지운 다음, InShot 설정에서 \"구매내역 복원\"을 클릭하세요.</help_restore_purchase_desc_one>
+    <help_restore_purchase_desc_two>여러 개가 아닌, 정확한 단 하나의 Google Play 계정으로 로그인됐는지 확인하세요. 현재 Google Play에서는 복수 계정을 인식하지 않습니다.</help_restore_purchase_desc_two>
+    <help_restore_purchase_title>내 구매 항목을 복원하려면?</help_restore_purchase_title>
+    <help_save_discard_draft_desc_one>"현재 프로젝트를 유지하려면, 클릭하여 돌아갈 때 '초안'을 선택합니다."</help_save_discard_draft_desc_one>
+    <help_save_discard_draft_desc_two>홈페이지에서 초안을 관리(삭제/복사/이름 변경)할 수 있습니다.</help_save_discard_draft_desc_two>
+    <help_save_discard_draft_title>초안 저장/폐기</help_save_discard_draft_title>
+    <help_slideshow_add_transition_desc>전환 추가</help_slideshow_add_transition_desc>
+    <help_slideshow_adjust_duration_desc>사진 시간 조정</help_slideshow_adjust_duration_desc>
+    <help_slideshow_import_picture_desc>앨범 및 파일로부터 사진 가져오기</help_slideshow_import_picture_desc>
+    <help_slideshow_reminder>탭하여 동영상 및 사진을 전환합니다</help_slideshow_reminder>
+    <help_slideshow_title>슬라이드쇼 만들기</help_slideshow_title>
+    <help_slideshow_youtube_des>음악 슬라이드쇼 만드는 방법</help_slideshow_youtube_des>
+    <help_smooth_des>스무스 도구를 사용하여 슬로모션 비디오를 완벽하게 부드럽게 만드세요(속도&lt;1.0X)</help_smooth_des>
+    <help_smooth_title>스무스 슬로모션</help_smooth_title>
+    <help_speed_ramp_des_one>스피드 노드를 수정하세요. \"추가/삭제\" 버튼을 탭하여 커브에서 노드를 추가/삭제하세요.</help_speed_ramp_des_one>
+    <help_speed_ramp_des_two>스피드 램핑을 조정하세요. 스피드 노드를 선택, 수직으로 드래그 하여 동영상 속도를 조정하고 수평으로 드래그 하여 속도 기간을 조정하세요.</help_speed_ramp_des_two>
+    <help_speed_ramp_ratio_youtube_des>스피드 램프 | InShot으로 부드러운 스피드 램핑 효과 생성</help_speed_ramp_ratio_youtube_des>
+    <help_speed_ramp_title>스피드 램핑 (커브)</help_speed_ramp_title>
+    <help_swap_clip>길게 눌러 교체</help_swap_clip>
+    <help_timeline_desc>슬라이더 핸들을 클릭해서 빠르게 클립 끝이나 비디오 끝까지 탐색하세요.</help_timeline_desc>
+    <help_timeline_title>스티커 및 텍스트 빠른 탐색</help_timeline_title>
+    <help_transition_desc>2개 이상의 비디오 클립을 가져오기하고, 2개의 클립 썸네일 사이에 있는 버튼을 클릭해서 전환을 추가하세요.</help_transition_desc>
+    <help_transition_title>비디오 전환</help_transition_title>
+    <help_translate_content>난 당신이 InShot 번역을 도와 싶습니다. 저에게 연락하십시오. 언어 :</help_translate_content>
+    <help_translate_subject>현지화</help_translate_subject>
+    <help_volume_adjust_desc>비디오 썸네일을 클릭하여 퀵 메뉴를 열고 슬라이더를 드래그해서 비디오 볼륨을 조정하세요.</help_volume_adjust_desc>
+    <help_volume_adjust_title>비디오 볼륨 조정</help_volume_adjust_title>
+    <help_youtube_title>YouTube 튜토리얼</help_youtube_title>
+    <help_zoom_drag>핸들을 드래그하여 동영상을 자릅니다.</help_zoom_drag>
+    <help_zoom_timeline>"더 정밀하게 편집하려면 타임라인을 확대하세요.
+전체 타임라인을 미리 보려면 축소하세요."</help_zoom_timeline>
+    <help_zoom_title>동영상 편집</help_zoom_title>
+    <hide>숨는 장소</hide>
+    <highlight>가장 밝은 부분</highlight>
+    <hint_install_googleplay>그것은 구글이 서비스를 재생이 필요하기 때문에 구매는 실패 이는 사용자의 기기가 지원되지 않습니다.</hint_install_googleplay>
+    <hint_items_to_frame>동영상 설정로 이동하여 옵션을 활성화/비활성화할 수 있습니다</hint_items_to_frame>
+    <hot>핫</hot>
+    <hua_wei_login_error>HUAWEI에 로그인하지 못했습니다</hua_wei_login_error>
+    <hua_wei_login_success>HUAWEI에 성공적으로 로그인</hua_wei_login_success>
+    <hue>색조</hue>
+    <i_receive_effect_success>\" 효과 - 가져온\" 폴더에 성공적으로 저장되었습니다.</i_receive_effect_success>
+    <i_receive_music_success>\" 특색 지어진 - 가져온\" 폴더에 성공적으로 저장되었습니다.</i_receive_music_success>
+    <import_font>글꼴 가져 오기</import_font>
+    <import_video_failed_content>비디오 해상도가 휴대 전화의 성능 제한을 초과합니다.</import_video_failed_content>
+    <import_video_failed_title>가져 오기에 실패했습니다.</import_video_failed_title>
+    <imported>가져온</imported>
+    <imported_effect>가져온 효과</imported_effect>
+    <imported_music>가져온 음악</imported_music>
+    <improvement_plan_desc>InShot의 사용자 환경을 개선하기 위해 기기 ID 정보가 필요합니다. 감사.</improvement_plan_desc>
+    <improvement_plan_title>사용자 환경 개선 계획</improvement_plan_title>
+    <index_create_new>새로 만들기</index_create_new>
+    <index_more_take_photo>사진을 찍다</index_more_take_photo>
+    <index_more_take_video>비디오를 찍</index_more_take_video>
+    <index_more_use_recent>최근 사용</index_more_use_recent>
+    <info_code>정보 코드:</info_code>
+    <ins_crop_hint_1>작품이 인스타그램에 의해 잘릴 수 있습니다.</ins_crop_hint_1>
+    <ins_crop_hint_2>인스타그램 비율은 1.91:1에서 4:5 사이입니다.</ins_crop_hint_2>
+    <inshot_pro>InShot Pro</inshot_pro>
+    <string name="instagram_permission_tip">사진을 업로드 <b>Instagram</b>의에 <b>스토리지 권한을</b> 부여하십시오.</string>
+    <install>설치</install>
+    <installed>설치됨</installed>
+    <interval>간격</interval>
+    <invalid_delete>마지막 클립은 삭제할 수 없습니다.</invalid_delete>
+    <invalid_position>선택된 위치가 잘못되었습니다.</invalid_position>
+    <invalidate_name>특수 기호는 지원되지 않습니다.</invalidate_name>
+    <item_already_owned>인앱 구매를 다시 활성화하려면 복원을 클릭하십시오.</item_already_owned>
+    <items>항목</items>
+    <join_inshot_pro>InShot Pro 가입</join_inshot_pro>
+    <jump_to_font_language>%s(으)로 이동</jump_to_font_language>
+    <keep_draft>초안 유지</keep_draft>
+    <keep_on>켜기</keep_on>
+    <keyframe>키프레임</keyframe>
+    <label>라벨</label>
+    <label_quick_selection>빠른 라벨 선택</label_quick_selection>
+    <last_draft>마지막 초안</last_draft>
+    <layout>레이아웃</layout>
+    <letter_animation>한 글자</letter_animation>
+    <lib_rate_btn_go_market>Google Play 평점 남기기</lib_rate_btn_go_market>
+    <lib_rate_five_stars_tip>최고의 점수를 주셔서 감사합니다 :)</lib_rate_five_stars_tip>
+    <lib_rate_leave_feedback>피드백을 제공해 주세요.</lib_rate_leave_feedback>
+    <lib_rate_like_you>저희도 여러분을 좋아합니다!</lib_rate_like_you>
+    <lib_rate_oh_no>이런!</lib_rate_oh_no>
+    <lib_rate_thanks_feedback>피드백을 주셔서 감사합니다.</lib_rate_thanks_feedback>
+    <license>특허</license>
+    <light>조명</light>
+    <lightness>밝기</lightness>
+    <loading>다운로드 중…</loading>
+    <loading_progress_title>다운로드 중…</loading_progress_title>
+    <login_tip>"구매를 계속 지불하거나 복원하려면
+ 계정을 바인딩하십시오"</login_tip>
+    <login_with>%s로 로그인</login_with>
+    <login_with_wechat>WeChat으로 로그인</login_with_wechat>
+    <logout>지우다</logout>
+    <logout_hint>InShot Pro를 구독 한 경우 계정을 삭제하면 Inshot Pro도 삭제되며 복원 할 수 없습니다 !!!</logout_hint>
+    <logout_success>성공적으로 삭제</logout_success>
+    <long_press_delete>길게 눌러서 삭제합니다</long_press_delete>
+    <long_press_preview>길게 누르면 미리보기가됩니다.</long_press_preview>
+    <looking_for_music_content_1>무료 음악을 다운 받으려면 사용중인 PC나 맥에서 YouTube Audio Library를 방문하세요.</looking_for_music_content_1>
+    <looking_for_music_content_2>그리고 난 후 안드로이드 전화기로 음악 파일을 전송하세요.</looking_for_music_content_2>
+    <looking_for_music_title>동영상에 사용할 음악을 찾고 계신가요?</looking_for_music_title>
+    <loop_animation>루프</loop_animation>
+    <low_storage_space>저장공간 부족</low_storage_space>
+    <luminance>휘도</luminance>
+    <manage>꾸리다</manage>
+    <manage_subscription>구독 관리</manage_subscription>
+    <mask>마스크</mask>
+    <material>상점</material>
+    <material_selected_hint>Pro 재료가 포함돼 있습니다.</material_selected_hint>
+    <max_hash_tags_num>인스 타 그램은 사진/비디오 당 최대 29 #hashtags 수 있습니다</max_hash_tags_num>
+    <merge_video_hint>전문적으로비디오병합</merge_video_hint>
+    <message>메시지</message>
+    <modern>현대</modern>
+    <month>월</month>
+    <mood>기분</mood>
+    <morandi>모란 디</morandi>
+    <more_about_inshot_pro>InShot Pro에 대해 더 알아보기</more_about_inshot_pro>
+    <more_emoji>1000 이상</more_emoji>
+    <string name="more_info"><u>더 많은 정보</u>:</string>
+    <mosaic>모자이크</mosaic>
+    <multi_cut>멀티 자르기</multi_cut>
+    <multi_split>다중분할</multi_split>
+    <music>음악</music>
+    <music_limit>음악 길이 제한</music_limit>
+    <musician>음악가</musician>
+    <my_filter>내 필터</my_filter>
+    <my_material>내 재료</my_material>
+    <my_music>내 음악</my_music>
+    <new_>새로만들기</new_>
+    <new_album>새 앨범</new_album>
+    <new_five_stars_rate>저희는 더 나은 사용자 경험을 선사하기 위해 최선을 다하고 있습니다. 저희를 평가해 주시면 대단히 감사하겠습니다.</new_five_stars_rate>
+    <next>다음 것</next>
+    <no>아니</no>
+    <no_actionable_items>작업 가능한 항목 없음</no_actionable_items>
+    <no_audio>오디오 없음</no_audio>
+    <no_audio_files>오디오 파일 없음</no_audio_files>
+    <no_draft_profile>초안 프로필 없음</no_draft_profile>
+    <no_fonts_found>글꼴을 찾을 수 없습니다</no_fonts_found>
+    <no_network>네트워크 없음</no_network>
+    <no_photos_or_videos>사진이나 동영상 없음</no_photos_or_videos>
+    <note_if_you_clear>참고: 캐시를 삭제하면 선택 해제 설정이 없어 집니다.</note_if_you_clear>
+    <off>끄기</off>
+    <offline_notification_text>광고를 열려면 탭하세요.</offline_notification_text>
+    <offline_notification_title>오프라인 상태에서 저장한 광고 보기</offline_notification_title>
+    <offline_opt_in_confirm>확인</offline_opt_in_confirm>
+    <offline_opt_in_confirmation>다시 온라인 상태가 되면 링크와 함께 알림을 받습니다.</offline_opt_in_confirmation>
+    <offline_opt_in_decline>나중에</offline_opt_in_decline>
+    <offline_opt_in_message>광고주 사이트로 연결되는 링크와 함께 알림을 보내 드리겠습니다.</offline_opt_in_message>
+    <offline_opt_in_title>다시 온라인 상태가 될 때 광고 열기</offline_opt_in_title>
+    <ok>확인</ok>
+    <on>선택</on>
+    <only_support_effects>\"효과\" 유형만 지원</only_support_effects>
+    <oom_tip>메모리 부족, 다시 시도해주십시오!</oom_tip>
+    <opacity>투명도</opacity>
+    <open_font_failed>글꼴 파일이 잘못되었습니다.</open_font_failed>
+    <open_from>에서 열려</open_from>
+    <open_from_photos>사진에서 열기</open_from_photos>
+    <open_image_failed_hint>당신은 이미지 파일을 열 수 없습니다, 다시 시도하거나 다른 이미지를보십시오</open_image_failed_hint>
+    <open_music_failed_hint>음악 파일을 열 수 없습니다, 다시 시도하거나 다른 음악 파일을 시도하십시오</open_music_failed_hint>
+    <open_settings_0>1.설정 열기</open_settings_0>
+    <open_settings_1>설정 열기</open_settings_1>
+    <open_video_failed_hint>비디오 파일을 열지 못했습니다, 다시 시도하거나 다른 동영상을 시험해주세요</open_video_failed_hint>
+    <origin_pitch>기존 오디오 피치</origin_pitch>
+    <original>원본</original>
+    <original_image_not_found>원본 이미지 파일이 더 이상 존재하지 않으므로 다시 확인하십시오.</original_image_not_found>
+    <original_music_not_found>원래 음악 파일은 더 이상 존재 확인을 두 배로하시기 바랍니다.</original_music_not_found>
+    <original_video_not_found>원본 비디오 파일이 더 이상 존재하지, 확인을 두 배로하시기 바랍니다.</original_video_not_found>
+    <other_app_recording>다른 앱에서 음성 녹음을 사용 중이므로 현재 음성 녹음을 사용할 수 없습니다.</other_app_recording>
+    <outline>윤곽</outline>
+    <page>찢어진 종이</page>
+    <parent_directory>부모 디렉토리</parent_directory>
+    <part_original_files_miss_in_draft>"원본 파일 하나 이상이 소실되었습니다. 계속하시겠습니까? 
+
+편집을 계속하면 초안의 자료 배치에 오류가 일어날 수 있습니다. 
+
+[최근 삭제/휴지통]에서 원본 파일을 복구하면 초안의 오류가 수정될 수도 있습니다."</part_original_files_miss_in_draft>
+    <pattern>패턴</pattern>
+    <pay_success>성공적으로 구매했습니다!</pay_success>
+    <permission_read_external_storage>저장소 권한이 필요합니다.</permission_read_external_storage>
+    <photo>사진</photo>
+    <pinch_zoom_in>핀치로 확대합니다.</pinch_zoom_in>
+    <pip>PIP</pip>
+    <pip_track_reach_max>최대 수치를 초과합니다.</pip_track_reach_max>
+    <play_video_via>를 통해 동영상 재생</play_video_via>
+    <popular>인기</popular>
+    <precode>프리코딩</precode>
+    <precode_failed>프리코딩 실패</precode_failed>
+    <precut>프리컷</precut>
+    <preset>사전 설정</preset>
+    <string name="privacy_policy_content" formatted="false">"InShot에 오신 것을 환영합니다!&lt;br>&lt;br> 당사는 사용자에게 모든 면에서 더 나은 경험을 제공하기 위해 최선을 다하고 있으며, 때때로 &lt;a href=%s>이용 약관&lt;/a>과 &lt;a href=%s>개인 정보 정책&lt;/a>을 업데이트합니다.&lt;br>&lt;br>내용에 동의하시면, '동의'를 클릭한 후 InShot를 이용해주세요."</string>
+    <string name="privacy_policy_content_gdpr">InShot을 사용하면 맞춤형 광고를 받게 됩니다. 이를 거부하려면 &lt;a href=%s>“개인 정보 정책”&lt;/a> 페이지로 이동하여 “I don’t agree”을 클릭하세요.&lt;br>&lt;br></string>
+    <privacy_policy_title>이용 약관 과 개인정보 보호 정책</privacy_policy_title>
+    <pro_detail>InShot Pro 세부 사항</pro_detail>
+    <pro_expire_time_format>%s에 만료</pro_expire_time_format>
+    <pro_expired_tip>InShot Pro는 %s에 만료되었습니다</pro_expired_tip>
+    <pro_one_time_purchase>영구성 구매</pro_one_time_purchase>
+    <pro_purchase_new_desc>모든 유료 전환, 효과, 스티커, 기타 다양한 기능에 액세스. InShot 로고 없음. 광고 없음.</pro_purchase_new_desc>
+    <pro_purchase_new_desc_1>모든 유료 전환, 효과, 스티커, 기타 다양한 기능에 액세스. 광고 없음.</pro_purchase_new_desc_1>
+    <pro_purchased_info>당신은 이미 InShot 프로 회원입니다.</pro_purchased_info>
+    <pro_restore_not_purchased>복원이 완료되었습니다. 아직 InShot Pro 멤버가 아닙니다.</pro_restore_not_purchased>
+    <pro_subscription_details>구독 세부 정보</pro_subscription_details>
+    <pro_unavailable>프로 이용 불가능</pro_unavailable>
+    <pro_unavailable_detail>정확한 Google Play 계정 하나에만 로그인하셨는지 확인하십시오. Q&amp;A 페이지에서 추가 도움말을 확인하실 수 있습니다.</pro_unavailable_detail>
+    <processing_error>처리 오류</processing_error>
+    <processing_progress_title>가공하다…</processing_progress_title>
+    <procode_progress>프리코딩 중...</procode_progress>
+    <promotion_subscribe_title>홀리 스페셜 오퍼</promotion_subscribe_title>
+    <purchase_failed>구매 실패한, 다시 시도?</purchase_failed>
+    <purchase_failed_tile>구매 실패</purchase_failed_tile>
+    <range>범위</range>
+    <rate>율</rate>
+    <rate_feedback_message>의견을 제공해주시겠습니까?</rate_feedback_message>
+    <rate_later>후</rate_later>
+    <rate_like>예!</rate_like>
+    <rate_main_message>InShot 어플이 마음에 드시나요?</rate_main_message>
+    <rate_not_like>아니요</rate_not_like>
+    <rate_review_message>좋은 리뷰를 남겨주시겠습니까? 저희에게 큰 도움이 됩니다.</rate_review_message>
+    <ratio>비율</ratio>
+    <recent>보기 최근</recent>
+    <recommend>추천</recommend>
+    <record>녹음</record>
+    <redo>재실행</redo>
+    <refresh_state>구매 복구</refresh_state>
+    <reject>아니요</reject>
+    <remove_ads>워터 마크 및 광고 삭제</remove_ads>
+    <remove_ads_1>광고 삭제</remove_ads_1>
+    <remove_ads_1_desc>배너 광고를 영구적으로 제거하세요.</remove_ads_1_desc>
+    <remove_ads_desc>워터 마크 및 배너 광고를 영구적으로 제거하세요. 더 이상 수동으로 워터 마크를 제거 할 필요가 없습니다.</remove_ads_desc>
+    <remove_all_ads>광고 제거하기</remove_all_ads>
+    <remove_all_split_marks>추가한 모든 분할 표시를 삭제하시겠습니까?</remove_all_split_marks>
+    <remove_pro_materials>Pro 재료 제거</remove_pro_materials>
+    <remove_watermark>워터 마크 제거</remove_watermark>
+    <remove_watermark_ad>이 한 번 삭제</remove_watermark_ad>
+    <remove_watermark_ad_2>무료 제거</remove_watermark_ad_2>
+    <remove_watermark_and_ads>워터 마크 및 광고 제거</remove_watermark_and_ads>
+    <remove_watermark_and_ads_1>광고 제거</remove_watermark_and_ads_1>
+    <remove_watermark_and_ads_1_des>영구적으로 광고를 제거합니다.</remove_watermark_and_ads_1_des>
+    <remove_watermark_and_ads_des>영구적으로 워터 마크와 광고를 제거합니다.</remove_watermark_and_ads_des>
+    <remove_watermark_buy>영구적으로 제거하십시오.</remove_watermark_buy>
+    <rename>이름 변경</rename>
+    <renew_pro>InShot Pro 갱신</renew_pro>
+    <replace>교체</replace>
+    <replace_draft_des>초안을 삭제하고 새 프로젝트를 시작 하시겠습니까?</replace_draft_des>
+    <report>보고서</report>
+    <report_fix_description>이 문제를 해결할 수 있도록 로그 및 오디오 파일을 보내주십시오.</report_fix_description>
+    <report_fix_ok>로그 및 오디오 파일 보내기</report_fix_ok>
+    <report_fix_title>오디오 처리 실패</report_fix_title>
+    <request_record_rationale>InShot이 기기에서 마이크를 사용하도록 허용합니다.</request_record_rationale>
+    <request_storage_rationale>InShot이 장치의 사진 및 미디어에 액세스하도록 허용합니다.</request_storage_rationale>
+    <reselect>다시 선택</reselect>
+    <reset>재설정</reset>
+    <reset_adjust>조정 재설정</reset_adjust>
+    <reset_all>모두 재설정</reset_all>
+    <reset_hue>색조 재설정</reset_hue>
+    <reset_luminance>휘도 재설정</reset_luminance>
+    <reset_saturation>채도 재설정</reset_saturation>
+    <reset_speed>속도 재설정</reset_speed>
+    <resolution>해상도</resolution>
+    <restore>복원</restore>
+    <restore_failed>복원에 실패했습니다!</restore_failed>
+    <restore_ok_Pro>성공적으로 복원했으며 이미 InShot Pro 회원입니다.</restore_ok_Pro>
+    <restore_ok_not_Pro>성공적으로 복원했지만 아직 InShot Pro 회원이 아닙니다.</restore_ok_not_Pro>
+    <restore_pro_assets>프로 자산 복원</restore_pro_assets>
+    <restore_success>성공적으로 복원</restore_success>
+    <restore_trim_message>모든 트림 및 잘라 내기 작업을 원래 비디오로 취소 하시겠습니까?</restore_trim_message>
+    <results_page_save_complete>저장 완료</results_page_save_complete>
+    <results_page_share_other>그 외</results_page_share_other>
+    <results_page_wait_video_transcoding>비디오 트랜스 코딩 할 때까지 기다리십시오</results_page_wait_video_transcoding>
+    <retro>레트로</retro>
+    <retry_save_title>마지막 동영상 내보내기에 실패했습니다. 다시 시도 하시겠습니까?</retry_save_title>
+    <returnapp_tip>프레스 로 돌아 InShot.</returnapp_tip>
+    <reverse>되감기</reverse>
+    <rewarded_unlock_content>동영상 광고를 시청하여 모든 기능을 무료로 잠금 해제하세요(%s)</rewarded_unlock_content>
+    <rewinding>되감기 중…</rewinding>
+    <rotate>회전</rotate>
+    <rotate90>90° 회전</rotate90>
+    <s1>이미지 저장</s1>
+    <s2>광고에서 사진 갤러리에 이미지를 저장하도록 허용하시겠습니까?</s2>
+    <s3>동의</s3>
+    <s4>거부</s4>
+    <s5>캘린더 일정 만들기</s5>
+    <s6>광고에서 캘린더 일정을 만들도록 허용하시겠습니까?</s6>
+    <s7>테스트 광고</s7>
+    <saturation>채도</saturation>
+    <save>저장</save>
+    <save_extracted_audio>추출된 오디오 저장</save_extracted_audio>
+    <save_fail>저장 실패</save_fail>
+    <save_image_failed_hint>이미지 파일을 저장하지 못했습니다</save_image_failed_hint>
+    <save_imported_sticker>가져온 스티커 저장</save_imported_sticker>
+    <save_success_hint>%s 에 저장됨</save_success_hint>
+    <save_type_description>가져온 파일을 다음으로 저장</save_type_description>
+    <save_video_failed_dlg_btn_retry>다시 시도</save_video_failed_dlg_btn_retry>
+    <save_video_failed_dlg_btn_retry_choose>다른 해상도를 선택합니다</save_video_failed_dlg_btn_retry_choose>
+    <save_video_failed_dlg_context>낮은 해상도를 선택하거나 다시 시도하십시오!</save_video_failed_dlg_context>
+    <save_video_failed_dlg_title>저장 실패</save_video_failed_dlg_title>
+    <save_video_failed_hint>이 동영상 때문에 비디오 또는 오디오 코덱의 지원되지 않습니다다른 동영상. 을 시도하십시오.</save_video_failed_hint>
+    <saved>저장 완료</saved>
+    <scanning>스캔 중…</scanning>
+    <string name="sd_card_error">경로 / sdcard에 액세스 할 수 없습니다. 설정에서 다른 경로 / 저장을 선택하세요 의 -> %s.</string>
+    <sd_card_full_tip>저장 공간이 부족합니다. 공간을 확보한 후 다시 시도하세요.</sd_card_full_tip>
+    <sd_card_not_mounted_hint>SD 카드가 장착되지!</sd_card_not_mounted_hint>
+    <sd_card_space_needed_hint>대한 이 필요 %dM 공간!</sd_card_space_needed_hint>
+    <sd_card_space_not_enough_hint>동영상을 저장하려면 더 많은 캐시 공간이 필요합니다. 저장 공간을 더 확보하거나 해상도를 낮춰서 다시 시도하세요.</sd_card_space_not_enough_hint>
+    <search_menu_title>검색</search_menu_title>
+    <see_all_material>모두보기</see_all_material>
+    <select>선택</select>
+    <select_all>모두 선택</select_all>
+    <select_one_to_edit>편집 할 항목을 하나 선택하십시오.</select_one_to_edit>
+    <select_one_track_to_edit>편집할 트랙 1개를 선택하세요</select_one_track_to_edit>
+    <select_photo>선택 사진</select_photo>
+    <selfie_ad_desc>미백효과와 생생한 필터로 당신의 자연스런 아름다움을 담아내세요</selfie_ad_desc>
+    <selfie_ad_title>셀카 카메라 - Love Selfie</selfie_ad_title>
+    <send_feedback>피드백하기</send_feedback>
+    <setting_addtags_title>태그 추가</setting_addtags_title>
+    <setting_clear_cache_title>캐시 지우기</setting_clear_cache_title>
+    <setting_faq_title>FAQ</setting_faq_title>
+    <setting_feedback_title>피드백</setting_feedback_title>
+    <setting_follow_us>우리를 따르십시오 (더 많은 튜토리얼 보기)</setting_follow_us>
+    <setting_general_title>일반</setting_general_title>
+    <setting_language_title>언어</setting_language_title>
+    <setting_legal_title>법률</setting_legal_title>
+    <setting_localization_des>우리가 언어에 InShot 번역을 도와</setting_localization_des>
+    <setting_localization_title>현지화</setting_localization_title>
+    <setting_others>기타</setting_others>
+    <setting_privacypolicy_title>개인 정보 정책</setting_privacypolicy_title>
+    <setting_rate5star_des>Google Play의 비율 InShot 5 성급</setting_rate5star_des>
+    <setting_rate5star_title>비율 5 스타</setting_rate5star_title>
+    <setting_restore>구매내역 복원</setting_restore>
+    <setting_savepath_title>경로를 저장</setting_savepath_title>
+    <setting_share_title>친구를 초대</setting_share_title>
+    <setting_thankyou_title>감사합니다</setting_thankyou_title>
+    <shadow>그림자</shadow>
+    <shadow_off>OFF</shadow_off>
+    <shadow_on>ON</shadow_on>
+    <share>함께 나누다</share>
+    <share_content>휴대폰에서 비디오와 사진을 쉽게 편집 할 수 있습니다. 지금 InShot 무료 다운로드:https://inshotapp.page.link/invite</share_content>
+    <share_subject>인스 타 그램에 대한 뛰어난 비디오 및 사진 편집기 당신에게 추천합니다</share_subject>
+    <sharpen>선명도</sharpen>
+    <shop>가게</shop>
+    <short_preview>간단 미리보기</short_preview>
+    <show_read_video_ad_dlg_content>무료로 워터 마크를 제거하는 동영상 광고를감시.</show_read_video_ad_dlg_content>
+    <show_read_video_ad_for_this_time>이 시간 동안 워터 마크를 제거하는 동영상 광고를보기</show_read_video_ad_for_this_time>
+    <show_tags_dlg_btn_copyshare>복사 및 공유</show_tags_dlg_btn_copyshare>
+    <show_tags_dlg_btn_history>히스토리</show_tags_dlg_btn_history>
+    <show_tags_dlg_title>더 많은 좋아요를 위한 태그</show_tags_dlg_title>
+    <sign_out>로그 아웃</sign_out>
+    <sign_out_account>계정에서 로그 아웃</sign_out_account>
+    <signout_current_account>현재 계정에서 로그 아웃</signout_current_account>
+    <signout_tip_common>현재 WeChat 계정에서 로그 아웃 하시겠습니까?</signout_tip_common>
+    <signout_tip_pro>계정에서 로그 아웃하면 InShot Pro에 액세스 할 수 없습니다.</signout_tip_pro>
+    <size>크기:%s</size>
+    <size_only>예상 크기</size_only>
+    <slice>얇게 썬 조각</slice>
+    <slow_motion>슬로우 모션</slow_motion>
+    <smooth>스무스</smooth>
+    <smooth_applied>스무스 슬로모션 적용됨</smooth_applied>
+    <smooth_cancelled>스무스 슬로모션 취소됨</smooth_cancelled>
+    <smooth_click_preview>체크 버튼을 클릭하여 스무스 슬로모션을 보세요</smooth_click_preview>
+    <smooth_preview_effect>슬로우 모션 효과 미리보기</smooth_preview_effect>
+    <smooth_slow_speed_available>"'속도 &lt; %sx'일 때만 사용 가능"</smooth_slow_speed_available>
+    <sorry>죄송합니다</sorry>
+    <string name="space_not_enough_content">%2$s을 저장하려면 내부 저장 공간이(SD 카드 저장 공간 아님) &lt;b>%1$dM&lt;/b> 더 필요합니다. 휴대폰 공간을 확보하고 다시 시도하십시오.</string>
+    <space_not_enough_title>휴대전화의 여유 공간 확보</space_not_enough_title>
+    <special_offer>스페셜 오퍼</special_offer>
+    <speed>속도</speed>
+    <speed_adjusts_precode_hint>%sx보다 큰 속도 조절은 프리코딩이 필요합니다.</speed_adjusts_precode_hint>
+    <speed_exceeding_loss_audio_tip>속도가 10x 이상이면 원본 오디오가 손실될 수 있습니다.</speed_exceeding_loss_audio_tip>
+    <speed_no_need_precode_hint>녹색 구역에서는 프리코딩할 필요가 없습니다.</speed_no_need_precode_hint>
+    <speed_precode_warning_hint>스크린을 잠그거나 다른 앱으로 전환하지 마세요.</speed_precode_warning_hint>
+    <split>분할</split>
+    <spring_festival_pro_title>구정 세일 50% 할인</spring_festival_pro_title>
+    <standard>표준</standard>
+    <start_over>새로 만들기</start_over>
+    <status_bar_notification_info_overflow>999+</status_bar_notification_info_overflow>
+    <sticker_empty>스티커를 다운로드하지 않았습니다</sticker_empty>
+    <sticker_text>스티커</sticker_text>
+    <stickers>스티커</stickers>
+    <strength>강점</strength>
+    <style>스타일</style>
+    <subscription_detail>"
+
+- InShot 무제한 구독을 사용하면 스티커, 필터 패키지 등 모든 기능 및 유료 편집 자료를 사용할 수 있습니다. 워터 마크 및 광고는 자동으로 제거됩니다. 
+
+- InShot 무제한 구독료는 선택한 요금제에 해당하는 요금으로 매달 또는 매년 청구됩니다. 또한 필요한 경우, 구독 요금제 중 하나가 아닌 일시 납입이 제공됩니다. 
+
+- InShot 무제한 구독은 다음 청구일에 자동 갱신됩니다. 현재 기간이 끝나기 24시간 전에 자동 갱신을 비활성화할 수 있습니다. Google Play 스토어는 구매 확인 동시에 가입비를 청구합니다. 또한 구매 후 계정 설정에서 자동 갱신을 비활성화할 수 있습니다."</subscription_detail>
+    <subscription_detail_1>"
+
+- InShot 무제한 구독을 사용하면 스티커, 필터 패키지 등 모든 기능 및 유료 편집 자료를 사용할 수 있습니다. 광고는 자동으로 제거됩니다. 
+
+- InShot 무제한 구독료는 선택한 요금제에 해당하는 요금으로 매달 또는 매년 청구됩니다. 또한 필요한 경우, 구독 요금제 중 하나가 아닌 일시 납입이 제공됩니다. 
+
+- InShot 무제한 구독은 다음 청구일에 자동 갱신됩니다. 현재 기간이 끝나기 24시간 전에 자동 갱신을 비활성화할 수 있습니다. Google Play 스토어는 구매 확인 동시에 가입비를 청구합니다. 또한 구매 후 계정 설정에서 자동 갱신을 비활성화할 수 있습니다."</subscription_detail_1>
+    <subscription_terms>이 구매는 Android 시스템에서만 사용할 수 있습니다. 결제는 구매 확인 시 Google Play를 통해 청구됩니다. 구독은 현재 기간 종료 24시간 전에 취소되지 않는 한 자동으로 갱신됩니다 현재 기간이 만료 된 후 취소가 적용됩니다. Google Play Store 계정 설정에서 구독을 관리하고 자동 갱신을 끌 수 있습니다. 체험 기간 중에 취소된 구독은 청구되지 않습니다.</subscription_terms>
+    <subscription_terms_cn>InShot Pro에 가입하면 모든 기능과 소재를 사용할 수 있으며, 광고 및 워터 마크가 자동으로 삭제됩니다. InShot Pro는 자동으로 업데이트되지 않습니다. 현재 기간이 종료하기 전에 수동으로 업데이트하십시오. Android 디바이스와 iOS 기기 사이에서 구독을 전송할 수 없습니다. iOS 기기에 이미 가입하고있는 경우에도 Android 장치에 다시 가입해야합니다. InShot Pro 구독을 확인하면 취소 나 환불하지 않으므로 신중하게 구매를 결정하십시오.</subscription_terms_cn>
+    <subscription_terms_cn_1>InShot Pro에 가입하면 모든 기능과 소재를 사용할 수 있으며, 광고가 자동으로 삭제됩니다. InShot Pro는 자동으로 업데이트되지 않습니다. 현재 기간이 종료하기 전에 수동으로 업데이트하십시오. Android 디바이스와 iOS 기기 사이에서 구독을 전송할 수 없습니다. iOS 기기에 이미 가입하고있는 경우에도 Android 장치에 다시 가입해야합니다. InShot Pro 구독을 확인하면 취소 나 환불하지 않으므로 신중하게 구매를 결정하십시오.</subscription_terms_cn_1>
+    <subscription_terms_hw>AppGallery에서 구매 HUAWEI IAP를 통해서만 할 수 있습니다. 결제는 구매 확인시 계정에 청구됩니다. 구독은 현재 기간의 종료 후 자동 업데이트되며, 업데이트 비용이 식별됩니다. AppGallery 계정 설정에서 구독을 관리하고 자동 업데이트를 해제 할 수 있습니다. 무료 평가판 중에 취소 된 구독은 청구되지 않습니다.</subscription_terms_hw>
+    <subscription_terms_hw_ja_eu>AppGallery에서 구매 HUAWEI IAP를 통해서만 할 수 있습니다. 결제는 구매 확인시 계정에 청구됩니다. Huawei 고객 서비스에 연락하여 주문 확인을받은 후 14 일 이내에 구매를 취소 할 수 있습니다. 구독은 현재 기간의 종료 후 자동 업데이트됩니다. AppGallery 계정 설정에서 구독을 관리하고 자동 업데이트를 해제 할 수 있습니다.</subscription_terms_hw_ja_eu>
+    <subscription_terms_hw_ru>AppGallery에서 구매 HUAWEI IAP를 통해서만 할 수 있습니다. 결제는 구매 확인시 계정에 청구됩니다. Huawei 고객 서비스에 연락하여 주문 확인을받은 후 7 일 이내에 구매를 취소 할 수 있습니다. 구독은 현재 기간의 종료 후 자동 업데이트됩니다. AppGallery 계정 설정에서 구독을 관리하고 자동 업데이트를 해제 할 수 있습니다.</subscription_terms_hw_ru>
+    <subscription_title>InShot 무제한 구독</subscription_title>
+    <super1>최고</super1>
+    <support_musician>음악가를 지원하려면 동영상의 설명에 음악가의 정보를 추가하세요.</support_musician>
+    <sure>확인</sure>
+    <swap>교체</swap>
+    <swap_order_hint>길게 누르면 스왑 순서가 변경됩니다.</swap_order_hint>
+    <switch_account>계정 전환</switch_account>
+    <tags>태그</tags>
+    <tags_policies>일부 정책으로 인해 관련성이없는 태그가 모두 삭제되었습니다.</tags_policies>
+    <take_video>비디오</take_video>
+    <tap_permissions>2.사용 권한을 누릅니다</tap_permissions>
+    <template>템플릿</template>
+    <terms_of_use>이용 약관</terms_of_use>
+    <text>텍스트</text>
+    <text_spacing>텍스트 간격</text_spacing>
+    <then>이후</then>
+    <time_24_hours>%s시간만</time_24_hours>
+    <time_limited_offer>기간 한정 제공</time_limited_offer>
+    <tint>틴트</tint>
+    <tip>팁</tip>
+    <tip_close_ad_personalization>옵션을 비활성화하면, 관련이 없는 광고를 볼 수도 있습니다.</tip_close_ad_personalization>
+    <title_optout_ads>관심기반 광고를 선택 해제하시겠습니까</title_optout_ads>
+    <too_many_pip_tip>레이어가 너무 많으면 지연 또는 저장 오류가 발생할 수 있습니다.</too_many_pip_tip>
+    <total>총</total>
+    <track_count>트랙 %d개</track_count>
+    <tracks>트랙</tracks>
+    <transition>전환</transition>
+    <transition_prompt>전환을 적용한 후 비디오 길이가 변경됩니다.</transition_prompt>
+    <trim>다듬기</trim>
+    <trim_clip_help_tip>동영상을 다듬고 사진 지속 시간을 조정하세요.</trim_clip_help_tip>
+    <trim_music>음악 다듬기</trim_music>
+    <turn_off>끄기</turn_off>
+    <turn_off_tags_context>태그 옵션을 해제, 당신은 설정 메뉴를 설정할 수 있습니다.</turn_off_tags_context>
+    <turn_off_tags_dlg_ok>끄기</turn_off_tags_dlg_ok>
+    <turn_on_microphone>3. 마이크 켜기</turn_on_microphone>
+    <turn_on_storage>3. 저장 공간 및 카메라 권한 켜기</turn_on_storage>
+    <type_something>텍스트를 입력하세요</type_something>
+    <un_select>선택 해제</un_select>
+    <undo>실행 취소</undo>
+    <undo_reversed>반전 취소</undo_reversed>
+    <unlock>잠금 해제</unlock>
+    <unlock_all_features>모든 기능 잠금 해제</unlock_all_features>
+    <unlock_for_free>무료로 잠금 해제</unlock_for_free>
+    <unlock_for_sticker_tip>워터 마크를 제거하기 위해 동영상을 시청합니다.</unlock_for_sticker_tip>
+    <unlock_the_features>기능 잠금 해제</unlock_the_features>
+    <unsupported_file_format>지원되지 않는 파일 형식</unsupported_file_format>
+    <update>새롭게 하다</update>
+    <update_files>파일 업데이트 중</update_files>
+    <use>삽입</use>
+    <user_cancel>취소 된</user_cancel>
+    <valid_for>%s 동안 유효</valid_for>
+    <valid_for_days>%s일 동안 유효</valid_for_days>
+    <valid_for_hours>%s시간 동안 유효</valid_for_hours>
+    <value>값</value>
+    <video>비디오</video>
+    <video_background_convert_finished_hint>동영상 변환이 이루어집니다!</video_background_convert_finished_hint>
+    <video_beginning>동영상 시작</video_beginning>
+    <video_compress>동영상 압축</video_compress>
+    <string name="video_compress_description" formatted="false">%s보다 높은 동영상은 %s로 자동으로 압축됩니다.</string>
+    <video_continue_convert_hint>InShot 변환을 계속하고…</video_continue_convert_hint>
+    <video_conversion_failure>영상 변환 실패</video_conversion_failure>
+    <video_convert_failed_hint>비디오를 변환하는 데 실패, 다시 시도해주세요!</video_convert_failed_hint>
+    <video_convert_failed_hint2>비디오를 변환하는 데 실패, 또 다른 동영상을 시도하십시오!</video_convert_failed_hint2>
+    <video_cut_bar_duration>총 :</video_cut_bar_duration>
+    <video_end>동영상 끝</video_end>
+    <video_less_than_one_second_not_allow>%s 미만의 동영상은 업로드 할 수 없습니다.</video_less_than_one_second_not_allow>
+    <video_more_option_hint2>추가 옵션을 보려면 미리보기 이미지를 클릭하십시오.</video_more_option_hint2>
+    <video_not_support>비디오가이 장치에서 지원되지 않습니다. 당신은 사진의 을 계속 사용할 수 있습니다.</video_not_support>
+    <video_not_support_detail>비디오 기능이 장치가 있기 때문에 %s 의에서 사용할 수 없습니다. 당신은 사진 기능을 계속 사용할 수 있습니다.</video_not_support_detail>
+    <video_not_support_reasons_one>안드로이드 버전은 4.0보다 낮습니다</video_not_support_reasons_one>
+    <video_not_support_reasons_two>CPU는 V7 호환 ARM되지네온</video_not_support_reasons_two>
+    <video_not_support_title_one>호환되지 비디오</video_not_support_title_one>
+    <video_not_support_title_two>호환되지 않는 하드웨어</video_not_support_title_two>
+    <video_only>비디오 만</video_only>
+    <video_quality_customize>사용자 지정</video_quality_customize>
+    <video_quality_normal>정상</video_quality_normal>
+    <video_quality_recommend>추천</video_quality_recommend>
+    <video_replace_trim_info>드래그 하여 섹션을 선택하세요.</video_replace_trim_info>
+    <video_resolution>동영상 해상도</video_resolution>
+    <video_setting>동영상 설정</video_setting>
+    <video_sharing_progress_title1>초기화…</video_sharing_progress_title1>
+    <video_sharing_progress_title2>비디오를 변환…</video_sharing_progress_title2>
+    <video_sharing_progress_title3>취소하는…</video_sharing_progress_title3>
+    <video_text_quantity_limit_hint>만 20 텍스트 항목을 추가 할 수 있습니다.</video_text_quantity_limit_hint>
+    <string name="video_too_short" formatted="false">%s(>%s) 이상의 비디오 만 지원</string>
+    <video_too_short_after_cut_hint>비디오 지속 시간이 너무 짧습니다.</video_too_short_after_cut_hint>
+    <vignette>비 네트</vignette>
+    <voice_effect>음성 효과</voice_effect>
+    <voice_effect_support>녹음된/가져온 오디오만 지원됩니다</voice_effect_support>
+    <volume>볼륨</volume>
+    <warmth>온도</warmth>
+    <warning>경고</warning>
+    <watch>보기</watch>
+    <what_new_audio_draft>비디오 초안 저장</what_new_audio_draft>
+    <what_new_audio_track>여러 음악 트랙</what_new_audio_track>
+    <what_new_crop_video>자르기 비디오</what_new_crop_video>
+    <what_new_cut>잘라 내기 및 분할 비디오</what_new_cut>
+    <what_new_music>인기있는 vlog 음악</what_new_music>
+    <what_new_special_effects_filters_vol1>특수 효과 필터 VOL1</what_new_special_effects_filters_vol1>
+    <what_news_collage>더 나은 콜라주 모드</what_news_collage>
+    <what_news_filter>비디오 모드 용 필터</what_news_filter>
+    <what_news_thanksgiving>행복한 추수 감사절</what_news_thanksgiving>
+    <whats_new_add_blank_screen>빈 화면 추가</whats_new_add_blank_screen>
+    <whats_new_background_pattern>배경 패턴</whats_new_background_pattern>
+    <whats_new_beats_effects>비트 효과</whats_new_beats_effects>
+    <whats_new_blend>PIP - 혼합</whats_new_blend>
+    <whats_new_brand_music>새로운 음악 인터페이스</whats_new_brand_music>
+    <whats_new_create_gifs>GIF 만들기</whats_new_create_gifs>
+    <whats_new_customer_color>사용자 정의 색상</whats_new_customer_color>
+    <whats_new_cutout>맞춤형 스티커 컷아웃</whats_new_cutout>
+    <whats_new_cutout_outline>사진 자르기 및 아웃라인</whats_new_cutout_outline>
+    <whats_new_effect>효과 타임 라인</whats_new_effect>
+    <whats_new_effect_retro2>신규 효과 - 레트로2</whats_new_effect_retro2>
+    <whats_new_effect_split>새로운 효과_분할</whats_new_effect_split>
+    <whats_new_fade_base>새로운 효과-기본,바래다</whats_new_fade_base>
+    <whats_new_filter_fresh>새로운 필터_신선한</whats_new_filter_fresh>
+    <whats_new_frame_rate>새로운 프레임 속도</whats_new_frame_rate>
+    <whats_new_freeze_tool>동결 도구</whats_new_freeze_tool>
+    <whats_new_hsl_adjustment>HSL 조정</whats_new_hsl_adjustment>
+    <whats_new_item_frame>프레임에 항목 고정</whats_new_item_frame>
+    <whats_new_magnifier>돋보기 스티커</whats_new_magnifier>
+    <whats_new_mask>PIP 용 마스크</whats_new_mask>
+    <whats_new_material>새로운 재료 라이브러리</whats_new_material>
+    <whats_new_music_fade_in_and_out>음악 페이드 인 및 페이드 아웃</whats_new_music_fade_in_and_out>
+    <whats_new_new_album>새 앨범</whats_new_new_album>
+    <whats_new_new_effect_and_transition>새로운 효과 및 전환</whats_new_new_effect_and_transition>
+    <whats_new_new_effect_film>신규 효과 - 필름</whats_new_new_effect_film>
+    <whats_new_new_filters>새로운 필터</whats_new_new_filters>
+    <whats_new_new_transition>새로운 전환 - 찢어진 종이</whats_new_new_transition>
+    <whats_new_pip>PIP - 비디오 오버레이</whats_new_pip>
+    <whats_new_smooth>속도 조정을 위한 스무스 슬로모션</whats_new_smooth>
+    <whats_new_speed_curve>속도 곡선</whats_new_speed_curve>
+    <whats_new_speed_curve_preset>속도 곡선 사전 설정</whats_new_speed_curve_preset>
+    <whats_new_store>최신 재료 스토어</whats_new_store>
+    <whats_new_text_animation>새로운 텍스트 애니메이션</whats_new_text_animation>
+    <whats_new_transition_film>새로운 전환 - 형식</whats_new_transition_film>
+    <whats_new_video_full_screen>전체 화면에서 비디오 미리보기</whats_new_video_full_screen>
+    <whats_new_voice_effect>음성 효과</whats_new_voice_effect>
+    <whatsnew_advance_timeline>고급 동영상 타임 라인</whatsnew_advance_timeline>
+    <whatsnew_christmas>크리스마스 음악</whatsnew_christmas>
+    <whatsnew_color_pallette>새로운 컬러 팔레트</whatsnew_color_pallette>
+    <whatsnew_font_style>새로운 글꼴 스타일E</whatsnew_font_style>
+    <whatsnew_loop_animation>루프 애니메이션</whatsnew_loop_animation>
+    <whatsnew_music>새로운 음악</whatsnew_music>
+    <whatsnew_recording>녹음</whatsnew_recording>
+    <whatsnew_slide>사진과 비디오를 혼합</whatsnew_slide>
+    <whatsnew_sound_effects>음향 효과</whatsnew_sound_effects>
+    <whatsnew_split_sticker_text_music>음악, 텍스트 및 스티커 나누기</whatsnew_split_sticker_text_music>
+    <whatsnew_sticker_animation>스티커 애니메이션</whatsnew_sticker_animation>
+    <whatsnew_sticker_text_animation>스티커 및 텍스트 애니메이션</whatsnew_sticker_text_animation>
+    <whatsnew_text_animation>텍스트 애니메이션</whatsnew_text_animation>
+    <whatsnew_unlimited_drafts>무제한 임시저장</whatsnew_unlimited_drafts>
+    <widgetphoto>InShot 사진</widgetphoto>
+    <widgetvideo>InShot 비디오</widgetvideo>
+    <year>년</year>
+    <yes>네!</yes>
+    <you_are_not_login>로그인하지 않았습니다.</you_are_not_login>
+    <you_will_still_see_ads>광고가 계속 표시되지만, 사용자의 관심을 기반 으로 한 광고가 아닐 수 있습니다.</you_will_still_see_ads>
+    <zoom>확대</zoom>
+    <zoom_selection>선택 영역 확대</zoom_selection>
+</resources>
